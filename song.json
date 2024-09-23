@@ -1,0 +1,238 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "category": { "$ref": "#/definitions/ICategory" },
+    "created": { "$ref": "#/definitions/IEditorInfo" },
+    "edited": { "$ref": "#/definitions/IEditorInfo" },
+    "lyrics": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IAuthor" }
+    },
+    "composer": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IAuthor" }
+    },
+    "translation": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IAuthor" }
+    },
+    "performers": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IAuthor" }
+    },
+    "performances": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IPerformance" }
+    },
+    "key": { "$ref": "#/definitions/ISongKey" },
+    "language": {
+      "type": "string"
+    },
+    "verses": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/IVerse" }
+    },
+    "next": { "$ref":  "#/definitions/ISongOverview" },
+    "previous": { "$ref":  "#/definitions/ISongOverview" }
+  },
+  "required": ["id", "title", "category", "created", "key", "verses"],
+  "definitions": {
+    "IAuthor": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "lastName": { "type": "string" }
+      },
+      "required": ["name"]
+    },
+    "IEditorInfo": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "userVerified": { "type":  "boolean" },
+        "verified": { "type":  "boolean" },
+        "time": { "type": "number" }
+      },
+      "required": ["name", "time"]
+    },
+    "ISongOverview": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type":  "string" }
+      },
+      "required": ["id", "title"]
+    },
+    "IPerformance": {
+      "type": "object",
+      "properties": {
+        "url": { "type": "string" }
+      },
+      "required": ["url"]
+    },
+    "ICategory": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" }
+      },
+      "required": ["id", "name"]
+    },
+    "ISongKey": {
+      "type": "object",
+      "properties": {
+        "songbook": { "$ref": "#/definitions/IKey" },
+        "original": { "$ref": "#/definitions/IKey" },
+        "comfort": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IKey" }
+        }
+      },
+      "required": ["songbook"]
+    },
+    "IKey": {
+      "type": "object",
+      "properties": {
+        "note": { "$ref": "#/definitions/INote" },
+        "minor": { "type": "boolean" }
+      },
+      "required": ["note"]
+    },
+    "INote": {
+      "type": "object",
+      "properties": {
+        "base": { "$ref": "#/definitions/NoteBase" },
+        "accidental": { "$ref": "#/definitions/Accidental" }
+      },
+      "required": ["base"]
+    },
+    "NoteBase": {
+      "type": "string",
+      "enum": ["C", "D", "E", "F", "G", "A", "H"]
+    },
+    "Accidental": {
+      "type": "string",
+      "enum": ["FLAT", "SHARP"]
+    },
+    "IVerse": {
+      "type": "object",
+      "properties": {
+        "lines": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/ILine" }
+        },
+        "indent": { "type": "integer" },
+        "verseRef": { "type": "integer" }
+      },
+      "required": ["lines", "indent"]
+    },
+    "ILine": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/ITextRun" }
+        },
+        "repetition": { "type": "boolean" },
+        "repetitionEnd": { "type": "integer" },
+        "chords": { "$ref": "#/definitions/IChords" },
+        "comment": { "type": "string" },
+        "transposition": { "$ref": "#/definitions/IKey" }
+      }
+    },
+    "ITextRun": {
+      "type": "object",
+      "properties": {
+        "text": { "type": "string" },
+        "italic": { "type": "boolean" },
+        "underline": { "type": "boolean" },
+        "bold": { "type": "boolean" }
+      },
+      "required": ["text"]
+    },
+    "IChords": {
+      "type": "object",
+      "properties": {
+        "chords": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IChordSeries" }
+        },
+        "alternatives": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IChordSeries" }
+        }
+      },
+      "required": ["chords"]
+    },
+    "IChordSeries": {
+      "type": "object",
+      "properties": {
+        "chords": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IComplexChord" }
+        },
+        "optional": { "type": "boolean" },
+        "silent": { "type": "boolean" },
+        "repeat": { "type": "boolean" }
+      },
+      "required": ["chords"]
+    },
+    "IComplexChord": {
+      "type": "object",
+      "properties": {
+        "chord": { "$ref": "#/definitions/IChord" },
+        "alternative": { "$ref": "#/definitions/IChord" }
+      },
+      "required": ["chord"]
+    },
+    "IChord": {
+      "type": "object",
+      "properties": {
+        "note": { "$ref": "#/definitions/INote" },
+        "minor": { "type": "boolean" },
+        "modification": { "$ref": "#/definitions/ChordModification" },
+        "base": { "$ref": "#/definitions/IAdditionalSeries" },
+        "additionals": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IAdditionalSeries" }
+        },
+        "noPrime": { "type": "boolean" }
+      },
+      "required": ["note"]
+    },
+    "ChordModification": {
+      "type": "string",
+      "enum": ["AUG", "DIM", "CLUSTER"]
+    },
+    "IAdditionalSeries": {
+      "type": "object",
+      "properties": {
+        "elements": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/IElement" }
+        }
+      },
+      "required": ["elements"]
+    },
+    "IElement": {
+      "type": "object",
+      "properties": {
+        "interval": { "type": "integer" },
+        "modification": { "$ref": "#/definitions/IntervalModification" },
+        "optional": { "type": "boolean" }
+      },
+      "required": ["interval"]
+    },
+    "IntervalModification": {
+      "type": "string",
+      "enum": ["AUG", "DIM"]
+    }
+  }
+}
