@@ -1,4 +1,5 @@
 import json
+import time
 
 from Songbook.songs import songs, categories
 from Songbook.str_convert import normalize_for_search, title_to_unique_name
@@ -19,6 +20,7 @@ def get_songs_by_category(category: str):
 
 
 def fast_search(key: str):
+    time.sleep(1)
     key = normalize_for_search(key.casefold().replace(" ", ""))
     return json.dumps(
         [{'id': title_to_unique_name(song), 'title': song, 'category': {'id': category, 'name': categories[category]}}

@@ -42,7 +42,7 @@
     "next": { "$ref":  "#/definitions/ISongOverview" },
     "previous": { "$ref":  "#/definitions/ISongOverview" }
   },
-  "required": ["id", "title", "category", "created", "key", "verses"],
+  "required": ["id", "title", "category", "created", "verses"],
   "definitions": {
     "IAuthor": {
       "type": "object",
@@ -90,10 +90,8 @@
       "properties": {
         "songbook": { "$ref": "#/definitions/IKey" },
         "original": { "$ref": "#/definitions/IKey" },
-        "comfort": {
-          "type": "array",
-          "items": { "$ref": "#/definitions/IKey" }
-        }
+        "comfort": { "$ref": "#/definitions/IKey" },
+        "maxComfort": { "$ref": "#/definitions/IKey" }
       },
       "required": ["songbook"]
     },
