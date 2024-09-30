@@ -1211,11 +1211,8 @@
       "lastName": "Cocciante"
     }
   ],
-  "performers": [
-    {
-      "name": "Notre",
-      "lastName": "Dame de Paris"
-    }
+  "sources": [
+    103
   ],
   "next": {
     "id": "katedr-swiat-andrzej-ozga",

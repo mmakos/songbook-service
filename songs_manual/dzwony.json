@@ -2381,11 +2381,8 @@
       "lastName": "Cocciante"
     }
   ],
-  "performers": [
-    {
-      "name": "Notre",
-      "lastName": "Dame de Paris"
-    }
+  "source": [
+    103
   ],
   "next": {
     "id": "dzdzownica",

@@ -596,15 +596,9 @@
       "lastName": "M."
     }
   ],
-  "performers": [
-    {
-      "name": "Król",
-      "lastName": "Lew (Broadway)"
-    },
-    {
-      "name": "Król",
-      "lastName": "Lew II"
-    }
+
+  "source": [
+    106, 109, 110
   ],
   "next": {
     "id": "hej-bystra-woda",

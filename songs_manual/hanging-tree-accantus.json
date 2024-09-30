@@ -1036,12 +1036,10 @@
       "lastName": "Schultz"
     }
   ],
-  "performers": [
-    {
-      "name": "Igrzyska",
-      "lastName": "śmierci"
-    }
+  "source": [
+    108
   ],
+  "band": 146,
   "next": {
     "id": "hawran-i-muran",
     "title": "Hawrań i Murań"

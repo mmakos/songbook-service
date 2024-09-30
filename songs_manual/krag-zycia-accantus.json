@@ -1002,11 +1002,10 @@
       "lastName": "John"
     }
   ],
-  "performers": [
-    {
-      "name": "Król",
-      "lastName": "Lew"
-    }
+  "band": 146,
+  "source": [
+    104,
+    106
   ],
   "next": {
     "id": "krokodyle",

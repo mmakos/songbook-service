@@ -2034,11 +2034,8 @@
       "lastName": "Steinman"
     }
   ],
-  "performers": [
-    {
-      "name": "Taniec",
-      "lastName": "Wampirów"
-    }
+  "source": [
+    113
   ],
   "next": {
     "id": "na-zakrecie",

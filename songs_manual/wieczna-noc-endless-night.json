@@ -1142,11 +1142,8 @@
       "lastName": "M."
     }
   ],
-  "performers": [
-    {
-      "name": "Król",
-      "lastName": "Lew (Broadway)"
-    }
+  "source": [
+    106
   ],
   "next": {
     "id": "wieczory",

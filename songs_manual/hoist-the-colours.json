@@ -670,11 +670,8 @@
       "lastName": "Verbinki"
     }
   ],
-  "performers": [
-    {
-      "name": "Piraci",
-      "lastName": "z Karaibów"
-    }
+  "source": [
+    111
   ],
   "next": {
     "id": "house-of-the-rising-sun",

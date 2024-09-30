@@ -641,11 +641,8 @@
       "lastName": "Przybyłowicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Wiedźmin",
-      "lastName": "3: Dziki Gon"
-    }
+  "source": [
+    118
   ],
   "next": {
     "id": "wind-of-change",

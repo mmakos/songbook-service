@@ -868,10 +868,8 @@
     }
   ],
   "band": 137,
-  "sources": [
-    {
-      "name": "Wyklęty"
-    }
+  "source": [
+    112
   ],
   "next": {
     "id": "kapitan-hak",

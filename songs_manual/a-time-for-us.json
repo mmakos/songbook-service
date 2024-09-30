@@ -682,11 +682,7 @@
       "lastName": "Rota"
     }
   ],
-  "source": {
-    "type": "movie",
-    "name": "Romeo i Julia",
-    "year": 1968
-  },
+  "source": [101],
   "next": {
     "id": "a-u-nas-latem",
     "title": "A u nas latem"

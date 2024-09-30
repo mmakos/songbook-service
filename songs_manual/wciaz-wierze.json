@@ -1653,11 +1653,8 @@
       "lastName": "M. Schönberg"
     }
   ],
-  "performers": [
-    {
-      "name": "Miss",
-      "lastName": "Saigon"
-    }
+  "source": [
+    117
   ],
   "next": {
     "id": "we-snie",

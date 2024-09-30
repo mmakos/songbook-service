@@ -1959,13 +1959,7 @@
       "lastName": "Dębski"
     }
   ],
-  "performers": [
-    {
-      "name": "Ogniem"
-    },
-    {
-      "name": "mieczem"
-    }
+  "source": [105
   ],
   "next": {
     "id": "dyktator",

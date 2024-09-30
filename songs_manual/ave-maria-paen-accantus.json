@@ -1641,11 +1641,8 @@
       "lastName": "Cocciante"
     }
   ],
-  "performers": [
-    {
-      "name": "Notre",
-      "lastName": "Dame de Paris"
-    }
+  "sourc": [
+    103
   ],
   "next": {
     "id": "avinu-malkeinu",
