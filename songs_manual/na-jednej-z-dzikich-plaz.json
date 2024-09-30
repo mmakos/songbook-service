@@ -494,9 +494,7 @@
       "lastName": "Łuka"
     }
   ],
-  "band": {
-    "name": "Rotary"
-  },
+  "band": 149,
   "next": {
     "id": "na-kolejowym-szlaku",
     "title": "Na kolejowym szlaku"

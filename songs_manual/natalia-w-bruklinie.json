@@ -1183,9 +1183,7 @@
       }
     }
   },
-  "band": {
-    "name": "El Dupa"
-  },
+  "band": 150,
   "next": {
     "id": "nazywali-go-marynarz",
     "title": "Nazywali go Marynarz"

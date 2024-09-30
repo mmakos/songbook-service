@@ -584,9 +584,7 @@
       "name": "Sting"
     }
   ],
-  "band": {
-    "name": "The Police"
-  },
+  "band": 127,
   "next": {
     "id": "falling-slowly",
     "title": "Falling Slowly"

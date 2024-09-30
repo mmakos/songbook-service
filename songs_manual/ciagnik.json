@@ -881,9 +881,7 @@
       }
     }
   },
-  "band": {
-    "name": "Blenders"
-  },
+  "band": 117,
   "next": {
     "id": "circle-of-life",
     "title": "Circle of Life"

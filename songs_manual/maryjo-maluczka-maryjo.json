@@ -773,9 +773,7 @@
       }
     }
   },
-  "band": {
-    "name": "Neokatechumenat"
-  },
+  "band": 147,
   "performers": [
     {
       "name": "Kiko",

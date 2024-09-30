@@ -1155,9 +1155,7 @@
       "minor": true
     }
   },
-  "band": {
-    "name": "KapelaHanki Wójciak"
-  },
+  "band": 168,
   "next": {
     "id": "wieza-babel",
     "title": "Wieża Babel"

@@ -625,9 +625,7 @@
       "lastName": "Løvland"
     }
   ],
-  "band": {
-    "name": "Secret Garden"
-  },
+  "band": 171,
   "next": {
     "id": "z-nim-bedziesz-szczesliwsza",
     "title": "Z nim będziesz szczęśliwsza"

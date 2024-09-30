@@ -695,9 +695,7 @@
       "lastName": "Kruk"
     }
   ],
-  "band": {
-    "name": "2 plus 1"
-  },
+  "band": 116,
   "next": {
     "id": "chryzantemy-zlociste",
     "title": "Chryzantemy złociste"

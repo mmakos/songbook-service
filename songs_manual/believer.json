@@ -1098,9 +1098,7 @@
       "minor": true
     }
   },
-  "band": {
-    "name": "Imagine Dragons"
-  },
+  "band": 105,
   "next": {
     "id": "belle-tl-andrzej-ozga",
     "title": "Belle (tł. Andrzej Ozga)"

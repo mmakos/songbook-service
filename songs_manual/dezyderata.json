@@ -1538,9 +1538,7 @@
       "lastName": "Walewski"
     }
   ],
-  "band": {
-    "name": "Piwnica pod Baranami"
-  },
+  "band": 123,
   "next": {
     "id": "dla-ciebie",
     "title": "Dla Ciebie"

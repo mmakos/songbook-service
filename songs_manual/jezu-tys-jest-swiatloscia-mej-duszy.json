@@ -227,7 +227,5 @@
     "id": "jedyny-pan",
     "title": "Jedyny Pan"
   },
-  "band": {
-    "name": "Taizé"
-  }
+  "band": 110
 }

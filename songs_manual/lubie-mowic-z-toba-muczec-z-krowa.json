@@ -684,9 +684,7 @@
       "lastName": "Urmański"
     }
   ],
-  "band": {
-    "name": "Akurat"
-  },
+  "band": 145,
   "next": {
     "id": "ludzie-to-adam-i-ewa",
     "title": "Ludzie to Adam i Ewa"

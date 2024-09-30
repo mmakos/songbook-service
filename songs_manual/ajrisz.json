@@ -856,9 +856,7 @@
       "lastName": "Staszczyk"
     }
   ],
-  "band": {
-    "name": "T.Love"
-  },
+  "band": 102,
   "next": {
     "id": "ale-to-juz-bylo",
     "title": "Ale to już było"

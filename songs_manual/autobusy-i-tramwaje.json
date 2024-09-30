@@ -789,9 +789,7 @@
       "lastName": "Staszczyk"
     }
   ],
-  "band": {
-    "name": "T.Love"
-  },
+  "band": 102,
   "next": {
     "id": "ave-maria-paen",
     "title": "Ave Maria Païen"

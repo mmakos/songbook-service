@@ -616,7 +616,5 @@
     "id": "piosenka-mazowiecka",
     "title": "Piosenka Mazowiecka"
   },
-  "band": {
-    "name": "EKT Gdynia"
-  }
+  "band": 148
 }

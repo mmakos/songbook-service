@@ -794,9 +794,7 @@
       "lastName": "Zabolek"
     }
   ],
-  "band": {
-    "name": "Masters"
-  },
+  "band": 173,
   "next": {
     "id": "1980-ii",
     "title": "1980 II"

@@ -549,9 +549,7 @@
       "lastName": "Szarek"
     }
   ],
-  "band": {
-    "name": "Skorpió"
-  },
+  "band": 166,
   "next": {
     "id": "what-is-a-youth",
     "title": "What is a youth"

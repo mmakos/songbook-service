@@ -1470,9 +1470,7 @@
       "lastName": "Stęszewski"
     }
   ],
-  "band": {
-    "name": "Koniec Świata"
-  },
+  "band": 100,
   "next": {
     "id": "997-halo-panie-policjancie",
     "title": "997 (Halo panie policjancie)"

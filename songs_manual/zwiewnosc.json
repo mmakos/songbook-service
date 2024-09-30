@@ -499,9 +499,7 @@
       "lastName": "Stefański"
     }
   ],
-  "band": {
-    "name": "Bez Jacka"
-  },
+  "band": 174,
   "next": {
     "id": "zeby-moc-prostota",
     "title": "Żeby móc (Prostota)"

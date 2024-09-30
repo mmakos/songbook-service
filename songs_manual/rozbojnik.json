@@ -2030,9 +2030,7 @@
       "lastName": "Llach"
     }
   ],
-  "band": {
-    "name": "Zespół Reprezentacyjny"
-  },
+  "band": 161,
   "next": {
     "id": "rudy-frank",
     "title": "Rudy Frank"

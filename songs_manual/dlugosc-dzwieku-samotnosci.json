@@ -813,9 +813,7 @@
       "lastName": "Kuderski"
     }
   ],
-  "band": {
-    "name": "Myslovitz"
-  },
+  "band": 124,
   "performers": [
     {
       "name": "A",

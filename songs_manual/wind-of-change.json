@@ -1564,9 +1564,7 @@
       "lastName": "Meine"
     }
   ],
-  "band": {
-    "name": "Scorpions"
-  },
+  "band": 169,
   "next": {
     "id": "wish-you-were-here",
     "title": "Wish you were here"

@@ -1139,9 +1139,7 @@
       "lastName": "Michorzewski"
     }
   ],
-  "band": {
-    "name": "Kobranocka"
-  },
+  "band": 139,
   "next": {
     "id": "koleda-zeglarska",
     "title": "Kolęda żeglarska"

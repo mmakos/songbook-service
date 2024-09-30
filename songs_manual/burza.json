@@ -724,9 +724,7 @@
       "lastName": "Służała"
     }
   ],
-  "band": {
-    "name": "Krążek"
-  },
+  "band": 114,
   "next": {
     "id": "camille-claudelle",
     "title": "Camille Claudelle"

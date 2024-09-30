@@ -1087,9 +1087,7 @@
       "lastName": "Zasada"
     }
   ],
-  "band": {
-    "name": "Poparzeni Kawą Trzy"
-  },
+  "band": 138,
   "next": {
     "id": "kilku-kumpli-wez",
     "title": "Kilku kumpli weź"

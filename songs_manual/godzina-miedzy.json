@@ -475,9 +475,7 @@
       "lastName": "Grabara"
     }
   ],
-  "band": {
-    "name": "KMT Turek"
-  },
+  "band": 131,
   "next": {
     "id": "godzina-milowania",
     "title": "Godzina miłowania"

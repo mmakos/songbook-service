@@ -867,9 +867,7 @@
       "lastName": "Gawlik"
     }
   ],
-  "band": {
-    "name": "Contra Mundum"
-  },
+  "band": 137,
   "sources": [
     {
       "name": "Wyklęty"

@@ -751,9 +751,7 @@
       "lastName": "Andrzejczak"
     }
   ],
-  "band": {
-    "name": "Centrum Edukacji Katechetycznej"
-  },
+  "band": 140,
   "performers": [
     {
       "name": "Anna",

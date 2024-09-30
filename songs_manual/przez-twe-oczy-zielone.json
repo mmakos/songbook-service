@@ -733,9 +733,7 @@
       "lastName": "Zrajkowski"
     }
   ],
-  "band": {
-    "name": "Akcent"
-  },
+  "band": 159,
   "next": {
     "id": "przyjaciele",
     "title": "Przyjaciele"

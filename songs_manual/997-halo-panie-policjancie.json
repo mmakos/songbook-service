@@ -555,9 +555,7 @@
       }
     }
   },
-  "band": {
-    "name": "Śpiewające Brzdące"
-  },
+  "band": 101,
   "next": {
     "id": "a-ja-nie",
     "title": "A ja nie"

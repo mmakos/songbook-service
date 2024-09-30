@@ -947,9 +947,7 @@
       "minor": true
     }
   },
-  "band": {
-    "name": "Kolor"
-  },
+  "band": 122,
   "performers": [
     {
       "name": "A",

@@ -733,9 +733,7 @@
       "minor": true
     }
   },
-  "band": {
-    "name": "Skaldowie"
-  },
+  "band": 142,
   "next": {
     "id": "ach-ubogi-zlobie",
     "title": "Ach ubogi żłobie"

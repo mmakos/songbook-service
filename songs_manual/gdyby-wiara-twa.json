@@ -507,9 +507,7 @@
       "minor": true
     }
   },
-  "band": {
-    "name": "Siostry Comunicadoras Eucaristicas"
-  },
+  "band": 130,
   "next": {
     "id": "gloria",
     "title": "Gloria"

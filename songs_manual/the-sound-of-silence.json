@@ -997,9 +997,7 @@
       "lastName": "Simon"
     }
   ],
-  "band": {
-    "name": "Simon & Garfunkel"
-  },
+  "band": 164,
   "next": {
     "id": "to-co-spelni-sie",
     "title": "To co spełni się"

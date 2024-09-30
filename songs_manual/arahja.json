@@ -639,9 +639,7 @@
       "lastName": "Staszewski"
     }
   ],
-  "band": {
-    "name": "Kult"
-  },
+  "band": 103,
   "next": {
     "id": "atomowe-czarne-chmury",
     "title": "Atomowe czarne chmury"

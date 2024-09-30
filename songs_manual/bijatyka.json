@@ -645,9 +645,7 @@
       "lastName": "Sikorski"
     }
   ],
-  "band": {
-    "name": "Stare Dzwony"
-  },
+  "band": 109,
   "next": {
     "id": "bitwa",
     "title": "Bitwa"

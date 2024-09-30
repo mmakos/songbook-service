@@ -766,9 +766,7 @@
       "lastName": "Kasperczyk"
     }
   ],
-  "band": {
-    "name": "Zayazd"
-  },
+  "band": 132,
   "performers": [
     {
       "name": "Lech",

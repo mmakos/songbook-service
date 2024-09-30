@@ -2657,9 +2657,7 @@
       "lastName": "Suchocki"
     }
   ],
-  "band": {
-    "name": "Kabaret Dudek"
-  },
+  "band": 104,
   "next": {
     "id": "ballada-o-krzyzowcu",
     "title": "Ballada o krzyżowcu"

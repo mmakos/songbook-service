@@ -1323,7 +1323,5 @@
     "id": "futbol",
     "title": "Futbol"
   },
-  "band": {
-    "name": "Brathanki"
-  }
+  "band": 120
 }

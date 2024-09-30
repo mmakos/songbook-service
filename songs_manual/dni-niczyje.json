@@ -744,9 +744,7 @@
       "lastName": "Woźniak"
     }
   ],
-  "band": {
-    "name": "Gawęda"
-  },
+  "band": 125,
   "next": {
     "id": "do-ciebie-mamo",
     "title": "Do Ciebie Mamo"
