@@ -947,12 +947,6 @@
       "lastName": "Sienkiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
-    }
-  ],
   "next": {
     "id": "dzis-prawdziwych-cyganow-juz-nie-ma",
     "title": "Dziś prawdziwych Cyganów już nie ma"
@@ -960,5 +954,8 @@
   "previous": {
     "id": "dziewczyna-rumiankowa",
     "title": "Dziewczyna rumiankowa"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

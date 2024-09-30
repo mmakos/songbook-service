@@ -1270,11 +1270,6 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Neokatechumenat"
-    }
-  ],
   "next": {
     "id": "psalm-dla-ciebie",
     "title": "Psalm dla Ciebie"
@@ -1282,5 +1277,8 @@
   "previous": {
     "id": "przyjaciele",
     "title": "Przyjaciele"
+  },
+  "band": {
+    "name": "Neokatechumenat"
   }
 }

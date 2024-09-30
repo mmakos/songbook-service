@@ -1564,11 +1564,9 @@
       "lastName": "Meine"
     }
   ],
-  "performers": [
-    {
-      "name": "Scorpions"
-    }
-  ],
+  "band": {
+    "name": "Scorpions"
+  },
   "next": {
     "id": "wish-you-were-here",
     "title": "Wish you were here"

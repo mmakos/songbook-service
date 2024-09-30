@@ -730,12 +730,6 @@
       "lastName": "McCartney"
     }
   ],
-  "performers": [
-    {
-      "name": "The",
-      "lastName": "Beatles"
-    }
-  ],
   "next": {
     "id": "you-raise-me-up",
     "title": "You raise me up"
@@ -743,5 +737,8 @@
   "previous": {
     "id": "wyspa",
     "title": "Wyspa"
+  },
+  "band": {
+    "name": "The Beatles"
   }
 }

@@ -256,14 +256,16 @@
       }
     }
   },
+  "translation": [
+    {
+      "name": "T",
+      "lastName": "Kamiński"
+    }
+  ],
   "performers": [
     {
       "name": "x",
       "lastName": "Les Garrett"
-    },
-    {
-      "name": "tłum",
-      "lastName": "T. Kamiński"
     }
   ],
   "next": {

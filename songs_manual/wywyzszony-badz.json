@@ -376,14 +376,16 @@
       }
     }
   },
+  "translation": [
+    {
+      "name": "L",
+      "lastName": "Rapanowicz"
+    }
+  ],
   "performers": [
     {
       "name": "Chris",
       "lastName": "A. Bowater"
-    },
-    {
-      "name": "tłum",
-      "lastName": "L. Rapanowicz"
     }
   ],
   "next": {

@@ -327,9 +327,6 @@
   },
   "performers": [
     {
-      "name": "Taizé"
-    },
-    {
       "name": "J",
       "lastName": "Berthier"
     }
@@ -341,5 +338,8 @@
   "previous": {
     "id": "tys-jak-skala",
     "title": "Tyś jak skała"
+  },
+  "band": {
+    "name": "Taizé"
   }
 }

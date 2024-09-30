@@ -625,12 +625,9 @@
       "lastName": "Løvland"
     }
   ],
-  "performers": [
-    {
-      "name": "Secret",
-      "lastName": "Garden"
-    }
-  ],
+  "band": {
+    "name": "Secret Garden"
+  },
   "next": {
     "id": "z-nim-bedziesz-szczesliwsza",
     "title": "Z nim będziesz szczęśliwsza"

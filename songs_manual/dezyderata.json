@@ -1538,12 +1538,9 @@
       "lastName": "Walewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Piwnica",
-      "lastName": "pod Baranami"
-    }
-  ],
+  "band": {
+    "name": "Piwnica pod Baranami"
+  },
   "next": {
     "id": "dla-ciebie",
     "title": "Dla Ciebie"

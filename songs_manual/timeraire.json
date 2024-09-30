@@ -1279,12 +1279,6 @@
       "lastName": "Dudziński"
     }
   ],
-  "performers": [
-    {
-      "name": "Ryczące",
-      "lastName": "Dwudziestki"
-    }
-  ],
   "next": {
     "id": "the-sound-of-silence",
     "title": "The sound of silence"
@@ -1292,5 +1286,8 @@
   "previous": {
     "id": "ten-ktory-zdradzil",
     "title": "Ten, który zdradził"
+  },
+  "band": {
+    "name": "Ryczące Dwudziestki"
   }
 }

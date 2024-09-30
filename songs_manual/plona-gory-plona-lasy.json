@@ -417,12 +417,6 @@
       "lastName": "Krajewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Czerwone",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "plynmy-do-starej-maui",
     "title": "Płyńmy do Starej Maui"
@@ -430,5 +424,8 @@
   "previous": {
     "id": "placz",
     "title": "Płacz"
+  },
+  "band": {
+    "name": "Czerwone Gitary"
   }
 }

@@ -878,12 +878,6 @@
       "lastName": "Benedek"
     }
   ],
-  "performers": [
-    {
-      "name": "T",
-      "lastName": "Love"
-    }
-  ],
   "next": {
     "id": "warnenczyk",
     "title": "Warneńczyk"
@@ -891,5 +885,8 @@
   "previous": {
     "id": "w-naszym-niebie",
     "title": "W naszym niebie"
+  },
+  "band": {
+    "name": "T.Love"
   }
 }

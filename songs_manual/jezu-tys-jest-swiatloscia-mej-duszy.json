@@ -219,11 +219,6 @@
       "lastName": "Berthier"
     }
   ],
-  "performers": [
-    {
-      "name": "Taizé"
-    }
-  ],
   "next": {
     "id": "jezus-najwyzsze-imie",
     "title": "Jezus, najwyższe Imię"
@@ -231,5 +226,8 @@
   "previous": {
     "id": "jedyny-pan",
     "title": "Jedyny Pan"
+  },
+  "band": {
+    "name": "Taizé"
   }
 }

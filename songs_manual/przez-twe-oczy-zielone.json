@@ -733,11 +733,9 @@
       "lastName": "Zrajkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "Akcent"
-    }
-  ],
+  "band": {
+    "name": "Akcent"
+  },
   "next": {
     "id": "przyjaciele",
     "title": "Przyjaciele"

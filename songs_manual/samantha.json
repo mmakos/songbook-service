@@ -953,12 +953,9 @@
       "lastName": "Kowalewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Zajman",
-      "lastName": "&amp; Garkumpel"
-    }
-  ],
+  "band": {
+    "name": "Zajman & Garkumpel"
+  },
   "next": {
     "id": "sandaly",
     "title": "Sandały"

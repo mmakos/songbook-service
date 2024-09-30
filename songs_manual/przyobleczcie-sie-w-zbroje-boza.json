@@ -689,11 +689,6 @@
       "lastName": "Argüello"
     }
   ],
-  "performers": [
-    {
-      "name": "Neokatechumenat"
-    }
-  ],
   "next": {
     "id": "raduje-sie-dusza-ma",
     "title": "Raduje się dusza ma"
@@ -701,5 +696,8 @@
   "previous": {
     "id": "polorum-regina",
     "title": "Polorum Regina"
+  },
+  "band": {
+    "name": "Neokatechumenat"
   }
 }

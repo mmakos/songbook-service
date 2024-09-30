@@ -861,11 +861,6 @@
       "lastName": "Staszewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Kult"
-    }
-  ],
   "next": {
     "id": "lipka",
     "title": "Lipka"
@@ -873,5 +868,8 @@
   "previous": {
     "id": "let-it-be",
     "title": "Let it be"
+  },
+  "band": {
+    "name": "Kult"
   }
 }

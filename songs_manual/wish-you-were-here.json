@@ -417,12 +417,6 @@
       "lastName": "Waters"
     }
   ],
-  "performers": [
-    {
-      "name": "Pink",
-      "lastName": "Floyd"
-    }
-  ],
   "next": {
     "id": "wlosy",
     "title": "Włosy"
@@ -430,5 +424,8 @@
   "previous": {
     "id": "wind-of-change",
     "title": "Wind of change"
+  },
+  "band": {
+    "name": "Pink Floyd"
   }
 }

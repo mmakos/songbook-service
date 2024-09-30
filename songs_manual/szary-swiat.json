@@ -593,10 +593,6 @@
   "performers": [
     {
       "name": "Sanah"
-    },
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
     }
   ],
   "next": {
@@ -606,5 +602,8 @@
   "previous": {
     "id": "strumien",
     "title": "Strumień"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

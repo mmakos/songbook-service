@@ -854,12 +854,6 @@
       "lastName": "Łangowski"
     }
   ],
-  "performers": [
-    {
-      "name": "Cisza",
-      "lastName": "jak ta"
-    }
-  ],
   "next": {
     "id": "warszawa",
     "title": "Warszawa"
@@ -867,5 +861,8 @@
   "previous": {
     "id": "w-moim-ogrodecku",
     "title": "W moim ogródecku"
+  },
+  "band": {
+    "name": "Cisza jak ta"
   }
 }

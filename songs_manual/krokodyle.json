@@ -751,15 +751,13 @@
       "lastName": "Andrzejczak"
     }
   ],
-  "composer": [
-    {
-      "name": "CEK"
-    }
-  ],
+  "band": {
+    "name": "Centrum Edukacji Katechetycznej"
+  },
   "performers": [
     {
-      "name": "Arka",
-      "lastName": "Noego"
+      "name": "Anna",
+      "lastName": "Pyć"
     }
   ],
   "next": {

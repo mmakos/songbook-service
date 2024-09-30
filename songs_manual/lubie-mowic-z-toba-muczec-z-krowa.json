@@ -684,11 +684,9 @@
       "lastName": "Urmański"
     }
   ],
-  "performers": [
-    {
-      "name": "Akurat"
-    }
-  ],
+  "band": {
+    "name": "Akurat"
+  },
   "next": {
     "id": "ludzie-to-adam-i-ewa",
     "title": "Ludzie to Adam i Ewa"

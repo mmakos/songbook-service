@@ -756,12 +756,6 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Golec",
-      "lastName": "uOrkiestra"
-    }
-  ],
   "next": {
     "id": "nie-placz-ewka",
     "title": "Nie płacz Ewka"
@@ -769,5 +763,8 @@
   "previous": {
     "id": "nie-daj-mi-odejsc",
     "title": "Nie daj mi odejść"
+  },
+  "band": {
+    "name": "Golec uOrkiestra"
   }
 }

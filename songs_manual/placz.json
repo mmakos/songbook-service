@@ -572,12 +572,6 @@
       "lastName": "Borowiec"
     }
   ],
-  "performers": [
-    {
-      "name": "Cisza",
-      "lastName": "jak Ta"
-    }
-  ],
   "next": {
     "id": "plona-gory-plona-lasy",
     "title": "Płoną góry płoną lasy"
@@ -585,5 +579,8 @@
   "previous": {
     "id": "plecak",
     "title": "Plecak"
+  },
+  "band": {
+    "name": "Cisza jak ta"
   }
 }

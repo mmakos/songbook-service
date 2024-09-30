@@ -2574,12 +2574,6 @@
       "lastName": "G. Grabowski"
     }
   ],
-  "performers": [
-    {
-      "name": "Strachy",
-      "lastName": "na Lachy"
-    }
-  ],
   "next": {
     "id": "pilem-w-spale-spalem-w-pile",
     "title": "Piłem w Spale, spałem w Pile"
@@ -2587,5 +2581,8 @@
   "previous": {
     "id": "pijmy-wino-za-kolegow",
     "title": "Pijmy wino za kolegów"
+  },
+  "band": {
+    "name": "Strachy na Lachy"
   }
 }

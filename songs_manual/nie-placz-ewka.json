@@ -572,11 +572,6 @@
       "lastName": "Hołdys"
     }
   ],
-  "performers": [
-    {
-      "name": "Perfect"
-    }
-  ],
   "next": {
     "id": "nie-rozdziobia-nas-kruki",
     "title": "Nie rozdziobią nas kruki"
@@ -584,5 +579,8 @@
   "previous": {
     "id": "nie-ma-nic",
     "title": "Nie ma nic"
+  },
+  "band": {
+    "name": "Perfect"
   }
 }

@@ -792,11 +792,6 @@
       "lastName": "Nowacki"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "orki-z-majorki",
     "title": "Orki z majorki"
@@ -804,5 +799,8 @@
   "previous": {
     "id": "only-the-very-best-sos",
     "title": "Only the very best (S.O.S.)"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

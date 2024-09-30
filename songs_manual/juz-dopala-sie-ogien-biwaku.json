@@ -867,14 +867,12 @@
       "lastName": "Gawlik"
     }
   ],
-  "performers": [
+  "band": {
+    "name": "Contra Mundum"
+  },
+  "sources": [
     {
-      "name": "Contra",
-      "lastName": "Mundum"
-    },
-    {
-      "name": "z",
-      "lastName": "filmu „Wyklęty”"
+      "name": "Wyklęty"
     }
   ],
   "next": {

@@ -929,11 +929,6 @@
       "lastName": "Sołoducha"
     }
   ],
-  "performers": [
-    {
-      "name": "Enej"
-    }
-  ],
   "next": {
     "id": "someone-like-you",
     "title": "Someone like you"
@@ -941,5 +936,8 @@
   "previous": {
     "id": "siedzielismy-jak-w-kinie",
     "title": "Siedzieliśmy jak w kinie"
+  },
+  "band": {
+    "name": "Enej"
   }
 }

@@ -692,12 +692,6 @@
       "lastName": "Borysiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Lady",
-      "lastName": "Pank"
-    }
-  ],
   "next": {
     "id": "zegarmistrz-swiatla",
     "title": "Zegarmistrz światła"
@@ -705,5 +699,8 @@
   "previous": {
     "id": "zasmazka",
     "title": "Zasmażka"
+  },
+  "band": {
+    "name": "Lady Pank"
   }
 }

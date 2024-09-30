@@ -958,11 +958,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "czarny-chleb-i-czarna-kawa",
     "title": "Czarny chleb i czarna kawa"
@@ -970,5 +965,8 @@
   "previous": {
     "id": "cyrk",
     "title": "Cyrk"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

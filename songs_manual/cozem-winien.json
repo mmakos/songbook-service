@@ -525,12 +525,6 @@
       "lastName": "Tkaczyk"
     }
   ],
-  "performers": [
-    {
-      "name": "Wyspy",
-      "lastName": "Dobrej Nadziei"
-    }
-  ],
   "next": {
     "id": "cykady-na-cykladach",
     "title": "Cykady na Cykladach"
@@ -538,5 +532,8 @@
   "previous": {
     "id": "circle-of-life",
     "title": "Circle of Life"
+  },
+  "band": {
+    "name": "Wyspy Dobrej Nadziei"
   }
 }

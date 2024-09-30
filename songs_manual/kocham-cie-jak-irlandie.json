@@ -1139,11 +1139,9 @@
       "lastName": "Michorzewski"
     }
   ],
-  "composer": [
-    {
-      "name": "Kobranocka"
-    }
-  ],
+  "band": {
+    "name": "Kobranocka"
+  },
   "next": {
     "id": "koleda-zeglarska",
     "title": "Kolęda żeglarska"

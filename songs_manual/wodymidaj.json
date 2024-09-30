@@ -944,12 +944,6 @@
       "lastName": "Sienkiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
-    }
-  ],
   "next": {
     "id": "wrecking-ball",
     "title": "Wrecking Ball"
@@ -957,5 +951,8 @@
   "previous": {
     "id": "wlosy",
     "title": "Włosy"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

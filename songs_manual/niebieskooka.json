@@ -1053,12 +1053,6 @@
       "lastName": "kleyne"
     }
   ],
-  "performers": [
-    {
-      "name": "Czerwone",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "niech-mowia-ze-to-nie-jest-milosc",
     "title": "Niech mówią, że to nie jest miłość"
@@ -1066,5 +1060,8 @@
   "previous": {
     "id": "nie-rozdziobia-nas-kruki",
     "title": "Nie rozdziobią nas kruki"
+  },
+  "band": {
+    "name": "Czerwone Gitary"
   }
 }

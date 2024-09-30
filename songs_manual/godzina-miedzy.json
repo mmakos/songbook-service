@@ -475,12 +475,9 @@
       "lastName": "Grabara"
     }
   ],
-  "performers": [
-    {
-      "name": "KMT",
-      "lastName": "Turek"
-    }
-  ],
+  "band": {
+    "name": "KMT Turek"
+  },
   "next": {
     "id": "godzina-milowania",
     "title": "Godzina miłowania"

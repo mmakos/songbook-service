@@ -637,11 +637,6 @@
       "lastName": "Banach"
     }
   ],
-  "performers": [
-    {
-      "name": "Hey"
-    }
-  ],
   "next": {
     "id": "tell-him",
     "title": "Tell him"
@@ -649,5 +644,8 @@
   "previous": {
     "id": "tarnawatka",
     "title": "Tarnawatka"
+  },
+  "band": {
+    "name": "HEY"
   }
 }

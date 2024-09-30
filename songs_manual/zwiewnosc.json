@@ -499,12 +499,9 @@
       "lastName": "Stefański"
     }
   ],
-  "performers": [
-    {
-      "name": "Bez",
-      "lastName": "Jacka"
-    }
-  ],
+  "band": {
+    "name": "Bez Jacka"
+  },
   "next": {
     "id": "zeby-moc-prostota",
     "title": "Żeby móc (Prostota)"

@@ -507,12 +507,6 @@
       "lastName": "Jędrzejewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Wspólnota",
-      "lastName": "Miłości Ukrzyżowanej"
-    }
-  ],
   "next": {
     "id": "chrystus-pan-karmi-nas",
     "title": "Chrystus Pan karmi nas"
@@ -520,5 +514,8 @@
   "previous": {
     "id": "cichy-zapada-zmrok",
     "title": "Cichy zapada zmrok"
+  },
+  "band": {
+    "name": "Wspólnota Miłości Ukrzyżowanej"
   }
 }

@@ -881,11 +881,9 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "Blenders"
-    }
-  ],
+  "band": {
+    "name": "Blenders"
+  },
   "next": {
     "id": "circle-of-life",
     "title": "Circle of Life"

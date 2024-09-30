@@ -812,11 +812,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Lube"
-    }
-  ],
+  "band": {
+    "name": "Lube"
+  },
   "next": {
     "id": "pedro",
     "title": "Pedro"

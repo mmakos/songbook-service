@@ -553,11 +553,6 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "makatka-szalona",
     "title": "Makatka szalona"
@@ -565,5 +560,8 @@
   "previous": {
     "id": "maciek-ja-tylko-zartowalem",
     "title": "Maciek, ja tylko żartowałem"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

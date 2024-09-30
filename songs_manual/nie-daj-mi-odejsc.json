@@ -868,11 +868,9 @@
       "lastName": "Piekarek"
     }
   ],
-  "performers": [
-    {
-      "name": "IRA"
-    }
-  ],
+  "band": {
+    "name": "IRA"
+  },
   "next": {
     "id": "nie-ma-nic",
     "title": "Nie ma nic"

@@ -2030,12 +2030,9 @@
       "lastName": "Llach"
     }
   ],
-  "performers": [
-    {
-      "name": "Zespół",
-      "lastName": "Reprezentacyjny"
-    }
-  ],
+  "band": {
+    "name": "Zespół Reprezentacyjny"
+  },
   "next": {
     "id": "rudy-frank",
     "title": "Rudy Frank"

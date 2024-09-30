@@ -731,12 +731,6 @@
       "lastName": "Bellon"
     }
   ],
-  "performers": [
-    {
-      "name": "Wolna",
-      "lastName": "Grupa Bukowina"
-    }
-  ],
   "next": {
     "id": "phantom-of-the-opera",
     "title": "Phantom of the opera"
@@ -744,5 +738,8 @@
   "previous": {
     "id": "peggy-brown",
     "title": "Peggy brown"
+  },
+  "band": {
+    "name": "Wolna Grupa Bukowina"
   }
 }

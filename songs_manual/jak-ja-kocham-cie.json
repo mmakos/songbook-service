@@ -1165,11 +1165,6 @@
       "lastName": "Tupaczewski"
     }
   ],
-  "performers": [
-    {
-      "name": "OT.TO"
-    }
-  ],
   "next": {
     "id": "jaka-jestes",
     "title": "Jaka jesteś"
@@ -1177,5 +1172,8 @@
   "previous": {
     "id": "jak",
     "title": "Jak"
+  },
+  "band": {
+    "name": "OT.TO"
   }
 }

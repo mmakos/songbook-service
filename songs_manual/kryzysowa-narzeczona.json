@@ -539,12 +539,6 @@
       "lastName": "Borysiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Lady",
-      "lastName": "Pank"
-    }
-  ],
   "next": {
     "id": "kto-powie-mi-jak",
     "title": "Kto powie mi jak"
@@ -552,5 +546,8 @@
   "previous": {
     "id": "krokodyle",
     "title": "Krokodyle"
+  },
+  "band": {
+    "name": "Lady Pank"
   }
 }

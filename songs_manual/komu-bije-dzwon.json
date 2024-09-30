@@ -1517,11 +1517,6 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Kult"
-    }
-  ],
   "next": {
     "id": "kolorowy-wiatr",
     "title": "Kolorowy wiatr"
@@ -1529,5 +1524,8 @@
   "previous": {
     "id": "kombajn-bizon",
     "title": "Kombajn Bizon"
+  },
+  "band": {
+    "name": "Kult"
   }
 }

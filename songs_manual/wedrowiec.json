@@ -549,11 +549,9 @@
       "lastName": "Szarek"
     }
   ],
-  "composer": [
-    {
-      "name": "„Scorpio”"
-    }
-  ],
+  "band": {
+    "name": "Skorpió"
+  },
   "next": {
     "id": "what-is-a-youth",
     "title": "What is a youth"

@@ -2310,12 +2310,9 @@
       "lastName": "Czekała"
     }
   ],
-  "performers": [
-    {
-      "name": "Mechanicy",
-      "lastName": "Szanty"
-    }
-  ],
+  "band": {
+    "name": "Mechanicy Szanty"
+  },
   "next": {
     "id": "podanie-o",
     "title": "Podanie o…"

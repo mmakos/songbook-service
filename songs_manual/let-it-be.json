@@ -1447,12 +1447,6 @@
       "lastName": "McCartney"
     }
   ],
-  "performers": [
-    {
-      "name": "The",
-      "lastName": "Beatles"
-    }
-  ],
   "next": {
     "id": "lewe-lewe-loff",
     "title": "Lewe lewe loff"
@@ -1460,5 +1454,8 @@
   "previous": {
     "id": "lawa",
     "title": "Lawa"
+  },
+  "band": {
+    "name": "The Beatles"
   }
 }

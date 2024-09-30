@@ -1209,12 +1209,6 @@
       "lastName": "Krajewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Czerwone",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "droga-na-smolensk",
     "title": "Droga na Smoleńsk"
@@ -1222,5 +1216,8 @@
   "previous": {
     "id": "dom-wschodzacego-slonca",
     "title": "Dom wschodzącego słońca"
+  },
+  "band": {
+    "name": "Czerwone Gitary"
   }
 }

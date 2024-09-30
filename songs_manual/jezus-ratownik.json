@@ -622,12 +622,6 @@
       "lastName": "muz. R. Friedrich"
     }
   ],
-  "performers": [
-    {
-      "name": "Arka",
-      "lastName": "Noego"
-    }
-  ],
   "next": {
     "id": "kiedy-ranne-wstaja-zorze",
     "title": "Kiedy ranne wstają zorze"
@@ -635,5 +629,8 @@
   "previous": {
     "id": "jezus-najwyzsze-imie",
     "title": "Jezus, najwyższe Imię"
+  },
+  "band": {
+    "name": "Arka Noego"
   }
 }

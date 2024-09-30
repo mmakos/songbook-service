@@ -494,11 +494,9 @@
       "lastName": "Łuka"
     }
   ],
-  "performers": [
-    {
-      "name": "Rotary"
-    }
-  ],
+  "band": {
+    "name": "Rotary"
+  },
   "next": {
     "id": "na-kolejowym-szlaku",
     "title": "Na kolejowym szlaku"

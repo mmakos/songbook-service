@@ -643,12 +643,9 @@
       "lastName": "Broniewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Na",
-      "lastName": "Bani"
-    }
-  ],
+  "band": {
+    "name": "Na Bani"
+  },
   "next": {
     "id": "tyle-slonca-w-calym-miescie",
     "title": "Tyle słońca w całym mieście"

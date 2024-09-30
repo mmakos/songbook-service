@@ -584,11 +584,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "litania",
     "title": "Litania"
@@ -596,5 +591,8 @@
   "previous": {
     "id": "list-do-boga",
     "title": "List do Boga"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

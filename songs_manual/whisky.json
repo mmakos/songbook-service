@@ -1059,11 +1059,6 @@
       "lastName": "Riedel"
     }
   ],
-  "performers": [
-    {
-      "name": "Dżem"
-    }
-  ],
   "next": {
     "id": "wieczna-noc-endless-night",
     "title": "Wieczna noc (Endless Night)"
@@ -1071,5 +1066,8 @@
   "previous": {
     "id": "what-is-a-youth",
     "title": "What is a youth"
+  },
+  "band": {
+    "name": "Dżem"
   }
 }

@@ -1217,11 +1217,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "DRAKE"
-    }
-  ],
+  "band": {
+    "name": "DRAKE"
+  },
   "next": {
     "id": "lato",
     "title": "Lato"

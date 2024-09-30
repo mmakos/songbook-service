@@ -1175,12 +1175,6 @@
       "lastName": "Leśniak"
     }
   ],
-  "performers": [
-    {
-      "name": "Wały",
-      "lastName": "Jagiellońskie"
-    }
-  ],
   "next": {
     "id": "boso",
     "title": "Boso"
@@ -1188,5 +1182,8 @@
   "previous": {
     "id": "bolero",
     "title": "Bolero"
+  },
+  "band": {
+    "name": "Wały Jagiellońskie"
   }
 }

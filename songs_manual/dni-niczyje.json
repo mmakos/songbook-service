@@ -744,11 +744,9 @@
       "lastName": "Woźniak"
     }
   ],
-  "performers": [
-    {
-      "name": "Gawęda"
-    }
-  ],
+  "band": {
+    "name": "Gawęda"
+  },
   "next": {
     "id": "do-ciebie-mamo",
     "title": "Do Ciebie Mamo"

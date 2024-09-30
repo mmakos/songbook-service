@@ -599,12 +599,6 @@
       "lastName": "Sienkiweicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
-    }
-  ],
   "next": {
     "id": "nim-wstanie-dzien",
     "title": "Nim wstanie dzień"
@@ -612,5 +606,8 @@
   "previous": {
     "id": "niedzwiedz",
     "title": "Niedźwiedź"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

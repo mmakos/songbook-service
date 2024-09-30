@@ -724,11 +724,9 @@
       "lastName": "Służała"
     }
   ],
-  "performers": [
-    {
-      "name": "Krążek"
-    }
-  ],
+  "band": {
+    "name": "Krążek"
+  },
   "next": {
     "id": "camille-claudelle",
     "title": "Camille Claudelle"

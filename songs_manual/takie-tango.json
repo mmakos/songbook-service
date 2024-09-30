@@ -962,12 +962,6 @@
       "lastName": "Lipko"
     }
   ],
-  "performers": [
-    {
-      "name": "Budka",
-      "lastName": "Suflera"
-    }
-  ],
   "next": {
     "id": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",
     "title": "Tango na głos, orkiestrę i jeszcze jeden głos"
@@ -975,5 +969,8 @@
   "previous": {
     "id": "takie-ladne-oczy",
     "title": "Takie ładne oczy"
+  },
+  "band": {
+    "name": "Budka Suflera"
   }
 }

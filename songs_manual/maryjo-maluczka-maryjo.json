@@ -773,10 +773,10 @@
       }
     }
   },
+  "band": {
+    "name": "Neokatechumenat"
+  },
   "performers": [
-    {
-      "name": "Neokatechumenat"
-    },
     {
       "name": "Kiko",
       "lastName": "Argüello"

@@ -813,12 +813,6 @@
       "lastName": "Krajewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Czerwone",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "tak-bowiem-bog",
     "title": "Tak bowiem Bóg"
@@ -826,5 +820,8 @@
   "previous": {
     "id": "swiecie-nasz",
     "title": "Świecie nasz"
+  },
+  "band": {
+    "name": "Czerwone Gitary"
   }
 }

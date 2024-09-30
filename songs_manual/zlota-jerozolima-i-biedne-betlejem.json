@@ -733,11 +733,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Skaldowie"
-    }
-  ],
+  "band": {
+    "name": "Skaldowie"
+  },
   "next": {
     "id": "ach-ubogi-zlobie",
     "title": "Ach ubogi żłobie"

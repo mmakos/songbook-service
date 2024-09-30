@@ -1315,11 +1315,6 @@
       "lastName": "Książek"
     }
   ],
-  "performers": [
-    {
-      "name": "Brathanki"
-    }
-  ],
   "next": {
     "id": "glupole",
     "title": "Głupole"
@@ -1327,5 +1322,8 @@
   "previous": {
     "id": "futbol",
     "title": "Futbol"
+  },
+  "band": {
+    "name": "Brathanki"
   }
 }

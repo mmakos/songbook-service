@@ -890,12 +890,9 @@
       "lastName": "Klenczon"
     }
   ],
-  "performers": [
-    {
-      "name": "Trzy",
-      "lastName": "Korony"
-    }
-  ],
+  "band": {
+    "name": "Trzy Korony"
+  },
   "next": {
     "id": "dziewczyna-rumiankowa",
     "title": "Dziewczyna rumiankowa"

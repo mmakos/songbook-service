@@ -1183,12 +1183,6 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "Ryczące",
-      "lastName": "Dwudziestki"
-    }
-  ],
   "next": {
     "id": "fordewind",
     "title": "Fordewind"
@@ -1196,5 +1190,8 @@
   "previous": {
     "id": "father-and-son",
     "title": "Father and Son"
+  },
+  "band": {
+    "name": "Ryczące Dwudziestki"
   }
 }

@@ -507,12 +507,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Siostry",
-      "lastName": "Comunicadoras Eucaristicas"
-    }
-  ],
+  "band": {
+    "name": "Siostry Comunicadoras Eucaristicas"
+  },
   "next": {
     "id": "gloria",
     "title": "Gloria"

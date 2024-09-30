@@ -185,12 +185,6 @@
       "lastName": "Jan od Krzyża"
     }
   ],
-  "performers": [
-    {
-      "name": "Wspólnota",
-      "lastName": "Miłości Ukrzyżowanej"
-    }
-  ],
   "next": {
     "id": "oto-jest-dzien",
     "title": "Oto jest dzień"
@@ -198,5 +192,8 @@
   "previous": {
     "id": "obudz-sie",
     "title": "Obudź się"
+  },
+  "band": {
+    "name": "Wspólnota Miłości Ukrzyżowanej"
   }
 }

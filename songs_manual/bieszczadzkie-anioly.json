@@ -860,11 +860,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "bijatyka",
     "title": "Bijatyka"
@@ -872,5 +867,8 @@
   "previous": {
     "id": "bieszczadzki-trakt",
     "title": "Bieszczadzki trakt"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

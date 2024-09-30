@@ -960,12 +960,6 @@
       "lastName": "O’Riordan"
     }
   ],
-  "performers": [
-    {
-      "name": "The",
-      "lastName": "Cranberries"
-    }
-  ],
   "next": {
     "id": "zrobie-mezczyzn-z-was",
     "title": "Zrobię mężczyzn z was"
@@ -973,5 +967,8 @@
   "previous": {
     "id": "znow-wedrujemy",
     "title": "Znów wędrujemy"
+  },
+  "band": {
+    "name": "The Cranberries"
   }
 }

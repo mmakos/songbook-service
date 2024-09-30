@@ -160,9 +160,6 @@
   },
   "performers": [
     {
-      "name": "Taizé"
-    },
-    {
       "name": "J",
       "lastName": "Berthier"
     }
@@ -174,5 +171,8 @@
   "previous": {
     "id": "oto-stoje-u-drzwi",
     "title": "Oto stoję u drzwi"
+  },
+  "band": {
+    "name": "Taizé"
   }
 }

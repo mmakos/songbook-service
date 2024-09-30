@@ -813,10 +813,10 @@
       "lastName": "Kuderski"
     }
   ],
+  "band": {
+    "name": "Myslovitz"
+  },
   "performers": [
-    {
-      "name": "Myslowitz"
-    },
     {
       "name": "A",
       "lastName": "Rojek"

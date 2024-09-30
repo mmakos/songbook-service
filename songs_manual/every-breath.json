@@ -584,12 +584,9 @@
       "name": "Sting"
     }
   ],
-  "performers": [
-    {
-      "name": "The",
-      "lastName": "Police"
-    }
-  ],
+  "band": {
+    "name": "The Police"
+  },
   "next": {
     "id": "falling-slowly",
     "title": "Falling Slowly"

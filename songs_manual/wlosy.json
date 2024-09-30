@@ -2103,12 +2103,6 @@
       "lastName": "Sienkiewcz"
     }
   ],
-  "performers": [
-    {
-      "name": "Elektryczne",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "wodymidaj",
     "title": "Wodymidaj"
@@ -2116,5 +2110,8 @@
   "previous": {
     "id": "wish-you-were-here",
     "title": "Wish you were here"
+  },
+  "band": {
+    "name": "Elektryczne Gitary"
   }
 }

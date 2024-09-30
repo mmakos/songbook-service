@@ -854,12 +854,6 @@
       "lastName": "Bellon"
     }
   ],
-  "performers": [
-    {
-      "name": "Wolna",
-      "lastName": "Grupa Bukowina"
-    }
-  ],
   "next": {
     "id": "bedziesz-moja-pania",
     "title": "Będziesz moją panią"
@@ -867,5 +861,8 @@
   "previous": {
     "id": "belle-tl-dorota-kozielska",
     "title": "Belle (tł. Dorota Kozielska)"
+  },
+  "band": {
+    "name": "Wolna Grupa Bukowina"
   }
 }

@@ -1619,12 +1619,9 @@
       "lastName": "Klenczon"
     }
   ],
-  "performers": [
-    {
-      "name": "Czzerwone",
-      "lastName": "Gitary"
-    }
-  ],
+  "band": {
+    "name": "Czerwone Gitary"
+  },
   "next": {
     "id": "bialy-mis",
     "title": "Biały miś"

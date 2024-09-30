@@ -723,11 +723,6 @@
       "lastName": "Jałowiecki"
     }
   ],
-  "performers": [
-    {
-      "name": "Myslovitz"
-    }
-  ],
   "next": {
     "id": "pejzaze-harasymowiczowskie",
     "title": "Pejzaże Harasymowiczowskie"
@@ -735,5 +730,8 @@
   "previous": {
     "id": "pedro",
     "title": "Pedro"
+  },
+  "band": {
+    "name": "Myslovitz"
   }
 }

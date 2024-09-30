@@ -768,11 +768,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "modlitwa-wedrownego-grajka",
     "title": "Modlitwa wędrownego grajka"
@@ -780,5 +775,8 @@
   "previous": {
     "id": "modlitwa-taniec-wampirow",
     "title": "Modlitwa (Taniec Wampirów)"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

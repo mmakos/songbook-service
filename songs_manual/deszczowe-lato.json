@@ -947,10 +947,10 @@
       "minor": true
     }
   },
+  "band": {
+    "name": "Kolor"
+  },
   "performers": [
-    {
-      "name": "Kolor"
-    },
     {
       "name": "A",
       "lastName": "Gruszczyk"

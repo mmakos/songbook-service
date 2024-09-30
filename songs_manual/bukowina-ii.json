@@ -1091,12 +1091,6 @@
       "lastName": "Bellon"
     }
   ],
-  "performers": [
-    {
-      "name": "Wolna",
-      "lastName": "Grupa Bukowina"
-    }
-  ],
   "next": {
     "id": "burza",
     "title": "Burza"
@@ -1104,5 +1098,8 @@
   "previous": {
     "id": "buka",
     "title": "Buka"
+  },
+  "band": {
+    "name": "Wolna Grupa Bukowina"
   }
 }

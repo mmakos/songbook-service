@@ -584,11 +584,9 @@
       "lastName": "Jackowski"
     }
   ],
-  "performers": [
-    {
-      "name": "Maanam"
-    }
-  ],
+  "band": {
+    "name": "Maanam"
+  },
   "next": {
     "id": "cyniczne-cory-zurychu",
     "title": "Cyniczne córy Zurychu"

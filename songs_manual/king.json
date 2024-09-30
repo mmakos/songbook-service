@@ -933,12 +933,6 @@
       "lastName": "Staszczyk"
     }
   ],
-  "performers": [
-    {
-      "name": "T",
-      "lastName": "LOVE"
-    }
-  ],
   "next": {
     "id": "kluski",
     "title": "Kluski"
@@ -946,5 +940,8 @@
   "previous": {
     "id": "kim-wlasciwie-byla-ta-piekna-pani",
     "title": "Kim właściwie była ta piękna Pani"
+  },
+  "band": {
+    "name": "T.Love"
   }
 }

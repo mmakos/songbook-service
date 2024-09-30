@@ -907,11 +907,6 @@
       "lastName": "Makowski"
     }
   ],
-  "performers": [
-    {
-      "name": "OT.TO"
-    }
-  ],
   "next": {
     "id": "lawa",
     "title": "Lawa"
@@ -919,5 +914,8 @@
   "previous": {
     "id": "lato-z-komarami",
     "title": "Lato z komarami"
+  },
+  "band": {
+    "name": "OT.TO"
   }
 }

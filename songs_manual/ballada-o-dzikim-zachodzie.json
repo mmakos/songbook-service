@@ -2657,12 +2657,9 @@
       "lastName": "Suchocki"
     }
   ],
-  "performers": [
-    {
-      "name": "Kabaret",
-      "lastName": "Dudek"
-    }
-  ],
+  "band": {
+    "name": "Kabaret Dudek"
+  },
   "next": {
     "id": "ballada-o-krzyzowcu",
     "title": "Ballada o krzyżowcu"

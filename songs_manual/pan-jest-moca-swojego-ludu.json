@@ -324,9 +324,6 @@
   },
   "performers": [
     {
-      "name": "Taizé"
-    },
-    {
       "name": "J",
       "lastName": "Berthier"
     }
@@ -338,5 +335,8 @@
   "previous": {
     "id": "pan-blisko-jest",
     "title": "Pan blisko jest"
+  },
+  "band": {
+    "name": "Taizé"
   }
 }

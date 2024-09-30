@@ -830,12 +830,6 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Image",
-      "lastName": "Dragons"
-    }
-  ],
   "next": {
     "id": "radosc-o-poranku",
     "title": "Radość o poranku"
@@ -843,5 +837,8 @@
   "previous": {
     "id": "quo-vadis-domine",
     "title": "Quo Vadis, Domine?"
+  },
+  "band": {
+    "name": "Image Dragons"
   }
 }

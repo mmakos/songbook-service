@@ -819,11 +819,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "malenka",
     "title": "Maleńka"
@@ -831,5 +826,8 @@
   "previous": {
     "id": "majka",
     "title": "Majka"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

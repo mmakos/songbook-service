@@ -709,7 +709,12 @@
   },
   "lyrics": [
     {
-      "name": "Turbus"
+      "name": "Andrzej",
+      "lastName": "Torbus"
+    },
+    {
+      "name": "Maria",
+      "lastName": "Siciarz"
     }
   ],
   "composer": [

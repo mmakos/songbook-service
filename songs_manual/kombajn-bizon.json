@@ -880,12 +880,6 @@
       "lastName": "Schuberth"
     }
   ],
-  "performers": [
-    {
-      "name": "Wały",
-      "lastName": "Jagiellońskie"
-    }
-  ],
   "next": {
     "id": "komu-bije-dzwon",
     "title": "Komu bije dzwon"
@@ -893,5 +887,8 @@
   "previous": {
     "id": "koleda-zeglarska",
     "title": "Kolęda żeglarska"
+  },
+  "band": {
+    "name": "Wały Jagiellońskie"
   }
 }

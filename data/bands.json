@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Koniec Świata",
+    "id": 100
+  },
+  {
+    "name": "Śpiewające Brzdące",
+    "id": 101
+  },
+  {
+    "name": "T.Love",
+    "id": 102
+  },
+  {
+    "name": "Kult",
+    "id": 103
+  },
+  {
+    "name": "Kabaret Dudek",
+    "id": 104
+  },
+  {
+    "name": "Imagine Dragons",
+    "id": 105
+  },
+  {
+    "name": "Wolna Grupa Bukowina",
+    "id": 106
+  },
+  {
+    "name": "Czerwone Gitary",
+    "id": 107
+  },
+  {
+    "name": "SDM",
+    "id": 108
+  },
+  {
+    "name": "Stare Dzwony",
+    "id": 109
+  },
+  {
+    "name": "Taizé",
+    "id": 110
+  },
+  {
+    "name": "Wały Jagiellońskie",
+    "id": 111
+  },
+  {
+    "name": "Zakopower",
+    "id": 112
+  },
+  {
+    "name": "Kwiat Jabłoni",
+    "id": 113
+  },
+  {
+    "name": "Krążek",
+    "id": 114
+  },
+  {
+    "name": "Wspólnota Miłości Ukrzyżowanej",
+    "id": 115
+  },
+  {
+    "name": "2 plus 1",
+    "id": 116
+  },
+  {
+    "name": "Blenders",
+    "id": 117
+  },
+  {
+    "name": "Wyspy Dobrej Nadziei",
+    "id": 118
+  },
+  {
+    "name": "Maanam",
+    "id": 119
+  },
+  {
+    "name": "Brathanki",
+    "id": 120
+  },
+  {
+    "name": "Elektryczne Gitary",
+    "id": 121
+  },
+  {
+    "name": "Kolor",
+    "id": 122
+  },
+  {
+    "name": "Piwnica pod Baranami",
+    "id": 123
+  },
+  {
+    "name": "Myslovitz",
+    "id": 124
+  },
+  {
+    "name": "Gawęda",
+    "id": 125
+  },
+  {
+    "name": "Trzy Korony",
+    "id": 126
+  },
+  {
+    "name": "The Police",
+    "id": 127
+  },
+  {
+    "name": "Ryczące Dwudziestki",
+    "id": 128
+  },
+  {
+    "name": "Mordewind",
+    "id": 129
+  },
+  {
+    "name": "Siostry Comunicadoras Eucaristicas",
+    "id": 130
+  },
+  {
+    "name": "KMT Turek",
+    "id": 131
+  },
+  {
+    "name": "Zayazd",
+    "id": 132
+  },
+  {
+    "name": "HEY",
+    "id": 133
+  },
+  {
+    "name": "OT.TO",
+    "id": 134
+  },
+  {
+    "name": "Arka Noego",
+    "id": 135
+  },
+  {
+    "name": "Budka Suflera",
+    "id": 136
+  },
+  {
+    "name": "Contra Mundum",
+    "id": 137
+  },
+  {
+    "name": "Poparzeni Kawą Trzy",
+    "id": 138
+  },
+  {
+    "name": "Kobranocka",
+    "id": 139
+  },
+  {
+    "name": "Centrum Edukacji Katechetycznej",
+    "id": 140
+  },
+  {
+    "name": "Lady Pank",
+    "id": 141
+  },
+  {
+    "name": "Skaldowie",
+    "id": 142
+  },
+  {
+    "name": "DRAKE",
+    "id": 143
+  },
+  {
+    "name": "The Beatles",
+    "id": 144
+  },
+  {
+    "name": "Akurat",
+    "id": 145
+  },
+  {
+    "name": "Accantus",
+    "id": 146
+  },
+  {
+    "name": "Neokatechumenat",
+    "id": 147
+  },
+  {
+    "name": "EKT Gdynia",
+    "id": 148
+  },
+  {
+    "name": "Rotary",
+    "id": 149
+  },
+  {
+    "name": "El Dupa",
+    "id": 150
+  },
+  {
+    "name": "IRA",
+    "id": 151
+  },
+  {
+    "name": "Golec uOrkiestra",
+    "id": 152
+  },
+  {
+    "name": "Perfect",
+    "id": 153
+  },
+  {
+    "name": "G.F. Darwin",
+    "id": 154
+  },
+  {
+    "name": "Lube",
+    "id": 155
+  },
+  {
+    "name": "Strachy na Lachy",
+    "id": 156
+  },
+  {
+    "name": "Cisza jak ta",
+    "id": 157
+  },
+  {
+    "name": "Mechanicy Szanty",
+    "id": 158
+  },
+  {
+    "name": "Akcent",
+    "id": 159
+  },
+  {
+    "name": "Image Dragons",
+    "id": 160
+  },
+  {
+    "name": "Zespół Reprezentacyjny",
+    "id": 161
+  },
+  {
+    "name": "Zajman & Garkumpel",
+    "id": 162
+  },
+  {
+    "name": "Enej",
+    "id": 163
+  },
+  {
+    "name": "Simon & Garfunkel",
+    "id": 164
+  },
+  {
+    "name": "Na Bani",
+    "id": 165
+  },
+  {
+    "name": "Skorpió",
+    "id": 166
+  },
+  {
+    "name": "Dżem",
+    "id": 167
+  },
+  {
+    "name": "KapelaHanki Wójciak",
+    "id": 168
+  },
+  {
+    "name": "Scorpions",
+    "id": 169
+  },
+  {
+    "name": "Pink Floyd",
+    "id": 170
+  },
+  {
+    "name": "Secret Garden",
+    "id": 171
+  },
+  {
+    "name": "The Cranberries",
+    "id": 172
+  },
+  {
+    "name": "Masters",
+    "id": 173
+  },
+  {
+    "name": "Bez Jacka",
+    "id": 174
+  }
+]

@@ -608,12 +608,6 @@
       "lastName": "Jarosz"
     }
   ],
-  "performers": [
-    {
-      "name": "EKT",
-      "lastName": "Gdynia"
-    }
-  ],
   "next": {
     "id": "piosenki-bony-m",
     "title": "Piosenki Bony M"
@@ -621,5 +615,8 @@
   "previous": {
     "id": "piosenka-mazowiecka",
     "title": "Piosenka Mazowiecka"
+  },
+  "band": {
+    "name": "EKT Gdynia"
   }
 }

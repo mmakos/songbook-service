@@ -1273,11 +1273,9 @@
       "lastName": "Kuczewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Mordewind"
-    }
-  ],
+  "band": {
+    "name": "Mordewind"
+  },
   "next": {
     "id": "francis-villon-modlitwa",
     "title": "Francis Villon (modlitwa)"

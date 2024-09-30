@@ -1087,12 +1087,9 @@
       "lastName": "Zasada"
     }
   ],
-  "performers": [
-    {
-      "name": "Poparzeni",
-      "lastName": "Kawą Trzy"
-    }
-  ],
+  "band": {
+    "name": "Poparzeni Kawą Trzy"
+  },
   "next": {
     "id": "kilku-kumpli-wez",
     "title": "Kilku kumpli weź"

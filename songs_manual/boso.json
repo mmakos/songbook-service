@@ -610,11 +610,9 @@
       "lastName": "Pospieszalski"
     }
   ],
-  "performers": [
-    {
-      "name": "Zakopower"
-    }
-  ],
+  "band": {
+    "name": "Zakopower"
+  },
   "next": {
     "id": "brzegi-nowej-szkocji",
     "title": "Brzegi Nowej Szkocji"

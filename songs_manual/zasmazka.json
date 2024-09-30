@@ -1614,11 +1614,6 @@
       "lastName": "Piekarczyk"
     }
   ],
-  "performers": [
-    {
-      "name": "OT.TO"
-    }
-  ],
   "next": {
     "id": "zawsze-tam-gdzie-ty",
     "title": "Zawsze tam, gdzie Ty"
@@ -1626,5 +1621,8 @@
   "previous": {
     "id": "zadumanie",
     "title": "Zadumanie"
+  },
+  "band": {
+    "name": "OT.TO"
   }
 }

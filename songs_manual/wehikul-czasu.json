@@ -954,11 +954,6 @@
       "lastName": "Otręba"
     }
   ],
-  "performers": [
-    {
-      "name": "Dżem"
-    }
-  ],
   "next": {
     "id": "wellerman",
     "title": "Wellerman"
@@ -966,5 +961,8 @@
   "previous": {
     "id": "we-snie",
     "title": "We śnie"
+  },
+  "band": {
+    "name": "Dżem"
   }
 }

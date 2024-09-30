@@ -1507,12 +1507,6 @@
       "lastName": "Sienkiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
-    }
-  ],
   "next": {
     "id": "bukowina-ii",
     "title": "Bukowina II"
@@ -1520,5 +1514,8 @@
   "previous": {
     "id": "brzegi-nowej-szkocji",
     "title": "Brzegi Nowej Szkocji"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

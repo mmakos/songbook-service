@@ -2274,11 +2274,6 @@
       "lastName": "Porazińska"
     }
   ],
-  "performers": [
-    {
-      "name": "Accantus"
-    }
-  ],
   "next": {
     "id": "mario-czy-ty-wiesz",
     "title": "Mario, czy ty wiesz?"
@@ -2286,5 +2281,8 @@
   "previous": {
     "id": "marco-polo",
     "title": "Marco Polo"
+  },
+  "band": {
+    "name": "Accantus"
   }
 }

@@ -772,14 +772,10 @@
       "lastName": "Kryl"
     }
   ],
-  "performers": [
+  "translation": [
     {
-      "name": "EKT",
-      "lastName": "Gdynia"
-    },
-    {
-      "name": "tłum",
-      "lastName": "M. Miklaszewska"
+      "name": "M",
+      "lastName": "Milkaszewska"
     }
   ],
   "next": {
@@ -789,5 +785,8 @@
   "previous": {
     "id": "mija-rok",
     "title": "Mija rok"
+  },
+  "band": {
+    "name": "EKT Gdynia"
   }
 }

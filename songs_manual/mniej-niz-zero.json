@@ -750,12 +750,6 @@
       "name": "J.Borysewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Lady",
-      "lastName": "Pank"
-    }
-  ],
   "next": {
     "id": "modlitwa-taniec-wampirow",
     "title": "Modlitwa (Taniec Wampirów)"
@@ -763,5 +757,8 @@
   "previous": {
     "id": "misty-mountains",
     "title": "Misty Mountains"
+  },
+  "band": {
+    "name": "Lady Pank"
   }
 }

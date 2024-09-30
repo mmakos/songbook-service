@@ -957,12 +957,6 @@
       "lastName": "Krajewski"
     }
   ],
-  "performers": [
-    {
-      "name": "Czerwone",
-      "lastName": "Gitary"
-    }
-  ],
   "next": {
     "id": "takie-tango",
     "title": "Takie tango"
@@ -970,5 +964,8 @@
   "previous": {
     "id": "take-me-home-country-roads",
     "title": "Take me home, country roads"
+  },
+  "band": {
+    "name": "Czerwone Gitary"
   }
 }

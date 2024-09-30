@@ -766,10 +766,13 @@
       "lastName": "Kasperczyk"
     }
   ],
+  "band": {
+    "name": "Zayazd"
+  },
   "performers": [
     {
-      "name": "Zayazd",
-      "lastName": "(Lech Makowiecki)"
+      "name": "Lech",
+      "lastName": "Makowiecki"
     }
   ],
   "next": {

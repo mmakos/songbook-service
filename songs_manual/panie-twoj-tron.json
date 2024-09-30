@@ -238,14 +238,16 @@
       }
     }
   },
+  "translation": [
+    {
+      "name": "A",
+      "lastName": "Karpowicz"
+    }
+  ],
   "performers": [
     {
       "name": "Pete",
       "lastName": "Sanchez"
-    },
-    {
-      "name": "tłum",
-      "lastName": "A. Karpowicz"
     }
   ],
   "next": {

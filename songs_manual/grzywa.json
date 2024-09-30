@@ -847,11 +847,6 @@
       "lastName": "Stachura"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "guldia",
     "title": "Guldia"
@@ -859,5 +854,8 @@
   "previous": {
     "id": "grzeczny-jan",
     "title": "Grzeczny Jan"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

@@ -517,12 +517,6 @@
       "lastName": "Traczyk"
     }
   ],
-  "performers": [
-    {
-      "name": "Wyspy",
-      "lastName": "Dobrej Nadziei"
-    }
-  ],
   "next": {
     "id": "wehikul-czasu",
     "title": "Wehikuł czasu"
@@ -530,5 +524,8 @@
   "previous": {
     "id": "wciaz-wierze",
     "title": "Wciąż wierzę"
+  },
+  "band": {
+    "name": "Wyspy Dobrej Nadziei"
   }
 }

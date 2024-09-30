@@ -1155,12 +1155,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Kapela",
-      "lastName": "Hanki Wójciak"
-    }
-  ],
+  "band": {
+    "name": "KapelaHanki Wójciak"
+  },
   "next": {
     "id": "wieza-babel",
     "title": "Wieża Babel"

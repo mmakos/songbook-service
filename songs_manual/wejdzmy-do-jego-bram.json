@@ -289,14 +289,16 @@
       "minor": true
     }
   },
+  "translation": [
+    {
+      "name": "R",
+      "lastName": "Mielcarek"
+    }
+  ],
   "performers": [
     {
       "name": "Nina",
       "lastName": "Lee Hopper"
-    },
-    {
-      "name": "tłum",
-      "lastName": "R. Mielcarek"
     }
   ],
   "next": {

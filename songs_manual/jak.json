@@ -847,11 +847,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "jak-ja-kocham-cie",
     "title": "Jak ja kocham Cię"
@@ -859,5 +854,8 @@
   "previous": {
     "id": "ja-sowa",
     "title": "Ja Sowa"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

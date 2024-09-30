@@ -1183,12 +1183,9 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "El",
-      "lastName": "Doopa"
-    }
-  ],
+  "band": {
+    "name": "El Dupa"
+  },
   "next": {
     "id": "nazywali-go-marynarz",
     "title": "Nazywali go Marynarz"

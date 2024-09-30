@@ -612,11 +612,9 @@
       "lastName": "Zieliński"
     }
   ],
-  "performers": [
-    {
-      "name": "Skaldowie"
-    }
-  ],
+  "band": {
+    "name": "Skaldowie"
+  },
   "next": {
     "id": "kwiaty",
     "title": "Kwiaty"

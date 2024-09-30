@@ -919,11 +919,6 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "Myslovitz"
-    }
-  ],
   "next": {
     "id": "dlugosc-dzwieku-samotnosci",
     "title": "Długość dźwięku samotności"
@@ -931,5 +926,8 @@
   "previous": {
     "id": "dezyderata",
     "title": "Dezyderata"
+  },
+  "band": {
+    "name": "Myslovitz"
   }
 }

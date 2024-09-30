@@ -662,11 +662,6 @@
       "lastName": "Banach"
     }
   ],
-  "performers": [
-    {
-      "name": "Hey"
-    }
-  ],
   "next": {
     "id": "jak",
     "title": "Jak"
@@ -674,5 +669,8 @@
   "previous": {
     "id": "i-wont-forget-you-wersja-polska",
     "title": "I won't forget you (wersja polska)"
+  },
+  "band": {
+    "name": "HEY"
   }
 }

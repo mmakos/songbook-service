@@ -610,11 +610,6 @@
       "lastName": "Myszkowski"
     }
   ],
-  "performers": [
-    {
-      "name": "SDM"
-    }
-  ],
   "next": {
     "id": "niebieskooka",
     "title": "Niebieskooka"
@@ -622,5 +617,8 @@
   "previous": {
     "id": "nie-placz-ewka",
     "title": "Nie płacz Ewka"
+  },
+  "band": {
+    "name": "SDM"
   }
 }

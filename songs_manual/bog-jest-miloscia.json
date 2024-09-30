@@ -192,11 +192,6 @@
       "lastName": "Paweł II"
     }
   ],
-  "performers": [
-    {
-      "name": "Taizé"
-    }
-  ],
   "next": {
     "id": "cichy-zapada-zmrok",
     "title": "Cichy zapada zmrok"
@@ -204,5 +199,8 @@
   "previous": {
     "id": "braciszkowie-skrzydlaci",
     "title": "Braciszkowie skrzydlaci"
+  },
+  "band": {
+    "name": "Taizé"
   }
 }

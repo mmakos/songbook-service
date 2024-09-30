@@ -1098,12 +1098,9 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Imagine",
-      "lastName": "Dragons"
-    }
-  ],
+  "band": {
+    "name": "Imagine Dragons"
+  },
   "next": {
     "id": "belle-tl-andrzej-ozga",
     "title": "Belle (tł. Andrzej Ozga)"

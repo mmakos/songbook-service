@@ -774,12 +774,6 @@
       "lastName": "Sienkiewicz"
     }
   ],
-  "performers": [
-    {
-      "name": "Kwiat",
-      "lastName": "Jabłoni"
-    }
-  ],
   "next": {
     "id": "ktos-mnie-pokochal",
     "title": "Ktoś mnie pokochał"
@@ -787,5 +781,8 @@
   "previous": {
     "id": "kryzysowa-narzeczona",
     "title": "Kryzysowa narzeczona"
+  },
+  "band": {
+    "name": "Kwiat Jabłoni"
   }
 }

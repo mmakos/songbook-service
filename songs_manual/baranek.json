@@ -1326,9 +1326,6 @@
   },
   "performers": [
     {
-      "name": "Kult"
-    },
-    {
       "name": "S",
       "lastName": "Staszewski"
     }
@@ -1340,5 +1337,8 @@
   "previous": {
     "id": "banderas-wersja-dla-srodowisk-zamknietych",
     "title": "Banderas (wersja dla środowisk zamkniętych)"
+  },
+  "band": {
+    "name": "Kult"
   }
 }
