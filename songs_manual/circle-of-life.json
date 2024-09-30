@@ -1,1 +1,1015 @@
-{"id": "circle-of-life", "title": "Circle of Life", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355580, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Nants ingonyama bagithi baba", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Sithi uhm ingonyama", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Nants ingonyama bagithi baba", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Sithi uhm ingonyama, ingonyama", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Ingonyama, ingonyama", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ingonyama nengw' enamabala", "italic": true}], "repetition": true, "repetitionEnd": -1, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "From the day we arrive on the planet"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "And blinking step into the sun"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "There's more to see than can ever be seen"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "More to do than can ever be done"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "There is far too much to take in here"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "More to find than can ever be found"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "But the sun rolling high through the sapphire sky"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Keeps great and small on the endless ground"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "It's the circle of life"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "And it moves us all"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}]}]}}, {"text": [{"text": "Through despair and hope"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}, {"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Through faith and love"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Till we find our place"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "On the path unwinding"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 6}]}]}}], "optional": true}]}}, {"text": [{"text": "In the circle"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "The circle of life"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 1}], "key": {"songbook": {"note": {"base": "A"}}, "original": {"note": {"base": "H", "accidental": "FLAT"}}, "comfort": {"note": {"base": "A"}}}, "lyrics": [{"name": "T", "lastName": "Rice"}], "composer": [{"name": "E", "lastName": "John"}], "performers": [{"name": "Król", "lastName": "Lew"}], "next": {"id": "cozem-winien", "title": "Cóżem winien"}, "previous": {"id": "ciagnik", "title": "Ciągnik"}}
+{
+  "id": "circle-of-life",
+  "title": "Circle of Life",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355580,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nants ingonyama bagithi baba",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sithi uhm ingonyama",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nants ingonyama bagithi baba",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sithi uhm ingonyama, ingonyama",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ingonyama, ingonyama",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ingonyama nengw' enamabala",
+              "italic": true
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": -1,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "From the day we arrive on the planet"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And blinking step into the sun"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "There's more to see than can ever be seen"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "More to do than can ever be done"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "There is far too much to take in here"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "More to find than can ever be found"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "But the sun rolling high through the sapphire sky"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Keeps great and small on the endless ground"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "It's the circle of life"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And it moves us all"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Through despair and hope"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Through faith and love"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Till we find our place"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "On the path unwinding"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "In the circle"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "The circle of life"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      }
+    },
+    "original": {
+      "note": {
+        "base": "H",
+        "accidental": "FLAT"
+      }
+    },
+    "comfort": {
+      "note": {
+        "base": "A"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "T",
+      "lastName": "Rice"
+    }
+  ],
+  "composer": [
+    {
+      "name": "E",
+      "lastName": "John"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Król",
+      "lastName": "Lew"
+    }
+  ],
+  "next": {
+    "id": "cozem-winien",
+    "title": "Cóżem winien"
+  },
+  "previous": {
+    "id": "ciagnik",
+    "title": "Ciągnik"
+  }
+}

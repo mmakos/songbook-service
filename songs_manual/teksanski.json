@@ -1,1 +1,653 @@
-{"id": "teksanski", "title": "Teksański", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Herbata stygnie, zapada zmrok, a pod piórem ciągle nic"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Obowiązek obowiązkiem jest, piosenka musi posiadać tekst"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdyby chociaż mucha zjawiła sie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Mogłabym ja zabić, a później to opisać"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "W moich słowach słoma czai sie, nie znaczą nic"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Jeśli szukasz sensu, prawdy w nich zawiedziesz się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "A może zmienić zasady gry?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Chcesz usłyszeć słowa, to sam je sobie wymyśl"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Nabij diabla, chmurę śmierci weź pomoże Ci"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Wnet twe myśli w słowa zmienia się, wyśpiewasz je sam."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "G"}}, "original": {"note": {"base": "D"}}, "comfort": {"note": {"base": "G"}}}, "lyrics": [{"name": "K", "lastName": "Nosowaska"}], "composer": [{"name": "P", "lastName": "Banach"}], "performers": [{"name": "Hey"}], "next": {"id": "tell-him", "title": "Tell him"}, "previous": {"id": "tarnawatka", "title": "Tarnawatka"}}
+{
+  "id": "teksanski",
+  "title": "Teksański",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Herbata stygnie, zapada zmrok, a pod piórem ciągle nic"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Obowiązek obowiązkiem jest, piosenka musi posiadać tekst"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdyby chociaż mucha zjawiła sie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mogłabym ja zabić, a później to opisać"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "W moich słowach słoma czai sie, nie znaczą nic"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jeśli szukasz sensu, prawdy w nich zawiedziesz się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "A może zmienić zasady gry?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chcesz usłyszeć słowa, to sam je sobie wymyśl"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nabij diabla, chmurę śmierci weź pomoże Ci"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wnet twe myśli w słowa zmienia się, wyśpiewasz je sam."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "G"
+      }
+    },
+    "original": {
+      "note": {
+        "base": "D"
+      }
+    },
+    "comfort": {
+      "note": {
+        "base": "G"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "K",
+      "lastName": "Nosowaska"
+    }
+  ],
+  "composer": [
+    {
+      "name": "P",
+      "lastName": "Banach"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Hey"
+    }
+  ],
+  "next": {
+    "id": "tell-him",
+    "title": "Tell him"
+  },
+  "previous": {
+    "id": "tarnawatka",
+    "title": "Tarnawatka"
+  }
+}

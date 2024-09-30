@@ -1,1 +1,765 @@
-{"id": "litania", "title": "Litania", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355582, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gwiazdo zaranna wysłuchaj mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Potęgo Boga zmiłuj się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Pod twą obronę oddaję się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Demonie złota zabierz mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Zabierz mnie, zabierz mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}], "optional": true}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Nadziejo moja, która rozpalasz mnie co dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Wieżo przedziwna z kości słoniowej, perłowej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Twój raj kuszących snów"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Pocieszenie mych pustych dni, zmiłuj się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Przyjdź wreszcie, wzbogać mnie, daj znak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Ja chcę tam być, gdzie ty"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Wszystko jedno, gdzie pałac twój."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Zwierciadło świata, odwieczne lustro moich żądz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Złoty pieniądzu, błogosławiony Twój obraz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Bez skaz oblicze twe"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Pożądania jedyny cel, złota blask"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Królestwa twego tron, mi daj"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "I duszę weź, ja chcę"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Całym światem ja władać chcę!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Daj mi świat, daj wszystko"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Żyć mi daj do utraty tchu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Daj mi świat, daj wszystko!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Żyć mi daj! Żyć mi daj!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 1}], "key": {"songbook": {"note": {"base": "H"}, "minor": true}}, "lyrics": [{"name": "A."}, {"name": "M", "lastName": "Miklaszewska"}], "composer": [{"name": "J", "lastName": "Stokłosa"}], "next": {"id": "los-wloczegi", "title": "Los włóczęgi"}, "previous": {"id": "list-do-malego-ksiecia", "title": "List do Małego Księcia"}}
+{
+  "id": "litania",
+  "title": "Litania",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355582,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gwiazdo zaranna wysłuchaj mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Potęgo Boga zmiłuj się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pod twą obronę oddaję się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Demonie złota zabierz mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zabierz mnie, zabierz mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nadziejo moja, która rozpalasz mnie co dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wieżo przedziwna z kości słoniowej, perłowej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Twój raj kuszących snów"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pocieszenie mych pustych dni, zmiłuj się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Przyjdź wreszcie, wzbogać mnie, daj znak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ja chcę tam być, gdzie ty"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszystko jedno, gdzie pałac twój."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Zwierciadło świata, odwieczne lustro moich żądz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Złoty pieniądzu, błogosławiony Twój obraz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bez skaz oblicze twe"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pożądania jedyny cel, złota blask"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Królestwa twego tron, mi daj"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I duszę weź, ja chcę"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Całym światem ja władać chcę!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Daj mi świat, daj wszystko"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żyć mi daj do utraty tchu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Daj mi świat, daj wszystko!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żyć mi daj! Żyć mi daj!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "H"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "A."
+    },
+    {
+      "name": "M",
+      "lastName": "Miklaszewska"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Stokłosa"
+    }
+  ],
+  "next": {
+    "id": "los-wloczegi",
+    "title": "Los włóczęgi"
+  },
+  "previous": {
+    "id": "list-do-malego-ksiecia",
+    "title": "List do Małego Księcia"
+  }
+}

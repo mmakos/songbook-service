@@ -1,1 +1,590 @@
-{"id": "to-juz-pora-na-wigilie", "title": "To już pora na Wigilię", "category": {"id": "carols", "name": "Kolędy"}, "created": {"name": "spiewnik-mmakos", "time": 1727356282, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Tô juz pôra na Wilijom, tô juz cas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "A tu jesce ftôsi chybio pôśrōd nos."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "A tu jesce ftôsi ku nom môze przỳjść,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Bô przỳ stôlē wôlne miejsce ceko dziś."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Gwiozdo Betlejymsko prowodź gô bez świat,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Côby razym s nami przỳ tym stôlē siod."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}]}}, {"text": [{"text": "Przỳwiydź gô tu dô nos s tyk dalekik drōg,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Côby razym s nami kôlyndōwać mōg."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Dej mu światłō, bô tak łatwō zmylić ślad,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Dej nadziejē, kie mu w ôcỳ dujē wiatr."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Strudzonymu, zmynconymu pômōz iś,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Bô samiućki nik ni môze ôstać dziś"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Gwiozdo Betlejymsko…"}]}], "indent": 0, "verseRef": 1}], "key": {"songbook": {"note": {"base": "G"}}, "original": {"note": {"base": "G"}}, "comfort": {"note": {"base": "F"}}}, "lyrics": [{"name": "W", "lastName": "Chotomska"}, {"name": "Z", "lastName": "Preisner"}], "next": {"id": "tryumfy-krola-niebieskiego", "title": "Tryumfy Króla Niebieskiego"}, "previous": {"id": "swieta-noc", "title": "Święta noc"}}
+{
+  "id": "to-juz-pora-na-wigilie",
+  "title": "To już pora na Wigilię",
+  "category": {
+    "id": "carols",
+    "name": "Kolędy"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727356282,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Tô juz pôra na Wilijom, tô juz cas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A tu jesce ftôsi chybio pôśrōd nos."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A tu jesce ftôsi ku nom môze przỳjść,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bô przỳ stôlē wôlne miejsce ceko dziś."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gwiozdo Betlejymsko prowodź gô bez świat,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Côby razym s nami przỳ tym stôlē siod."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Przỳwiydź gô tu dô nos s tyk dalekik drōg,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Côby razym s nami kôlyndōwać mōg."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Dej mu światłō, bô tak łatwō zmylić ślad,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dej nadziejē, kie mu w ôcỳ dujē wiatr."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Strudzonymu, zmynconymu pômōz iś,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bô samiućki nik ni môze ôstać dziś"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gwiozdo Betlejymsko…"
+            }
+          ]
+        }
+      ],
+      "indent": 0,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "G"
+      }
+    },
+    "original": {
+      "note": {
+        "base": "G"
+      }
+    },
+    "comfort": {
+      "note": {
+        "base": "F"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "W",
+      "lastName": "Chotomska"
+    },
+    {
+      "name": "Z",
+      "lastName": "Preisner"
+    }
+  ],
+  "next": {
+    "id": "tryumfy-krola-niebieskiego",
+    "title": "Tryumfy Króla Niebieskiego"
+  },
+  "previous": {
+    "id": "swieta-noc",
+    "title": "Święta noc"
+  }
+}

@@ -1,1 +1,653 @@
-{"id": "arahja", "title": "Arahja", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355579, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Mój dom murem podzielony"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Podzielone murem schody"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Po lewej stronie łazienka"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Po prawej stronie kuchenka"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Mój dom murem podzielony"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Podzielone murem schody"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Po lewej stronie łazienka"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Po prawej…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Moje ciało murem podzielone"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Dziesięć palców na lewą stronę"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Drugie dziesięć na prawą stronę"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Głowy równa część na każdą stronę"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Moja ulica murem podzielona"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Świeci neonami prawa strona"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Lewa strona cała wygaszona"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Zza zasłony obserwuję obie strony"}], "repetition": true, "repetitionEnd": 3, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Lewa strona nigdy się nie budzi"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Prawa strona nigdy nie zasypia"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Lewa strona nigdy się nie budzi"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Prawa strona nigdy nie zasypia"}], "repetition": true, "repetitionEnd": 4, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "lyrics": [{"name": "K", "lastName": "Staszewski"}], "performers": [{"name": "Kult"}], "next": {"id": "atomowe-czarne-chmury", "title": "Atomowe czarne chmury"}, "previous": {"id": "aniol-i-diabel", "title": "Anioł i diabeł"}}
+{
+  "id": "arahja",
+  "title": "Arahja",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355579,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Mój dom murem podzielony"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Podzielone murem schody"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po lewej stronie łazienka"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po prawej stronie kuchenka"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mój dom murem podzielony"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Podzielone murem schody"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po lewej stronie łazienka"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po prawej…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Moje ciało murem podzielone"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dziesięć palców na lewą stronę"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Drugie dziesięć na prawą stronę"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Głowy równa część na każdą stronę"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Moja ulica murem podzielona"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Świeci neonami prawa strona"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Lewa strona cała wygaszona"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zza zasłony obserwuję obie strony"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 3,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Lewa strona nigdy się nie budzi"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Prawa strona nigdy nie zasypia"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Lewa strona nigdy się nie budzi"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Prawa strona nigdy nie zasypia"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 4,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "K",
+      "lastName": "Staszewski"
+    }
+  ],
+  "band": {
+    "name": "Kult"
+  },
+  "next": {
+    "id": "atomowe-czarne-chmury",
+    "title": "Atomowe czarne chmury"
+  },
+  "previous": {
+    "id": "aniol-i-diabel",
+    "title": "Anioł i diabeł"
+  }
+}

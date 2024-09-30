@@ -1,1 +1,317 @@
-{"id": "uwielbiam-imie-twoje-panie", "title": "Uwielbiam Imię Twoje Panie", "category": {"id": "religious", "name": "Religijne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355587, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Uwielbiam imię Twoje Panie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Wywyższam Cię i daję Ci hołd"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "W przedsionku chwały Twej staję"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Z radością śpiewam Ci pieśń."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "O Panie Jezu chcę wyznać że"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Ja kocham Ciebie Ty zmieniasz mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Chcę Ci dziękować ze wszystkich sił"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Dajesz mi siebie bym na wieki żył."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "F"}}}, "next": {"id": "w-droge-z-nami", "title": "W drogę z nami"}, "previous": {"id": "uwielbiajcie-pana", "title": "Uwielbiajcie Pana"}}
+{
+  "id": "uwielbiam-imie-twoje-panie",
+  "title": "Uwielbiam Imię Twoje Panie",
+  "category": {
+    "id": "religious",
+    "name": "Religijne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355587,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uwielbiam imię Twoje Panie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wywyższam Cię i daję Ci hołd"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W przedsionku chwały Twej staję"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Z radością śpiewam Ci pieśń."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "O Panie Jezu chcę wyznać że"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ja kocham Ciebie Ty zmieniasz mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chcę Ci dziękować ze wszystkich sił"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dajesz mi siebie bym na wieki żył."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "F"
+      }
+    }
+  },
+  "next": {
+    "id": "w-droge-z-nami",
+    "title": "W drogę z nami"
+  },
+  "previous": {
+    "id": "uwielbiajcie-pana",
+    "title": "Uwielbiajcie Pana"
+  }
+}

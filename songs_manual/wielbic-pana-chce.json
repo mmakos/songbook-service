@@ -1,1 +1,166 @@
-{"id": "wielbic-pana-chce", "title": "Wielbić Pana chcę", "category": {"id": "religious", "name": "Religijne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355587, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Wielbić Pana chcę, radosną śpiewać pieśń."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Wielbić Pana chcę, on źródłem życia jest."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "next": {"id": "wierze-w-ciebie-panie", "title": "Wierzę w Ciebie Panie"}, "previous": {"id": "wejdzmy-do-jego-bram", "title": "Wejdźmy do Jego bram"}}
+{
+  "id": "wielbic-pana-chce",
+  "title": "Wielbić Pana chcę",
+  "category": {
+    "id": "religious",
+    "name": "Religijne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355587,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wielbić Pana chcę, radosną śpiewać pieśń."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wielbić Pana chcę, on źródłem życia jest."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "next": {
+    "id": "wierze-w-ciebie-panie",
+    "title": "Wierzę w Ciebie Panie"
+  },
+  "previous": {
+    "id": "wejdzmy-do-jego-bram",
+    "title": "Wejdźmy do Jego bram"
+  }
+}

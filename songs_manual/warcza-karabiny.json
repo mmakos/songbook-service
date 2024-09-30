@@ -1,1 +1,811 @@
-{"id": "warcza-karabiny", "title": "Warczą karabiny", "category": {"id": "patriotic", "name": "Patriotyczne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355586, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Warczą karabiny i dzwonią pałasze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Znów Piłsudski wyszedł w pole,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "A z nim chłopcy nasze."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wodzu nasz ty wodzu, przewódź świętej sprawie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "A każ trąbić trębaczowi,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Gdy staniesz w Warszawie."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wtedy wszystkie dzwony krakowskie zadzwonią"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "A Kolumnie Zygmuntowskiej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Tatry się pokłonią."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdy staniesz w Warszawie, wodzu strzelcu szary"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Podepcz nogą z ostrogami"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Gniazdo carskiej wiary."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdy staniesz w Warszawie na królewskim grodzie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "To poleci do rozprawy,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Co jest sił w narodzie."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "A Wisła rozniesie falami jasnemi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Że nie będzie już Moskala"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Na piastowskiej ziemi."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "A"}}}, "lyrics": [{"name": "R", "lastName": "Scholz"}], "next": {"id": "warszawianka", "title": "Warszawianka"}, "previous": {"id": "ulani-malowane-dzieci", "title": "Ułani, malowane dzieci"}}
+{
+  "id": "warcza-karabiny",
+  "title": "Warczą karabiny",
+  "category": {
+    "id": "patriotic",
+    "name": "Patriotyczne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355586,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Warczą karabiny i dzwonią pałasze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Znów Piłsudski wyszedł w pole,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A z nim chłopcy nasze."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wodzu nasz ty wodzu, przewódź świętej sprawie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A każ trąbić trębaczowi,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy staniesz w Warszawie."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wtedy wszystkie dzwony krakowskie zadzwonią"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A Kolumnie Zygmuntowskiej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tatry się pokłonią."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy staniesz w Warszawie, wodzu strzelcu szary"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Podepcz nogą z ostrogami"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gniazdo carskiej wiary."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy staniesz w Warszawie na królewskim grodzie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To poleci do rozprawy,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Co jest sił w narodzie."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "A Wisła rozniesie falami jasnemi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że nie będzie już Moskala"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na piastowskiej ziemi."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "R",
+      "lastName": "Scholz"
+    }
+  ],
+  "next": {
+    "id": "warszawianka",
+    "title": "Warszawianka"
+  },
+  "previous": {
+    "id": "ulani-malowane-dzieci",
+    "title": "Ułani, malowane dzieci"
+  }
+}

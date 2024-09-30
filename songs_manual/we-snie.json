@@ -1,1 +1,534 @@
-{"id": "we-snie", "title": "We śnie", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "We śnie jesteś moja i pierwsza,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "We śnie jestem pierwszy dla ciebie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Rozmawiamy o kwiatach i wierszach,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Psach na ziemi i ptakach na niebie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7}]}]}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "We śnie w lasach są jasne polany,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Spokój złoty i niesłychany,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Pocałunki zielone jak paproć."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}]}}, {"text": [{"text": "Aaa", "italic": true}, {"text": "…"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "We śnie…"}]}], "indent": 0, "verseRef": 0}, {"lines": [{"text": [{"text": "Albo jesteś egipska królowa"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Jak miód słodka i mądra jak sowa,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "A ja jestem dla ciebie jak światło."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Aaa", "italic": true}, {"text": "…"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "H"}, "minor": true}}, "lyrics": [{"name": "K", "lastName": "I. Gałczyński"}], "composer": [{"name": "A", "lastName": "Traczyk"}], "performers": [{"name": "Wyspy", "lastName": "Dobrej Nadziei"}], "next": {"id": "wehikul-czasu", "title": "Wehikuł czasu"}, "previous": {"id": "wciaz-wierze", "title": "Wciąż wierzę"}}
+{
+  "id": "we-snie",
+  "title": "We śnie",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "We śnie jesteś moja i pierwsza,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "We śnie jestem pierwszy dla ciebie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Rozmawiamy o kwiatach i wierszach,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Psach na ziemi i ptakach na niebie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "We śnie w lasach są jasne polany,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Spokój złoty i niesłychany,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pocałunki zielone jak paproć."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Aaa",
+              "italic": true
+            },
+            {
+              "text": "…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "We śnie…"
+            }
+          ]
+        }
+      ],
+      "indent": 0,
+      "verseRef": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Albo jesteś egipska królowa"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak miód słodka i mądra jak sowa,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A ja jestem dla ciebie jak światło."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Aaa",
+              "italic": true
+            },
+            {
+              "text": "…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "H"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "K",
+      "lastName": "I. Gałczyński"
+    }
+  ],
+  "composer": [
+    {
+      "name": "A",
+      "lastName": "Traczyk"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Wyspy",
+      "lastName": "Dobrej Nadziei"
+    }
+  ],
+  "next": {
+    "id": "wehikul-czasu",
+    "title": "Wehikuł czasu"
+  },
+  "previous": {
+    "id": "wciaz-wierze",
+    "title": "Wciąż wierzę"
+  }
+}

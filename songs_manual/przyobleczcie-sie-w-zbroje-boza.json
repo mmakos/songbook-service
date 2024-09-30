@@ -1,1 +1,705 @@
-{"id": "przyobleczcie-sie-w-zbroje-boza", "title": "Przyobleczcie się w zbroję Bożą", "category": {"id": "religious", "name": "Religijne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355587, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Przyobleczcie się w zbroję Bożą,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nosząc na sobie oręż światłości."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Bo nasza walka nie jest przeciw stworzeniom z ciała i krwi,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Ale przeciwko duchom zła, które zamieszkują ten świat ciemności."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Przepasawszy biodra wasze prawdą,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Przyobleczeni w sprawiedliwość krzyża,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Która nie opiera się złu,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Lecz bierze na siebie grzechy innych."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Obuwszy nogi w gotowość głoszenia Ewangelii,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Miejcie przede wszystkim tarczę wiary,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Że Chrystus kocha cię naprawdę,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Że umarł na krzyżu za ciebie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Gdy byłeś złoczyńcą i grzesznikiem."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Weźcie też miecz Ducha, którym jest Słowo Boże,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "A na głowę hełm zbawienia,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}, {"text": [{"text": "Bo Jezus Chrystus zmartwychwstał,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Bo On jest Panem,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Bo On powróci, bo On powróci"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "I nas zabierze ze Sobą."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Alleluja, allelu, allelu, alleluja."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Alleluja, allelu, allelu, alleluja."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "H"}, "minor": true}}, "lyrics": [{"name": "Ef", "lastName": "6"}, {"name": "11-17"}], "composer": [{"name": "Kiko", "lastName": "Argüello"}], "performers": [{"name": "Neokatechumenat"}], "next": {"id": "raduje-sie-dusza-ma", "title": "Raduje się dusza ma"}, "previous": {"id": "polorum-regina", "title": "Polorum Regina"}}
+{
+  "id": "przyobleczcie-sie-w-zbroje-boza",
+  "title": "Przyobleczcie się w zbroję Bożą",
+  "category": {
+    "id": "religious",
+    "name": "Religijne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355587,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przyobleczcie się w zbroję Bożą,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nosząc na sobie oręż światłości."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo nasza walka nie jest przeciw stworzeniom z ciała i krwi,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale przeciwko duchom zła, które zamieszkują ten świat ciemności."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przepasawszy biodra wasze prawdą,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Przyobleczeni w sprawiedliwość krzyża,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Która nie opiera się złu,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Lecz bierze na siebie grzechy innych."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Obuwszy nogi w gotowość głoszenia Ewangelii,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Miejcie przede wszystkim tarczę wiary,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że Chrystus kocha cię naprawdę,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że umarł na krzyżu za ciebie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy byłeś złoczyńcą i grzesznikiem."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Weźcie też miecz Ducha, którym jest Słowo Boże,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A na głowę hełm zbawienia,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo Jezus Chrystus zmartwychwstał,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo On jest Panem,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo On powróci, bo On powróci"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I nas zabierze ze Sobą."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Alleluja, allelu, allelu, alleluja."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Alleluja, allelu, allelu, alleluja."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "H"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "Ef",
+      "lastName": "6"
+    },
+    {
+      "name": "11-17"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Kiko",
+      "lastName": "Argüello"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Neokatechumenat"
+    }
+  ],
+  "next": {
+    "id": "raduje-sie-dusza-ma",
+    "title": "Raduje się dusza ma"
+  },
+  "previous": {
+    "id": "polorum-regina",
+    "title": "Polorum Regina"
+  }
+}

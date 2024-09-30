@@ -1,1 +1,1159 @@
-{"id": "wieczna-noc-endless-night", "title": "Wieczna noc (Endless Night)", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gdzie zniknął gwiezdny blask"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Mrok zasnuł dzień"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Jak znaleźć dom teraz mam"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Dom stał się pustym snem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Noc skryła go"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Ojcze, czy gdzieś jesteś tam"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Mówiłeś mi przecież"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Że zawsze pomożesz mi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "A teraz gdy wołam Cię"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "To nie ma Cię tu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Próbuję wciąż walczyć"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Jak Ty nie poddawać się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Wystarczy Twój jeden znak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Bym mógł wyjść z mroku"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Czy kiedyś wstanie świt"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Odpowiedz mi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Czy skończy się wieczna noc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdybyś był blisko mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Byłoby lżej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Ojcze, czy dasz jakiś znak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Mówiłeś mi przecież…"}]}], "indent": 1, "verseRef": 2}, {"lines": [{"text": [{"text": "Ta noc kiedyś skończy się", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Wiem, że nadejdzie brzask", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Wiem, że nadejdzie brzask", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}, {"text": [{"text": "A niebo rozchmurzy się", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Ujrzę znów słońca blask", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Ujrzę znów słońca blask", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "C"}}}, "lyrics": [{"name": "J", "lastName": "Taymor"}], "composer": [{"name": "H", "lastName": "Zimmer"}, {"name": "J", "lastName": "Rafkin"}, {"name": "Lebo", "lastName": "M."}], "performers": [{"name": "Król", "lastName": "Lew (Broadway)"}], "next": {"id": "wieczory", "title": "Wieczory"}, "previous": {"id": "whisky", "title": "Whisky"}}
+{
+  "id": "wieczna-noc-endless-night",
+  "title": "Wieczna noc (Endless Night)",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdzie zniknął gwiezdny blask"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mrok zasnuł dzień"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak znaleźć dom teraz mam"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Dom stał się pustym snem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Noc skryła go"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ojcze, czy gdzieś jesteś tam"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Mówiłeś mi przecież"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że zawsze pomożesz mi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A teraz gdy wołam Cię"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To nie ma Cię tu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Próbuję wciąż walczyć"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak Ty nie poddawać się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wystarczy Twój jeden znak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bym mógł wyjść z mroku"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Czy kiedyś wstanie świt"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Odpowiedz mi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Czy skończy się wieczna noc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdybyś był blisko mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Byłoby lżej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ojcze, czy dasz jakiś znak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Mówiłeś mi przecież…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 2
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ta noc kiedyś skończy się",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wiem, że nadejdzie brzask",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wiem, że nadejdzie brzask",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A niebo rozchmurzy się",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ujrzę znów słońca blask",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ujrzę znów słońca blask",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "C"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Taymor"
+    }
+  ],
+  "composer": [
+    {
+      "name": "H",
+      "lastName": "Zimmer"
+    },
+    {
+      "name": "J",
+      "lastName": "Rafkin"
+    },
+    {
+      "name": "Lebo",
+      "lastName": "M."
+    }
+  ],
+  "performers": [
+    {
+      "name": "Król",
+      "lastName": "Lew (Broadway)"
+    }
+  ],
+  "next": {
+    "id": "wieczory",
+    "title": "Wieczory"
+  },
+  "previous": {
+    "id": "whisky",
+    "title": "Whisky"
+  }
+}

@@ -1,1 +1,277 @@
-{"id": "oto-jest-dzien", "title": "Oto jest dzień", "category": {"id": "religious", "name": "Religijne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355587, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Oto jest dzień, oto jest dzień,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Który dał nam Pan, który dał nam Pan."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Weselmy się, weselmy się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "I radujmy się nim i radujmy się nim."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Oto jest dzień, który dał nam Pan"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Weselmy się i radujmy się nim."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Oto jest dzień, oto jest dzień,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Który dał nam Pan."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "C"}}}, "performers": [{"name": "x", "lastName": "Les Garrett"}, {"name": "tłum", "lastName": "T. Kamiński"}], "next": {"id": "oto-stoje-u-drzwi", "title": "Oto stoję u drzwi"}, "previous": {"id": "o-moj-najslodszy-jezu", "title": "O mój najsłodszy Jezu"}}
+{
+  "id": "oto-jest-dzien",
+  "title": "Oto jest dzień",
+  "category": {
+    "id": "religious",
+    "name": "Religijne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355587,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Oto jest dzień, oto jest dzień,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Który dał nam Pan, który dał nam Pan."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Weselmy się, weselmy się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I radujmy się nim i radujmy się nim."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oto jest dzień, który dał nam Pan"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Weselmy się i radujmy się nim."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oto jest dzień, oto jest dzień,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Który dał nam Pan."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "C"
+      }
+    }
+  },
+  "performers": [
+    {
+      "name": "x",
+      "lastName": "Les Garrett"
+    },
+    {
+      "name": "tłum",
+      "lastName": "T. Kamiński"
+    }
+  ],
+  "next": {
+    "id": "oto-stoje-u-drzwi",
+    "title": "Oto stoję u drzwi"
+  },
+  "previous": {
+    "id": "o-moj-najslodszy-jezu",
+    "title": "O mój najsłodszy Jezu"
+  }
+}

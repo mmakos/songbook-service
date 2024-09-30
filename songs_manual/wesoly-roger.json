@@ -1,1 +1,723 @@
-{"id": "wesoly-roger", "title": "Wesoły Roger", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Przybił do brzegu Wesoły Roger"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Piracki statek nasz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Kto straszną jego ujrzał załogę"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Ten śmierci spojrzał w twarz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jo ho ho ho, jo ho ho ho"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Ten śmierci spojrzał w twarz"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Na naszej fladze, czarnej jak sadze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Czaszka i kości dwie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Twarda pularda, grom i musztarda"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Tak nasz kapitan klnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jo ho ho ho, jo ho ho ho"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Tak nasz kapitan klnie"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Zdradzisz go bracie toś trup i kwita"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Idziesz na dno jak wrak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Bo nie ma bardziej czarnego typa"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Jak nasz Kapitan Hak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jo ho ho ho, jo ho ho ho"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Jak nasz Kapitan Hak"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Kapitan Jakub Hak"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 1}], "key": {"songbook": {"note": {"base": "E"}}}, "lyrics": [{"name": "K", "lastName": "Wodnicka"}], "composer": [{"name": "M", "lastName": "Janicz"}], "performers": [{"name": "Przygody", "lastName": "Piotrusia Pana"}], "next": {"id": "wedrowiec", "title": "Wędrowiec"}, "previous": {"id": "wellerman", "title": "Wellerman"}}
+{
+  "id": "wesoly-roger",
+  "title": "Wesoły Roger",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przybił do brzegu Wesoły Roger"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Piracki statek nasz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kto straszną jego ujrzał załogę"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ten śmierci spojrzał w twarz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jo ho ho ho, jo ho ho ho"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ten śmierci spojrzał w twarz"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Na naszej fladze, czarnej jak sadze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Czaszka i kości dwie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Twarda pularda, grom i musztarda"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tak nasz kapitan klnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jo ho ho ho, jo ho ho ho"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tak nasz kapitan klnie"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Zdradzisz go bracie toś trup i kwita"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Idziesz na dno jak wrak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo nie ma bardziej czarnego typa"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak nasz Kapitan Hak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jo ho ho ho, jo ho ho ho"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak nasz Kapitan Hak"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kapitan Jakub Hak"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "E"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "K",
+      "lastName": "Wodnicka"
+    }
+  ],
+  "composer": [
+    {
+      "name": "M",
+      "lastName": "Janicz"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Przygody",
+      "lastName": "Piotrusia Pana"
+    }
+  ],
+  "next": {
+    "id": "wedrowiec",
+    "title": "Wędrowiec"
+  },
+  "previous": {
+    "id": "wellerman",
+    "title": "Wellerman"
+  }
+}

@@ -1,1 +1,3270 @@
-{"id": "hiob", "title": "Hiob", "category": {"id": "kaczmarski", "name": "Kaczmarski & Gintrowski"}, "created": {"name": "spiewnik-mmakos", "time": 1727355575, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Ta wyprawa była dla nas przyjemnością"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Kiedy z gór zeszliśmy w kwitnące doliny"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Parobcy porzucali domy broń i stada"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Obrońcy zginęli śmiercią bohaterską"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Równaliśmy z ziemią winnice i zasiewy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Nasze ręce dymiły ludzką krwią i tłuszczem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "I z całej krainie nie pozostał po nas"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Kamień na kamieniu ani zdrowy człowiek"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Widzieliśmy łupów naszych właściciela"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Cały w strupach i wrzodach trwał w pogorzelisku"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 1}]}]}}], "optional": true}]}}, {"text": [{"text": "Tuż przed naszym najazdem stracił wszystkie dzieci"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}, {"text": [{"text": "W gruzach domu przez piorun zburzonego w nocy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Nie znał chyba ten człowiek łaski swego Boga"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Lecz wielbił Go nadal choć nieludzkim głosem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Staliśmy milcząc dobić ktoś go chciał z litości"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}, {"text": [{"text": "Ale stracił śmiałość wobec takiej wiary"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Mmm…"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdy zgwałcili mi żonę sławię słodycz jej ciała"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}]}]}}, {"text": [{"text": "Braci synów już nie ma ja wciąż z nimi rozmawiam"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}]}]}}, {"text": [{"text": "Roztrzaskali domostwo ja kamienie całuję"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Zawlekli mnie na śmietnik w słońce się wpatruję"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Zmiażdżyli mi podbrzusze miłość nie da się zgubić"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Wyszarpali mi język więc palcami coś mówię"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Wykłuli mi źrenice myśl się z myślą zaplata"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Dzięki Ci Boże stworzyłeś najpiękniejszy ze światów"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true, "modification": "DIM"}}, {"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 8}, {"interval": 7}, {"interval": 6}, {"interval": 5}]}}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Wódz gotowych na wszystko bitnych górskich plemion"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Chciałbym być bogiem takich jak ten człowiek ludzi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 1}]}]}}], "optional": true}]}}, {"text": [{"text": "Jeden starczył by dźwignąć i utrzymać w górze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}, {"text": [{"text": "Świat Boga i nicość przez Niego mu daną"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}, {"text": [{"text": "Chociaż zniszczyć Go jednym mógł wzruszeniem ramion"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}, {"text": [{"text": "Chociaż zniszczyć Go jednym mógł wzruszeniem ramion"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Mmm…"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 6}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdy zgwałcili mi żonę…"}]}], "indent": 1, "verseRef": 3}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "lyrics": [{"name": "J", "lastName": "Kaczmarski"}], "composer": [{"name": "Z", "lastName": "Łapiński"}], "next": {"id": "hymn", "title": "Hymn"}, "previous": {"id": "gdy-tak-siedzimy", "title": "Gdy tak siedzimy"}}
+{
+  "id": "hiob",
+  "title": "Hiob",
+  "category": {
+    "id": "kaczmarski",
+    "name": "Kaczmarski & Gintrowski"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355575,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ta wyprawa była dla nas przyjemnością"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kiedy z gór zeszliśmy w kwitnące doliny"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Parobcy porzucali domy broń i stada"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Obrońcy zginęli śmiercią bohaterską"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Równaliśmy z ziemią winnice i zasiewy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nasze ręce dymiły ludzką krwią i tłuszczem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I z całej krainie nie pozostał po nas"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kamień na kamieniu ani zdrowy człowiek"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Widzieliśmy łupów naszych właściciela"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Cały w strupach i wrzodach trwał w pogorzelisku"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tuż przed naszym najazdem stracił wszystkie dzieci"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W gruzach domu przez piorun zburzonego w nocy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie znał chyba ten człowiek łaski swego Boga"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Lecz wielbił Go nadal choć nieludzkim głosem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Staliśmy milcząc dobić ktoś go chciał z litości"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale stracił śmiałość wobec takiej wiary"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mmm…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy zgwałcili mi żonę sławię słodycz jej ciała"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Braci synów już nie ma ja wciąż z nimi rozmawiam"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Roztrzaskali domostwo ja kamienie całuję"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zawlekli mnie na śmietnik w słońce się wpatruję"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zmiażdżyli mi podbrzusze miłość nie da się zgubić"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wyszarpali mi język więc palcami coś mówię"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wykłuli mi źrenice myśl się z myślą zaplata"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dzięki Ci Boże stworzyłeś najpiękniejszy ze światów"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 8
+                          },
+                          {
+                            "interval": 7
+                          },
+                          {
+                            "interval": 6
+                          },
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wódz gotowych na wszystko bitnych górskich plemion"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chciałbym być bogiem takich jak ten człowiek ludzi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jeden starczył by dźwignąć i utrzymać w górze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Świat Boga i nicość przez Niego mu daną"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chociaż zniszczyć Go jednym mógł wzruszeniem ramion"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chociaż zniszczyć Go jednym mógł wzruszeniem ramion"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mmm…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy zgwałcili mi żonę…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 3
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Kaczmarski"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Z",
+      "lastName": "Łapiński"
+    }
+  ],
+  "next": {
+    "id": "hymn",
+    "title": "Hymn"
+  },
+  "previous": {
+    "id": "gdy-tak-siedzimy",
+    "title": "Gdy tak siedzimy"
+  }
+}

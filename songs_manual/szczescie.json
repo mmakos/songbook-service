@@ -1,1 +1,504 @@
-{"id": "szczescie", "title": "Szczęście", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Coś srebrnego dzieje się w chmur dali."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Wicher do drzwi puka, jakby przyniósł list."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Myśmy długo na siebie czekali."}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "W niebie burzy świst?"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ty masz duszę gwiezdną i rozrzutną."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Czy pamiętasz pośpiech pomieszanych tchnień?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Szczęście przyszło. Czemuż nam tak smutno?"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Uchodzimy w cień…"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Czemuż ono w mroku szuka treści"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "I rozgrzesza nicość, i zatraca kres?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Jego bezmiar wszystko w sobie zmieści"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Oprócz twoich łez."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}, "original": {"note": {"base": "D"}, "minor": true}, "comfort": {"note": {"base": "G"}, "minor": true}}, "lyrics": [{"name": "B", "lastName": "Leśmian"}], "composer": [{"name": "A", "lastName": "Strug"}, {"name": "S", "lastName": "Soyka"}], "next": {"id": "szyba", "title": "Szyba"}, "previous": {"id": "szary-swiat", "title": "Szary świat"}}
+{
+  "id": "szczescie",
+  "title": "Szczęście",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Coś srebrnego dzieje się w chmur dali."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wicher do drzwi puka, jakby przyniósł list."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Myśmy długo na siebie czekali."
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W niebie burzy świst?"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ty masz duszę gwiezdną i rozrzutną."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Czy pamiętasz pośpiech pomieszanych tchnień?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szczęście przyszło. Czemuż nam tak smutno?"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Uchodzimy w cień…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Czemuż ono w mroku szuka treści"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I rozgrzesza nicość, i zatraca kres?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jego bezmiar wszystko w sobie zmieści"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oprócz twoich łez."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    },
+    "comfort": {
+      "note": {
+        "base": "G"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "B",
+      "lastName": "Leśmian"
+    }
+  ],
+  "composer": [
+    {
+      "name": "A",
+      "lastName": "Strug"
+    },
+    {
+      "name": "S",
+      "lastName": "Soyka"
+    }
+  ],
+  "next": {
+    "id": "szyba",
+    "title": "Szyba"
+  },
+  "previous": {
+    "id": "szary-swiat",
+    "title": "Szary świat"
+  }
+}

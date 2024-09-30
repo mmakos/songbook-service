@@ -1,1 +1,402 @@
-{"id": "kilku-kumpli-wez", "title": "Kilku kumpli weź", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355581, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Kilku kumpli i patyk albo dwa,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Powstanie dom, w którym mieszkać się da,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Kumpli weź, patyk w garść potrafisz to."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Wyrośnie dom, choć nie było tu go."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Okno będzie tu, a drzwi o tam,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Postawimy nasz dom,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "To nie potrwa długo."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Kilku kumpli…"}]}], "indent": 1, "verseRef": 0}, {"lines": [{"text": [{"text": "Skromny lub zupełnie nie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Tygrys może tu wpaść,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "A nawet sowa."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Kilku kumpli…"}]}], "indent": 1, "verseRef": 0}], "key": {"songbook": {"note": {"base": "G"}}}, "lyrics": [{"name": "M", "lastName": "Robaczewski"}], "composer": [{"name": "J", "lastName": "McNeely"}], "next": {"id": "kim-wlasciwie-byla-ta-piekna-pani", "title": "Kim właściwie była ta piękna Pani"}, "previous": {"id": "kawalek-do-tanca", "title": "Kawałek do Tańca"}}
+{
+  "id": "kilku-kumpli-wez",
+  "title": "Kilku kumpli weź",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355581,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Kilku kumpli i patyk albo dwa,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Powstanie dom, w którym mieszkać się da,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kumpli weź, patyk w garść potrafisz to."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wyrośnie dom, choć nie było tu go."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Okno będzie tu, a drzwi o tam,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Postawimy nasz dom,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To nie potrwa długo."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Kilku kumpli…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Skromny lub zupełnie nie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tygrys może tu wpaść,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A nawet sowa."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Kilku kumpli…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "G"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "M",
+      "lastName": "Robaczewski"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "McNeely"
+    }
+  ],
+  "next": {
+    "id": "kim-wlasciwie-byla-ta-piekna-pani",
+    "title": "Kim właściwie była ta piękna Pani"
+  },
+  "previous": {
+    "id": "kawalek-do-tanca",
+    "title": "Kawałek do Tańca"
+  }
+}

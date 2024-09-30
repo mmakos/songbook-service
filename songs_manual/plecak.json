@@ -1,1 +1,449 @@
-{"id": "plecak", "title": "Plecak", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355583, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Porywam plecak który leży w szafie mej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Spoglądam na zegarek chyba spóźnię się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "I wtedy wiem że coś wydarzy się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wybiła północ wszyscy ludzie pewnie śpią"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "A dźwięki tej melodii coraz ciszej brzmią"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Ogniska blask rozświetla twoją twarz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Śpiewaj razem z nami je je je je"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "A może teraz ło ło ło ło"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Znów będzie nam wesoło ło ło ło"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Szabu dibu dibu daj"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Już mam gitarę w ręku i muzyka wre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Spoglądam wciąż na ciebie ty nie widzisz mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "A w oczach masz morze i szum drzew"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Wybiła północ wszyscy ludzie pewnie śpią"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "A dźwięki tej melodii coraz ciszej brzmią"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Ogniska blask rozświetla twoją twarz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Śpiewaj razem z nami…"}]}], "indent": 1, "verseRef": 2}], "key": {"songbook": {"note": {"base": "G"}}}, "next": {"id": "placz", "title": "Płacz"}, "previous": {"id": "piosenki-bony-m", "title": "Piosenki Bony M"}}
+{
+  "id": "plecak",
+  "title": "Plecak",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355583,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Porywam plecak który leży w szafie mej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Spoglądam na zegarek chyba spóźnię się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I wtedy wiem że coś wydarzy się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wybiła północ wszyscy ludzie pewnie śpią"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A dźwięki tej melodii coraz ciszej brzmią"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ogniska blask rozświetla twoją twarz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Śpiewaj razem z nami je je je je"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A może teraz ło ło ło ło"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Znów będzie nam wesoło ło ło ło"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szabu dibu dibu daj"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Już mam gitarę w ręku i muzyka wre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Spoglądam wciąż na ciebie ty nie widzisz mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A w oczach masz morze i szum drzew"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wybiła północ wszyscy ludzie pewnie śpią"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A dźwięki tej melodii coraz ciszej brzmią"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ogniska blask rozświetla twoją twarz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Śpiewaj razem z nami…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 2
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "G"
+      }
+    }
+  },
+  "next": {
+    "id": "placz",
+    "title": "Płacz"
+  },
+  "previous": {
+    "id": "piosenki-bony-m",
+    "title": "Piosenki Bony M"
+  }
+}

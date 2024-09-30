@@ -1,1 +1,803 @@
-{"id": "autobusy-i-tramwaje", "title": "Autobusy i tramwaje", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355579, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Takie zwykłe masz ciało, takie szare"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Takie nudne są dni bo takie same"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Gdy o świcie do pracy swojej wstajesz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Takie zwykłe masz ciało takie szare"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Autobusy i Tramwaje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Autobusy i Tramwaje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Autobusy i Tramwaje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Autobusy i Tramwaje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Takie złe i zmęczone ludzkie twarze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Alkoholem skropione, bez wyrazu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Toczą życie o świcie po trotuarze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Takie złe i zmęczone ludzkie twarze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Autobusy i Tramwaje…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Takie zwykłe masz ciało, takie szare"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Takie nudne są dni bo takie same"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Gdy o świcie do pracy swojej wstajesz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Takie zwykłe masz ciało takie szare"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Autobusy i Tramwaje…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}, "original": {"note": {"base": "C"}, "minor": true}, "comfort": {"note": {"base": "A"}, "minor": true}}, "lyrics": [{"name": "Z", "lastName": "Staszczyk"}], "performers": [{"name": "T", "lastName": "Love"}], "next": {"id": "ave-maria-paen", "title": "Ave Maria Païen"}, "previous": {"id": "atomowe-czarne-chmury", "title": "Atomowe czarne chmury"}}
+{
+  "id": "autobusy-i-tramwaje",
+  "title": "Autobusy i tramwaje",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355579,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Takie zwykłe masz ciało, takie szare"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Takie nudne są dni bo takie same"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy o świcie do pracy swojej wstajesz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Takie zwykłe masz ciało takie szare"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Takie złe i zmęczone ludzkie twarze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Alkoholem skropione, bez wyrazu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Toczą życie o świcie po trotuarze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Takie złe i zmęczone ludzkie twarze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Takie zwykłe masz ciało, takie szare"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Takie nudne są dni bo takie same"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy o świcie do pracy swojej wstajesz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Takie zwykłe masz ciało takie szare"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Autobusy i Tramwaje…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "C"
+      },
+      "minor": true
+    },
+    "comfort": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "Z",
+      "lastName": "Staszczyk"
+    }
+  ],
+  "band": {
+    "name": "T.Love"
+  },
+  "next": {
+    "id": "ave-maria-paen",
+    "title": "Ave Maria Païen"
+  },
+  "previous": {
+    "id": "atomowe-czarne-chmury",
+    "title": "Atomowe czarne chmury"
+  }
+}

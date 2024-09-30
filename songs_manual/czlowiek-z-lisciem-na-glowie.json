@@ -1,1 +1,775 @@
-{"id": "czlowiek-z-lisciem-na-glowie", "title": "Człowiek z liściem na głowie", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355580, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Wsiadł do autobusu człowiek z liściem na głowie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nikt go nie poratuje nikt mu nic nie powie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Tylko się każdy gapi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Tylko się każdy gapi i nic"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Siedzi w autobusie człowiek z liściem na głowie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "O liściu w swych rzadkich włosach"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Nieprędko się dowie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Tylko się w okno gapi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Tylko się w okno gapi i nic"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Uważaj to nie chmury"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "To pałac kultury"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Liście lecą z drzew"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Liście lecą z drzew"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}], "optional": true}]}}], "indent": 1}, {"lines": [{"text": [{"text": "I tak siedzi w autobusie człowiek z liściem na głowie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nikt go nie poratuje nikt mu nic nie powie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Tylko się każdy gapi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Tylko się każdy gapi i nic"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wsiadł drugi podobny nad człowiekiem się zlitował"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Tamten się pogłaskał w główkę liścia sobie schował"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Bo ja mówi jestem z lasu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Bo ja mówi jestem z lasu i już"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Uważaj to nie chmury…"}]}], "indent": 1, "verseRef": 2}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}}, "lyrics": [{"name": "Jakub", "lastName": "Sienkiewicz"}], "composer": [{"name": "Jakub", "lastName": "Sienkiewicz"}], "performers": [{"name": "Elektryczne", "lastName": "Gitary"}], "next": {"id": "cztery-cory-mial-tata", "title": "Cztery córy miał tata"}, "previous": {"id": "czerwone-korale", "title": "Czerwone korale"}}
+{
+  "id": "czlowiek-z-lisciem-na-glowie",
+  "title": "Człowiek z liściem na głowie",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355580,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wsiadł do autobusu człowiek z liściem na głowie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nikt go nie poratuje nikt mu nic nie powie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się każdy gapi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się każdy gapi i nic"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Siedzi w autobusie człowiek z liściem na głowie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "O liściu w swych rzadkich włosach"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nieprędko się dowie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się w okno gapi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się w okno gapi i nic"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uważaj to nie chmury"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To pałac kultury"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Liście lecą z drzew"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Liście lecą z drzew"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "I tak siedzi w autobusie człowiek z liściem na głowie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nikt go nie poratuje nikt mu nic nie powie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się każdy gapi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tylko się każdy gapi i nic"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wsiadł drugi podobny nad człowiekiem się zlitował"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tamten się pogłaskał w główkę liścia sobie schował"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo ja mówi jestem z lasu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo ja mówi jestem z lasu i już"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uważaj to nie chmury…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 2
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "Jakub",
+      "lastName": "Sienkiewicz"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Jakub",
+      "lastName": "Sienkiewicz"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Elektryczne",
+      "lastName": "Gitary"
+    }
+  ],
+  "next": {
+    "id": "cztery-cory-mial-tata",
+    "title": "Cztery córy miał tata"
+  },
+  "previous": {
+    "id": "czerwone-korale",
+    "title": "Czerwone korale"
+  }
+}

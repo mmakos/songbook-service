@@ -1,1 +1,690 @@
-{"id": "stary-kowboj", "title": "Stary kowboj", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355583, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Na prerię spływa szary mrok po stepie wieje wiatr"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Rozsiodłał stary kowboj konia przy ognisku siadł"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Gdy płomień resztką sił się tlił dorzucił parę drew"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Wieczorne mgły niosą jego śpiew:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Co mi tam wiatr co mi tam chłód"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Byle był koń wiatronogi druh"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Byle był colt lasso i bat"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Co mi tam chłód co mi tam wiatr"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Pamiętasz stary koniu gdyś źrebakiem jeszcze był?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Marzyłem - kupię sobie dom jak człowiek będę żył"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Pasałem bydło życie całe co dziś mam czy wiesz?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Dwa colty siodło ciebie i tę pieśń:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Co mi tam wiatr…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Nad ranem gdy kowboje wyganiali bydło w step"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Starego pochowali starej szkapie kula w łeb"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Na morzu prerii w dali gdzieś kowbojów znika sznur"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Wiatr niesie pieśń nuci jeszcze bór"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Co mi tam wiatr…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "lyrics": [{"name": "J", "lastName": "Michotek"}], "composer": [{"name": "J", "lastName": "Cash"}], "next": {"id": "stokrotka", "title": "Stokrotka"}, "previous": {"id": "splynal-mrok-shadowland", "title": "Spłynął mrok (Shadowland)"}}
+{
+  "id": "stary-kowboj",
+  "title": "Stary kowboj",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355583,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Na prerię spływa szary mrok po stepie wieje wiatr"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Rozsiodłał stary kowboj konia przy ognisku siadł"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy płomień resztką sił się tlił dorzucił parę drew"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wieczorne mgły niosą jego śpiew:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Co mi tam wiatr co mi tam chłód"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Byle był koń wiatronogi druh"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Byle był colt lasso i bat"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Co mi tam chłód co mi tam wiatr"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Pamiętasz stary koniu gdyś źrebakiem jeszcze był?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Marzyłem - kupię sobie dom jak człowiek będę żył"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pasałem bydło życie całe co dziś mam czy wiesz?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dwa colty siodło ciebie i tę pieśń:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Co mi tam wiatr…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nad ranem gdy kowboje wyganiali bydło w step"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Starego pochowali starej szkapie kula w łeb"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na morzu prerii w dali gdzieś kowbojów znika sznur"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wiatr niesie pieśń nuci jeszcze bór"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Co mi tam wiatr…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Michotek"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Cash"
+    }
+  ],
+  "next": {
+    "id": "stokrotka",
+    "title": "Stokrotka"
+  },
+  "previous": {
+    "id": "splynal-mrok-shadowland",
+    "title": "Spłynął mrok (Shadowland)"
+  }
+}

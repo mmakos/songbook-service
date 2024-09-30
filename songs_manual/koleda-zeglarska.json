@@ -1,1 +1,846 @@
-{"id": "koleda-zeglarska", "title": "Kolęda żeglarska", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355581, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Świat cały usnął pod śniegu żaglem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "I w oczy wiatrem nam wieje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Na marzeń korabiu przypłynie dziś nagle"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Żeglarska gwiazda z Betlejem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "G"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Trwaj więc kolędo trwaj"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Nie odpłyń za szybko swym statkiem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Graj nam kolędo graj"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Daj złamać się z sobą opłatkiem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Spłyń cicho kolędo na łodzie uśpione"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Na smukłość zamkniętą w topoli"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Na ręce w przyjaznym uścisku splecione"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "I na to co czasem nas boli"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "G"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Trwaj więc…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Daj swoją melodia nam ukojenie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Daj myślom do nieba aż wzlatać"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "I daj jak najczęściej przyjazne spojrzenie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "I daj nam dotrwać do lata"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "G"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Trwaj więc…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "performers": [{"name": "A", "lastName": "Korycki"}], "next": {"id": "kombajn-bizon", "title": "Kombajn Bizon"}, "previous": {"id": "kocham-cie-jak-irlandie", "title": "Kocham Cię jak Irlandię"}}
+{
+  "id": "koleda-zeglarska",
+  "title": "Kolęda żeglarska",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355581,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Świat cały usnął pod śniegu żaglem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I w oczy wiatrem nam wieje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na marzeń korabiu przypłynie dziś nagle"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żeglarska gwiazda z Betlejem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Trwaj więc kolędo trwaj"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie odpłyń za szybko swym statkiem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Graj nam kolędo graj"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Daj złamać się z sobą opłatkiem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Spłyń cicho kolędo na łodzie uśpione"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na smukłość zamkniętą w topoli"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na ręce w przyjaznym uścisku splecione"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I na to co czasem nas boli"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Trwaj więc…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Daj swoją melodia nam ukojenie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Daj myślom do nieba aż wzlatać"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I daj jak najczęściej przyjazne spojrzenie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I daj nam dotrwać do lata"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Trwaj więc…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "performers": [
+    {
+      "name": "A",
+      "lastName": "Korycki"
+    }
+  ],
+  "next": {
+    "id": "kombajn-bizon",
+    "title": "Kombajn Bizon"
+  },
+  "previous": {
+    "id": "kocham-cie-jak-irlandie",
+    "title": "Kocham Cię jak Irlandię"
+  }
+}

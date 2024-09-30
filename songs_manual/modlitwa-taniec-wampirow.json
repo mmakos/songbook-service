@@ -1,1 +1,814 @@
-{"id": "modlitwa-taniec-wampirow", "title": "Modlitwa (Taniec Wampirów)", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355582, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gdy muzyka w sercu gra dusza się do tańca rwie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "To do zguby wiedzie nas lepiej jest pomodlić się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Niechaj Bóg obroni nas i oddali wszelkie zło"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Nie pozwoli spojrzeć nam na otchłani mroczne dno"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Niechaj Bóg uchowa nas przed pragnieniem głodnych serc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Choć pokusa drzemie w nas lepiej jest nie budzić jej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Niechaj Bóg wybaczy nam pociąg do plugawych miejsc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Zachowajmy rozum gdy bestia w brzuchu ocknie się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Niechaj Bóg oszczędzi nam lekkiej chuci ciężkich prób"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Niech nam wiarę w siebie da by lubieżny zwalczyć głód"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Niechaj Bóg oszczędzi nam lekkiej chuci ciężkich prób"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Niech nam wiarę w siebie da by lubieżny zwalczyć głód"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Daj nam Boże więcej sił zbawić nas od pokus chciej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Wszak silniejsza Twoja moc większa od nas samych jest"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "To mnie wyzwala", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}], "silent": true}]}}, {"text": [{"text": "S", "italic": true}, {"text": "ilniejsze jest ode mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}], "silent": true}]}}, {"text": [{"text": "To mnie zniewala", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}], "silent": true}]}}, {"text": [{"text": "O", "italic": true}, {"text": "żywa we mnie chcę czy nie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}], "silent": true}]}}, {"text": [{"text": "To co nas łudzi", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}], "silent": true}]}}, {"text": [{"text": "M", "italic": true}, {"text": "ocniejsze od nas samych jest"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}], "silent": true}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}}}, "lyrics": [{"name": "M", "lastName": "Kunze"}], "composer": [{"name": "J", "lastName": "Steinman"}], "next": {"id": "modlitwa-konca-mojego-wieku", "title": "Modlitwa końca mojego wieku"}, "previous": {"id": "mniej-niz-zero", "title": "Mniej niż zero"}}
+{
+  "id": "modlitwa-taniec-wampirow",
+  "title": "Modlitwa (Taniec Wampirów)",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355582,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy muzyka w sercu gra dusza się do tańca rwie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To do zguby wiedzie nas lepiej jest pomodlić się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niechaj Bóg obroni nas i oddali wszelkie zło"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie pozwoli spojrzeć nam na otchłani mroczne dno"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Niechaj Bóg uchowa nas przed pragnieniem głodnych serc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Choć pokusa drzemie w nas lepiej jest nie budzić jej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niechaj Bóg wybaczy nam pociąg do plugawych miejsc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zachowajmy rozum gdy bestia w brzuchu ocknie się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Niechaj Bóg oszczędzi nam lekkiej chuci ciężkich prób"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niech nam wiarę w siebie da by lubieżny zwalczyć głód"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niechaj Bóg oszczędzi nam lekkiej chuci ciężkich prób"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niech nam wiarę w siebie da by lubieżny zwalczyć głód"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Daj nam Boże więcej sił zbawić nas od pokus chciej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszak silniejsza Twoja moc większa od nas samych jest"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "To mnie wyzwala",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "S",
+              "italic": true
+            },
+            {
+              "text": "ilniejsze jest ode mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To mnie zniewala",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "O",
+              "italic": true
+            },
+            {
+              "text": "żywa we mnie chcę czy nie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To co nas łudzi",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "M",
+              "italic": true
+            },
+            {
+              "text": "ocniejsze od nas samych jest"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "silent": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "M",
+      "lastName": "Kunze"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Steinman"
+    }
+  ],
+  "next": {
+    "id": "modlitwa-konca-mojego-wieku",
+    "title": "Modlitwa końca mojego wieku"
+  },
+  "previous": {
+    "id": "mniej-niz-zero",
+    "title": "Mniej niż zero"
+  }
+}

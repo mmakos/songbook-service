@@ -1,1 +1,437 @@
-{"id": "czuze-su-te-kon", "title": "Czuże su te koné", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355580, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Czuże su te koné we dwore we dwore"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Žaden šuchaj nemi ne ore ne ore"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Czuże su te koné moji su"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "To me do mej milej donésů"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Na kopečku stála plakála plakála"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Jesů Jesů Mario wolála wolála"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Jesů Jesů Mario Krysté Pané"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Bude li moj chlapec albo ne"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Bude li to chlapec bude šwec bude šwec"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Bude robit tižmy pro tanec pro tanec"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Bude li tancerka Jesů Mario"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Bude li frairka jako ja"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "next": {"id": "dalej-w-morze", "title": "Dalej w morze"}, "previous": {"id": "cztery-cory-mial-tata", "title": "Cztery córy miał tata"}}
+{
+  "id": "czuze-su-te-kon",
+  "title": "Czuże su te koné",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355580,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Czuże su te koné we dwore we dwore"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Žaden šuchaj nemi ne ore ne ore"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Czuże su te koné moji su"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To me do mej milej donésů"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Na kopečku stála plakála plakála"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jesů Jesů Mario wolála wolála"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jesů Jesů Mario Krysté Pané"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bude li moj chlapec albo ne"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Bude li to chlapec bude šwec bude šwec"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bude robit tižmy pro tanec pro tanec"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bude li tancerka Jesů Mario"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bude li frairka jako ja"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "next": {
+    "id": "dalej-w-morze",
+    "title": "Dalej w morze"
+  },
+  "previous": {
+    "id": "cztery-cory-mial-tata",
+    "title": "Cztery córy miał tata"
+  }
+}

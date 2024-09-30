@@ -1,1 +1,810 @@
-{"id": "zono-moja", "title": "Żono moja", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355585, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gdy nad nami niebo płacze,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Mokną Twoje złote włosy,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Piękny list spotkanie nasze,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Jak listonosz gdzieś unosi."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nad górami słońce świeci,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Srebrny księżyc za górami,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Jedno z drugim się przegania,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "A my się kochamy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Żono moja, serce moje,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Nie ma takich jak my dwoje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Bo ja kocham oczy Twoje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Do szaleństwa, do wieczora"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Żono moja, serce moje,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Nie ma takich jak my dwoje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Bo ja kocham oczy Twoje"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Do szaleństwa, do wieczora"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Żono moja"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Nie ma takich jak my dwoje,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nasza miłość się nie chwali."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Nawet niebo się nie boi,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Nic nas przecież nie oddali."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Nad górami słonce świeci,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Srebrny księżyc za górami,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Jedno z drugim się przegania,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "A my się kochamy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Żono moja…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "E"}, "minor": true}}, "lyrics": [{"name": "D", "lastName": "Mato"}], "composer": [{"name": "D", "lastName": "Novković"}, {"name": "Z", "lastName": "Zabolek"}], "performers": [{"name": "Masters"}], "next": {"id": "1980-ii", "title": "1980 II"}, "previous": {"id": "zeby-moc-prostota", "title": "Żeby móc (Prostota)"}}
+{
+  "id": "zono-moja",
+  "title": "Żono moja",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355585,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy nad nami niebo płacze,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mokną Twoje złote włosy,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Piękny list spotkanie nasze,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak listonosz gdzieś unosi."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nad górami słońce świeci,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Srebrny księżyc za górami,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jedno z drugim się przegania,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A my się kochamy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Żono moja, serce moje,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie ma takich jak my dwoje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo ja kocham oczy Twoje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Do szaleństwa, do wieczora"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żono moja, serce moje,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie ma takich jak my dwoje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo ja kocham oczy Twoje"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Do szaleństwa, do wieczora"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żono moja"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nie ma takich jak my dwoje,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nasza miłość się nie chwali."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nawet niebo się nie boi,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nic nas przecież nie oddali."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nad górami słonce świeci,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Srebrny księżyc za górami,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jedno z drugim się przegania,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A my się kochamy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Żono moja…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "E"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "D",
+      "lastName": "Mato"
+    }
+  ],
+  "composer": [
+    {
+      "name": "D",
+      "lastName": "Novković"
+    },
+    {
+      "name": "Z",
+      "lastName": "Zabolek"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Masters"
+    }
+  ],
+  "next": {
+    "id": "1980-ii",
+    "title": "1980 II"
+  },
+  "previous": {
+    "id": "zeby-moc-prostota",
+    "title": "Żeby móc (Prostota)"
+  }
+}

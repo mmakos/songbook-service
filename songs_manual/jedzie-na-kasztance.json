@@ -1,1 +1,645 @@
-{"id": "jedzie-na-kasztance", "title": "Jedzie na kasztance", "category": {"id": "patriotic", "name": "Patriotyczne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355586, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Jedzie, jedzie na Kasztance,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Siwy strzelca strój!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Miły wodzu mój!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Gdzie szabelka Twa ze stali,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Przecież idziem w bój?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Gdzie Twój mundur generalski,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Złotem wyszywany?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Masz wierniejszych niż stal chłodna"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Młodych Strzelców rój…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Nad lampasy i czerwienie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Wolisz Strzelca strój…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Ale pod tą szarą bluzą"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Serce ze złota!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Ale błyszczą groźną wolą"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Królewskie oczy!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Pójdziem z Tobą po zwycięstwo"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Poprzez krew i znój!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hej, hej, Komendancie…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "D"}}}, "lyrics": [{"name": "W", "lastName": "Biernacki"}], "composer": [{"name": "Z", "lastName": "Pomarański"}], "next": {"id": "jeszcze-jeden-mazur-dzisiaj", "title": "Jeszcze jeden mazur dzisiaj"}, "previous": {"id": "idzie-zolnierz-borem-lasem", "title": "Idzie żołnierz borem lasem"}}
+{
+  "id": "jedzie-na-kasztance",
+  "title": "Jedzie na kasztance",
+  "category": {
+    "id": "patriotic",
+    "name": "Patriotyczne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355586,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jedzie, jedzie na Kasztance,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Siwy strzelca strój!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Miły wodzu mój!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdzie szabelka Twa ze stali,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Przecież idziem w bój?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdzie Twój mundur generalski,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Złotem wyszywany?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Masz wierniejszych niż stal chłodna"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Młodych Strzelców rój…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nad lampasy i czerwienie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wolisz Strzelca strój…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ale pod tą szarą bluzą"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Serce ze złota!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ale błyszczą groźną wolą"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Królewskie oczy!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Pójdziem z Tobą po zwycięstwo"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Poprzez krew i znój!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hej, hej, Komendancie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "W",
+      "lastName": "Biernacki"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Z",
+      "lastName": "Pomarański"
+    }
+  ],
+  "next": {
+    "id": "jeszcze-jeden-mazur-dzisiaj",
+    "title": "Jeszcze jeden mazur dzisiaj"
+  },
+  "previous": {
+    "id": "idzie-zolnierz-borem-lasem",
+    "title": "Idzie żołnierz borem lasem"
+  }
+}

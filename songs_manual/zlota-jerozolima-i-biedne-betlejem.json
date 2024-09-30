@@ -1,1 +1,749 @@
-{"id": "zlota-jerozolima-i-biedne-betlejem", "title": "Złota Jerozolima i biedne Betlejem", "category": {"id": "carols", "name": "Kolędy"}, "created": {"name": "spiewnik-mmakos", "time": 1727356282, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Zawieja i beznadzieja, złota Jerozolima,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "A w biednym Betlejem Pani syneczka w grocie powiła."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Zima się ludzi trzyma, złote denary wszędzie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Bieda straszna w Betlejem, tam tylko Pan przybędzie!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Do szopy, do szopy, wszyscy,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Kto ogrzać pragnie ręce,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Z darami, z darami, z darami,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "By odtajało serce!"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Nie do złota i mirry, nie do różanych pachnideł,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Ale do szopki w zawieję tej nocy Pan do nas przybył."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Nie do wieży z księgami, gdzie mędrcy świata najwięksi,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Ale w szopie, w zawieję, gdzie pastuszkowie są pierwsi."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Do szopy, do szopy…"}], "repetition": true, "repetitionEnd": 2}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "performers": [{"name": "Skaldowie"}], "next": {"id": "ach-ubogi-zlobie", "title": "Ach ubogi żłobie"}, "previous": {"id": "zasnij-dziecino", "title": "Zaśnij Dziecino"}}
+{
+  "id": "zlota-jerozolima-i-biedne-betlejem",
+  "title": "Złota Jerozolima i biedne Betlejem",
+  "category": {
+    "id": "carols",
+    "name": "Kolędy"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727356282,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Zawieja i beznadzieja, złota Jerozolima,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A w biednym Betlejem Pani syneczka w grocie powiła."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zima się ludzi trzyma, złote denary wszędzie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bieda straszna w Betlejem, tam tylko Pan przybędzie!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Do szopy, do szopy, wszyscy,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kto ogrzać pragnie ręce,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Z darami, z darami, z darami,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "By odtajało serce!"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nie do złota i mirry, nie do różanych pachnideł,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale do szopki w zawieję tej nocy Pan do nas przybył."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie do wieży z księgami, gdzie mędrcy świata najwięksi,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale w szopie, w zawieję, gdzie pastuszkowie są pierwsi."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Do szopy, do szopy…"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "performers": [
+    {
+      "name": "Skaldowie"
+    }
+  ],
+  "next": {
+    "id": "ach-ubogi-zlobie",
+    "title": "Ach ubogi żłobie"
+  },
+  "previous": {
+    "id": "zasnij-dziecino",
+    "title": "Zaśnij Dziecino"
+  }
+}

@@ -1,1 +1,1044 @@
-{"id": "koleda-dla-nieobecnych", "title": "Kolęda dla nieobecnych", "category": {"id": "carols", "name": "Kolędy"}, "created": {"name": "spiewnik-mmakos", "time": 1727356282, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "A nadzieja znów wstąpi w nas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Nieobecnych pojawią się cienie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Uwierzymy kolejny raz,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "W jeszcze jedno Boże Narodzenie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "I choć przygasł Świąteczny gwar,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Bo zabrakło znów czyjegoś głosu."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Przyjdź tu do nas i z nami trwaj,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Wbrew tak zwanej ironii losu."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Daj nam wiarę, że to ma sens,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Że nie trzeba żałować przyjaciół."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Że gdziekolwiek są dobrze im jest,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}, {"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "Bo są z nami choć w innej postaci."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "I przekonaj, że tak ma być,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Że po głosach tych wciąż drży powietrze,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Że odeszli po to by żyć."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}, {"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}], "optional": true}]}}, {"text": [{"text": "I tym razem będą żyć wiecznie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Przyjdź na świat,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "By wyrównać rachunki strat."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Żeby zająć wśród nas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Puste miejsce przy stole."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Jeszcze raz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Pozwól cieszyć się dzieckiem w nas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "I zapomnieć że są"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Puste miejsca przy stole."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "A nadzieja znów wstąpi…"}]}], "indent": 0, "verseRef": 0}, {"lines": [{"text": [{"text": "Przyjdź na świat,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "By wyrównać rachunki strat."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Żeby zająć wśród nas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Puste miejsce przy stole."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Jeszcze raz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Pozwól cieszyć się dzieckiem w nas,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "I zapomnieć że są"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Puste miejsca przy stole."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Przyjdź na świat…"}]}], "indent": 1, "verseRef": 2}], "key": {"songbook": {"note": {"base": "F"}}}, "lyrics": [{"name": "S", "lastName": "Mucha"}], "composer": [{"name": "Z", "lastName": "Preisner"}], "next": {"id": "koleda-dla-piotra-skrzyneckiego", "title": "Kolęda dla Piotra Skrzyneckiego"}, "previous": {"id": "jezus-malusienki", "title": "Jezus malusieńki"}}
+{
+  "id": "koleda-dla-nieobecnych",
+  "title": "Kolęda dla nieobecnych",
+  "category": {
+    "id": "carols",
+    "name": "Kolędy"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727356282,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "A nadzieja znów wstąpi w nas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nieobecnych pojawią się cienie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Uwierzymy kolejny raz,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W jeszcze jedno Boże Narodzenie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I choć przygasł Świąteczny gwar,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo zabrakło znów czyjegoś głosu."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Przyjdź tu do nas i z nami trwaj,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wbrew tak zwanej ironii losu."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Daj nam wiarę, że to ma sens,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że nie trzeba żałować przyjaciół."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że gdziekolwiek są dobrze im jest,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo są z nami choć w innej postaci."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I przekonaj, że tak ma być,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że po głosach tych wciąż drży powietrze,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że odeszli po to by żyć."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I tym razem będą żyć wiecznie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przyjdź na świat,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "By wyrównać rachunki strat."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żeby zająć wśród nas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Puste miejsce przy stole."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jeszcze raz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pozwól cieszyć się dzieckiem w nas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I zapomnieć że są"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Puste miejsca przy stole."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "A nadzieja znów wstąpi…"
+            }
+          ]
+        }
+      ],
+      "indent": 0,
+      "verseRef": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przyjdź na świat,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "By wyrównać rachunki strat."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Żeby zająć wśród nas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Puste miejsce przy stole."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jeszcze raz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pozwól cieszyć się dzieckiem w nas,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I zapomnieć że są"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Puste miejsca przy stole."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przyjdź na świat…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 2
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "F"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "S",
+      "lastName": "Mucha"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Z",
+      "lastName": "Preisner"
+    }
+  ],
+  "next": {
+    "id": "koleda-dla-piotra-skrzyneckiego",
+    "title": "Kolęda dla Piotra Skrzyneckiego"
+  },
+  "previous": {
+    "id": "jezus-malusienki",
+    "title": "Jezus malusieńki"
+  }
+}

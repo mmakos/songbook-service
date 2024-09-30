@@ -1,1 +1,252 @@
-{"id": "w-lekkim-powiewie", "title": "W lekkim powiewie", "category": {"id": "religious", "name": "Religijne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355587, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "W lekkim powiewie przychodzisz do mnie Panie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}}}], "optional": true}]}}, {"text": [{"text": "W lekkim powiewie przychodzisz do mnie Panie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}}}], "optional": true}]}}, {"text": [{"text": "Nie przez wicher ogromny i nie przez ogień"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Ale w lekkim powiewie przychodzisz do mnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "W lekkim powiewie nawiedzasz dusze ma"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}}}], "optional": true}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}}, "next": {"id": "wejdzmy-do-jego-bram", "title": "Wejdźmy do Jego bram"}, "previous": {"id": "w-droge-z-nami", "title": "W drogę z nami"}}
+{
+  "id": "w-lekkim-powiewie",
+  "title": "W lekkim powiewie",
+  "category": {
+    "id": "religious",
+    "name": "Religijne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355587,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "W lekkim powiewie przychodzisz do mnie Panie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W lekkim powiewie przychodzisz do mnie Panie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie przez wicher ogromny i nie przez ogień"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale w lekkim powiewie przychodzisz do mnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W lekkim powiewie nawiedzasz dusze ma"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    }
+  },
+  "next": {
+    "id": "wejdzmy-do-jego-bram",
+    "title": "Wejdźmy do Jego bram"
+  },
+  "previous": {
+    "id": "w-droge-z-nami",
+    "title": "W drogę z nami"
+  }
+}

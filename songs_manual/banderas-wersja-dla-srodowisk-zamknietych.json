@@ -1,1 +1,378 @@
-{"id": "banderas-wersja-dla-srodowisk-zamknietych", "title": "Banderas (wersja dla środowisk zamkniętych)", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355579, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Nie wiem, co mam zrobić z sobą, smutna dola moja"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Jurek - kumpel z pryczy obok podarł mi \"Playboya\""}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Kiedy mnie nie było w celi, bo z piwnicy niosłem gruz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Jurek podszedł i Pameli porwał cały biust"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jurek był mi przyjacielem, dobrze ze mną żył"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Więc dlaczego tę Pamelę sponiewierał był"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Nie da skleić się, niestety został tylko śmieć"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Jak tak można do kobiety, czemu zaraz drzeć!?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Teraz nocą szlocham w chustkę pożyczoną od klawisza"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Jurek wyjdzie na przepustkę, porwę mu Ibisza!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}}, "lyrics": [{"name": "A", "lastName": "Andrus"}], "composer": [{"name": "J", "lastName": "Janowicz"}], "next": {"id": "baranek", "title": "Baranek"}, "previous": {"id": "banderas", "title": "Banderas"}}
+{
+  "id": "banderas-wersja-dla-srodowisk-zamknietych",
+  "title": "Banderas (wersja dla środowisk zamkniętych)",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355579,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nie wiem, co mam zrobić z sobą, smutna dola moja"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jurek - kumpel z pryczy obok podarł mi \"Playboya\""
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kiedy mnie nie było w celi, bo z piwnicy niosłem gruz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jurek podszedł i Pameli porwał cały biust"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jurek był mi przyjacielem, dobrze ze mną żył"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Więc dlaczego tę Pamelę sponiewierał był"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie da skleić się, niestety został tylko śmieć"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak tak można do kobiety, czemu zaraz drzeć!?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Teraz nocą szlocham w chustkę pożyczoną od klawisza"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jurek wyjdzie na przepustkę, porwę mu Ibisza!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "A",
+      "lastName": "Andrus"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Janowicz"
+    }
+  ],
+  "next": {
+    "id": "baranek",
+    "title": "Baranek"
+  },
+  "previous": {
+    "id": "banderas",
+    "title": "Banderas"
+  }
+}

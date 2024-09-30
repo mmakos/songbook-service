@@ -1,1 +1,1159 @@
-{"id": "endless-night", "title": "Endless Night", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355580, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Where has the starlight gone"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Dark is the day"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "How can I find my way home"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Home is an empty dream"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Lost to the night"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Father I feel so alone"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "You promised you'd be there"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Whenever I needed you"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Whenever I call your name"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "You're not anywhere"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "I'm trying to hold on"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Just waiting to hear your voice"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "One word, just a word will do"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "To end this nightmare"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "When will the dawning break"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Oh endless night"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Sleepless I dream of the day"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "When you were by my side"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}]}, {"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Guiding my path"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Father I can't find the way"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "You promised…"}]}], "indent": 0, "verseRef": 2}, {"lines": [{"text": [{"text": "I know that the night must end", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "And that the sun will rise", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "And that the sun will rise", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}, {"text": [{"text": "I know that the clouds must clear", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "And that the sun will shine", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "And that the sun will shine", "italic": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "C"}}}, "lyrics": [{"name": "J", "lastName": "Taymor"}], "composer": [{"name": "H", "lastName": "Zimmer"}, {"name": "J", "lastName": "Rafkin"}, {"name": "Lebo", "lastName": "M."}], "performers": [{"name": "Król", "lastName": "Lew (Broadway)"}], "next": {"id": "epitafium-dla-majora-ognia", "title": "Epitafium dla Majora „Ognia”"}, "previous": {"id": "dzdzownica", "title": "Dżdżownica"}}
+{
+  "id": "endless-night",
+  "title": "Endless Night",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355580,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Where has the starlight gone"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dark is the day"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "How can I find my way home"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Home is an empty dream"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Lost to the night"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Father I feel so alone"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "You promised you'd be there"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Whenever I needed you"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Whenever I call your name"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "You're not anywhere"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "I'm trying to hold on"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Just waiting to hear your voice"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "One word, just a word will do"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To end this nightmare"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "When will the dawning break"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oh endless night"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sleepless I dream of the day"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "When you were by my side"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Guiding my path"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Father I can't find the way"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "You promised…"
+            }
+          ]
+        }
+      ],
+      "indent": 0,
+      "verseRef": 2
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "I know that the night must end",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And that the sun will rise",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And that the sun will rise",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I know that the clouds must clear",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And that the sun will shine",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "And that the sun will shine",
+              "italic": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "C"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Taymor"
+    }
+  ],
+  "composer": [
+    {
+      "name": "H",
+      "lastName": "Zimmer"
+    },
+    {
+      "name": "J",
+      "lastName": "Rafkin"
+    },
+    {
+      "name": "Lebo",
+      "lastName": "M."
+    }
+  ],
+  "performers": [
+    {
+      "name": "Król",
+      "lastName": "Lew (Broadway)"
+    }
+  ],
+  "next": {
+    "id": "epitafium-dla-majora-ognia",
+    "title": "Epitafium dla Majora „Ognia”"
+  },
+  "previous": {
+    "id": "dzdzownica",
+    "title": "Dżdżownica"
+  }
+}

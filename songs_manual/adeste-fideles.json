@@ -1,1 +1,2056 @@
-{"id": "adeste-fideles", "title": "Adeste Fideles", "category": {"id": "carols", "name": "Kolędy"}, "created": {"name": "spiewnik-mmakos", "time": 1727356281, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Adeste, fideles, laeti triumphantes:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Venite, venite in Bethlem:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Natum videte Regem Angelorum."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 2}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Venite, adoremus. Venite, adoremus."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Venite, adoremus Dominum."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "En grege relicto, humiles ad cunas"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Vocati pastores approperant:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Et nos ovanti gradu festinemus:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 2}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Venite, adoremus…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Aeterni Parentis splendorem aeternum"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Velatum sub carne videbimus."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Deum infantem pannis involutum."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 2}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Venite, adoremus…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Pro nobis egenum, et foeno cubantem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Piis foveamus amplexibus:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Sic nos amantem quis non redamaret?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 2}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Venite, adoremus…"}]}], "indent": 1, "verseRef": 1}, {"lines": [{"text": [{"text": "Qui foeno iacebat panis speciebus,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Pro nobis effectus Emmanuel."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Sic nos amantem, quis non redamaret?"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 2}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "C"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Venite, adoremus…"}]}], "indent": 1, "verseRef": 1}], "key": {"songbook": {"note": {"base": "F"}}, "comfort": {"note": {"base": "F"}}, "maxComfort": {"note": {"base": "G"}}}, "next": {"id": "aniol-pasterzom-mowil", "title": "Anioł pasterzom mówił"}, "previous": {"id": "ach-ubogi-zlobie", "title": "Ach ubogi żłobie"}}
+{
+  "id": "adeste-fideles",
+  "title": "Adeste Fideles",
+  "category": {
+    "id": "carols",
+    "name": "Kolędy"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727356281,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Adeste, fideles, laeti triumphantes:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Venite, venite in Bethlem:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Natum videte Regem Angelorum."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus. Venite, adoremus."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus Dominum."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "En grege relicto, humiles ad cunas"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Vocati pastores approperant:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Et nos ovanti gradu festinemus:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Aeterni Parentis splendorem aeternum"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Velatum sub carne videbimus."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Deum infantem pannis involutum."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Pro nobis egenum, et foeno cubantem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Piis foveamus amplexibus:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sic nos amantem quis non redamaret?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Qui foeno iacebat panis speciebus,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pro nobis effectus Emmanuel."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sic nos amantem, quis non redamaret?"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Venite, adoremus…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "F"
+      }
+    },
+    "comfort": {
+      "note": {
+        "base": "F"
+      }
+    },
+    "maxComfort": {
+      "note": {
+        "base": "G"
+      }
+    }
+  },
+  "next": {
+    "id": "aniol-pasterzom-mowil",
+    "title": "Anioł pasterzom mówił"
+  },
+  "previous": {
+    "id": "ach-ubogi-zlobie",
+    "title": "Ach ubogi żłobie"
+  }
+}

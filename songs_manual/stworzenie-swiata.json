@@ -1,1 +1,2484 @@
-{"id": "stworzenie-swiata", "title": "Stworzenie świata", "category": {"id": "kaczmarski", "name": "Kaczmarski & Gintrowski"}, "created": {"name": "spiewnik-mmakos", "time": 1727355577, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Stworzenie świata nie przychodzi łatwo"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Pierwszego dnia pierwszego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Oddzieliłem tylko od ciemności światło"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "I Ziemi nadałem kształt"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Zdecydowałem co złe być ma co dobre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "A to był całej rzeczy zaczyn"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "D", "accidental": "SHARP"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "modification": "DIM"}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył pierwszy dzień mej pracy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "W działaniu trzeba poznać kolej rzeczy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Drugiego dnia drugiego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Dzieliłem wody tak by niebo sklepić"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Z jednego świata uczyniłem dwa"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Tak kształt materii dążył z myśli prądem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Gdy z nieba w morza poszły deszczu strugi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "G", "accidental": "SHARP"}, "minor": true, "modification": "DIM"}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył pracy mej dzień drugi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "W tworzeniu szkodzi marzeń niecierpliwość"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "A", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Trzeciego dnia trzeciego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Powoli kształty ziemskiego tworzywa"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "A", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Dobyłem z oceanów dna"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Dałem bogactwo roślin w owoc płodnych"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Co bezmiar życia na ziemi roznieci"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "F"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true, "modification": "DIM"}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "A", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył pracy mej dzień trzeci"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "H"}}, "alternative": {"note": {"base": "C", "accidental": "FLAT"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Panować światu to sekrety mnożyć"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Czwartego dnia czwartego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Sypnąłem gwiazdy w ciemność ziemskiej nocy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "I słońce w jasność dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "W ruch poszły wszystkie pełnej władzy żądne"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "modification": "DIM", "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "H"}}}]}]}}, {"text": [{"text": "Dzień ruszył w pościg za nocą uparty"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył pracy mej dzień czwarty"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "C"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Przepych określa panowania zasięg"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "F"}, "minor": true}}]}]}}, {"text": [{"text": "Piątego dnia piątego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Niebo ozdabiam w klucze plemion ptasich"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "F"}, "minor": true}}]}]}}, {"text": [{"text": "Ożywiam morskie dna"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Ptak się upaja traw rozgrzanych swądem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "F"}, "minor": true}}]}]}}, {"text": [{"text": "Wszelki stwór morski wśród fal się przewraca"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "X"}}}, {"chord": {"note": {"base": "H"}, "minor": true, "modification": "DIM"}}, {"chord": {"note": {"base": "C"}}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "minor": true}}, {"chord": {"note": {"base": "F"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył piąty dzień mej pracy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}}, "alternative": {"note": {"base": "D", "accidental": "FLAT"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "I nie ma władzy bez czci i pokory"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Szóstego dnia szóstego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Poszły zwierzęta dzikie w ziemskie bory"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "I człowiek taki jak ja"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Kobietę zmysły i myśli ma swobodne"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Które gdy trzeba ujść mogą przez usta"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}, "modification": "DIM", "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "H", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}}}]}]}}, {"text": [{"text": "Po czym uznałem dzieło swe za mądre"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Na tym się skończył pracy mej dzień szósty"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "D"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Oto porządek nie do zastąpienia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Wszelkie istnienie żyje swoim torem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Człowiek panuje wszelkiemu istnieniu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Władzę nad sobą uznając z pokorą"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Siódmego dnia siódmego dnia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Ogarnął wszechświat jasny żar południa"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "A", "accidental": "SHARP"}, "modification": "DIM", "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}, "alternative": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Stworzywszy w tydzień rajski świat"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}, {"text": [{"text": "Odpoczywałem przez cały dzień siódmy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, "performers": [{"name": "J", "lastName": "Kaczmarski"}], "next": {"id": "syn-marnotrawny", "title": "Syn marnotrawny"}, "previous": {"id": "stracanie-aniolow", "title": "Strącanie aniołów"}}
+{
+  "id": "stworzenie-swiata",
+  "title": "Stworzenie świata",
+  "category": {
+    "id": "kaczmarski",
+    "name": "Kaczmarski & Gintrowski"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355577,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Stworzenie świata nie przychodzi łatwo"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pierwszego dnia pierwszego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oddzieliłem tylko od ciemności światło"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I Ziemi nadałem kształt"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zdecydowałem co złe być ma co dobre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A to był całej rzeczy zaczyn"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D",
+                        "accidental": "SHARP"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył pierwszy dzień mej pracy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "W działaniu trzeba poznać kolej rzeczy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Drugiego dnia drugiego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dzieliłem wody tak by niebo sklepić"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Z jednego świata uczyniłem dwa"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tak kształt materii dążył z myśli prądem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdy z nieba w morza poszły deszczu strugi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył pracy mej dzień drugi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "W tworzeniu szkodzi marzeń niecierpliwość"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Trzeciego dnia trzeciego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Powoli kształty ziemskiego tworzywa"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dobyłem z oceanów dna"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dałem bogactwo roślin w owoc płodnych"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Co bezmiar życia na ziemi roznieci"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył pracy mej dzień trzeci"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Panować światu to sekrety mnożyć"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Czwartego dnia czwartego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sypnąłem gwiazdy w ciemność ziemskiej nocy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I słońce w jasność dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W ruch poszły wszystkie pełnej władzy żądne"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dzień ruszył w pościg za nocą uparty"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył pracy mej dzień czwarty"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Przepych określa panowania zasięg"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Piątego dnia piątego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niebo ozdabiam w klucze plemion ptasich"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ożywiam morskie dna"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ptak się upaja traw rozgrzanych swądem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszelki stwór morski wśród fal się przewraca"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "X"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył piąty dzień mej pracy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      }
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "D",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "I nie ma władzy bez czci i pokory"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szóstego dnia szóstego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Poszły zwierzęta dzikie w ziemskie bory"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I człowiek taki jak ja"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Kobietę zmysły i myśli ma swobodne"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Które gdy trzeba ujść mogą przez usta"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      },
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Po czym uznałem dzieło swe za mądre"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na tym się skończył pracy mej dzień szósty"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Oto porządek nie do zastąpienia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszelkie istnienie żyje swoim torem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Człowiek panuje wszelkiemu istnieniu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Władzę nad sobą uznając z pokorą"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Siódmego dnia siódmego dnia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ogarnął wszechświat jasny żar południa"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "SHARP"
+                      },
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Stworzywszy w tydzień rajski świat"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Odpoczywałem przez cały dzień siódmy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "C",
+        "accidental": "SHARP"
+      },
+      "minor": true
+    }
+  },
+  "performers": [
+    {
+      "name": "J",
+      "lastName": "Kaczmarski"
+    }
+  ],
+  "next": {
+    "id": "syn-marnotrawny",
+    "title": "Syn marnotrawny"
+  },
+  "previous": {
+    "id": "stracanie-aniolow",
+    "title": "Strącanie aniołów"
+  }
+}

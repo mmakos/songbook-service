@@ -1,1 +1,2948 @@
-{"id": "uciekali", "title": "Uciekali", "category": {"id": "carols", "name": "Kolędy"}, "created": {"name": "spiewnik-mmakos", "time": 1727356282, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Tej nocy Anioł przyszedł do Józefa:"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "\"Zbudźcie dzieciątko co tak słodko śpi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Judea dziś to niebezpieczna strefa"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "I policzone małych chłopców dni.\""}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Namiestnik Herod ciągle drży w obawie,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Że chociaż władzę dzierży jego dłoń"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "I rzymski cesarz patrzy nań łaskawie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "To w rączkach dziecka może kryć się broń."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}}}], "optional": true}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}}}], "optional": true}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}], "optional": true}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 5}]}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Uciekali, uciekali, uciekali"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Na osiołku przez pustyni żar"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Jak najdalej, jak najdalej, jak najdalej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "H"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Ukryć Dziecię, bezcenny ich skarb."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G", "accidental": "SHARP"}}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}]}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}], "optional": true}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Ciężko ojczyznę wspominać w pustyni"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "Mieliśmy jakoś zapewniony byt"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Choć czasem patrol mijał drzwi świątyni"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "Zawsze się modlić mógł pobożny Żyd."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Lecz może trzeba szlakiem iść wygnania"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Tak jak przodkowie nasi kiedyś szli"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Może nie tu jest Ziemia Obiecana"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Może gdzie indziej będzie rósł nasz Syn."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Uciekali, uciekali, uciekali"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Na osiołku przez pustyni żar"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Jak najdalej, jak najdalej, jak najdalej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Ukryć Dziecię, bezcenny ich skarb."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Jeszcze nie wiemy co nam przeznaczone"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "I choć przeczucia czasem dręczą złe"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Ojciec Niebieski weźmie nas w obronę"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6, "modification": "DIM"}, {"interval": 5}]}]}}]}]}}, {"text": [{"text": "I znowu Anioł zjawi się we śnie."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Piasek przysypał szlaki do Betlejem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Zabłądzić łatwo, trudny każdy krok"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Tak mało mamy, tylko tę nadzieję"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "C"}, "base": {"elements": [{"interval": 2}]}, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Która rozjaśnia nam codzienny mrok."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}, {"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "C"}}}], "optional": true}]}}, {"chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 4}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}]}}, {"chord": {"note": {"base": "C"}}}], "optional": true}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Uciekali…"}]}], "indent": 1, "verseRef": 3}, {"lines": [{"text": [{"text": "Uciekali, uciekali, uciekali"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Na osiołku przez pustyni żar"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Jak najdalej, jak najdalej, jak najdalej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Ukryć Dziecię, bezcenny ich skarb."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "H"}}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Uciekali, uciekali, uciekali"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Na osiołku przez pustyni żar"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Jak najdalej, jak najdalej, jak najdalej…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "D"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "minor": true}}]}]}}], "indent": 1}], "key": {"songbook": {"note": {"base": "D"}, "minor": true}, "comfort": {"note": {"base": "C"}}, "maxComfort": {"note": {"base": "F"}}}, "lyrics": [{"name": "A."}, {"name": "M", "lastName": "Miklaszewska"}], "composer": [{"name": "J", "lastName": "Stokłosa"}], "next": {"id": "wesola-nowine", "title": "Wesołą nowinę"}, "previous": {"id": "tryumfy-krola-niebieskiego", "title": "Tryumfy Króla Niebieskiego"}}
+{
+  "id": "uciekali",
+  "title": "Uciekali",
+  "category": {
+    "id": "carols",
+    "name": "Kolędy"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727356282,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Tej nocy Anioł przyszedł do Józefa:"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "\"Zbudźcie dzieciątko co tak słodko śpi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Judea dziś to niebezpieczna strefa"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I policzone małych chłopców dni.\""
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Namiestnik Herod ciągle drży w obawie,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że chociaż władzę dzierży jego dłoń"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I rzymski cesarz patrzy nań łaskawie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "To w rączkach dziecka może kryć się broń."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uciekali, uciekali, uciekali"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na osiołku przez pustyni żar"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak najdalej, jak najdalej, jak najdalej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ukryć Dziecię, bezcenny ich skarb."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G",
+                        "accidental": "SHARP"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ciężko ojczyznę wspominać w pustyni"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Mieliśmy jakoś zapewniony byt"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Choć czasem patrol mijał drzwi świątyni"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zawsze się modlić mógł pobożny Żyd."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Lecz może trzeba szlakiem iść wygnania"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tak jak przodkowie nasi kiedyś szli"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Może nie tu jest Ziemia Obiecana"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Może gdzie indziej będzie rósł nasz Syn."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uciekali, uciekali, uciekali"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na osiołku przez pustyni żar"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak najdalej, jak najdalej, jak najdalej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ukryć Dziecię, bezcenny ich skarb."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jeszcze nie wiemy co nam przeznaczone"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I choć przeczucia czasem dręczą złe"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ojciec Niebieski weźmie nas w obronę"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I znowu Anioł zjawi się we śnie."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Piasek przysypał szlaki do Betlejem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zabłądzić łatwo, trudny każdy krok"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tak mało mamy, tylko tę nadzieję"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 2
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Która rozjaśnia nam codzienny mrok."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uciekali…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 3
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uciekali, uciekali, uciekali"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na osiołku przez pustyni żar"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak najdalej, jak najdalej, jak najdalej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ukryć Dziecię, bezcenny ich skarb."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Uciekali, uciekali, uciekali"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Na osiołku przez pustyni żar"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Jak najdalej, jak najdalej, jak najdalej…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    },
+    "comfort": {
+      "note": {
+        "base": "C"
+      }
+    },
+    "maxComfort": {
+      "note": {
+        "base": "F"
+      }
+    }
+  },
+  "lyrics": [
+    {
+      "name": "A."
+    },
+    {
+      "name": "M",
+      "lastName": "Miklaszewska"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Stokłosa"
+    }
+  ],
+  "next": {
+    "id": "wesola-nowine",
+    "title": "Wesołą nowinę"
+  },
+  "previous": {
+    "id": "tryumfy-krola-niebieskiego",
+    "title": "Tryumfy Króla Niebieskiego"
+  }
+}

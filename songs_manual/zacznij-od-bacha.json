@@ -1,1 +1,639 @@
-{"id": "zacznij-od-bacha", "title": "Zacznij od Bacha", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355584, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gdy musisz wstać"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Choć tulisz tak pod głową obłoczek snu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "I słów tyle znasz uczonych cicho przez noc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}, {"text": [{"text": "A tu dzień wstaje już kolorowo – witaj!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdy musisz wstać"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Bo słońce już zawiesza na szczytach wież"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Poranny swój szal i rusza cień w długi marsz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 5}]}}}]}]}}, {"text": [{"text": "Wokół drzew krząta się ptaków rzesza – witaj!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Zacznij od Bacha, nim słońce po dachach"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "Zeskoczy, jak kot po nocy ćmej"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "I zacznij od Bacha, gdy w progu się waha"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "G"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "C"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "Ktoś, kto winien wejść, a może nie…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 1}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}}, "lyrics": [{"name": "J", "lastName": "Terakowski"}], "composer": [{"name": "Z", "lastName": "Wodecki"}], "next": {"id": "zadumanie", "title": "Zadumanie"}, "previous": {"id": "zabierzcie-mi-gitare", "title": "Zabierzcie mi gitarę"}}
+{
+  "id": "zacznij-od-bacha",
+  "title": "Zacznij od Bacha",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355584,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy musisz wstać"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Choć tulisz tak pod głową obłoczek snu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I słów tyle znasz uczonych cicho przez noc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A tu dzień wstaje już kolorowo – witaj!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy musisz wstać"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Bo słońce już zawiesza na szczytach wież"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Poranny swój szal i rusza cień w długi marsz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wokół drzew krząta się ptaków rzesza – witaj!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Zacznij od Bacha, nim słońce po dachach"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zeskoczy, jak kot po nocy ćmej"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I zacznij od Bacha, gdy w progu się waha"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ktoś, kto winien wejść, a może nie…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Terakowski"
+    }
+  ],
+  "composer": [
+    {
+      "name": "Z",
+      "lastName": "Wodecki"
+    }
+  ],
+  "next": {
+    "id": "zadumanie",
+    "title": "Zadumanie"
+  },
+  "previous": {
+    "id": "zabierzcie-mi-gitare",
+    "title": "Zabierzcie mi gitarę"
+  }
+}

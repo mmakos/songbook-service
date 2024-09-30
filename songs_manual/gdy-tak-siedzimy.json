@@ -1,1 +1,422 @@
-{"id": "gdy-tak-siedzimy", "title": "Gdy tak siedzimy", "category": {"id": "kaczmarski", "name": "Kaczmarski & Gintrowski"}, "created": {"name": "spiewnik-mmakos", "time": 1727355575, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Gdy tak siedzimy nad bimbrem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Ojczyzna nam umiera"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Gniją w celach koledzy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Wolno się kręci powielacz"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Drukujemy ulotki"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "O tym, że jeszcze żyjemy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Grozi nam za to wyrok"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Dziesięciu lat więzienia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Gdzieś niedaleko"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Patrol jednego z nas zatrzymał"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true}}]}]}}, {"text": [{"text": "Pijemy jego zdrowie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}}}, {"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "W więzieniu to mu się przyda"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "H"}, "minor": true}}, "lyrics": [{"name": "L", "lastName": "Szaruga"}], "composer": [{"name": "P", "lastName": "Gintrowski"}], "next": {"id": "hiob", "title": "Hiob"}, "previous": {"id": "epitafium-dla-wlodzimierza-wysockiego", "title": "Epitafium dla Włodzimierza Wysockiego"}}
+{
+  "id": "gdy-tak-siedzimy",
+  "title": "Gdy tak siedzimy",
+  "category": {
+    "id": "kaczmarski",
+    "name": "Kaczmarski & Gintrowski"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355575,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdy tak siedzimy nad bimbrem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ojczyzna nam umiera"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gniją w celach koledzy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wolno się kręci powielacz"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Drukujemy ulotki"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "O tym, że jeszcze żyjemy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Grozi nam za to wyrok"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dziesięciu lat więzienia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Gdzieś niedaleko"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Patrol jednego z nas zatrzymał"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Pijemy jego zdrowie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W więzieniu to mu się przyda"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "H"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "L",
+      "lastName": "Szaruga"
+    }
+  ],
+  "composer": [
+    {
+      "name": "P",
+      "lastName": "Gintrowski"
+    }
+  ],
+  "next": {
+    "id": "hiob",
+    "title": "Hiob"
+  },
+  "previous": {
+    "id": "epitafium-dla-wlodzimierza-wysockiego",
+    "title": "Epitafium dla Włodzimierza Wysockiego"
+  }
+}

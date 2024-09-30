@@ -1,1 +1,1308 @@
-{"id": "dzien-gniewu", "title": "Dzień gniewu", "category": {"id": "kaczmarski", "name": "Kaczmarski & Gintrowski"}, "created": {"name": "spiewnik-mmakos", "time": 1727355575, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Wyją syreny i biją dzwony"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true, "additionals": [{"elements": [{"interval": 1}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 1}, {"interval": 9, "modification": "DIM"}, {"interval": 1}]}]}}], "optional": true}, {"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 1}]}]}}]}]}}, {"text": [{"text": "Ciemność płonące tną reflektory"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}, {"interval": 1}]}]}}]}]}}, {"text": [{"text": "Z nocy zerwani w noc zapadamy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 1}]}]}}]}]}}, {"text": [{"text": "Paniczny tupot na schodach nóg"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}, {"interval": 1}]}]}}]}]}}, {"text": [{"text": "Gasną za nami ogłuchłe domy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 1}]}]}}]}]}}, {"text": [{"text": "W krzyku agonii w ryku motorów"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}, {"interval": 1}]}]}}]}]}}, {"text": [{"text": "W wielkie macice zmienione bramy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 1}]}]}}]}]}}, {"text": [{"text": "Rodzą tłumy na bruk"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}, {"interval": 1}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ciemność wypełnia upał wszechmoc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "W popiół zamienia zlepione ciała"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Szkło pęka kipią blachy pancerne"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Powietrze twarde jak mur"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Panika rybia usta rozdarła"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Schną w osmalonych czerepach oczy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "I w drżenie wprawia zdrętwiałą ziemię"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Marsz nadchodzących gór"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Nim nasza kolej zdążymy jeszcze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Wspomnieć proroctwa i przepowiednie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Znaki na niebie myśli piwniczne"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Które niejedną zabrały noc"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Choć w życiu nadal słońca i deszcze"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}, {"chord": {"note": {"base": "C"}, "minor": true, "additionals": [{"elements": [{"interval": 5}]}]}}]}]}}, {"text": [{"text": "Snuliśmy plany dalekosiężne…"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}, "minor": true, "modification": "CLUSTER"}}, {"chord": {"note": {"base": "D"}, "minor": true, "modification": "CLUSTER"}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "I oto nad paleniskiem miast"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Równym wznosimy się parasolem"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Dymu i pary ciężkiej od sądu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Ugotowanej krwi"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wszyscyśmy teraz godni litości"}], "repetition": true, "repetitionEnd": 3, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "E", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Wszyscyśmy teraz godni litości"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "H", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "C"}, "minor": true}}, {"chord": {"note": {"base": "A", "accidental": "FLAT"}}}]}, {"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}], "optional": true}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "E"}, "minor": true}, "original": {"note": {"base": "E"}, "minor": true}, "comfort": {"note": {"base": "G"}, "minor": true}}, "performers": [{"name": "J", "lastName": "Kaczmarski"}], "next": {"id": "elekcja", "title": "Elekcja"}, "previous": {"id": "dzieci-hioba", "title": "Dzieci Hioba"}}
+{
+  "id": "dzien-gniewu",
+  "title": "Dzień gniewu",
+  "category": {
+    "id": "kaczmarski",
+    "name": "Kaczmarski & Gintrowski"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355575,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wyją syreny i biją dzwony"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            },
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "optional": true
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ciemność płonące tną reflektory"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Z nocy zerwani w noc zapadamy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Paniczny tupot na schodach nóg"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gasną za nami ogłuchłe domy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W krzyku agonii w ryku motorów"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W wielkie macice zmienione bramy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Rodzą tłumy na bruk"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ciemność wypełnia upał wszechmoc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W popiół zamienia zlepione ciała"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szkło pęka kipią blachy pancerne"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Powietrze twarde jak mur"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Panika rybia usta rozdarła"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Schną w osmalonych czerepach oczy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I w drżenie wprawia zdrętwiałą ziemię"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Marsz nadchodzących gór"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Nim nasza kolej zdążymy jeszcze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wspomnieć proroctwa i przepowiednie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Znaki na niebie myśli piwniczne"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Które niejedną zabrały noc"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Choć w życiu nadal słońca i deszcze"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 5
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Snuliśmy plany dalekosiężne…"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      },
+                      "minor": true,
+                      "modification": "CLUSTER"
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "modification": "CLUSTER"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "I oto nad paleniskiem miast"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Równym wznosimy się parasolem"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dymu i pary ciężkiej od sądu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ugotowanej krwi"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wszyscyśmy teraz godni litości"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 3,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszyscyśmy teraz godni litości"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "E"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "E"
+      },
+      "minor": true
+    },
+    "comfort": {
+      "note": {
+        "base": "G"
+      },
+      "minor": true
+    }
+  },
+  "performers": [
+    {
+      "name": "J",
+      "lastName": "Kaczmarski"
+    }
+  ],
+  "next": {
+    "id": "elekcja",
+    "title": "Elekcja"
+  },
+  "previous": {
+    "id": "dzieci-hioba",
+    "title": "Dzieci Hioba"
+  }
+}

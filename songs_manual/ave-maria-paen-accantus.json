@@ -1,1 +1,1658 @@
-{"id": "ave-maria-paen-accantus", "title": "Ave Maria Païen (Accantus)", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355579, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 5}]}}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}}}]}]}}, {"text": [{"text": "Wybacz mi, że"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Nie wiem jak oddać mam hołd"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E"}}}]}]}}, {"text": [{"text": "Tobie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}, {"interval": 8}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}}, {"chord": {"note": {"base": "H"}}}]}]}}, {"text": [{"text": "Nikt nie uczył mnie nigdy modlitwy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}, {"elements": [{"interval": 2}, {"interval": 1}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Chciej mnie wybawić"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}]}}]}]}}, {"text": [{"text": "I nie pozwól by nędza i strach"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Dręczyły wciąż ten świat"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}}, {"chord": {"note": {"base": "H"}}}]}]}}, {"text": [{"text": "Chciej mnie wyrwać z otchłani rozpaczy"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}, {"elements": [{"interval": 2}, {"interval": 1}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 7}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "F"}}}]}]}}, {"text": [{"text": "Spraw by runęły"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}]}}]}]}}, {"text": [{"text": "Wszelkie mury dzielące wciąż nas"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Nienawiść w sercach zmaż"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}}, {"chord": {"note": {"base": "H"}}}]}]}}, {"text": [{"text": "Chce ci życie i miłość powierzyć"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "E"}, "base": {"elements": [{"interval": 3}]}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}, {"elements": [{"interval": 2}, {"interval": 1}]}]}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "H"}, "additionals": [{"elements": [{"interval": 9, "modification": "DIM"}]}]}}, {"chord": {"note": {"base": "H"}}}]}]}}, {"text": [{"text": "Weź je w opiekę"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 4}, {"interval": 3}]}]}}]}]}}, {"text": [{"text": "Ochroń nas od cierpienia i zła"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "G"}, "minor": true}}, {"chord": {"note": {"base": "G"}, "minor": true, "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}]}]}}, {"text": [{"text": "Ave Maria"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "F"}, "minor": true, "modification": "DIM", "base": {"elements": [{"interval": 6}]}, "additionals": [{"elements": [{"interval": 6}]}]}}, {"chord": {"note": {"base": "A"}, "minor": true, "base": {"elements": [{"interval": 3}]}}}, {"chord": {"note": {"base": "E"}, "additionals": [{"elements": [{"interval": 6}]}, {"elements": [{"interval": 4}]}]}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}, "original": {"note": {"base": "C"}, "minor": true}}, "lyrics": [{"name": "L", "lastName": "Plamondon"}], "composer": [{"name": "R", "lastName": "Cocciante"}], "performers": [{"name": "Notre", "lastName": "Dame de Paris"}], "next": {"id": "avinu-malkeinu", "title": "Avinu Malkeinu"}, "previous": {"id": "ave-maria-paen", "title": "Ave Maria Païen"}}
+{
+  "id": "ave-maria-paen-accantus",
+  "title": "Ave Maria Païen (Accantus)",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355579,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wybacz mi, że"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nie wiem jak oddać mam hołd"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tobie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            },
+                            {
+                              "interval": 8
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nikt nie uczył mnie nigdy modlitwy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chciej mnie wybawić"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I nie pozwól by nędza i strach"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Dręczyły wciąż ten świat"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chciej mnie wyrwać z otchłani rozpaczy"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 7
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Spraw by runęły"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wszelkie mury dzielące wciąż nas"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Nienawiść w sercach zmaż"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Chce ci życie i miłość powierzyć"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            },
+                            {
+                              "interval": 1
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 9,
+                              "modification": "DIM"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Weź je w opiekę"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            },
+                            {
+                              "interval": 3
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ochroń nas od cierpienia i zła"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ave Maria"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      },
+                      "minor": true,
+                      "modification": "DIM",
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 6
+                          }
+                        ]
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 3
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        },
+                        {
+                          "elements": [
+                            {
+                              "interval": 4
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "C"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "L",
+      "lastName": "Plamondon"
+    }
+  ],
+  "composer": [
+    {
+      "name": "R",
+      "lastName": "Cocciante"
+    }
+  ],
+  "performers": [
+    {
+      "name": "Notre",
+      "lastName": "Dame de Paris"
+    }
+  ],
+  "next": {
+    "id": "avinu-malkeinu",
+    "title": "Avinu Malkeinu"
+  },
+  "previous": {
+    "id": "ave-maria-paen",
+    "title": "Ave Maria Païen"
+  }
+}

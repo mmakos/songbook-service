@@ -1,1 +1,568 @@
-{"id": "przy-sadzeniu-roz", "title": "Przy sadzeniu róż", "category": {"id": "patriotic", "name": "Patriotyczne"}, "created": {"name": "spiewnik-mmakos", "time": 1727355586, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Sadźmy, przyjacielu, róże!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Długo jeszcze, długo światu"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Szumieć będą śnieżne burze:"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "A"}, "minor": true, "modification": "DIM"}}]}]}}, {"text": [{"text": "Sadźmy je przyszłemu latu!"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "My, wygnańcy stron rodzinnych,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Może już nie ujrzym kwiatu,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "A więc sadźmy je dla innych,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "A"}, "minor": true, "modification": "DIM"}}]}]}}, {"text": [{"text": "Szczęśliwszemu sadźmy światu!"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jakże los nasz piękny, wzniosły!"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Gdzie idziemy – same głogi,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Gdzieśmy przeszli – róże wzrosły;"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "A"}, "minor": true, "modification": "DIM"}}]}]}}, {"text": [{"text": "Więc nie schodźmy z naszej drogi!"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Idźmy, szczepmy! Gdy to znuży,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Świat wiecznego wypocznienia"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}, {"text": [{"text": "Da nam milszy kwiat od róży:"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true, "additionals": [{"elements": [{"interval": 6}]}]}, "alternative": {"note": {"base": "A"}, "minor": true, "modification": "DIM"}}]}]}}, {"text": [{"text": "Łzy wdzięczności i spomnienia."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}, "original": {"note": {"base": "C"}, "minor": true}}, "lyrics": [{"name": "S", "lastName": "Goszczyński"}], "next": {"id": "przybyli-ulani", "title": "Przybyli ułani"}, "previous": {"id": "piesn-konfederatow-barskich", "title": "Pieśń konfederatów barskich"}}
+{
+  "id": "przy-sadzeniu-roz",
+  "title": "Przy sadzeniu róż",
+  "category": {
+    "id": "patriotic",
+    "name": "Patriotyczne"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355586,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Sadźmy, przyjacielu, róże!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Długo jeszcze, długo światu"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szumieć będą śnieżne burze:"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Sadźmy je przyszłemu latu!"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "My, wygnańcy stron rodzinnych,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Może już nie ujrzym kwiatu,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A więc sadźmy je dla innych,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Szczęśliwszemu sadźmy światu!"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jakże los nasz piękny, wzniosły!"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdzie idziemy – same głogi,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdzieśmy przeszli – róże wzrosły;"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Więc nie schodźmy z naszej drogi!"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Idźmy, szczepmy! Gdy to znuży,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Świat wiecznego wypocznienia"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Da nam milszy kwiat od róży:"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 6
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "modification": "DIM"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Łzy wdzięczności i spomnienia."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "C"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "S",
+      "lastName": "Goszczyński"
+    }
+  ],
+  "next": {
+    "id": "przybyli-ulani",
+    "title": "Przybyli ułani"
+  },
+  "previous": {
+    "id": "piesn-konfederatow-barskich",
+    "title": "Pieśń konfederatów barskich"
+  }
+}

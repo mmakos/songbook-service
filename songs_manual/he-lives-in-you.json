@@ -1,1 +1,617 @@
-{"id": "he-lives-in-you", "title": "He Lives in You", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355581, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Ingonyama nengw' enamabala"}], "repetition": true, "repetitionEnd": 4, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true, "additionals": [{"elements": [{"interval": 2}]}]}}, {"chord": {"note": {"base": "D"}, "minor": true, "base": {"elements": [{"interval": 5}]}}, "alternative": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Night and the spirit of life"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Calling "}, {"text": "Oh oh iyo", "underline": true}, {"text": ", mamela "}, {"text": "Oh oh iyo", "underline": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "And a voice with the fear of a child"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Answers "}, {"text": "Oh oh iyo", "underline": true}, {"text": ", mamela "}, {"text": "Oh oh iyo", "underline": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Wait there's no mountain too great"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Hear the words and have faith"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}]}]}}, {"text": [{"text": "Oh oh iyo", "underline": true}, {"text": ", oh "}, {"text": "Oh oh iyo", "underline": true}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "minor": true}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "Have faith"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Hela hey mamela"}], "repetition": true, "repetitionEnd": -1, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "He lives in you, he lives in me"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "He watches over, everything we see"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "G"}}}], "optional": true}]}}, {"text": [{"text": "Into the water, into the truth"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "C"}}}, {"chord": {"note": {"base": "G"}}}]}]}}, {"text": [{"text": "In your reflection, he lives in you"}], "repetition": true, "repetitionEnd": 3, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "F"}}}, {"chord": {"note": {"base": "A"}, "minor": true}}]}]}}], "indent": 0}], "key": {"songbook": {"note": {"base": "A"}, "minor": true}}, "lyrics": [{"name": "M", "lastName": "Mancina"}, {"name": "J", "lastName": "Rafkin"}, {"name": "Lebo", "lastName": "M."}], "composer": [{"name": "M", "lastName": "Mancina"}, {"name": "J", "lastName": "Rafkin"}, {"name": "Lebo", "lastName": "M."}], "performers": [{"name": "Król", "lastName": "Lew (Broadway)"}, {"name": "Król", "lastName": "Lew II"}], "next": {"id": "hej-bystra-woda", "title": "Hej bystra woda"}, "previous": {"id": "hawran-i-muran", "title": "Hawrań i Murań"}}
+{
+  "id": "he-lives-in-you",
+  "title": "He Lives in You",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355581,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Ingonyama nengw' enamabala"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 4,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true,
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 2
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true,
+                      "base": {
+                        "elements": [
+                          {
+                            "interval": 5
+                          }
+                        ]
+                      }
+                    },
+                    "alternative": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Night and the spirit of life"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Calling "
+            },
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            },
+            {
+              "text": ", mamela "
+            },
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "And a voice with the fear of a child"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Answers "
+            },
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            },
+            {
+              "text": ", mamela "
+            },
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Wait there's no mountain too great"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Hear the words and have faith"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            },
+            {
+              "text": ", oh "
+            },
+            {
+              "text": "Oh oh iyo",
+              "underline": true
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Have faith"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Hela hey mamela"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": -1,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "He lives in you, he lives in me"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "He watches over, everything we see"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Into the water, into the truth"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "In your reflection, he lives in you"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 3,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "M",
+      "lastName": "Mancina"
+    },
+    {
+      "name": "J",
+      "lastName": "Rafkin"
+    },
+    {
+      "name": "Lebo",
+      "lastName": "M."
+    }
+  ],
+  "composer": [
+    {
+      "name": "M",
+      "lastName": "Mancina"
+    },
+    {
+      "name": "J",
+      "lastName": "Rafkin"
+    },
+    {
+      "name": "Lebo",
+      "lastName": "M."
+    }
+  ],
+  "performers": [
+    {
+      "name": "Król",
+      "lastName": "Lew (Broadway)"
+    },
+    {
+      "name": "Król",
+      "lastName": "Lew II"
+    }
+  ],
+  "next": {
+    "id": "hej-bystra-woda",
+    "title": "Hej bystra woda"
+  },
+  "previous": {
+    "id": "hawran-i-muran",
+    "title": "Hawrań i Murań"
+  }
+}

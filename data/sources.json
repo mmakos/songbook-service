@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Zabawka",
+    "year": 1933,
+    "type": "movie"
+  },
+  {
+    "type": "movie",
+    "name": "Romeo i Julia",
+    "year": 1968
+  }
+]

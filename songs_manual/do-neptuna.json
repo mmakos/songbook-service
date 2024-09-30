@@ -1,1 +1,935 @@
-{"id": "do-neptuna", "title": "Do Neptuna", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355580, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Jeszcze księżyc na dobre nie poszedł spać,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}]}]}}, {"text": [{"text": "Uśmiech gwiazd nie zniknął z nieba"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "A ciągle snują się po morzu cienie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Tych, co przed laty w morze wyszli, by pracą złożyć hołd"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Tafli, na której z uśmiechem odbity obraz zmęczonych rąk."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Widać, jak krople potu lekko na fali drżą,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "Wytchnienia szukając w tańcu z wiatrem, co w żagle duszę tchnął"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Zmęczone powieki portów wspomnienie zabierze tam,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Gdzie Syren śpiew kołysze do białego dnia."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Neptunie, przytul do snu tych,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Co na zawsze będą pływać już"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Ukołysz w rytmie fal bijących o stromy brzeg"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}]}, {"chords": [{"chord": {"note": {"base": "E"}}}], "optional": true}]}}, {"text": [{"text": "A pod poduszkę włóż spokój wędrujących dusz"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "C", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Niech czują dzisiaj co ja, by jutro znów płynąć w dal."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}, {"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}, {"chord": {"note": {"base": "A"}}}]}]}}], "indent": 1}, {"lines": [{"text": [{"text": "Zapisane wśród obłoków, co korabiem płyną w dal"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "Są sekrety, które wiatr osłania, zakochany w szumie fal"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Morski prąd je lekko nosi, z nowych dni układa rym"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "W inwokacji wznosi modły, by nie zginął dzisiaj nikt."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Prawdy z głębin oceanów pozostaną gdzieś na dnie"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}]}]}}, {"text": [{"text": "Morskich wód spienionych fale niech przypominają,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A"}, "additionals": [{"elements": [{"interval": 7}]}]}}, {"chord": {"note": {"base": "D"}}}]}]}}, {"text": [{"text": "Że tajemnice śpią we wrakach, choć czasami budzą się"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "D"}, "additionals": [{"elements": [{"interval": 7, "modification": "AUG"}]}]}}, {"chord": {"note": {"base": "A"}}}, {"chord": {"note": {"base": "F", "accidental": "SHARP"}, "minor": true}}]}]}}, {"text": [{"text": "Snując się po morskich szlakach, nucą cicho pieśń."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H"}, "minor": true}}, {"chord": {"note": {"base": "E"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Neptunie…"}]}], "indent": 1, "verseRef": 2}], "key": {"songbook": {"note": {"base": "A"}}, "original": {"note": {"base": "H", "accidental": "FLAT"}}}, "performers": [{"name": "R", "lastName": "Roczeń"}], "next": {"id": "dom-na-prerii", "title": "Dom na prerii"}, "previous": {"id": "do-ciebie-mamo", "title": "Do Ciebie Mamo"}}
+{
+  "id": "do-neptuna",
+  "title": "Do Neptuna",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355580,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jeszcze księżyc na dobre nie poszedł spać,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Uśmiech gwiazd nie zniknął z nieba"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A ciągle snują się po morzu cienie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tych, co przed laty w morze wyszli, by pracą złożyć hołd"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tafli, na której z uśmiechem odbity obraz zmęczonych rąk."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Widać, jak krople potu lekko na fali drżą,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wytchnienia szukając w tańcu z wiatrem, co w żagle duszę tchnął"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Zmęczone powieki portów wspomnienie zabierze tam,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Gdzie Syren śpiew kołysze do białego dnia."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Neptunie, przytul do snu tych,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Co na zawsze będą pływać już"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ukołysz w rytmie fal bijących o stromy brzeg"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              },
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ],
+                "optional": true
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A pod poduszkę włóż spokój wędrujących dusz"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Niech czują dzisiaj co ja, by jutro znów płynąć w dal."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 1
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Zapisane wśród obłoków, co korabiem płyną w dal"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Są sekrety, które wiatr osłania, zakochany w szumie fal"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Morski prąd je lekko nosi, z nowych dni układa rym"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W inwokacji wznosi modły, by nie zginął dzisiaj nikt."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Prawdy z głębin oceanów pozostaną gdzieś na dnie"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Morskich wód spienionych fale niech przypominają,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Że tajemnice śpią we wrakach, choć czasami budzą się"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      },
+                      "additionals": [
+                        {
+                          "elements": [
+                            {
+                              "interval": 7,
+                              "modification": "AUG"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "F",
+                        "accidental": "SHARP"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Snując się po morskich szlakach, nucą cicho pieśń."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Neptunie…"
+            }
+          ]
+        }
+      ],
+      "indent": 1,
+      "verseRef": 2
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "A"
+      }
+    },
+    "original": {
+      "note": {
+        "base": "H",
+        "accidental": "FLAT"
+      }
+    }
+  },
+  "performers": [
+    {
+      "name": "R",
+      "lastName": "Roczeń"
+    }
+  ],
+  "next": {
+    "id": "dom-na-prerii",
+    "title": "Dom na prerii"
+  },
+  "previous": {
+    "id": "do-ciebie-mamo",
+    "title": "Do Ciebie Mamo"
+  }
+}

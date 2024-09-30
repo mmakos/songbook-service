@@ -1,1 +1,492 @@
-{"id": "godzina-miedzy", "title": "Godzina między", "category": {"id": "common", "name": "Obozowe"}, "created": {"name": "spiewnik-mmakos", "time": 1727355581, "userVerified": true, "verified": false}, "verses": [{"lines": [{"text": [{"text": "Słońce w głowę zachodzi jak co dzień,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}, {"text": [{"text": "Co też będzie ze światem po zmierzchu."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}, {"text": [{"text": "Wieczór czyha w ogrodzie jak złodziej"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "I wiatr wietrzy w gałęziach niepokój."}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Cieniom też wydłużyły się gęby,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}, {"text": [{"text": "Ale słońce gra jeszcze na listkach,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "A widnokrąg, nim wbije w nie zęby,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Łyka okiem jak jaki artysta."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Jeszcze śmieją się wierzby płaczące"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}, {"text": [{"text": "I topole żonglują wróblami,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Słowik ma nowy koncept na koncert,"}], "repetition": true, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Choć zdawało się przedtem, że zamilkł"}], "repetition": true, "repetitionEnd": 2, "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Czapla siwa na boki się kiwa,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "C"}, "minor": true}}]}]}}, {"text": [{"text": "W lustrze wody poprawia makijaż."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "E", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Aż mi trudno te chwile nazywać,"}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "H", "accidental": "FLAT"}}}]}]}}, {"text": [{"text": "Taka dziwna ich pora niczyja."}], "chords": {"chords": [{"chords": [{"chord": {"note": {"base": "A", "accidental": "FLAT"}}}, {"chord": {"note": {"base": "G"}}}]}]}}], "indent": 0}, {"lines": [{"text": [{"text": "Słońce w głowę zachodzi…"}]}], "indent": 0, "verseRef": 0}], "key": {"songbook": {"note": {"base": "C"}, "minor": true}, "original": {"note": {"base": "C"}, "minor": true}, "comfort": {"note": {"base": "E"}, "minor": true}}, "lyrics": [{"name": "J", "lastName": "Podsiadło"}], "composer": [{"name": "P", "lastName": "Grabara"}], "performers": [{"name": "KMT", "lastName": "Turek"}], "next": {"id": "godzina-milowania", "title": "Godzina miłowania"}, "previous": {"id": "glupole", "title": "Głupole"}}
+{
+  "id": "godzina-miedzy",
+  "title": "Godzina między",
+  "category": {
+    "id": "common",
+    "name": "Obozowe"
+  },
+  "created": {
+    "name": "spiewnik-mmakos",
+    "time": 1727355581,
+    "userVerified": true,
+    "verified": false
+  },
+  "verses": [
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Słońce w głowę zachodzi jak co dzień,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Co też będzie ze światem po zmierzchu."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Wieczór czyha w ogrodzie jak złodziej"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I wiatr wietrzy w gałęziach niepokój."
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Cieniom też wydłużyły się gęby,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Ale słońce gra jeszcze na listkach,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "A widnokrąg, nim wbije w nie zęby,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Łyka okiem jak jaki artysta."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Jeszcze śmieją się wierzby płaczące"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "I topole żonglują wróblami,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Słowik ma nowy koncept na koncert,"
+            }
+          ],
+          "repetition": true,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Choć zdawało się przedtem, że zamilkł"
+            }
+          ],
+          "repetition": true,
+          "repetitionEnd": 2,
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Czapla siwa na boki się kiwa,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "W lustrze wody poprawia makijaż."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Aż mi trudno te chwile nazywać,"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Taka dziwna ich pora niczyja."
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "A",
+                        "accidental": "FLAT"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Słońce w głowę zachodzi…"
+            }
+          ]
+        }
+      ],
+      "indent": 0,
+      "verseRef": 0
+    }
+  ],
+  "key": {
+    "songbook": {
+      "note": {
+        "base": "C"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "C"
+      },
+      "minor": true
+    },
+    "comfort": {
+      "note": {
+        "base": "E"
+      },
+      "minor": true
+    }
+  },
+  "lyrics": [
+    {
+      "name": "J",
+      "lastName": "Podsiadło"
+    }
+  ],
+  "composer": [
+    {
+      "name": "P",
+      "lastName": "Grabara"
+    }
+  ],
+  "performers": [
+    {
+      "name": "KMT",
+      "lastName": "Turek"
+    }
+  ],
+  "next": {
+    "id": "godzina-milowania",
+    "title": "Godzina miłowania"
+  },
+  "previous": {
+    "id": "glupole",
+    "title": "Głupole"
+  }
+}
