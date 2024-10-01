@@ -755,23 +755,14 @@
     }
   },
   "lyrics": [
-    {
-      "name": "P",
-      "lastName": "Kasperczyk"
-    }
+    255
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Kasperczyk"
-    }
+    255
   ],
   "band": 132,
   "performers": [
-    {
-      "name": "Lech",
-      "lastName": "Makowiecki"
-    }
+    327
   ],
   "next": {
     "id": "hello",

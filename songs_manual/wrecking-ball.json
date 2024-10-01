@@ -1208,28 +1208,15 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Ł",
-      "lastName": "Gottwald"
-    },
-    {
-      "name": "Mozella"
-    }
+    262,
+    263
   ],
   "composer": [
-    {
-      "name": "Ł",
-      "lastName": "Gottwald"
-    },
-    {
-      "name": "Mozella"
-    }
+    262,
+    263
   ],
   "performers": [
-    {
-      "name": "Miley",
-      "lastName": "Cyrus"
-    }
+    375
   ],
   "next": {
     "id": "wyspa",

@@ -400,16 +400,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Wirpsza"
-    }
+    106
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "hiob",

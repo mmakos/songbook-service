@@ -943,16 +943,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Jezierski"
-    }
+    472
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Markowski"
-    }
+    473
   ],
   "next": {
     "id": "marsz-pierwszej-brygady",

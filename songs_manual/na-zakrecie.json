@@ -1194,16 +1194,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "naprawde-nie-dzieje-sie-nic",

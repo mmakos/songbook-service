@@ -1642,16 +1642,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Czech"
-    }
+    107
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "miedzy-nami",

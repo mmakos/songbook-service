@@ -1221,22 +1221,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Cohen"
-    }
+    240
   ],
   "composer": [
-    {
-      "name": "L",
-      "lastName": "Cohen"
-    }
+    240
   ],
   "translation": [
-    {
-      "name": "M",
-      "lastName": "Zembaty"
-    }
+    241
   ],
   "next": {
     "id": "halny",

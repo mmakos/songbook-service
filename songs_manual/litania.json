@@ -740,20 +740,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Miklaszewska"
-    },
-    {
-      "name": "M",
-      "lastName": "Miklaszewska"
-    }
+    115,
+    116
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Stokłosa"
-    }
+    117
   ],
   "next": {
     "id": "los-wloczegi",

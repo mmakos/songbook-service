@@ -651,24 +651,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "T",
-      "lastName": "Elliott"
-    },
-    {
-      "name": "T",
-      "lastName": "Rossio"
-    }
+    400,
+    401
   ],
   "composer": [
-    {
-      "name": "H",
-      "lastName": "Zimmer"
-    },
-    {
-      "name": "G",
-      "lastName": "Verbinski"
-    }
+    194,
+    399
   ],
   "source": [
     111

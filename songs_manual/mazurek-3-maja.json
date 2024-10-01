@@ -438,16 +438,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "R",
-      "lastName": "Suchodolski"
-    }
+    468
   ],
   "composer": [
-    {
-      "name": "F",
-      "lastName": "Chopin"
-    }
+    469
   ],
   "next": {
     "id": "modlitwa-armii-krajowej",

@@ -674,20 +674,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Jesienin"
-    },
-    {
-      "name": "J",
-      "lastName": "Litwiniuk"
-    }
+    451,
+    450
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Wojda"
-    }
+    452
   ],
   "next": {
     "id": "lubie-mowic-z-toba-muczec-z-krowa",

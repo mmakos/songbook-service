@@ -1262,22 +1262,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Mancina"
-    },
-    {
-      "name": "Lebo M."
-    }
+    250,
+    219
   ],
   "composer": [
-    {
-      "name": "H",
-      "lastName": "Zimmer"
-    },
-    {
-      "name": "Lebo M."
-    }
+    194,
+    219
   ],
   "next": {
     "id": "stary-kowboj",

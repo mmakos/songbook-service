@@ -922,16 +922,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Benedek"
-    }
+    433
   ],
   "composer": [
-    {
-      "name": "Z",
-      "lastName": "Staszczyk"
-    }
+    129
   ],
   "next": {
     "id": "kluski",

@@ -761,22 +761,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Karel",
-      "lastName": "Kryl"
-    }
+    349
   ],
   "composer": [
-    {
-      "name": "Karel",
-      "lastName": "Kryl"
-    }
+    349
   ],
   "translation": [
-    {
-      "name": "M",
-      "lastName": "Miklaszewska"
-    }
+    116
   ],
   "next": {
     "id": "milosc-rosnie-wokol-nas",

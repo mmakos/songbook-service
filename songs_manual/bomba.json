@@ -1164,16 +1164,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "R",
-      "lastName": "Schuberth"
-    }
+    162
   ],
   "composer": [
-    {
-      "name": "T",
-      "lastName": "Leśniak"
-    }
+    163
   ],
   "next": {
     "id": "boso",

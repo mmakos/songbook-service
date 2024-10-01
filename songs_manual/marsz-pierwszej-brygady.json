@@ -1011,20 +1011,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Hałaciński"
-    },
-    {
-      "name": "T",
-      "lastName": "Biernacki"
-    }
+    470,
+    471
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Brzuchal-Sikorski"
-    }
+    346
   ],
   "next": {
     "id": "marsz-polonii",

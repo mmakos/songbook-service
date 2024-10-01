@@ -763,16 +763,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Jacek",
-      "lastName": "Sienkiewicz"
-    }
+    191
   ],
   "composer": [
-    {
-      "name": "Jacek",
-      "lastName": "Sienkiewicz"
-    }
+    191
   ],
   "next": {
     "id": "ktos-mnie-pokochal",

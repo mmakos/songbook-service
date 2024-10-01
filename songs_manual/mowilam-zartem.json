@@ -1638,16 +1638,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Abramow-Newerly"
-    }
+    486
   ],
   "next": {
     "id": "my-cyganie",

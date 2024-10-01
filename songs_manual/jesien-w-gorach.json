@@ -708,20 +708,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Andrzej",
-      "lastName": "Torbus"
-    },
-    {
-      "name": "Maria",
-      "lastName": "Siciarz"
-    }
+    334,
+    335
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Mróz"
-    }
+    413
   ],
   "next": {
     "id": "jeszcze-w-zielone-gramy",

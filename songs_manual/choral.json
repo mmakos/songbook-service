@@ -2206,16 +2206,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Ujejski"
-    }
+    301
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Nikorowicz"
-    }
+    300
   ],
   "next": {
     "id": "czerwone-maki-na-monte-cassino",

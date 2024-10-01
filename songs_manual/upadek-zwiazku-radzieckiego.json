@@ -1364,16 +1364,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "composer": [
-    {
-      "name": "Z",
-      "lastName": "Łapiński"
-    }
+    102
   ],
   "next": {
     "id": "w-ciemnosci-do-siebie-idziemy",

@@ -971,16 +971,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Bryll"
-    }
+    113
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "walka-jakuba-z-aniolem",

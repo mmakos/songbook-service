@@ -831,16 +831,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "M. Sieniawski"
-    }
+    105
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "pompeja-ii",

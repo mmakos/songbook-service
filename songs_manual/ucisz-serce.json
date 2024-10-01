@@ -1372,16 +1372,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "performers": [
-    {
-      "name": "Z",
-      "lastName": "Konieczny"
-    }
+    233
   ],
   "next": {
     "id": "victory",

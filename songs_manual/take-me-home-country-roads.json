@@ -667,20 +667,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Mary",
-      "lastName": "Nivert-Danoff"
-    },
-    {
-      "name": "B",
-      "lastName": "Danoff"
-    }
+    388,
+    580
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Denver"
-    }
+    581
   ],
   "next": {
     "id": "takie-ladne-oczy",

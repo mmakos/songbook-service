@@ -1284,34 +1284,16 @@
     }
   },
   "performers": [
-    {
-      "name": "L",
-      "lastName": "Fabian"
-    }
+    127
   ],
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Fabian"
-    },
-    {
-      "name": "R",
-      "lastName": "Allison"
-    },
-    {
-      "name": "D",
-      "lastName": "Pickell"
-    }
+    127,
+    126,
+    128
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Giazotto"
-    },
-    {
-      "name": "T",
-      "lastName": "Albinoni"
-    }
+    124,
+    125
   ],
   "next": {
     "id": "ai-se-eu-te-pego",

@@ -746,16 +746,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Bryll"
-    }
+    113
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Trzciński"
-    }
+    436
   ],
   "next": {
     "id": "los-peces-en-el-ro",

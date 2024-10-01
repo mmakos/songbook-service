@@ -1194,20 +1194,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Dzikowski"
-    },
-    {
-      "name": "K",
-      "lastName": "Winkler"
-    }
+    211,
+    212
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Krajewski"
-    }
+    210
   ],
   "next": {
     "id": "droga-na-smolensk",

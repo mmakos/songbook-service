@@ -781,22 +781,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Sikorowski"
-    }
+    132
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Sikorowski"
-    }
+    132
   ],
   "performers": [
-    {
-      "name": "M",
-      "lastName": "Rodowicz"
-    }
+    131
   ],
   "next": {
     "id": "aniol-i-diabel",

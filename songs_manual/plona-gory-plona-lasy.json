@@ -406,16 +406,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Kondratowicz"
-    }
+    151
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Krajewski"
-    }
+    210
   ],
   "next": {
     "id": "plynmy-do-starej-maui",

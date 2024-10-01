@@ -1270,22 +1270,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Gärtner"
-    }
+    190
   ],
   "performers": [
-    {
-      "name": "Maryla",
-      "lastName": "Rodowicz"
-    }
+    131
   ],
   "next": {
     "id": "marchewkowe-pole",

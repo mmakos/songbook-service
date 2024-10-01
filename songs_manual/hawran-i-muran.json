@@ -804,16 +804,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Broniewski"
-    }
+    248
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Bornus-Szczyciński"
-    }
+    249
   ],
   "next": {
     "id": "he-lives-in-you",

@@ -1534,22 +1534,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Młynarski"
-    }
+    139
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Korcz"
-    }
+    292
   ],
   "performers": [
-    {
-      "name": "Michał",
-      "lastName": "Bajor"
-    }
+    351
   ],
   "next": {
     "id": "moje-kolezanki",

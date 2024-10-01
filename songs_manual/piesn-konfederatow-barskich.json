@@ -1518,16 +1518,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Słowacki"
-    }
+    521
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Kurylewicz"
-    }
+    522
   ],
   "next": {
     "id": "przy-sadzeniu-roz",

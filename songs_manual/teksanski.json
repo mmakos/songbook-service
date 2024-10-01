@@ -626,16 +626,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Nosowska"
-    }
+    407
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Banach"
-    }
+    406
   ],
   "next": {
     "id": "tell-him",

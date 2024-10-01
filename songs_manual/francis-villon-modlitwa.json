@@ -1158,22 +1158,13 @@
     }
   },
   "composer": [
-    {
-      "name": "B",
-      "lastName": "Okudżawa"
-    }
+    213
   ],
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Okudżawa"
-    }
+    213
   ],
   "translation": [
-    {
-      "name": "A",
-      "lastName": "Mandalian"
-    }
+    395
   ],
   "next": {
     "id": "freedom",

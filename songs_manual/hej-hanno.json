@@ -1120,22 +1120,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Gärtner"
-    }
+    190
   ],
   "performers": [
-    {
-      "name": "Tadeusz",
-      "lastName": "Woźniak"
-    }
+    205
   ],
   "next": {
     "id": "hej-sokoly",

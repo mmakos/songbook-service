@@ -926,16 +926,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Zieliński"
-    }
+    134
   ],
   "next": {
     "id": "arahja",

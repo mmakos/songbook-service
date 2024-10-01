@@ -808,41 +808,18 @@
     }
   },
   "lyrics": [
-    {
-      "name": "D",
-      "lastName": "Podsiadło"
-    },
-    {
-      "name": "D",
-      "lastName": "Zawiałow"
-    },
-    {
-      "name": "Mateusz",
-      "lastName": "Dopieralski"
-    }
+    345,
+    405,
+    256
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Krzyżanowski"
-    },
-    {
-      "name": "Bartosz",
-      "lastName": "Dziedzic"
-    }
+    404,
+    236
   ],
   "performers": [
-    {
-      "name": "D",
-      "lastName": "Podsiadło"
-    },
-    {
-      "name": "D",
-      "lastName": "Zawiałow"
-    },
-    {
-      "name": "Vito Bambino"
-    }
+    345,
+    405,
+    256
   ],
   "next": {
     "id": "i-wont-forget-you",

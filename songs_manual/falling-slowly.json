@@ -1125,14 +1125,8 @@
     }
   },
   "performers": [
-    {
-      "name": "Glen",
-      "lastName": "Hansard"
-    },
-    {
-      "name": "Markéta",
-      "lastName": "Irglová"
-    }
+    322,
+    323
   ],
   "next": {
     "id": "falling-slowly-accantus",

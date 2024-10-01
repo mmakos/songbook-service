@@ -478,20 +478,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Leśmian"
-    }
+    158
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Strug"
-    },
-    {
-      "name": "S",
-      "lastName": "Soyka"
-    }
+    276,
+    277
   ],
   "next": {
     "id": "szyba",

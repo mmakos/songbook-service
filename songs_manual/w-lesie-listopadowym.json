@@ -913,20 +913,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Harasymowicz"
-    }
+    564
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Koczewski"
-    },
-    {
-      "name": "Z",
-      "lastName": "Bogdański"
-    }
+    565,
+    566
   ],
   "next": {
     "id": "w-moim-ogrodecku",

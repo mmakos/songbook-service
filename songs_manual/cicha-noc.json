@@ -1037,22 +1037,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Mohr"
-    }
+    306
   ],
   "composer": [
-    {
-      "name": "F",
-      "lastName": "X. Gruber"
-    }
+    305
   ],
   "translation": [
-    {
-      "name": "P",
-      "lastName": "Maszyński"
-    }
+    307
   ],
   "next": {
     "id": "do-szopy-hej-pasterze",

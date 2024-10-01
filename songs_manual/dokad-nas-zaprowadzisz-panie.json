@@ -956,16 +956,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Tercz"
-    }
+    104
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "dylemat",

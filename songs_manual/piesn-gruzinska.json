@@ -2329,22 +2329,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Okudżawa"
-    }
+    213
   ],
   "composer": [
-    {
-      "name": "B",
-      "lastName": "Okudżawa"
-    }
+    213
   ],
   "translation": [
-    {
-      "name": "T",
-      "lastName": "Lubelski"
-    }
+    506
   ],
   "next": {
     "id": "piesn-wielorybnikow",

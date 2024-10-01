@@ -951,16 +951,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Mogielnicki"
-    }
+    440
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Lipko"
-    }
+    421
   ],
   "next": {
     "id": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",

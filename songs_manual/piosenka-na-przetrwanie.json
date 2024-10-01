@@ -603,16 +603,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Jarosz"
-    }
+    518
   ],
   "composer": [
-    {
-      "name": "Jan",
-      "lastName": "Wydra"
-    }
+    519
   ],
   "next": {
     "id": "piosenki-bony-m",

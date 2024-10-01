@@ -664,16 +664,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Holm"
-    }
+    112
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "u-wrot-doliny",

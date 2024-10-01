@@ -797,22 +797,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "Z",
-      "lastName": "Konieczny"
-    }
+    233
   ],
   "performers": [
-    {
-      "name": "Anna",
-      "lastName": "Szałapak"
-    }
+    325
   ],
   "next": {
     "id": "granda",

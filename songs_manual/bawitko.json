@@ -1440,10 +1440,7 @@
     }
   },
   "performers": [
-    {
-      "name": "A",
-      "lastName": "Poniedzielski"
-    }
+    145
   ],
   "next": {
     "id": "believer",

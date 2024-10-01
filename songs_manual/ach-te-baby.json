@@ -797,24 +797,17 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Nel"
-    }
+    122
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Palester"
-    }
+    123
   ],
   "performers": [
-    {
-      "name": "Eugeniusz",
-      "lastName": "Bodo"
-    }
+    313
   ],
-  "source": [100],
+  "source": [
+    100
+  ],
   "next": {
     "id": "adagio",
     "title": "Adagio"

@@ -1493,10 +1493,7 @@
     }
   },
   "performers": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "next": {
     "id": "antylitania-na-czasy-przejsciowe",

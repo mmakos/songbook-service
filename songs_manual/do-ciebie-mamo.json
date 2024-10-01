@@ -765,26 +765,14 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Werner"
-    },
-    {
-      "name": "M",
-      "lastName": "Łebkowski"
-    }
+    206,
+    207
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Skorupka"
-    }
+    208
   ],
   "performers": [
-    {
-      "name": "Violetta",
-      "lastName": "Villas"
-    }
+    320
   ],
   "next": {
     "id": "do-neptuna",

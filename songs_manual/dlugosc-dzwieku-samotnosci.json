@@ -802,27 +802,15 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Powaga-Grabowski"
-    }
+    202
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Kuderski"
-    }
+    200
   ],
   "band": 124,
   "performers": [
-    {
-      "name": "A",
-      "lastName": "Rojek"
-    },
-    {
-      "name": "P",
-      "lastName": "Myszor"
-    }
+    199,
+    201
   ],
   "next": {
     "id": "dni-ktorych-nie-znamy",

@@ -486,16 +486,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Chyliński"
-    }
+    520
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Drąg"
-    }
+    513
   ],
   "next": {
     "id": "piosenka-mazowiecka",

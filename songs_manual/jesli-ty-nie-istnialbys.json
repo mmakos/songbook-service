@@ -991,32 +991,17 @@
     }
   },
   "lyrics": [
-    {
-      "name": "V",
-      "lastName": "Pallavicini"
-    }
+    416
   ],
   "translation": [
-    {
-      "name": "W",
-      "lastName": "Młynarski"
-    }
+    139
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Cutugno"
-    },
-    {
-      "name": "P",
-      "lastName": "Losito"
-    }
+    414,
+    415
   ],
   "performers": [
-    {
-      "name": "Joe",
-      "lastName": "Dassin"
-    }
+    336
   ],
   "next": {
     "id": "jolly-roger",

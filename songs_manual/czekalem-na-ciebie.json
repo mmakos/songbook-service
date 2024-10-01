@@ -1051,16 +1051,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Bryll"
-    }
+    113
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Gärtner"
-    }
+    190
   ],
   "next": {
     "id": "czerwone-korale",

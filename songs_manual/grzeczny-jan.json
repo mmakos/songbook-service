@@ -1622,20 +1622,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Łebkowski"
-    },
-    {
-      "name": "S",
-      "lastName": "Werner"
-    }
+    207,
+    206
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Sielicki"
-    }
+    220
   ],
   "next": {
     "id": "grzywa",

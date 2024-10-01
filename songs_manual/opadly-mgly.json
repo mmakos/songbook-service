@@ -781,16 +781,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Stachura"
-    }
+    238
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Nowacki"
-    }
+    496
   ],
   "next": {
     "id": "orki-z-majorki",

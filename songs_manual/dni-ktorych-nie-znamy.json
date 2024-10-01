@@ -1098,16 +1098,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Grechuta"
-    }
+    148
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "K. Pawlusiewicz"
-    }
+    203
   ],
   "next": {
     "id": "dni-niczyje",

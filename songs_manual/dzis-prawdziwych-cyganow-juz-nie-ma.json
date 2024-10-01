@@ -1075,22 +1075,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Zieliński"
-    }
+    134
   ],
   "performers": [
-    {
-      "name": "Maryla",
-      "lastName": "Rodowicz"
-    }
+    131
   ],
   "next": {
     "id": "dzwony",

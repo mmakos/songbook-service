@@ -874,14 +874,8 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Sikorski"
-    },
-    {
-      "name": "M",
-      "lastName": "Szurawski"
-    }
+    160,
+    239
   ],
   "next": {
     "id": "hallelujah",

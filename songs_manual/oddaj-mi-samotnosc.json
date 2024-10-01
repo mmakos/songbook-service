@@ -1123,16 +1123,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Sosnowski"
-    }
+    501
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Stokłosa"
-    }
+    117
   ],
   "next": {
     "id": "odpowie-ci-wiatr",

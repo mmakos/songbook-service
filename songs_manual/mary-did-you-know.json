@@ -1341,16 +1341,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Lowry"
-    }
+    460
   ],
   "composer": [
-    {
-      "name": "B",
-      "lastName": "Greene"
-    }
+    459
   ],
   "next": {
     "id": "miasto",

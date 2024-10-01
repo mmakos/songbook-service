@@ -569,34 +569,19 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Mancina"
-    },
-    {
-      "name": "J",
-      "lastName": "Rifkin"
-    },
-    {
-      "name": "Lebo M."
-    }
+    250,
+    221,
+    219
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Mancina"
-    },
-    {
-      "name": "J",
-      "lastName": "Rifkin"
-    },
-    {
-      "name": "Lebo M."
-    }
+    250,
+    221,
+    219
   ],
-
   "source": [
-    106, 109, 110
+    106,
+    109,
+    110
   ],
   "next": {
     "id": "hej-bystra-woda",

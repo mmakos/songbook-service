@@ -668,22 +668,13 @@
     }
   },
   "translation": [
-    {
-      "name": "J",
-      "lastName": "Michotek"
-    }
+    527
   ],
   "lyrics": [
-    {
-      "name": "Stan",
-      "lastName": "Jones"
-    }
+    526
   ],
   "composer": [
-    {
-      "name": "Stan",
-      "lastName": "Jones"
-    }
+    526
   ],
   "next": {
     "id": "stokrotka",

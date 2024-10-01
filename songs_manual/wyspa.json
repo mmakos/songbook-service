@@ -921,16 +921,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Waligórski"
-    }
+    269
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Rynkowski"
-    }
+    268
   ],
   "next": {
     "id": "yesterday",

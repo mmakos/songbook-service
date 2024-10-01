@@ -693,16 +693,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "F",
-      "lastName": "Piątkowski"
-    }
+    455
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Marczyk"
-    }
+    456
   ],
   "next": {
     "id": "lato-z-komarami",

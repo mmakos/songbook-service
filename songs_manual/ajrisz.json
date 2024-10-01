@@ -845,16 +845,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Polak"
-    }
+    130
   ],
   "composer": [
-    {
-      "name": "Z",
-      "lastName": "Staszczyk"
-    }
+    129
   ],
   "band": 102,
   "next": {

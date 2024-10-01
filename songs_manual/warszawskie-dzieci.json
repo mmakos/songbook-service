@@ -591,16 +591,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Dobrowolski"
-    }
+    542
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Panufnik"
-    }
+    272
   ],
   "next": {
     "id": "wojenko-wojenko",

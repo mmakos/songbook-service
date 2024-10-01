@@ -752,20 +752,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Mrożek"
-    },
-    {
-      "name": "B",
-      "lastName": "Kobiela"
-    }
+    425,
+    426
   ],
   "composer": [
-    {
-      "name": "T",
-      "lastName": "Chyła"
-    }
+    424
   ],
   "next": {
     "id": "katedr-swiat-robert-janowski",

@@ -810,14 +810,8 @@
     107
   ],
   "performers": [
-    {
-      "name": "A",
-      "lastName": "Hamilton"
-    },
-    {
-      "name": "E",
-      "lastName": "Boynton"
-    }
+    226,
+    227
   ],
   "next": {
     "id": "futbol",

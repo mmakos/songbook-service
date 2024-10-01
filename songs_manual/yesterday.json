@@ -719,16 +719,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Paul",
-      "lastName": "McCartney"
-    }
+    377
   ],
   "composer": [
-    {
-      "name": "Paul",
-      "lastName": "McCartney"
-    }
+    377
   ],
   "next": {
     "id": "you-raise-me-up",

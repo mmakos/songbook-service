@@ -1113,20 +1113,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Lebionko"
-    }
+    175
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Kowalewicz"
-    },
-    {
-      "name": "K",
-      "lastName": "Mikiciuk"
-    }
+    176,
+    177
   ],
   "next": {
     "id": "chodz-pomaluj-moj-swiat",

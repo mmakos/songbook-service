@@ -1598,10 +1598,7 @@
     }
   },
   "performers": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "next": {
     "id": "modlitwa-o-wschodzie-slonca",

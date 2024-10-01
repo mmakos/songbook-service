@@ -963,30 +963,15 @@
     }
   },
   "lyrics": [
-    {
-      "name": "H",
-      "lastName": "E. Peretti"
-    },
-    {
-      "name": "L",
-      "lastName": "Creatore"
-    }
+    172,
+    173
   ],
   "composer": [
-    {
-      "name": "G",
-      "lastName": "D. Weiss"
-    },
-    {
-      "name": "Jean",
-      "lastName": "Martini"
-    }
+    174,
+    393
   ],
   "performers": [
-    {
-      "name": "Elvis",
-      "lastName": "Presley"
-    }
+    317
   ],
   "next": {
     "id": "chlopcy-z-botany-bay",

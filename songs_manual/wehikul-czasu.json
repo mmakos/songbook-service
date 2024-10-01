@@ -943,16 +943,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "R",
-      "lastName": "Riedel"
-    }
+    551
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Otręba"
-    }
+    543
   ],
   "next": {
     "id": "wellerman",

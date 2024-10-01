@@ -419,7 +419,10 @@
       "minor": true
     }
   },
-  "bible": ["Psalm 16", "Dz 2,25-28"],
+  "bible": [
+    "Psalm 16",
+    "Dz 2,25-28"
+  ],
   "next": {
     "id": "moj-zbawiciel",
     "title": "Mój Zbawiciel"

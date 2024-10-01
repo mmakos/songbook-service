@@ -746,17 +746,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Andrzejczak"
-    }
+    442
   ],
   "band": 140,
   "performers": [
-    {
-      "name": "Anna",
-      "lastName": "Pyć"
-    }
+    340
   ],
   "next": {
     "id": "kryzysowa-narzeczona",

@@ -628,16 +628,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Herbert"
-    }
+    103
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "przejscie-polakow-przez-morze-czerwone",

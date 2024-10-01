@@ -1123,23 +1123,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Taymor"
-    }
+    222
   ],
   "composer": [
-    {
-      "name": "H",
-      "lastName": "Zimmer"
-    },
-    {
-      "name": "J",
-      "lastName": "Rifkin"
-    },
-    {
-      "name": "Lebo M."
-    }
+    194,
+    221,
+    219
   ],
   "source": [
     106

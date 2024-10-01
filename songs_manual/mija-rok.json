@@ -905,16 +905,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Dzikowski"
-    }
+    211
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Krajewski"
-    }
+    210
   ],
   "next": {
     "id": "mila",

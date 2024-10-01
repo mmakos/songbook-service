@@ -769,16 +769,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Przybora"
-    }
+    567
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Wasowski"
-    }
+    568
   ],
   "next": {
     "id": "w-gorach",

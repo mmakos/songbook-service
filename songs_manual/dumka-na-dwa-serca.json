@@ -1948,18 +1948,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Cygan"
-    }
+    215
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Dębski"
-    }
+    216
   ],
-  "source": [105
+  "source": [
+    105
   ],
   "next": {
     "id": "dyktator",

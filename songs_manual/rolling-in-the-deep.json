@@ -1709,13 +1709,8 @@
     }
   },
   "performers": [
-    {
-      "name": "Adele"
-    },
-    {
-      "name": "P",
-      "lastName": "Epworth"
-    }
+    280,
+    539
   ],
   "next": {
     "id": "rozbojnik",

@@ -1456,20 +1456,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Wroczyński"
-    },
-    {
-      "name": "J",
-      "lastName": "Lankau"
-    }
+    537,
+    538
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Kozar-Słobódzki"
-    }
+    536
   ],
   "next": {
     "id": "rozszumialy-sie-wierzby-placzace",

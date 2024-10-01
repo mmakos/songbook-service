@@ -1260,23 +1260,14 @@
     }
   },
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Menken"
-    },
-    {
-      "name": "S",
-      "lastName": "Schwartz"
-    }
+    396,
+    444
   ],
   "source": [
     114
   ],
   "translation": [
-    {
-      "name": "A",
-      "lastName": "Marianowicz"
-    }
+    447
   ],
   "next": {
     "id": "kolysanka",

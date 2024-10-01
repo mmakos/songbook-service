@@ -2263,22 +2263,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "D",
-      "lastName": "Kozielska"
-    }
+    270
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Kessling"
-    }
+    445
   ],
   "performers": [
-    {
-      "name": "N",
-      "lastName": "Piotrowska-Paciorek"
-    }
+    446
   ],
   "next": {
     "id": "mario-czy-ty-wiesz",

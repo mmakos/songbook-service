@@ -1428,24 +1428,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Lennon"
-    },
-    {
-      "name": "P",
-      "lastName": "McCartney"
-    }
+    453,
+    377
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Lennon"
-    },
-    {
-      "name": "P",
-      "lastName": "McCartney"
-    }
+    453,
+    377
   ],
   "next": {
     "id": "lewe-lewe-loff",

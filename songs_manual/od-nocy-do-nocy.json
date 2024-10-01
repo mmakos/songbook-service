@@ -474,16 +474,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Kazanecki"
-    }
+    502
   ],
   "next": {
     "id": "oddaj-mi-samotnosc",

@@ -1208,16 +1208,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "piesn-o-snie",

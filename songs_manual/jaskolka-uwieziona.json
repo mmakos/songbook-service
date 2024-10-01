@@ -1018,22 +1018,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Szemioth"
-    }
+    410
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Kępski"
-    }
+    409
   ],
   "performers": [
-    {
-      "name": "Stan",
-      "lastName": "Borys"
-    }
+    332
   ],
   "next": {
     "id": "jasnowlosa",

@@ -667,22 +667,15 @@
     }
   },
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Kusik"
-    },
-    {
-      "name": "E",
-      "lastName": "Snyder"
-    }
+    118,
+    119
   ],
   "composer": [
-    {
-      "name": "N",
-      "lastName": "Rota"
-    }
+    120
   ],
-  "source": [101],
+  "source": [
+    101
+  ],
   "next": {
     "id": "a-u-nas-latem",
     "title": "A u nas latem"

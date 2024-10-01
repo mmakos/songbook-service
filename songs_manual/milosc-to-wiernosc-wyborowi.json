@@ -1011,16 +1011,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Książek"
-    }
+    230
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Rubik"
-    }
+    264
   ],
   "next": {
     "id": "milosc-w-zakopanem",

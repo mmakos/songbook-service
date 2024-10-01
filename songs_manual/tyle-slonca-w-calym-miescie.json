@@ -768,22 +768,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Kondratowicz"
-    }
+    151
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Kukulski"
-    }
+    289
   ],
   "performers": [
-    {
-      "name": "Anna",
-      "lastName": "Jantar"
-    }
+    363
   ],
   "next": {
     "id": "ucisz-serce",

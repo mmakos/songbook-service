@@ -634,14 +634,8 @@
     }
   },
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Leśmian"
-    },
-    {
-      "name": "W",
-      "lastName": "Broniewski"
-    }
+    158,
+    248
   ],
   "band": 165,
   "next": {

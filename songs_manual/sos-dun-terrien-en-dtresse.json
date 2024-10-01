@@ -1378,16 +1378,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Plamondon"
-    }
+    136
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Berger"
-    }
+    497
   ],
   "next": {
     "id": "samantha",

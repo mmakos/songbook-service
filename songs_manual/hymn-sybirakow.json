@@ -1478,16 +1478,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Jonkajtys"
-    }
+    402
   ],
   "composer": [
-    {
-      "name": "C",
-      "lastName": "Majewski"
-    }
+    403
   ],
   "next": {
     "id": "hymn-szarych-szeregow",

@@ -595,20 +595,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Karpiel-Bułecka"
-    },
-    {
-      "name": "B",
-      "lastName": "Kudasik"
-    }
+    164,
+    165
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Pospieszalski"
-    }
+    166
   ],
   "band": 112,
   "next": {

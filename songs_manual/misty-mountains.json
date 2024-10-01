@@ -374,16 +374,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Tolkien"
-    }
+    458
   ],
   "composer": [
-    {
-      "name": "D",
-      "lastName": "Donaldson"
-    }
+    465
   ],
   "next": {
     "id": "mniej-niz-zero",

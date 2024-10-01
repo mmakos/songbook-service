@@ -731,16 +731,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Chorążuk"
-    }
+    204
   ],
   "composer": [
-    {
-      "name": "T",
-      "lastName": "Woźniak"
-    }
+    205
   ],
   "next": {
     "id": "zabierzcie-mi-gitare",

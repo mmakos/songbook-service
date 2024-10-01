@@ -1603,16 +1603,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "W",
-      "lastName": "Tupaczewski"
-    }
+    295
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Piekarczyk"
-    }
+    293
   ],
   "next": {
     "id": "zawsze-tam-gdzie-ty",

@@ -731,16 +731,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Zabłocki"
-    }
+    170
   ],
   "composer": [
-    {
-      "name": "G",
-      "lastName": "Turnau"
-    }
+    265
   ],
   "next": {
     "id": "natalia-w-bruklinie",

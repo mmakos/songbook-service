@@ -867,16 +867,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Staszczyk"
-    }
+    129
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Benedek"
-    }
+    433
   ],
   "next": {
     "id": "warnenczyk",

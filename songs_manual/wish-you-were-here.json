@@ -402,20 +402,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "R",
-      "lastName": "Waters"
-    }
+    545
   ],
   "composer": [
-    {
-      "name": "D",
-      "lastName": "Gilmour"
-    },
-    {
-      "name": "R",
-      "lastName": "Waters"
-    }
+    546,
+    545
   ],
   "next": {
     "id": "wlosy",

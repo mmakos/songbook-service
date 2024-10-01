@@ -1113,32 +1113,14 @@
     }
   },
   "lyrics": [
-    {
-      "name": "I",
-      "lastName": "Axel"
-    },
-    {
-      "name": "C",
-      "lastName": "Vaccarino"
-    },
-    {
-      "name": "M",
-      "lastName": "Campbell"
-    }
+    282,
+    283,
+    281
   ],
   "composer": [
-    {
-      "name": "I",
-      "lastName": "Axel"
-    },
-    {
-      "name": "C",
-      "lastName": "Vaccarino"
-    },
-    {
-      "name": "M",
-      "lastName": "Campbell"
-    }
+    282,
+    283,
+    281
   ],
   "next": {
     "id": "serce-me-zadrzalo",

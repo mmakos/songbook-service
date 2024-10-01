@@ -1321,10 +1321,7 @@
     }
   },
   "performers": [
-    {
-      "name": "Cat",
-      "lastName": "Stevens"
-    }
+    324
   ],
   "next": {
     "id": "few-days",

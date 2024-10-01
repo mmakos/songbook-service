@@ -854,18 +854,9 @@
     }
   },
   "composer": [
-    {
-      "name": "N",
-      "lastName": "Smoliński"
-    },
-    {
-      "name": "A",
-      "lastName": "Malczewski"
-    },
-    {
-      "name": "P",
-      "lastName": "Gawlik"
-    }
+    257,
+    258,
+    259
   ],
   "band": 137,
   "source": [

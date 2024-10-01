@@ -991,16 +991,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Dutkiewicz"
-    }
+    178
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Drąg"
-    }
+    513
   ],
   "next": {
     "id": "pozegnalny-ton",

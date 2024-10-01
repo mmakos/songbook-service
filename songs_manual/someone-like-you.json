@@ -1030,22 +1030,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Adele"
-    },
-    {
-      "name": "D",
-      "lastName": "Wilson"
-    }
+    280,
+    529
   ],
   "composer": [
-    {
-      "name": "Adele"
-    },
-    {
-      "name": "D",
-      "lastName": "Wilson"
-    }
+    280,
+    529
   ],
   "next": {
     "id": "speak-softly-love",

@@ -2015,20 +2015,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Llach"
-    },
-    {
-      "name": "F",
-      "lastName": "Łobodziński"
-    }
+    109,
+    443
   ],
   "composer": [
-    {
-      "name": "L",
-      "lastName": "Llach"
-    }
+    109
   ],
   "band": 161,
   "next": {

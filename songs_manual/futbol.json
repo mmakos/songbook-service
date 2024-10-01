@@ -944,22 +944,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Jonasz",
-      "lastName": "Kofta"
-    }
+    228
   ],
   "composer": [
-    {
-      "name": "B",
-      "lastName": "Grzyb"
-    }
+    229
   ],
   "performers": [
-    {
-      "name": "Maryla",
-      "lastName": "Rodowicz"
-    }
+    131
   ],
   "next": {
     "id": "gdzie-ten-ktory-powie-mi",

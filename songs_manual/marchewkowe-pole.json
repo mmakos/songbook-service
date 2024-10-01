@@ -481,16 +481,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Mogielnicki"
-    }
+    440
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Borysewicz"
-    }
+    441
   ],
   "next": {
     "id": "marco-polo",

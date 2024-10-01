@@ -769,22 +769,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Walter"
-    }
+    555
   ],
   "composer": [
-    {
-      "name": "Nino",
-      "lastName": "Rota"
-    }
+    120
   ],
   "performers": [
-    {
-      "name": "Glen",
-      "lastName": "Weston"
-    }
+    392
   ],
   "next": {
     "id": "whisky",

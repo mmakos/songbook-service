@@ -457,16 +457,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "G",
-      "lastName": "Martin"
-    }
+    523
   ],
   "composer": [
-    {
-      "name": "R",
-      "lastName": "Djawadi"
-    }
+    287
   ],
   "next": {
     "id": "rolling-in-the-deep",

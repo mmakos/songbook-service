@@ -1872,20 +1872,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Linda",
-      "lastName": "Thompson"
-    }
+    370
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Afanasieff"
-    },
-    {
-      "name": "D",
-      "lastName": "Foster"
-    }
+    577,
+    576
   ],
   "next": {
     "id": "ten-ktory-nie-poznal",

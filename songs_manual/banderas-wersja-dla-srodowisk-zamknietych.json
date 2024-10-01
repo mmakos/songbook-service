@@ -356,16 +356,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Andrus"
-    }
+    143
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Janowicz"
-    }
+    142
   ],
   "next": {
     "id": "baranek",

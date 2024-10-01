@@ -1269,16 +1269,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Andrus"
-    }
+    143
   ],
   "composer": [
-    {
-      "name": "Ł",
-      "lastName": "Borowiecki"
-    }
+    187
   ],
   "next": {
     "id": "nie-chce-wiecej",

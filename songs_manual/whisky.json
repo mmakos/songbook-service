@@ -1044,20 +1044,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Gayer"
-    }
+    549
   ],
   "composer": [
-    {
-      "name": "B",
-      "lastName": "Otręba"
-    },
-    {
-      "name": "R",
-      "lastName": "Riedel"
-    }
+    550,
+    551
   ],
   "next": {
     "id": "wieczna-noc-endless-night",

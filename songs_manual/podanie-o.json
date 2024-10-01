@@ -577,16 +577,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Poniedzielski"
-    }
+    145
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Kamińska"
-    }
+    514
   ],
   "next": {
     "id": "poloniny-niebieskie",

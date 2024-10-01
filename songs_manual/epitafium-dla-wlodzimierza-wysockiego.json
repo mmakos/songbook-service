@@ -4706,10 +4706,7 @@
     }
   },
   "performers": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "next": {
     "id": "gdy-tak-siedzimy",

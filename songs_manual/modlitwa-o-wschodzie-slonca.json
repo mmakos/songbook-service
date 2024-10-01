@@ -594,16 +594,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "N",
-      "lastName": "Tenenbaum"
-    }
+    108
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "mury",

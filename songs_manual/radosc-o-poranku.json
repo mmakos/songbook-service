@@ -1365,16 +1365,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Kofta"
-    }
+    228
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Loranc"
-    }
+    288
   ],
   "next": {
     "id": "rains-of-castamere",

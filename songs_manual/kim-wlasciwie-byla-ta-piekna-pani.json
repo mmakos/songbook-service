@@ -1033,16 +1033,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "E",
-      "lastName": "Stachura"
-    }
+    238
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Myszkowski"
-    }
+    159
   ],
   "next": {
     "id": "king",

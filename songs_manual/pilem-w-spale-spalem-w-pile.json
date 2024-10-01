@@ -963,16 +963,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Andrus"
-    }
+    143
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Korcz"
-    }
+    292
   ],
   "next": {
     "id": "piosenka-bez-tytulu",

@@ -1527,16 +1527,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Ehrmann"
-    }
+    198
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Walewski"
-    }
+    197
   ],
   "band": 123,
   "next": {

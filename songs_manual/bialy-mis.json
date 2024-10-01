@@ -618,24 +618,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Tarka"
-    },
-    {
-      "name": "J",
-      "lastName": "Kreft"
-    }
+    152,
+    153
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Tarka"
-    },
-    {
-      "name": "J",
-      "lastName": "Kreft"
-    }
+    152,
+    153
   ],
   "next": {
     "id": "bieglas-zboczem",

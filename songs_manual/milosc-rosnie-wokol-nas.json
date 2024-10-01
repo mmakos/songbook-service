@@ -1052,16 +1052,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Tim",
-      "lastName": "Rice"
-    }
+    181
   ],
   "composer": [
-    {
-      "name": "Elton",
-      "lastName": "John"
-    }
+    182
   ],
   "next": {
     "id": "milosc-to-wiernosc-wyborowi",

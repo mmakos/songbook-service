@@ -1730,16 +1730,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Konopnicka"
-    }
+    285
   ],
   "composer": [
-    {
-      "name": "F",
-      "lastName": "Nowowiejski"
-    }
+    286
   ],
   "next": {
     "id": "rozkwitaja-paki-bialych-roz",

@@ -1416,22 +1416,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "D",
-      "lastName": "Rogalski"
-    }
+    481
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Korcz"
-    }
+    292
   ],
   "performers": [
-    {
-      "name": "Michał",
-      "lastName": "Bajor"
-    }
+    351
   ],
   "next": {
     "id": "nie-daj-mi-odejsc",

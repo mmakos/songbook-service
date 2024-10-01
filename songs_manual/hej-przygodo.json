@@ -2319,20 +2319,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "H",
-      "lastName": "Ashman"
-    },
-    {
-      "name": "D",
-      "lastName": "Kozielska"
-    }
+    397,
+    270
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Menken"
-    }
+    396
   ],
   "next": {
     "id": "hej-przyjaciele",

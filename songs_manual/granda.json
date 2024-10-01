@@ -868,20 +868,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "R",
-      "lastName": "Łukasiewicz"
-    }
+    234
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Brodka"
-    },
-    {
-      "name": "B",
-      "lastName": "Dziedzic"
-    }
+    235,
+    236
   ],
   "next": {
     "id": "grnland",

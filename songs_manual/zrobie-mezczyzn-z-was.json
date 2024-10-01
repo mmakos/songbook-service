@@ -1352,20 +1352,11 @@
     }
   },
   "lyrics": [
-    {
-      "name": "D",
-      "lastName": "Zippel"
-    },
-    {
-      "name": "M",
-      "lastName": "Robaczewski"
-    }
+    583,
+    431
   ],
   "composer": [
-    {
-      "name": "M",
-      "lastName": "Wilder"
-    }
+    584
   ],
   "source": [
     119

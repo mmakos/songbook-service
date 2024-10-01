@@ -1476,10 +1476,7 @@
     }
   },
   "performers": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "next": {
     "id": "epitafium-dla-sergiusza-jesienina",

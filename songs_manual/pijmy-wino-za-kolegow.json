@@ -500,16 +500,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Krajewski"
-    }
+    210
   ],
   "next": {
     "id": "pila-tango",

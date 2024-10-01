@@ -525,16 +525,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Herbert"
-    }
+    103
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "chrystus-i-kupcy",

@@ -733,16 +733,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "B",
-      "lastName": "Chorążuk"
-    }
+    204
   ],
   "composer": [
-    {
-      "name": "T",
-      "lastName": "Woźniak"
-    }
+    205
   ],
   "band": 125,
   "next": {

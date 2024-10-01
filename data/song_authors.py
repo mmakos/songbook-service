@@ -62,6 +62,8 @@ for i, filename in enumerate(os.listdir('songs_manual')):
             reassign_author(song, "lyrics")
             reassign_author(song, "translation")
             reassign_author(song, "performers")
+        with open(f, 'w', encoding='utf-8') as file:
+            json.dump(song, file, indent=2, ensure_ascii=False)
 
 
 print()

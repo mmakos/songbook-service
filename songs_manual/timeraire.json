@@ -1268,16 +1268,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Szczęsny"
-    }
+    574
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Dudziński"
-    }
+    575
   ],
   "next": {
     "id": "the-sound-of-silence",

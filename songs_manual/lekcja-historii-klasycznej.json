@@ -840,10 +840,7 @@
     }
   },
   "performers": [
-    {
-      "name": "J",
-      "lastName": "Kaczmarski"
-    }
+    100
   ],
   "next": {
     "id": "marcin-luter",

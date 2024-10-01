@@ -1017,24 +1017,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "S",
-      "lastName": "Collins"
-    },
-    {
-      "name": "B",
-      "lastName": "Kozielski"
-    }
+    243,
+    247
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Fraites"
-    },
-    {
-      "name": "W",
-      "lastName": "Schultz"
-    }
+    245,
+    246
   ],
   "source": [
     108

@@ -1180,16 +1180,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "K. Baczyński"
-    }
+    266
   ],
   "composer": [
-    {
-      "name": "G",
-      "lastName": "Turnau"
-    }
+    265
   ],
   "next": {
     "id": "zombie",

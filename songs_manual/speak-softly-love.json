@@ -756,16 +756,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "L",
-      "lastName": "Kusik"
-    }
+    118
   ],
   "composer": [
-    {
-      "name": "N",
-      "lastName": "Rota"
-    }
+    120
   ],
   "next": {
     "id": "splynal-mrok-shadowland",

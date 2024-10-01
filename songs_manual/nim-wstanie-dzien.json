@@ -1190,16 +1190,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Osiecka"
-    }
+    133
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Komeda"
-    }
+    500
   ],
   "next": {
     "id": "och-zycie-kocham-cie-nad-zycie",

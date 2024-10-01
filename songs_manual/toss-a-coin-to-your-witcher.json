@@ -1759,28 +1759,13 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Klein"
-    },
-    {
-      "name": "S",
-      "lastName": "Belousova"
-    },
-    {
-      "name": "G",
-      "lastName": "Ostinelli"
-    }
+    573,
+    572,
+    571
   ],
   "composer": [
-    {
-      "name": "S",
-      "lastName": "Belousova"
-    },
-    {
-      "name": "G",
-      "lastName": "Ostinelli"
-    }
+    572,
+    571
   ],
   "next": {
     "id": "tu-es-petrus",

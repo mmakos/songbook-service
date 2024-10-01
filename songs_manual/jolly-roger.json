@@ -780,24 +780,12 @@
     }
   },
   "lyrics": [
-    {
-      "name": "Z",
-      "lastName": "Sieniawski"
-    },
-    {
-      "name": "K",
-      "lastName": "Lebionko"
-    }
+    422,
+    175
   ],
   "composer": [
-    {
-      "name": "W",
-      "lastName": "Krasowski"
-    },
-    {
-      "name": "K",
-      "lastName": "Mikiciuk"
-    }
+    423,
+    177
   ],
   "next": {
     "id": "jolka-jolka",

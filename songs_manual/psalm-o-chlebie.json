@@ -420,16 +420,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "T",
-      "lastName": "Nowak"
-    }
+    110
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "requiem-rozbiorowe",

@@ -946,14 +946,8 @@
     }
   },
   "lyrics": [
-    {
-      "name": "K",
-      "lastName": "Kuza"
-    },
-    {
-      "name": "J",
-      "lastName": "Rogacki"
-    }
+    509,
+    510
   ],
   "next": {
     "id": "pozegnanie",

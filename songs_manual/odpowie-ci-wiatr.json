@@ -1275,20 +1275,13 @@
     }
   },
   "translation": [
-    {
-      "name": "A",
-      "lastName": "Bianusz"
-    }
+    498
   ],
   "composer": [
-    {
-      "name": "Bob Dylan"
-    }
+    499
   ],
   "lyrics": [
-    {
-      "name": "Bob Dylan"
-    }
+    499
   ],
   "next": {
     "id": "only-the-very-best-sos",

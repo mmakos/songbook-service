@@ -1847,16 +1847,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Zabłocki"
-    }
+    170
   ],
   "composer": [
-    {
-      "name": "A",
-      "lastName": "Chrzanowska"
-    }
+    171
   ],
   "next": {
     "id": "cant-help-falling-in-love",

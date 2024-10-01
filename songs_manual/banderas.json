@@ -415,16 +415,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Janowicz"
-    }
+    142
   ],
   "composer": [
-    {
-      "name": "J",
-      "lastName": "Janowicz"
-    }
+    142
   ],
   "next": {
     "id": "banderas-wersja-dla-srodowisk-zamknietych",

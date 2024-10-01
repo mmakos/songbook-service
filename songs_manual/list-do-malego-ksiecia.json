@@ -573,16 +573,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Ziemianin"
-    }
+    157
   ],
   "composer": [
-    {
-      "name": "K",
-      "lastName": "Myszkowski"
-    }
+    159
   ],
   "next": {
     "id": "litania",

@@ -2580,16 +2580,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Andrus"
-    }
+    143
   ],
   "composer": [
-    {
-      "name": "F",
-      "lastName": "Farian"
-    }
+    517
   ],
   "next": {
     "id": "plecak",

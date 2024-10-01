@@ -1221,10 +1221,7 @@
     }
   },
   "performers": [
-    {
-      "name": "Krzysztof",
-      "lastName": "Leśnik"
-    }
+    360
   ],
   "next": {
     "id": "prawy-do-lewego",

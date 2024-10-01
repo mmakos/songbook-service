@@ -617,16 +617,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "J",
-      "lastName": "Terakowski"
-    }
+    588
   ],
   "composer": [
-    {
-      "name": "Z",
-      "lastName": "Wodecki"
-    }
+    267
   ],
   "next": {
     "id": "zadumanie",

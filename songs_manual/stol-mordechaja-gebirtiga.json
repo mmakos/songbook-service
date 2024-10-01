@@ -5995,16 +5995,10 @@
     }
   },
   "lyrics": [
-    {
-      "name": "A",
-      "lastName": "Kamieńska"
-    }
+    111
   ],
   "composer": [
-    {
-      "name": "P",
-      "lastName": "Gintrowski"
-    }
+    101
   ],
   "next": {
     "id": "stracanie-aniolow",
