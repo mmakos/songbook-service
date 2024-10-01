@@ -699,14 +699,7 @@
       "lastName": "Woźniak"
     }
   ],
-  "performers": [
-    {
-      "name": "Andrzej"
-    },
-    {
-      "name": "Eliza"
-    }
-  ],
+  "band": 175,
   "next": {
     "id": "godzina-miedzy",
     "title": "Godzina między"

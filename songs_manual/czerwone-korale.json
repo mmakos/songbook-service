@@ -916,6 +916,12 @@
       "minor": true
     }
   },
+  "composer": [
+    {
+      "name": "F",
+      "lastName": "Sebő"
+    }
+  ],
   "next": {
     "id": "czlowiek-z-lisciem-na-glowie",
     "title": "Człowiek z liściem na głowie"

@@ -1021,13 +1021,8 @@
       "lastName": "Stokłosa"
     }
   ],
-  "performers": [
-    {
-      "name": "Romeo"
-    },
-    {
-      "name": "Julia"
-    }
+  "source": [
+    102
   ],
   "next": {
     "id": "przebudzenie",

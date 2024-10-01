@@ -780,6 +780,12 @@
       "lastName": "Rota"
     }
   ],
+  "performers": [
+    {
+      "name": "Glen",
+      "lastName": "Weston"
+    }
+  ],
   "next": {
     "id": "whisky",
     "title": "Whisky"

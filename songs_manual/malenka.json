@@ -938,10 +938,16 @@
       }
     }
   },
-  "lyrics": [
+  "translation": [
     {
       "name": "M",
       "lastName": "Zembaty"
+    }
+  ],
+  "lyrics": [
+    {
+      "name": "L",
+      "lastName": "Cohen"
     }
   ],
   "composer": [

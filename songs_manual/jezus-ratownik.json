@@ -616,10 +616,16 @@
       }
     }
   },
+  "composer": [
+    {
+      "name": "R",
+      "lastName": "Friedrich"
+    }
+  ],
   "lyrics": [
     {
-      "name": "I",
-      "lastName": "muz. R. Friedrich"
+      "name": "R",
+      "lastName": "Friedrich"
     }
   ],
   "next": {

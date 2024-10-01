@@ -1220,10 +1220,22 @@
       }
     }
   },
-  "performers": [
+  "lyrics": [
     {
       "name": "L",
       "lastName": "Cohen"
+    }
+  ],
+  "composer": [
+    {
+      "name": "L",
+      "lastName": "Cohen"
+    }
+  ],
+  "translation": [
+    {
+      "name": "M",
+      "lastName": "Zembaty"
     }
   ],
   "next": {

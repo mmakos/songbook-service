@@ -810,13 +810,25 @@
   "lyrics": [
     {
       "name": "D",
+      "lastName": "Podsiadło"
+    },
+    {
+      "name": "D",
       "lastName": "Zawiałow,"
+    },
+    {
+      "name": "Mateusz",
+      "lastName": "Dopieralski"
     }
   ],
   "composer": [
     {
       "name": "A",
       "lastName": "Krzyżanowski"
+    },
+    {
+      "name": "Bartosz",
+      "lastName": "Dziedzic"
     }
   ],
   "performers": [
@@ -825,8 +837,11 @@
       "lastName": "Podsiadło"
     },
     {
-      "name": "Vito",
-      "lastName": "Bambino"
+      "name": "D",
+      "lastName": "Zawiałow,"
+    },
+    {
+      "name": "Vito Bambino",
     }
   ],
   "next": {

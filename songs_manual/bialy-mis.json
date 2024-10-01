@@ -617,14 +617,24 @@
       "minor": true
     }
   },
-  "performers": [
+  "lyrics": [
     {
       "name": "J",
       "lastName": "Tarka"
     },
     {
-      "name": "W",
-      "lastName": "Chrzanowski"
+      "name": "J",
+      "lastName": "Kreft"
+    }
+  ],
+  "composer": [
+    {
+      "name": "J",
+      "lastName": "Tarka"
+    },
+    {
+      "name": "J",
+      "lastName": "Kreft"
     }
   ],
   "next": {

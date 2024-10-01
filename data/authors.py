@@ -5,15 +5,28 @@ authors = []
 with open('authors.txt', encoding='utf-8') as file:
     for i, line in enumerate(file.readlines()):
         line = line.strip()
-        line = line.split(" ")
         author = {}
+        if line.endswith(")"):
+            nick_idx = line.index("(")
+            author["nickname"] = line[nick_idx + 1:-1]
+            line = line[:nick_idx]
 
-        if line[-1].startswith("(") and line[-1].endswith(")"):
-            author["nickname"] = line[-1][1:-1]
-            line.pop()
+        line = line.strip().split(" ")
 
         if line[0] == "Siostra":
-            author["title"] = "sister"
+            author["title"] = "siostra"
+            line.pop(0)
+        elif line[0] == "x.":
+            author["title"] = "ksiądz"
+            line.pop(0)
+        elif line[0] == "ppłk.":
+            author["title"] = "podpułkownik"
+            line.pop(0)
+        elif line[0] == "kpt.":
+            author["title"] = "kapitan"
+            line.pop(0)
+        elif line[0] == "św.":
+            author["title"] = "święty"
             line.pop(0)
 
         author["name"] = line[0]

@@ -779,10 +779,24 @@
       "minor": true
     }
   },
-  "performers": [
+  "lyrics": [
     {
       "name": "Z",
       "lastName": "Sieniawski"
+    },
+    {
+      "name": "K",
+      "lastName": "Lebionko"
+    }
+  ],
+  "composer": [
+    {
+      "name": "W",
+      "lastName": "Krasowski"
+    },
+    {
+      "name": "K",
+      "lastName": "Mikiciuk"
     }
   ],
   "next": {

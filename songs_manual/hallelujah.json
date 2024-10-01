@@ -2141,7 +2141,13 @@
       }
     }
   },
-  "performers": [
+  "lyrics": [
+    {
+      "name": "L",
+      "lastName": "Cohen"
+    }
+  ],
+  "composer": [
     {
       "name": "L",
       "lastName": "Cohen"

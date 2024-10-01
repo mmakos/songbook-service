@@ -912,12 +912,7 @@
       }
     }
   },
-  "performers": [
-    {
-      "name": "G",
-      "lastName": "F. Darwin"
-    }
-  ],
+  "band": 154,
   "next": {
     "id": "knajpa-mordercow",
     "title": "Knajpa morderców"
