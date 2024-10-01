@@ -699,18 +699,6 @@
       }
     }
   },
-  "lyrics": [
-    {
-      "name": "M",
-      "lastName": "Lowry"
-    }
-  ],
-  "composer": [
-    {
-      "name": "B",
-      "lastName": "Greene"
-    }
-  ],
   "next": {
     "id": "miejcie-nadzieje",
     "title": "Miejcie nadzieję"
@@ -718,5 +706,6 @@
   "previous": {
     "id": "mary-did-you-know",
     "title": "Mary, did you know?"
-  }
+  },
+  "band": 177
 }

@@ -780,18 +780,14 @@
   },
   "lyrics": [
     {
-      "name": "D",
-      "lastName": "Mato"
+      "name": "M",
+      "lastName": "Došen"
     }
   ],
   "composer": [
     {
-      "name": "D",
+      "name": "Đorđe",
       "lastName": "Novković"
-    },
-    {
-      "name": "Z",
-      "lastName": "Zabolek"
     }
   ],
   "band": 173,

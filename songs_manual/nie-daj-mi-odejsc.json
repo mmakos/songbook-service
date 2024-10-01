@@ -854,18 +854,14 @@
   },
   "lyrics": [
     {
-      "name": "A",
-      "lastName": "Gadowski"
+      "name": "W",
+      "lastName": "Byrski"
     }
   ],
   "composer": [
     {
       "name": "P",
       "lastName": "Konca"
-    },
-    {
-      "name": "S",
-      "lastName": "Piekarek"
     }
   ],
   "band": 151,

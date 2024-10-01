@@ -990,16 +990,18 @@
     {
       "name": "T",
       "lastName": "Rice"
-    },
-    {
-      "name": "F",
-      "lastName": "Łobodziński"
     }
   ],
   "composer": [
     {
       "name": "E",
       "lastName": "John"
+    }
+  ],
+  "translation": [
+    {
+      "name": "F",
+      "lastName": "Łobodziński"
     }
   ],
   "band": 146,

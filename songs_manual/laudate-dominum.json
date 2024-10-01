@@ -178,11 +178,8 @@
       "minor": true
     }
   },
-  "performers": [
-    {
-      "name": "Psalm",
-      "lastName": "117"
-    }
+  "bible": [
+    "Psalm 117"
   ],
   "next": {
     "id": "laudato-sii",

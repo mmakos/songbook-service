@@ -1,5 +1,7 @@
 import json
 import os
+import urllib.parse
+import webbrowser
 from typing import Optional
 
 song = {}
@@ -51,7 +53,7 @@ def reassign_author(song, key: str):
         song[key] = a
 
 
-for filename in os.listdir('songs_manual'):
+for i, filename in enumerate(os.listdir('songs_manual')):
     if filename.endswith(".json"):
         f = os.path.join('songs_manual', filename)
         with open(f, encoding='utf-8') as file:

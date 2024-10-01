@@ -222,15 +222,7 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "J",
-      "lastName": "15"
-    },
-    {
-      "name": "13"
-    }
-  ],
+  "bible": ["J 15,13"],
   "next": {
     "id": "niech-zabrzmi-panu",
     "title": "Niech zabrzmi Panu"

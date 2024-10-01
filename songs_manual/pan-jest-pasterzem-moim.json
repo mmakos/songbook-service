@@ -214,10 +214,8 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "Psalm23"
-    }
+  "bible": [
+    "Psalm 23"
   ],
   "next": {
     "id": "panie-twoj-tron",

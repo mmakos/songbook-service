@@ -667,16 +667,22 @@
       "minor": true
     }
   },
-  "lyrics": [
+  "translation": [
     {
       "name": "J",
       "lastName": "Michotek"
     }
   ],
+  "lyrics": [
+    {
+      "name": "Stan",
+      "lastName": "Jones"
+    }
+  ],
   "composer": [
     {
-      "name": "J",
-      "lastName": "Cash"
+      "name": "Stan",
+      "lastName": "Jones"
     }
   ],
   "next": {

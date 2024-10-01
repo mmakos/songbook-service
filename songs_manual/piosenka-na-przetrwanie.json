@@ -608,6 +608,12 @@
       "lastName": "Jarosz"
     }
   ],
+  "composer": [
+    {
+      "name": "Jan",
+      "lastName": "Wydra"
+    }
+  ],
   "next": {
     "id": "piosenki-bony-m",
     "title": "Piosenki Bony M"

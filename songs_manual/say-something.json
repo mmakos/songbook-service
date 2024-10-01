@@ -1140,12 +1140,6 @@
       "lastName": "Campbell"
     }
   ],
-  "performers": [
-    {
-      "name": "A",
-      "lastName": "Great Big World"
-    }
-  ],
   "next": {
     "id": "serce-me-zadrzalo",
     "title": "Serce me zadrżało"
@@ -1153,5 +1147,6 @@
   "previous": {
     "id": "santiana",
     "title": "Santiana"
-  }
+  },
+  "band": 178
 }

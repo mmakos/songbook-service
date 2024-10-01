@@ -1,10 +1,10 @@
-Jacek Kaczmarski
-Przemysław Gintrowski
-Zbigniew Łapiński
-Zbigniew Herbert
+Jacek Marcin Kaczmarski
+Przemysław Adam Gintrowski
+Zbigniew Janusz Łapiński
+Zbigniew Bolesław-Ryszard Herbert
 Marek Tercz
 Krzysztof Maria Sieniawski
-Leszek Szaruga
+Aleksander Wirpsza (Leszek Szaruga)
 Jerzy Czech
 Natan Tenenbaum
 Lluís Llach
@@ -216,7 +216,6 @@ Barbara Streisand
 Jacek Sykulski
 Jan Paweł II
 Elvis Presley
-Józef Szczepański
 Han Hong
 Marian Matuszkiewicz
 Violetta Villas
@@ -299,7 +298,7 @@ Alan Menken
 Howard Ashman
 Andrzej Mendygrał
 Gregor Justin Verbinski (Gore Verbinski)
-Ted Elliot
+Ted Elliott
 Terry Rossio
 Marian Jonkajtys
 Czesław Majewski
@@ -323,3 +322,172 @@ Jacques Berthier
 Romuald Ryszard Lipko
 Zbigniew Sieniawski
 Waldemar Krasowski (Kaczor)
+Tadeusz Roman Chyła
+Sławomir Piotr Mrożek
+Bogumił Kobiela
+Matwiej Isaakowicz Błanter
+Michaił Isakowski
+Krzysztof Zasada
+Stanisław Moniuszko
+Marek Robaczewski
+Joel McNeely
+Jan Benedek
+Andrzej Michorzewski
+Szymon Mucha
+Wojciech Stanisław Trzciński
+Jan Nowicki
+Ryszard Makowski
+Maria Zofia Jeżowska-Logan (Majka Jeżowska)
+Andrzej Mogielnicki
+Jan Borysewicz
+Zuzanna Andrzejczak
+Filip Łobodziński
+Stephen Schwartz
+Kasia Kessling
+Natalia Piotrowska-Paciorek
+Antoni Marianowicz
+Franciszek Urmański
+Wojciech Żółty
+Jerzy Litwiniuk
+Siergiej Jesienin
+Andrzej Wojda
+John Lennon
+James Ford Murphy
+Franciszek Hipolit Piątkowski
+Włodzimierz Marczyk
+Michael Kunze
+John Ronald-Reuel Tolkien
+Buddy Greene
+Mark Lowry
+Jim Steinman
+Teofil Lenartowicz
+Jan Kasprowicz
+Jan Gall
+David Donaldson
+Adam Prot Asnyk (Jan Stożek)
+Stefan Bortkiewicz
+Rajnold Suchodolski
+Fryderyk Chopin
+Andrzej Hałaciński
+Tadeusz Biernacki
+Mirosław Jezierski
+Jan Markowski
+Piotr Nazaruk
+Henryk Kleyne
+Roman Sadowski
+Bogdan Olewicz
+Zbigniew Hołdys
+Piotr Konca
+Wojciech Jaroslaw Byrski
+Dariusz Rogalski
+Daniel Wyszogrodzki
+Barbara Kopcińska-Węgrzyn
+Grzegorz Porowski
+Radosław Łuka
+Jarosław Abramow-Newerly
+Tadeusz Ostrowski
+Marek Jałowiecki (Dżałówa)
+Andrew Lloyd Webber
+Aleksander Karpowicz
+Józef Andrzej Szczepański (Ziutek)
+Józef Stiastny
+Tomasz Kamiński
+Mirosław Maciej Maleńczuk
+Michael Joseph Jackson
+Aleksander Nowacki
+Michel Berger
+Andrzej Bianusz
+Robert Allen Zimmerman (Bob Dylan)
+Krzysztof Komeda
+Marcin Sosnowski
+Waldemar Kazanecki
+Momčilo Bajagić
+Goran Bregović
+Feliks Gwiżdż
+Tadeusz Lubelski
+Agata Budzyńska
+Seweryn Goszczyński
+Krzysztof Kuza
+Jerzy Rogacki
+Sławomir Klupś
+Marek Wojciech Dutkiewicz
+Adam Drąg
+Małgorzata Kamińska
+Henryk Czekała (Szkot)
+Mariusz Borowiec
+Frank Farian
+Wiesław Jarosz
+Jan Wydra
+Waldemar Chyliński
+Juliusz Słowacki
+Andrzej Kurylewicz
+George Raymond-Richard Martin
+Alicja Trzeciak
+Jan Rychner
+Stan Jones
+Jerzy Michotek
+Stanisław Syrewicz
+Daniel Dodd Wilson (Dan Wilson)
+Mirosław Ortyński
+Piotr Sołoducha
+Ryszard Soliński
+Jerzy Miller
+Wasyl Agapkin
+Roman Ślęzak
+Mieczysław Kozar-Słobódzki
+Kazimierz Wroczyński
+Jan Lankau
+Paul Richard Epworth
+Rolf Løvland
+Jan Ekier
+Stanisław Ryszard Dobrowolski
+Adam Otręba
+Ludmiła Rapanowicz
+Roger Waters
+David Gilmour
+Brendan Graham
+Klaus Meine
+Kazimierz Gayer
+Benedykt Otręba
+Ryszard Riedel
+Aleksandra Motyka
+Marcin Przybyłowicz
+Agnieszka Rumież
+Eugene Walter
+Robert Mielcarek
+Adam Szarek
+Alain Boublil
+Aleksander Grotowski
+Andrzej Włast
+Kazimierz Oberfeld
+Michał Łangowski
+Rajmund Scholz
+Jerzy Harasymowicz
+Andrzej Koczewski
+Zbigniew Bogdański
+Jeremi Stanisław Przybora
+Jerzy Ryszard Wasowski
+Terry Britten
+Michael Brady
+Giona Ostinelli
+Sonya Belousova
+Jenny Klein
+Artur Szczęsny
+Wojciech Dudziński
+David Foster
+Walter Afanasieff
+Katarzyna Nosowska
+Marek Dagnan
+Bill Danoff
+John Denver
+Zbigniew Stefański
+David Zippel
+Matthew Wilder
+Mato Došen
+Đorđe Novković
+Jacek Skubikowski
+Janusz Terakowski
+Ludwik Kałuszyner (Ludwik Starski)
+Alexander Olshanetsky
+Antoni Adolf Sas-Uruski
+Sławomir Paweł Zapała (Sławomir)

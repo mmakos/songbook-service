@@ -939,14 +939,10 @@
       "minor": true
     }
   },
-  "performers": [
+  "composer": [
     {
       "name": "Maciej",
       "lastName": "Kamieński"
-    },
-    {
-      "name": "XVIII",
-      "lastName": "w."
     }
   ],
   "next": {

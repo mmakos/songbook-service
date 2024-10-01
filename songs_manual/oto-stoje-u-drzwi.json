@@ -252,15 +252,7 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "Ap",
-      "lastName": "3"
-    },
-    {
-      "name": "20"
-    }
-  ],
+  "bible": "Ap 3,20",
   "next": {
     "id": "pan-blisko-jest",
     "title": "Pan blisko jest"

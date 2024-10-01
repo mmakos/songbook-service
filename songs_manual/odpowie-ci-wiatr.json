@@ -1274,7 +1274,7 @@
       }
     }
   },
-  "lyrics": [
+  "translation": [
     {
       "name": "A",
       "lastName": "Bianusz"
@@ -1282,8 +1282,12 @@
   ],
   "composer": [
     {
-      "name": "B",
-      "lastName": "Dylan"
+      "name": "Bob Dylan"
+    }
+  ],
+  "lyrics": [
+    {
+      "name": "Bob Dylan"
     }
   ],
   "next": {

@@ -1015,11 +1015,8 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "Psalm",
-      "lastName": "148"
-    }
+  "bible": [
+    "Psalm 148"
   ],
   "next": {
     "id": "obudz-sie",

@@ -2022,10 +2022,16 @@
       "minor": true
     }
   },
-  "lyrics": [
+  "translation": [
     {
       "name": "D",
       "lastName": "Wyszogrodzki"
+    }
+  ],
+  "lyrics": [
+    {
+      "name": "M",
+      "lastName": "Kunze"
     }
   ],
   "composer": [

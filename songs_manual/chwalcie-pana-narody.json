@@ -429,14 +429,9 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "Psalm",
-      "lastName": "117"
-    },
-    {
-      "name": "149,"
-    }
+  "bible": [
+    "Psalm 117",
+    "Psalm 149"
   ],
   "composer": [
     {

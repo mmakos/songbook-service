@@ -1161,16 +1161,12 @@
   },
   "lyrics": [
     {
-      "name": "Łk",
-      "lastName": "1"
-    },
-    {
-      "name": "46-55"
-    },
-    {
       "name": "W",
       "lastName": "Danielski"
     }
+  ],
+  "bible": [
+    "Łk 1,46-55"
   ],
   "composer": [
     {

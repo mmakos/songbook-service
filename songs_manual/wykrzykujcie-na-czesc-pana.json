@@ -650,11 +650,8 @@
       "minor": true
     }
   },
-  "lyrics": [
-    {
-      "name": "Psalm",
-      "lastName": "100"
-    }
+  "bible": [
+    "Psalm 100"
   ],
   "composer": [
     {
