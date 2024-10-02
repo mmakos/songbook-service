@@ -1055,5 +1055,11 @@
   "previous": {
     "id": "krajobraz-po-uczcie",
     "title": "Krajobraz po uczcie"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

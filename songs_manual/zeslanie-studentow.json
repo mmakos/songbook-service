@@ -1141,5 +1141,11 @@
   "previous": {
     "id": "zbroja",
     "title": "Zbroja"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

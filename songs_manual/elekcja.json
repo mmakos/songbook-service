@@ -2057,5 +2057,11 @@
   "previous": {
     "id": "dzien-gniewu",
     "title": "Dzień gniewu"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

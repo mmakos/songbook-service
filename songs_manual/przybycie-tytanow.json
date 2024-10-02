@@ -1008,5 +1008,11 @@
   "previous": {
     "id": "przesluchanie-aniola",
     "title": "Przesłuchanie Anioła"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

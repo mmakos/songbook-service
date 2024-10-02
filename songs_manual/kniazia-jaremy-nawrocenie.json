@@ -1989,5 +1989,11 @@
   "previous": {
     "id": "koniec-wojny-trzydziestoletniej",
     "title": "Koniec wojny trzydziestoletniej"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

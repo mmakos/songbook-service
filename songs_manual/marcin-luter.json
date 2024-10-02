@@ -1436,5 +1436,11 @@
   "previous": {
     "id": "lekcja-historii-klasycznej",
     "title": "Lekcja historii klasycznej"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

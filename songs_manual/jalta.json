@@ -3210,5 +3210,11 @@
   "previous": {
     "id": "ja",
     "title": "Ja"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

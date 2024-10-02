@@ -1747,5 +1747,11 @@
   "previous": {
     "id": "piosenka-zebracza",
     "title": "Piosenka żebracza"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

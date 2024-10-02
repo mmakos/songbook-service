@@ -2226,5 +2226,11 @@
   "previous": {
     "id": "smiech",
     "title": "Śmiech"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

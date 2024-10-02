@@ -849,5 +849,11 @@
   "previous": {
     "id": "lament-tytana",
     "title": "Lament tytana"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

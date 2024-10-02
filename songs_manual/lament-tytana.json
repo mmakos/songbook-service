@@ -1253,5 +1253,11 @@
   "previous": {
     "id": "kuglarze",
     "title": "Kuglarze"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

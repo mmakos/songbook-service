@@ -1920,5 +1920,11 @@
   "previous": {
     "id": "odpowiedz",
     "title": "Odpowiedź"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

@@ -2603,5 +2603,11 @@
   "previous": {
     "id": "zatruta-studnia",
     "title": "Zatruta studnia"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

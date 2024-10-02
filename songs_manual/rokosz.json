@@ -2293,5 +2293,11 @@
   "previous": {
     "id": "requiem-rozbiorowe",
     "title": "Requiem rozbiorowe"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

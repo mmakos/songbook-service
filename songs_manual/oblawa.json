@@ -1863,5 +1863,11 @@
   "previous": {
     "id": "nie-lubie",
     "title": "Nie lubię"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

@@ -1425,5 +1425,11 @@
   "previous": {
     "id": "kasandra",
     "title": "Kasandra"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

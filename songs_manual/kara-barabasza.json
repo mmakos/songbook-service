@@ -1937,5 +1937,11 @@
   "previous": {
     "id": "kantyczka-z-lotu-ptaka",
     "title": "Kantyczka z lotu ptaka"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

@@ -3347,5 +3347,11 @@
   "previous": {
     "id": "mury",
     "title": "Mury"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

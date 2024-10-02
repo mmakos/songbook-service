@@ -1485,5 +1485,11 @@
   "previous": {
     "id": "elekcja",
     "title": "Elekcja"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

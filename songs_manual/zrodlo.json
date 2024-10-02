@@ -1406,5 +1406,11 @@
   "previous": {
     "id": "zmartwychwstanie-mandelsztama",
     "title": "Zmartwychwstanie Mandelsztama"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

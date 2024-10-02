@@ -2045,5 +2045,11 @@
   "previous": {
     "id": "zrodlo",
     "title": "Źródło"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

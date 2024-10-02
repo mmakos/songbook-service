@@ -9,7 +9,7 @@ for i, filename in enumerate(os.listdir('songs_manual')):
             performer = song.get('performer')
             if performer and len(performer) == 1 and performer[0] == 100 \
                     and 'composer' not in song and 'lyrics' not in song:
-                song['lyrics'] = performer
+                song['composer'] = performer
                 song['lyrics'] = performer
                 with open(f, 'w', encoding='utf-8') as file:
                     json.dump(song, file, indent=2, ensure_ascii=False)

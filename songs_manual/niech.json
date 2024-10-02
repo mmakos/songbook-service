@@ -1112,5 +1112,11 @@
   "previous": {
     "id": "nasza-klasa",
     "title": "Nasza klasa"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

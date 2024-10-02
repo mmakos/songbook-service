@@ -2000,5 +2000,11 @@
   "previous": {
     "id": "prosba",
     "title": "Prośba"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }

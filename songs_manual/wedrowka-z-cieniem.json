@@ -1179,5 +1179,11 @@
   "previous": {
     "id": "warchol",
     "title": "Warchoł"
-  }
+  },
+  "composer": [
+    100
+  ],
+  "lyrics": [
+    100
+  ]
 }
