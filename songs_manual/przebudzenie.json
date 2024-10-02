@@ -1178,9 +1178,7 @@
       }
     }
   },
-  "performers": [
-    361
-  ],
+  "band": 179,
   "next": {
     "id": "przechyly",
     "title": "Przechyły"
