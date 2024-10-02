@@ -681,7 +681,10 @@
       }
     }
   },
-  "performers": [
+  "lyrics": [
+    180
+  ],
+  "composer": [
     180
   ],
   "next": {
