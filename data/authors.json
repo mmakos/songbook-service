@@ -1,182 +1,219 @@
 [
   {
+    "name": "Michał",
+    "lastName": "Makoś",
+    "url": "https://www.mmakos.pl/",
+    "id": 1,
+    "slug": "michal-makos"
+  },
+  {
     "name": "Jacek",
     "lastName": "Kaczmarski",
     "secondName": "Marcin",
     "id": 100,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Kaczmarski"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Kaczmarski",
+    "slug": "jacek-kaczmarski"
   },
   {
     "name": "Przemysław",
     "lastName": "Gintrowski",
     "secondName": "Adam",
     "id": 101,
-    "url": "https://pl.wikipedia.org/wiki/Przemys%C5%82aw_Gintrowski"
+    "url": "https://pl.wikipedia.org/wiki/Przemys%C5%82aw_Gintrowski",
+    "slug": "przemyslaw-gintrowski"
   },
   {
     "name": "Zbigniew",
     "lastName": "Łapiński",
     "secondName": "Janusz",
     "id": 102,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_%C5%81api%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_%C5%81api%C5%84ski",
+    "slug": "zbigniew-lapinski"
   },
   {
     "name": "Zbigniew",
     "lastName": "Herbert",
     "secondName": "Bolesław-Ryszard",
     "id": 103,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Herbert"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Herbert",
+    "slug": "zbigniew-herbert"
   },
   {
     "name": "Marek",
     "lastName": "Tercz",
     "id": 104,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Tercz"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Tercz",
+    "slug": "marek-tercz"
   },
   {
     "name": "Krzysztof",
     "lastName": "Sieniawski",
     "secondName": "Maria",
+    "forceSecondName": true,
     "id": 105,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Maria_Sieniawski"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Maria_Sieniawski",
+    "slug": "krzysztof-maria-sieniawski"
   },
   {
     "nickname": "Leszek Szaruga",
     "name": "Aleksander",
     "lastName": "Wirpsza",
     "id": 106,
-    "url": "https://pl.wikipedia.org/wiki/Aleksander_Wirpsza"
+    "url": "https://pl.wikipedia.org/wiki/Aleksander_Wirpsza",
+    "slug": "leszek-szaruga"
   },
   {
     "name": "Jerzy",
     "lastName": "Czech",
     "id": 107,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Czech"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Czech",
+    "slug": "jerzy-czech"
   },
   {
     "name": "Natan",
     "lastName": "Tenenbaum",
     "id": 108,
-    "url": "https://pl.wikipedia.org/wiki/Natan_Tenenbaum"
+    "url": "https://pl.wikipedia.org/wiki/Natan_Tenenbaum",
+    "slug": "natan-tenenbaum"
   },
   {
     "name": "Lluís",
     "lastName": "Llach",
     "id": 109,
-    "url": "https://pl.wikipedia.org/wiki/Llu%C3%ADs_Llach"
+    "url": "https://pl.wikipedia.org/wiki/Llu%C3%ADs_Llach",
+    "slug": "lluis-llach"
   },
   {
     "name": "Tadeusz",
     "lastName": "Nowak",
     "id": 110,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Nowak"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Nowak",
+    "slug": "tadeusz-nowak"
   },
   {
     "name": "Anna",
     "lastName": "Kamieńska",
     "id": 111,
-    "url": "https://pl.wikipedia.org/wiki/Anna_Kamie%C5%84ska"
+    "url": "https://pl.wikipedia.org/wiki/Anna_Kamie%C5%84ska",
+    "slug": "anna-kamienska"
   },
   {
     "name": "Justyna",
     "lastName": "Holm",
     "id": 112,
-    "url": "https://pl.wikipedia.org/wiki/Justyna_Holm"
+    "url": "https://pl.wikipedia.org/wiki/Justyna_Holm",
+    "slug": "justyna-holm"
   },
   {
     "name": "Ernest",
     "lastName": "Bryll",
     "id": 113,
-    "url": "https://pl.wikipedia.org/wiki/Ernest_Bryll"
+    "url": "https://pl.wikipedia.org/wiki/Ernest_Bryll",
+    "slug": "ernest-bryll"
   },
   {
     "name": "Jacek",
     "lastName": "Stęszewski",
     "id": 114,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_St%C4%99szewski"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_St%C4%99szewski",
+    "slug": "jacek-steszewski"
   },
   {
     "name": "Agata",
     "lastName": "Miklaszewska",
     "id": 115,
-    "url": "https://pl.wikipedia.org/wiki/Agata_Miklaszewska"
+    "url": "https://pl.wikipedia.org/wiki/Agata_Miklaszewska",
+    "slug": "agata-miklaszewska"
   },
   {
     "name": "Maria",
     "lastName": "Miklaszewska",
     "nickname": "Maryna Miklaszewska",
     "id": 116,
-    "url": "https://pl.wikipedia.org/wiki/Maryna_Miklaszewska"
+    "url": "https://pl.wikipedia.org/wiki/Maryna_Miklaszewska",
+    "slug": "maryna-miklaszewska"
   },
   {
     "name": "Janusz",
     "lastName": "Stokłosa",
     "id": 117,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_Stok%C5%82osa"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_Stok%C5%82osa",
+    "slug": "janusz-stoklosa"
   },
   {
     "name": "Larry",
     "lastName": "Kusik",
     "id": 118,
-    "url": "https://en.wikipedia.org/wiki/Larry_Kusik"
+    "url": "https://en.wikipedia.org/wiki/Larry_Kusik",
+    "slug": "larry-kusik"
   },
   {
     "name": "Eddie",
     "lastName": "Snyder",
     "id": 119,
-    "url": "https://en.wikipedia.org/wiki/Eddie_Snyder"
+    "url": "https://en.wikipedia.org/wiki/Eddie_Snyder",
+    "slug": "eddie-snyder"
   },
   {
     "name": "Nino",
     "lastName": "Rota",
     "id": 120,
-    "url": "https://pl.wikipedia.org/wiki/Nino_Rota"
+    "url": "https://pl.wikipedia.org/wiki/Nino_Rota",
+    "slug": "nino-rota"
   },
   {
     "name": "Tomasz",
     "lastName": "Pałczyński",
-    "id": 121
+    "id": 121,
+    "slug": "tomasz-palczynski"
   },
   {
     "name": "Jerzy",
     "lastName": "Nel",
     "id": 122,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Nel"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Nel",
+    "slug": "jerzy-nel"
   },
   {
     "name": "Roman",
     "lastName": "Palester",
     "id": 123,
-    "url": "https://pl.wikipedia.org/wiki/Roman_Palester"
+    "url": "https://pl.wikipedia.org/wiki/Roman_Palester",
+    "slug": "roman-palester"
   },
   {
     "name": "Remo",
     "lastName": "Giazotto",
     "id": 124,
-    "url": "https://en.wikipedia.org/wiki/Remo_Giazotto"
+    "url": "https://en.wikipedia.org/wiki/Remo_Giazotto",
+    "slug": "remo-giazotto"
   },
   {
     "name": "Tomaso",
     "lastName": "Albinoni",
     "id": 125,
-    "url": "https://pl.wikipedia.org/wiki/Tomaso_Albinoni"
+    "url": "https://pl.wikipedia.org/wiki/Tomaso_Albinoni",
+    "slug": "tomaso-albinoni"
   },
   {
     "name": "Rick",
     "lastName": "Allison",
     "id": 126,
-    "url": "https://en.wikipedia.org/wiki/Rick_Allison"
+    "url": "https://en.wikipedia.org/wiki/Rick_Allison",
+    "slug": "rick-allison"
   },
   {
     "name": "Lara",
     "lastName": "Fabian",
     "id": 127,
-    "url": "https://pl.wikipedia.org/wiki/Lara_Fabian"
+    "url": "https://pl.wikipedia.org/wiki/Lara_Fabian",
+    "slug": "lara-fabian"
   },
   {
     "name": "Dave",
     "lastName": "Pickell",
-    "id": 128
+    "id": 128,
+    "slug": "dave-pickell"
   },
   {
     "nickname": "Muniek",
@@ -184,7 +221,8 @@
     "secondName": "Marek",
     "lastName": "Staszczyk",
     "id": 129,
-    "url": "https://pl.wikipedia.org/wiki/Muniek_Staszczyk"
+    "url": "https://pl.wikipedia.org/wiki/Muniek_Staszczyk",
+    "slug": "zygmunt-staszczyk"
   },
   {
     "nickname": "Sidney Polak",
@@ -192,7 +230,8 @@
     "secondName": "Marek",
     "lastName": "Polak",
     "id": 130,
-    "url": "https://pl.wikipedia.org/wiki/Sidney_Polak"
+    "url": "https://pl.wikipedia.org/wiki/Sidney_Polak",
+    "slug": "sidney-polak"
   },
   {
     "nickname": "Maryla Rodowicz",
@@ -200,58 +239,68 @@
     "secondName": "Antonina",
     "lastName": "Rodowicz",
     "id": 131,
-    "url": "https://pl.wikipedia.org/wiki/Maryla_Rodowicz"
+    "url": "https://pl.wikipedia.org/wiki/Maryla_Rodowicz",
+    "slug": "maryla-rodowicz"
   },
   {
     "name": "Andrzej",
     "secondName": "Sławomir",
     "lastName": "Sikorowski",
     "id": 132,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Sikorowski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Sikorowski",
+    "slug": "andrzej-sikorowski"
   },
   {
     "name": "Agnieszka",
     "lastName": "Osiecka",
     "id": 133,
-    "url": "https://pl.wikipedia.org/wiki/Agnieszka_Osiecka"
+    "url": "https://pl.wikipedia.org/wiki/Agnieszka_Osiecka",
+    "slug": "agnieszka-osiecka"
   },
   {
     "name": "Andrzej",
     "lastName": "Zieliński",
     "id": 134,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Zieli%C5%84ski_(wokalista)"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Zieli%C5%84ski_(wokalista)",
+    "slug": "andrzej-zielinski"
   },
   {
     "nickname": "Kazik",
+    "forceNickname": true,
     "name": "Kazimierz",
     "lastName": "Staszewski",
     "id": 135,
-    "url": "https://pl.wikipedia.org/wiki/Kazik_Staszewski"
+    "url": "https://pl.wikipedia.org/wiki/Kazik_Staszewski",
+    "slug": "kazik"
   },
   {
     "name": "Luc",
     "lastName": "Plamondon",
     "id": 136,
-    "url": "https://en.wikipedia.org/wiki/Luc_Plamondon"
+    "url": "https://en.wikipedia.org/wiki/Luc_Plamondon",
+    "slug": "luc-plamondon"
   },
   {
     "name": "Riccardo",
     "lastName": "Cocciante",
     "id": 137,
-    "url": "https://pl.wikipedia.org/wiki/Riccardo_Cocciante"
+    "url": "https://pl.wikipedia.org/wiki/Riccardo_Cocciante",
+    "slug": "riccardo-cocciante"
   },
   {
     "name": "Tadeusz",
     "lastName": "Suchocki",
     "id": 138,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Suchocki"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Suchocki",
+    "slug": "tadeusz-suchocki"
   },
   {
     "name": "Wojciech",
     "secondName": "Marian",
     "lastName": "Młynarski",
     "id": 139,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_M%C5%82ynarski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_M%C5%82ynarski",
+    "slug": "wojciech-mlynarski"
   },
   {
     "nickName": "Mirek Hrynkiewicz",
@@ -259,63 +308,73 @@
     "secondName": "Leszek",
     "lastName": "Hrynkiewicz",
     "id": 140,
-    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_Hrynkiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_Hrynkiewicz",
+    "slug": "miroslaw-hrynkiewicz"
   },
   {
     "title": "siostra",
     "name": "Magdalena",
     "lastName": "Strzelecka",
     "nickname": "Nazaretanka",
-    "id": 141
+    "id": 141,
+    "slug": "magdalena-strzelecka"
   },
   {
     "name": "Jacek",
     "lastName": "Janowicz",
     "id": 142,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Janowicz"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Janowicz",
+    "slug": "jacek-janowicz"
   },
   {
     "name": "Artur",
     "secondName": "Józef",
     "lastName": "Andrus",
     "id": 143,
-    "url": "https://pl.wikipedia.org/wiki/Artur_Andrus"
+    "url": "https://pl.wikipedia.org/wiki/Artur_Andrus",
+    "slug": "artur-andrus"
   },
   {
     "name": "Stanisław",
     "lastName": "Staszewski",
     "id": 144,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Staszewski_(artysta)"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Staszewski_(artysta)",
+    "slug": "stanislaw-staszewski"
   },
   {
     "name": "Andrzej",
     "lastName": "Poniedzielski",
     "id": 145,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Poniedzielski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Poniedzielski",
+    "slug": "andrzej-poniedzielski"
   },
   {
     "name": "Paweł",
     "lastName": "Małolepszy",
-    "id": 146
+    "id": 146,
+    "slug": "pawel-malolepszy"
   },
   {
     "name": "Wojciech",
     "secondName": "Jerzy",
     "lastName": "Belon",
     "id": 147,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Belon"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Belon",
+    "slug": "wojciech-belon"
   },
   {
     "name": "Marek",
     "secondName": "Michał",
     "lastName": "Grechuta",
     "id": 148,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Grechuta"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Grechuta",
+    "slug": "marek-grechuta"
   },
   {
     "name": "Robert",
     "lastName": "Bochenek",
-    "id": 149
+    "id": 149,
+    "slug": "robert-bochenek"
   },
   {
     "nickname": "Niuniek",
@@ -323,7 +382,8 @@
     "secondName": "Antoni",
     "lastName": "Klenczon",
     "id": 150,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Klenczon"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Klenczon",
+    "slug": "krzysztof-klenczon"
   },
   {
     "nickname": "Janusz Kondratowicz",
@@ -331,70 +391,82 @@
     "secondName": "Mieczysław",
     "lastName": "Kondratowicz",
     "id": 151,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_Kondratowicz"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_Kondratowicz",
+    "slug": "janusz-kondratowicz"
   },
   {
     "name": "Jan",
     "lastName": "Tarka",
-    "id": 152
+    "id": 152,
+    "slug": "jan-tarka"
   },
   {
     "name": "Janusz",
     "lastName": "Kreft",
-    "id": 153
+    "id": 153,
+    "slug": "janusz-kreft"
   },
   {
     "name": "Anna",
     "lastName": "Szaleńcowa",
     "id": 154,
-    "url": "https://pl.wikipedia.org/wiki/Anna_Szale%C5%84cowa"
+    "url": "https://pl.wikipedia.org/wiki/Anna_Szale%C5%84cowa",
+    "slug": "anna-szalencowa"
   },
   {
     "name": "Andrzej",
     "lastName": "Starzec",
-    "id": 155
+    "id": 155,
+    "slug": "andrzej-starzec"
   },
   {
     "name": "Bogusław",
     "lastName": "Adamek",
-    "id": 156
+    "id": 156,
+    "slug": "boguslaw-adamek"
   },
   {
     "name": "Adam",
     "lastName": "Ziemianin",
     "id": 157,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Ziemianin"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Ziemianin",
+    "slug": "adam-ziemianin"
   },
   {
     "name": "Bolesław",
     "lastName": "Leśmian",
     "id": 158,
-    "url": "https://pl.wikipedia.org/wiki/Boles%C5%82aw_Le%C5%9Bmian"
+    "url": "https://pl.wikipedia.org/wiki/Boles%C5%82aw_Le%C5%9Bmian",
+    "slug": "boleslaw-lesmian"
   },
   {
     "name": "Krzysztof",
     "lastName": "Myszkowski",
     "id": 159,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Myszkowski_(muzyk)"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Myszkowski_(muzyk)",
+    "slug": "krzysztof-myszkowski"
   },
   {
     "name": "Janusz",
     "lastName": "Sikorski",
     "id": 160,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_Sikorski"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_Sikorski",
+    "slug": "janusz-sikorski"
   },
   {
     "nickname": "Rudi Schuberth",
     "name": "Rudolf",
     "lastName": "Schuberth",
     "id": 162,
-    "url": "https://pl.wikipedia.org/wiki/Rudi_Schuberth"
+    "url": "https://pl.wikipedia.org/wiki/Rudi_Schuberth",
+    "slug": "rudi-schuberth"
   },
   {
     "name": "Tadeusz",
     "lastName": "Leśniak",
     "id": 163,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Le%C5%9Bniak_(pianista)"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Le%C5%9Bniak_(pianista)",
+    "slug": "tadeusz-lesniak"
   },
   {
     "nickname": "Sebastian Karpiel-Bułecka",
@@ -402,12 +474,14 @@
     "secondName": "Sebastian",
     "lastName": "Karpiel",
     "id": 164,
-    "url": "https://pl.wikipedia.org/wiki/Sebastian_Karpiel-Bu%C5%82ecka"
+    "url": "https://pl.wikipedia.org/wiki/Sebastian_Karpiel-Bu%C5%82ecka",
+    "slug": "sebastian-karpiel-bulecka"
   },
   {
     "name": "Bartłomiej",
     "lastName": "Kudasik",
-    "id": 165
+    "id": 165,
+    "slug": "bartlomiej-kudasik"
   },
   {
     "nickname": "Mateo",
@@ -415,99 +489,116 @@
     "secondName": "Marian",
     "lastName": "Pospieszalski",
     "id": 166,
-    "url": "https://pl.wikipedia.org/wiki/Mateusz_Pospieszalski"
+    "url": "https://pl.wikipedia.org/wiki/Mateusz_Pospieszalski",
+    "slug": "mateusz-pospieszalski"
   },
   {
     "name": "Bogdan",
     "lastName": "Kuśka",
-    "id": 167
+    "id": 167,
+    "slug": "bogdan-kuska"
   },
   {
     "name": "Katarzyna",
     "secondName": "Maria",
     "lastName": "Sienkiewicz",
     "id": 168,
-    "url": "https://pl.wikipedia.org/wiki/Katarzyna_Sienkiewicz_(wokalistka)"
+    "url": "https://pl.wikipedia.org/wiki/Katarzyna_Sienkiewicz_(wokalistka)",
+    "slug": "katarzyna-sienkiewicz"
   },
   {
     "name": "Maciej",
     "lastName": "Służała",
-    "id": 169
+    "id": 169,
+    "slug": "maciej-sluzala"
   },
   {
     "name": "Michał",
     "secondName": "Wojciech",
     "lastName": "Zabłocki",
     "id": 170,
-    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Zab%C5%82ocki"
+    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Zab%C5%82ocki",
+    "slug": "michal-zablocki"
   },
   {
     "name": "Agnieszka",
     "lastName": "Chrzanowska",
     "id": 171,
-    "url": "https://pl.wikipedia.org/wiki/Agnieszka_Chrzanowska"
+    "url": "https://pl.wikipedia.org/wiki/Agnieszka_Chrzanowska",
+    "slug": "agnieszka-chrzanowska"
   },
   {
     "name": "Hugo",
     "lastName": "Peretti",
     "id": 172,
-    "url": "https://en.wikipedia.org/wiki/Hugo_Peretti"
+    "url": "https://en.wikipedia.org/wiki/Hugo_Peretti",
+    "slug": "hugo-peretti"
   },
   {
     "name": "Luigi",
     "secondName": "Federico",
     "lastName": "Creatore",
     "id": 173,
-    "url": "https://en.wikipedia.org/wiki/Luigi_Creatore"
+    "url": "https://en.wikipedia.org/wiki/Luigi_Creatore",
+    "slug": "luigi-creatore"
   },
   {
     "name": "George",
     "lastName": "Weiss",
     "secondName": "David",
+    "forceSecondName": true,
     "id": 174,
-    "url": "https://en.wikipedia.org/wiki/George_David_Weiss"
+    "url": "https://en.wikipedia.org/wiki/George_David_Weiss",
+    "slug": "george-david-weiss"
   },
   {
     "nickname": "Symulant",
     "name": "Krzysztof",
     "lastName": "Lebionko",
-    "id": 175
+    "id": 175,
+    "slug": "krzysztof-lebionko"
   },
   {
     "name": "Piotr",
     "lastName": "Kowalewicz",
-    "id": 176
+    "id": 176,
+    "slug": "piotr-kowalewicz"
   },
   {
     "nickname": "Koń",
     "name": "Krzysztof",
     "lastName": "Mikiciuk",
-    "id": 177
+    "id": 177,
+    "slug": "krzysztof-mikiciuk"
   },
   {
     "name": "Marek",
     "secondName": "Wojciech",
     "lastName": "Dutkiewicz",
     "id": 178,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Dutkiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Dutkiewicz",
+    "slug": "marek-dutkiewicz"
   },
   {
     "name": "Janusz",
     "lastName": "Kruk",
     "id": 179,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_Kruk"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_Kruk",
+    "slug": "janusz-kruk"
   },
   {
     "name": "Zbigniew",
     "lastName": "Zieliński",
-    "id": 180
+    "id": 180,
+    "slug": "zbigniew-zielinski"
   },
   {
     "name": "Tim",
-    "secondName": "Miles-Bindon",
+    "secondName": "Miles Bindon",
     "lastName": "Rice",
     "id": 181,
-    "url": "https://pl.wikipedia.org/wiki/Tim_Rice"
+    "url": "https://pl.wikipedia.org/wiki/Tim_Rice",
+    "slug": "tim-rice"
   },
   {
     "name": "Reginald",
@@ -515,186 +606,219 @@
     "lastName": "Dwight",
     "nickname": "Elton John",
     "id": 182,
-    "url": "https://pl.wikipedia.org/wiki/Elton_John"
+    "url": "https://pl.wikipedia.org/wiki/Elton_John",
+    "slug": "elton-john"
   },
   {
-    "nickname": "Karakuliambro",
     "name": "Konstanty",
     "lastName": "Gałczyński",
     "secondName": "Ildefons",
+    "forceSecondName": true,
     "id": 183,
-    "url": "https://pl.wikipedia.org/wiki/Konstanty_Ildefons_Ga%C5%82czy%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Konstanty_Ildefons_Ga%C5%82czy%C5%84ski",
+    "slug": "konstanty-ildefons-galczynski"
   },
   {
     "name": "Adam",
     "lastName": "Tkaczyk",
-    "id": 184
+    "id": 184,
+    "slug": "adam-tkaczyk"
   },
   {
     "name": "Marek",
     "secondName": "Norbert",
     "lastName": "Jackowski",
     "id": 185,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Jackowski"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Jackowski",
+    "slug": "marek-jackowski"
   },
   {
     "nickname": "Kora",
+    "forceNickname": true,
     "name": "Olga",
     "lastName": "Jackowska-Sipowicz",
     "id": 186,
-    "url": "https://pl.wikipedia.org/wiki/Kora_(wokalistka)"
+    "url": "https://pl.wikipedia.org/wiki/Kora_(wokalistka)",
+    "slug": "kora"
   },
   {
     "name": "Łukasz",
     "lastName": "Borowiecki",
     "id": 187,
-    "url": "https://lukaszborowiecki.pl/"
+    "url": "https://lukaszborowiecki.pl/",
+    "slug": "lukasz-borowiecki"
   },
   {
     "name": "Jerzy",
     "lastName": "Filas",
-    "id": 188
+    "id": 188,
+    "slug": "jerzy-filas"
   },
   {
     "name": "Józef",
     "lastName": "Kołodziejczyk",
-    "id": 189
+    "id": 189,
+    "slug": "jozef-kolodziejczyk"
   },
   {
     "name": "Katarzyna",
     "lastName": "Gärtner",
     "id": 190,
-    "url": "https://pl.wikipedia.org/wiki/Katarzyna_G%C3%A4rtner"
+    "url": "https://pl.wikipedia.org/wiki/Katarzyna_G%C3%A4rtner",
+    "slug": "katarzyna-gartner"
   },
   {
     "name": "Jacek",
     "lastName": "Sienkiewicz",
     "id": 191,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Sienkiewicz_(wokalista)"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Sienkiewicz_(wokalista)",
+    "slug": "jacek-sienkiewicz"
   },
   {
     "name": "Jakub",
     "secondName": "Wojciech",
     "lastName": "Sienkiewicz",
     "id": 192,
-    "url": "https://pl.wikipedia.org/wiki/Kuba_Sienkiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Kuba_Sienkiewicz",
+    "slug": "jakub-sienkiewicz"
   },
   {
+    "title": "major",
     "name": "Adam",
     "secondName": "Józef",
     "lastName": "Kowalski",
     "id": 193,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Kowalski_(%C5%BCo%C5%82nierz)"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Kowalski_(%C5%BCo%C5%82nierz)",
+    "slug": "adam-kowalski"
   },
   {
     "name": "Hans",
-    "secondName": "Florian ",
+    "secondName": "Florian",
     "lastName": "Zimmer",
     "id": 194,
-    "url": "https://pl.wikipedia.org/wiki/Hans_Zimmer"
+    "url": "https://pl.wikipedia.org/wiki/Hans_Zimmer",
+    "slug": "hans-zimmer"
   },
   {
     "nickname": "Fialeja",
+    "forceNickname": true,
     "name": "Fia",
     "lastName": "Orädd",
     "id": 195,
-    "url": "https://utaite.fandom.com/wiki/Fialeja"
+    "url": "https://utaite.fandom.com/wiki/Fialeja",
+    "slug": "fialeja"
   },
   {
     "name": "Andrzej",
     "lastName": "Gruszczyk",
     "id": 196,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Gruszczyk"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Gruszczyk",
+    "slug": "andrzej-gruszczyk"
   },
   {
     "name": "Piotr",
     "lastName": "Walewski",
     "id": 197,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Walewski"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Walewski",
+    "slug": "piotr-walewski"
   },
   {
     "name": "Max",
     "lastName": "Ehrmann",
     "id": 198,
-    "url": "https://pl.wikipedia.org/wiki/Max_Ehrmann"
+    "url": "https://pl.wikipedia.org/wiki/Max_Ehrmann",
+    "slug": "max-ehrmann"
   },
   {
     "name": "Artur",
     "secondName": "Marcin",
     "lastName": "Rojek",
     "id": 199,
-    "url": "https://pl.wikipedia.org/wiki/Artur_Rojek"
+    "url": "https://pl.wikipedia.org/wiki/Artur_Rojek",
+    "slug": "artur-rojek"
   },
   {
     "name": "Jacek",
     "lastName": "Kuderski",
     "id": 200,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Kuderski"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Kuderski",
+    "slug": "jacek-kuderski"
   },
   {
     "name": "Przemysław",
     "secondName": "Paweł",
     "lastName": "Myszor",
     "id": 201,
-    "url": "https://pl.wikipedia.org/wiki/Przemys%C5%82aw_Myszor"
+    "url": "https://pl.wikipedia.org/wiki/Przemys%C5%82aw_Myszor",
+    "slug": "przemyslaw-myszor"
   },
   {
     "name": "Wojciech",
     "lastName": "Powaga-Grabowski",
     "id": 202,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Powaga-Grabowski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Powaga-Grabowski",
+    "slug": "wojciech-powaga-grabowski"
   },
   {
     "name": "Jan",
     "lastName": "Pawluśkiewicz",
     "secondName": "Kanty",
+    "forceSecondName": true,
     "id": 203,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Kanty_Pawlu%C5%9Bkiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Kanty_Pawlu%C5%9Bkiewicz",
+    "slug": "jan-kanty-pawluskiewicz"
   },
   {
     "name": "Bogdan",
     "lastName": "Chorążuk",
     "id": 204,
-    "url": "https://pl.wikipedia.org/wiki/Bogdan_Chor%C4%85%C5%BCuk"
+    "url": "https://pl.wikipedia.org/wiki/Bogdan_Chor%C4%85%C5%BCuk",
+    "slug": "bogdan-chorazuk"
   },
   {
     "name": "Tadeusz",
     "lastName": "Woźniak",
     "id": 205,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Wo%C5%BAniak_(muzyk)"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Wo%C5%BAniak_(muzyk)",
+    "slug": "tadeusz-wozniak"
   },
   {
     "name": "Stanisław",
     "lastName": "Werner",
     "id": 206,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Werner_(literat)"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Werner_(literat)",
+    "slug": "stanislaw-werner"
   },
   {
     "name": "Mirosław",
     "secondName": "Zygmunt",
     "lastName": "Łebkowski",
     "id": 207,
-    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_%C5%81ebkowski"
+    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_%C5%81ebkowski",
+    "slug": "miroslaw-lebkowski"
   },
   {
     "name": "Adam",
     "secondName": "Jan",
     "lastName": "Skorupka",
     "id": 208,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Skorupka"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Skorupka",
+    "slug": "adam-skorupka"
   },
   {
     "nickname": "Roman Roczeń",
     "name": "Romuald",
     "lastName": "Roczeń",
     "id": 209,
-    "url": "https://pl.wikipedia.org/wiki/Roman_Rocze%C5%84"
+    "url": "https://pl.wikipedia.org/wiki/Roman_Rocze%C5%84",
+    "slug": "roman-roczen"
   },
   {
     "name": "Seweryn",
     "lastName": "Krajewski",
     "id": 210,
-    "url": "https://pl.wikipedia.org/wiki/Seweryn_Krajewski"
+    "url": "https://pl.wikipedia.org/wiki/Seweryn_Krajewski",
+    "slug": "seweryn-krajewski"
   },
   {
     "nickname": "Krzysztof Borys",
@@ -702,7 +826,8 @@
     "secondName": "Wojciech",
     "lastName": "Dzikowski",
     "id": 211,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Dzikowski"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Dzikowski",
+    "slug": "krzysztof-borys"
   },
   {
     "nickname": "Andrzej Augustowski",
@@ -710,190 +835,220 @@
     "secondName": "Maria",
     "lastName": "Winkler",
     "id": 212,
-    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Winkler"
+    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Winkler",
+    "slug": "andrzej-augustowski"
   },
   {
     "name": "Bułat",
     "secondName": "Szałwowicz",
     "lastName": "Okudżawa",
     "id": 213,
-    "url": "https://pl.wikipedia.org/wiki/Bu%C5%82at_Okud%C5%BCawa"
+    "url": "https://pl.wikipedia.org/wiki/Bu%C5%82at_Okud%C5%BCawa",
+    "slug": "bulat-okudzawa"
   },
   {
     "name": "Ziemowit",
     "lastName": "Fedecki",
     "id": 214,
-    "url": "https://pl.wikipedia.org/wiki/Ziemowit_Fedecki"
+    "url": "https://pl.wikipedia.org/wiki/Ziemowit_Fedecki",
+    "slug": "ziemowit-fedecki"
   },
   {
     "name": "Jacek",
     "secondName": "Antoni",
     "lastName": "Cygan",
     "id": 215,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Cygan"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Cygan",
+    "slug": "jacek-cygan"
   },
   {
     "name": "Krzesimir",
     "secondName": "Marcin",
     "lastName": "Dębski",
     "id": 216,
-    "url": "https://pl.wikipedia.org/wiki/Krzesimir_D%C4%99bski"
+    "url": "https://pl.wikipedia.org/wiki/Krzesimir_D%C4%99bski",
+    "slug": "krzesimir-debski"
   },
   {
     "name": "Jan",
     "secondName": "Stefan",
     "lastName": "Pietrzak",
     "id": 217,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Pietrzak"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Pietrzak",
+    "slug": "jan-pietrzak"
   },
   {
     "name": "Leszek",
     "lastName": "Kopeć",
     "id": 218,
-    "url": "https://pl.wikipedia.org/wiki/Leszek_Kope%C4%87_(pie%C5%9Bniarz)"
+    "url": "https://pl.wikipedia.org/wiki/Leszek_Kope%C4%87_(pie%C5%9Bniarz)",
+    "slug": "leszek-kopec"
   },
   {
     "nickname": "Lebo M",
     "name": "Lebohang",
     "lastName": "Morake",
     "id": 219,
-    "url": "https://en.wikipedia.org/wiki/Lebo_M"
+    "url": "https://en.wikipedia.org/wiki/Lebo_M",
+    "slug": "lebo-m"
   },
   {
     "nickname": "Ryszard Sielicki",
     "name": "Ryszard",
     "lastName": "Berlinson",
     "id": 220,
-    "url": "https://pl.wikipedia.org/wiki/Ryszard_Sielicki"
+    "url": "https://pl.wikipedia.org/wiki/Ryszard_Sielicki",
+    "slug": "ryszard-sielicki"
   },
   {
     "name": "Jay",
     "lastName": "Rifkin",
     "id": 221,
-    "url": "https://en.wikipedia.org/wiki/Jay_Rifkin"
+    "url": "https://en.wikipedia.org/wiki/Jay_Rifkin",
+    "slug": "jay-rifkin"
   },
   {
     "name": "Julie",
     "lastName": "Taymor",
     "id": 222,
-    "url": "https://pl.wikipedia.org/wiki/Julie_Taymor"
+    "url": "https://pl.wikipedia.org/wiki/Julie_Taymor",
+    "slug": "julie-taymor"
   },
   {
     "name": "Andrzej",
     "secondName": "Paweł",
     "lastName": "Kołakowski",
     "id": 223,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Ko%C5%82akowski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Ko%C5%82akowski",
+    "slug": "andrzej-kolakowski"
   },
   {
     "nickname": "Sting",
+    "forceNickname": true,
     "name": "Gordon",
     "secondName": "Matthew",
     "lastName": "Sumner",
     "id": 224,
-    "url": "https://pl.wikipedia.org/wiki/Sting"
+    "url": "https://pl.wikipedia.org/wiki/Sting",
+    "slug": "sting"
   },
   {
     "nickname": "Qcza",
     "name": "Mariusz",
     "lastName": "Kuczewski",
-    "id": 225
+    "id": 225,
+    "slug": "mariusz-kuczewski"
   },
   {
     "name": "Anthony",
     "lastName": "Hamilton",
     "id": 226,
-    "url": "https://pl.wikipedia.org/wiki/Anthony_Hamilton_(wokalista)"
+    "url": "https://pl.wikipedia.org/wiki/Anthony_Hamilton_(wokalista)",
+    "slug": "anthony-hamilton"
   },
   {
     "name": "Elayna",
     "lastName": "Boynton",
     "id": 227,
-    "url": "https://en.wikipedia.org/wiki/Elayna_Boynton"
+    "url": "https://en.wikipedia.org/wiki/Elayna_Boynton",
+    "slug": "elayna-boynton"
   },
   {
     "nickname": "Jonasz Kofta",
     "name": "Janusz",
     "lastName": "Kaftal",
     "id": 228,
-    "url": "https://pl.wikipedia.org/wiki/Jonasz_Kofta"
+    "url": "https://pl.wikipedia.org/wiki/Jonasz_Kofta",
+    "slug": "jonasz-kofta"
   },
   {
     "nickname": "Bob Roy",
     "name": "Bogusław",
     "lastName": "Grzyb",
-    "id": 229
+    "id": 229,
+    "slug": "bob-roy"
   },
   {
     "name": "Zbigniew",
     "secondName": "Tadeusz",
     "lastName": "Książek",
     "id": 230,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Ksi%C4%85%C5%BCek"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Ksi%C4%85%C5%BCek",
+    "slug": "zbigniew-ksiazek"
   },
   {
     "name": "Jacek",
     "lastName": "Podsiadło",
     "id": 231,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Podsiad%C5%82o"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Podsiad%C5%82o",
+    "slug": "jacek-podsiadlo"
   },
   {
     "name": "Paweł",
     "lastName": "Grabara",
-    "id": 232
+    "id": 232,
+    "slug": "pawel-grabara"
   },
   {
     "name": "Zygmunt",
     "lastName": "Konieczny",
     "id": 233,
-    "url": "https://pl.wikipedia.org/wiki/Zygmunt_Konieczny_(kompozytor)"
+    "url": "https://pl.wikipedia.org/wiki/Zygmunt_Konieczny_(kompozytor)",
+    "slug": "zygmunt-konieczny"
   },
   {
     "name": "Radek",
     "lastName": "Łukasiewicz",
     "id": 234,
-    "url": "https://pl.wikipedia.org/wiki/Radek_%C5%81ukasiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Radek_%C5%81ukasiewicz",
+    "slug": "radek-lukasiewicz"
   },
   {
     "nickname": "Brodka",
+    "forceNickname": true,
     "name": "Monika",
     "secondName": "Maria",
     "lastName": "Brodka",
     "id": 235,
-    "url": "https://pl.wikipedia.org/wiki/Brodka"
+    "url": "https://pl.wikipedia.org/wiki/Brodka",
+    "slug": "brodka"
   },
   {
     "name": "Bartosz",
     "lastName": "Dziedzic",
     "id": 236,
-    "url": "https://pl.wikipedia.org/wiki/Bartosz_Dziedzic_(producent_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Bartosz_Dziedzic_(producent_muzyczny)",
+    "slug": "bartosz-dziedzic"
   },
   {
     "nickname": "Królik",
     "name": "Jarosław",
     "lastName": "Zajączkowski",
-    "id": 237
+    "id": 237,
+    "slug": "jaroslaw-zajaczkowski"
   },
   {
-    "nickname": "Sted",
     "name": "Edward",
     "secondName": "Jerzy",
     "lastName": "Stachura",
     "id": 238,
-    "url": "https://pl.wikipedia.org/wiki/Edward_Stachura"
+    "url": "https://pl.wikipedia.org/wiki/Edward_Stachura",
+    "slug": "edward-stachura"
   },
   {
     "name": "Marek",
     "lastName": "Szurawski",
     "id": 239,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Szurawski"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Szurawski",
+    "slug": "marek-szurawski"
   },
   {
     "name": "Leonard",
     "secondName": "Norman",
     "lastName": "Cohen",
     "id": 240,
-    "url": "https://pl.wikipedia.org/wiki/Leonard_Cohen"
+    "url": "https://pl.wikipedia.org/wiki/Leonard_Cohen",
+    "slug": "leonard-cohen"
   },
   {
     "nickname": "Maciej Zembaty",
@@ -901,46 +1056,54 @@
     "secondName": "Maciej",
     "lastName": "Zembaty",
     "id": 241,
-    "url": "https://pl.wikipedia.org/wiki/Maciej_Zembaty"
+    "url": "https://pl.wikipedia.org/wiki/Maciej_Zembaty",
+    "slug": "maciej-zembaty"
   },
   {
     "name": "Wacław",
     "lastName": "Masłyk",
     "id": 242,
-    "url": "https://bibliotekapiosenki.pl/osoby/Maslyk_Waclaw"
+    "url": "https://bibliotekapiosenki.pl/osoby/Maslyk_Waclaw",
+    "slug": "waclaw-maslyk"
   },
   {
     "name": "Suzanne",
     "lastName": "Collins",
     "id": 243,
-    "url": "https://pl.wikipedia.org/wiki/Suzanne_Collins"
+    "url": "https://pl.wikipedia.org/wiki/Suzanne_Collins",
+    "slug": "suzanne-collins"
   },
   {
     "name": "James",
     "lastName": "Howard",
     "secondName": "Newton",
+    "forceSecondName": true,
     "id": 244,
-    "url": "https://pl.wikipedia.org/wiki/James_Newton_Howard"
+    "url": "https://pl.wikipedia.org/wiki/James_Newton_Howard",
+    "slug": "james-newton-howard"
   },
   {
     "name": "Jeremiah",
     "secondName": "Caleb",
     "lastName": "Fraites",
     "id": 245,
-    "url": "https://en.wikipedia.org/wiki/Jeremiah_Fraites"
+    "url": "https://en.wikipedia.org/wiki/Jeremiah_Fraites",
+    "slug": "jeremiah-fraites"
   },
   {
     "name": "Wesley",
     "secondName": "Keith",
     "lastName": "Schultz",
     "id": 246,
-    "url": "https://en.wikipedia.org/wiki/Wesley_Schultz"
+    "url": "https://en.wikipedia.org/wiki/Wesley_Schultz",
+    "slug": "wesley-schultz"
   },
   {
     "name": "Bartłomiej",
     "lastName": "Kozielski",
     "id": 247,
-    "url": "https://dubbingpedia.pl/wiki/Bart%C5%82omiej_Kozielski"
+    "url": "https://dubbingpedia.pl/wiki/Bart%C5%82omiej_Kozielski",
+    "slug": "bartlomiej-kozielski"
   },
   {
     "nickname": "Orlik",
@@ -948,50 +1111,58 @@
     "lastName": "Broniewski",
     "secondName": "Kazimierz",
     "id": 248,
-    "url": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Broniewski"
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Broniewski",
+    "slug": "wladyslaw-broniewski"
   },
   {
     "name": "Marcin",
     "lastName": "Bornus-Szczyciński",
     "id": 249,
-    "url": "https://pl.wikipedia.org/wiki/Marcin_Bornus-Szczyci%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Marcin_Bornus-Szczyci%C5%84ski",
+    "slug": "marcin-bornus-szczycinski"
   },
   {
     "name": "Mark",
     "secondName": "Alan",
     "lastName": "Mancina",
     "id": 250,
-    "url": "https://pl.wikipedia.org/wiki/Mark_Mancina"
+    "url": "https://pl.wikipedia.org/wiki/Mark_Mancina",
+    "slug": "mark-mancina"
   },
   {
     "nickname": "Piotr Janczerski",
     "name": "Piotr",
     "lastName": "Janik",
     "id": 251,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Janczerski"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Janczerski",
+    "slug": "piotr-janczerski"
   },
   {
     "name": "Jerzy",
     "lastName": "Krzemiński",
     "id": 252,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Krzemi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Krzemi%C5%84ski",
+    "slug": "jerzy-krzeminski"
   },
   {
     "name": "Piotr",
     "lastName": "Studziński",
     "id": 253,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Studzi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Studzi%C5%84ski",
+    "slug": "piotr-studzinski"
   },
   {
     "name": "Michel",
     "lastName": "Teló",
     "id": 254,
-    "url": "https://pl.wikipedia.org/wiki/Michel_Tel%C3%B3"
+    "url": "https://pl.wikipedia.org/wiki/Michel_Tel%C3%B3",
+    "slug": "michel-telo"
   },
   {
     "name": "Paweł",
     "lastName": "Kasperczyk",
-    "id": 255
+    "id": 255,
+    "slug": "pawel-kasperczyk"
   },
   {
     "nickname": "Vito Bambino",
@@ -999,36 +1170,42 @@
     "lastName": "Dopieralski",
     "secondName": "Wojciech",
     "id": 256,
-    "url": "https://pl.wikipedia.org/wiki/Vito_Bambino"
+    "url": "https://pl.wikipedia.org/wiki/Vito_Bambino",
+    "slug": "vito-bambino"
   },
   {
     "nickname": "Smoła",
     "name": "Norbert",
     "lastName": "Smoliński",
     "id": 257,
-    "url": "https://pl.wikipedia.org/wiki/Norbert_Smoli%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Norbert_Smoli%C5%84ski",
+    "slug": "norbert-smolinski"
   },
   {
     "nickname": "Malczas",
     "name": "Adam",
     "lastName": "Malczewski",
-    "id": 258
+    "id": 258,
+    "slug": "adam-malczewski"
   },
   {
     "name": "Paweł",
     "lastName": "Gawlik",
     "id": 259,
-    "url": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Gawlik"
+    "url": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Gawlik",
+    "slug": "pawel-gawlik"
   },
   {
     "name": "Krystyna",
     "lastName": "Wodnicka",
-    "id": 260
+    "id": 260,
+    "slug": "krystyna-wodnicka"
   },
   {
     "name": "Mieczysław",
     "lastName": "Janicz",
-    "id": 261
+    "id": 261,
+    "slug": "mieczyslaw-janicz"
   },
   {
     "nickname": "Dr. Luke",
@@ -1036,129 +1213,150 @@
     "lastName": "Gottwald",
     "secondName": "Sebastian",
     "id": 262,
-    "url": "https://pl.wikipedia.org/wiki/Dr._Luke"
+    "url": "https://pl.wikipedia.org/wiki/Dr._Luke",
+    "slug": "dr-luke"
   },
   {
     "nickname": "Mozella",
+    "forceNickname": true,
     "name": "Maureen",
     "lastName": "McDonald",
     "secondName": "Anne",
     "id": 263,
-    "url": "https://en.wikipedia.org/wiki/Mozella"
+    "url": "https://en.wikipedia.org/wiki/Mozella",
+    "slug": "mozella"
   },
   {
     "name": "Piotr",
     "secondName": "Andrzej",
     "lastName": "Rubik",
     "id": 264,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Rubik"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Rubik",
+    "slug": "piotr-rubik"
   },
   {
     "name": "Grzegorz",
     "secondName": "Jerzy",
     "lastName": "Turnau",
     "id": 265,
-    "url": "https://pl.wikipedia.org/wiki/Grzegorz_Turnau"
+    "url": "https://pl.wikipedia.org/wiki/Grzegorz_Turnau",
+    "slug": "grzegorz-turnau"
   },
   {
     "name": "Krzysztof",
     "lastName": "Baczyński",
     "secondName": "Kamil",
+    "forceSecondName": true,
     "id": 266,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Kamil_Baczy%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Kamil_Baczy%C5%84ski",
+    "slug": "krzysztof-kamil-baczynski"
   },
   {
     "name": "Zbigniew",
     "secondName": "Stanisław",
     "lastName": "Wodecki",
     "id": 267,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Wodecki"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Wodecki",
+    "slug": "zbigniew-wodecki"
   },
   {
     "name": "Ryszard",
     "lastName": "Rynkowski",
     "id": 268,
-    "url": "https://pl.wikipedia.org/wiki/Ryszard_Rynkowski"
+    "url": "https://pl.wikipedia.org/wiki/Ryszard_Rynkowski",
+    "slug": "ryszard-rynkowski"
   },
   {
     "name": "Andrzej",
     "lastName": "Waligórski",
     "id": 269,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Walig%C3%B3rski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Walig%C3%B3rski",
+    "slug": "andrzej-waligorski"
   },
   {
     "name": "Dorota",
     "lastName": "Kozielska",
-    "id": 270
+    "id": 270,
+    "slug": "dorota-kozielska"
   },
   {
     "name": "Karol",
     "secondName": "Kazimierz",
     "lastName": "Kurpiński",
     "id": 271,
-    "url": "https://pl.wikipedia.org/wiki/Karol_Kurpi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Karol_Kurpi%C5%84ski",
+    "slug": "karol-kurpinski"
   },
   {
     "name": "Andrzej",
     "lastName": "Panufnik",
     "id": 272,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Panufnik"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Panufnik",
+    "slug": "andrzej-panufnik"
   },
   {
     "name": "Władimir",
     "secondName": "Siemionowicz",
     "lastName": "Wysocki",
     "id": 273,
-    "url": "https://pl.wikipedia.org/wiki/W%C5%82adimir_Wysocki"
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82adimir_Wysocki",
+    "slug": "wladimir-wysocki"
   },
   {
     "name": "Wanda",
     "secondName": "Maria",
     "lastName": "Chotomska",
     "id": 274,
-    "url": "https://pl.wikipedia.org/wiki/Wanda_Chotomska"
+    "url": "https://pl.wikipedia.org/wiki/Wanda_Chotomska",
+    "slug": "wanda-chotomska"
   },
   {
     "name": "Andrzej",
     "lastName": "Wierzbicki",
     "id": 275,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Wierzbicki_(muzyk)"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Wierzbicki_(muzyk)",
+    "slug": "andrzej-wierzbicki"
   },
   {
     "name": "Adam",
     "lastName": "Strug",
     "id": 276,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Strug_(muzyk)"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Strug_(muzyk)",
+    "slug": "adam-strug"
   },
   {
-    "nickname": "Soyka",
     "name": "Stanisław",
     "secondName": "Joachim",
     "lastName": "Sojka",
     "id": 277,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Sojka"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Sojka",
+    "slug": "stanislaw-sojka"
   },
   {
     "name": "Ignacy",
     "secondName": "Błażej-Franciszek",
     "lastName": "Krasicki",
     "id": 278,
-    "url": "https://pl.wikipedia.org/wiki/Ignacy_Krasicki"
+    "url": "https://pl.wikipedia.org/wiki/Ignacy_Krasicki",
+    "slug": "ignacy-krasicki"
   },
   {
     "name": "Wojciech",
     "secondName": "Albert",
     "lastName": "Sowiński",
     "id": 279,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Sowi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Sowi%C5%84ski",
+    "slug": "wojciech-sowinski"
   },
   {
     "nickname": "Adele",
+    "forceNickname": true,
     "name": "Adele",
     "lastName": "Adkins",
-    "secondName": "Laurie-Blue",
+    "secondName": "Laurie Blue",
     "id": 280,
-    "url": "https://pl.wikipedia.org/wiki/Adele"
+    "url": "https://pl.wikipedia.org/wiki/Adele",
+    "slug": "adele"
   },
   {
     "nickname": "Mike Campbell",
@@ -1166,52 +1364,60 @@
     "secondName": "Wayne",
     "lastName": "Campbell",
     "id": 281,
-    "url": "https://en.wikipedia.org/wiki/Mike_Campbell_(musician)"
+    "url": "https://en.wikipedia.org/wiki/Mike_Campbell_(musician)",
+    "slug": "mike-campbell"
   },
   {
     "name": "Ian",
     "lastName": "Axel",
     "id": 282,
-    "url": "https://en.wikipedia.org/wiki/Ian_Axel"
+    "url": "https://en.wikipedia.org/wiki/Ian_Axel",
+    "slug": "ian-axel"
   },
   {
     "nickname": "Chad King",
     "name": "Chad",
     "lastName": "Vaccarino",
     "id": 283,
-    "url": "https://greatbigworld.fandom.com/wiki/Chad_Vaccarino"
+    "url": "https://greatbigworld.fandom.com/wiki/Chad_Vaccarino",
+    "slug": "chad-king"
   },
   {
     "name": "Mirosław",
     "lastName": "Kowalewski",
     "secondName": "Aleksander",
     "id": 284,
-    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_Kowalewski"
+    "url": "https://pl.wikipedia.org/wiki/Miros%C5%82aw_Kowalewski",
+    "slug": "miroslaw-kowalewski"
   },
   {
     "name": "Maria",
     "secondName": "Stanisława",
     "lastName": "Konopnicka",
     "id": 285,
-    "url": "https://pl.wikipedia.org/wiki/Maria_Konopnicka"
+    "url": "https://pl.wikipedia.org/wiki/Maria_Konopnicka",
+    "slug": "maria-konopnicka"
   },
   {
     "name": "Feliks",
     "lastName": "Nowowiejski",
     "id": 286,
-    "url": "https://pl.wikipedia.org/wiki/Feliks_Nowowiejski"
+    "url": "https://pl.wikipedia.org/wiki/Feliks_Nowowiejski",
+    "slug": "feliks-nowowiejski"
   },
   {
     "name": "Ramin",
     "lastName": "Djawadi",
     "id": 287,
-    "url": "https://pl.wikipedia.org/wiki/Ramin_Djawadi"
+    "url": "https://pl.wikipedia.org/wiki/Ramin_Djawadi",
+    "slug": "ramin-djawadi"
   },
   {
     "name": "Juliusz",
     "lastName": "Loranc",
     "id": 288,
-    "url": "https://pl.wikipedia.org/wiki/Juliusz_Loranc"
+    "url": "https://pl.wikipedia.org/wiki/Juliusz_Loranc",
+    "slug": "juliusz-loranc"
   },
   {
     "nickname": "Robert Kirlej",
@@ -1219,133 +1425,149 @@
     "secondName": "Kazimierz",
     "lastName": "Kukulski",
     "id": 289,
-    "url": "https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Kukulski"
+    "url": "https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Kukulski",
+    "slug": "robert-kirlej"
   },
   {
     "name": "Marek",
     "lastName": "Zrajkowski",
-    "id": 290
+    "id": 290,
+    "slug": "marek-zrajkowski"
   },
   {
     "name": "Marzanna",
     "lastName": "Zrajkowska",
-    "id": 291
+    "id": 291,
+    "slug": "marzanna-zrajkowska"
   },
   {
     "name": "Włodzimierz",
     "lastName": "Korcz",
     "secondName": "Kazimierz",
     "id": 292,
-    "url": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Korcz"
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Korcz",
+    "slug": "wlodzimierz-korcz"
   },
   {
     "name": "Andrzej",
     "lastName": "Piekarczyk",
     "secondName": "Aleksander",
     "id": 293,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Piekarczyk_(satyryk)"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Piekarczyk_(satyryk)",
+    "slug": "andrzej-piekarczyk"
   },
   {
     "name": "Dolores",
     "secondName": "Mary Eileen",
     "lastName": "O’Riordan",
     "id": 294,
-    "url": "https://pl.wikipedia.org/wiki/Dolores_O%E2%80%99Riordan"
+    "url": "https://pl.wikipedia.org/wiki/Dolores_O%E2%80%99Riordan",
+    "slug": "dolores-oriordan"
   },
   {
     "name": "Wiesław",
     "lastName": "Tupaczewski",
     "id": 295,
-    "url": "https://pl.wikipedia.org/wiki/Wies%C5%82aw_Tupaczewski"
+    "url": "https://pl.wikipedia.org/wiki/Wies%C5%82aw_Tupaczewski",
+    "slug": "wieslaw-tupaczewski"
   },
   {
     "name": "Antoni",
     "lastName": "Sas-Uruski",
     "secondName": "Adolf",
     "id": 296,
-    "url": "https://pl.wikipedia.org/wiki/Antoni_Uruski"
+    "url": "https://pl.wikipedia.org/wiki/Antoni_Uruski",
+    "slug": "antoni-sas-uruski"
   },
   {
     "name": "Franciszek",
     "lastName": "Ryling",
     "id": 297,
-    "url": "https://pl.wikipedia.org/wiki/Franciszek_Ryling"
+    "url": "https://pl.wikipedia.org/wiki/Franciszek_Ryling",
+    "slug": "franciszek-ryling"
   },
   {
     "name": "Franciszek",
     "lastName": "Karpiński",
     "id": 298,
-    "url": "https://pl.wikipedia.org/wiki/Franciszek_Karpi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Franciszek_Karpi%C5%84ski",
+    "slug": "franciszek-karpinski"
   },
   {
     "title": "OP",
     "name": "Wojciech",
     "lastName": "Jędrzejewski",
     "id": 299,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_J%C4%99drzejewski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_J%C4%99drzejewski",
+    "slug": "wojciech-jedrzejewski"
   },
   {
     "name": "Józef",
     "lastName": "Nikorowicz",
     "id": 300,
-    "url": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Nikorowicz"
+    "url": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Nikorowicz",
+    "slug": "jozef-nikorowicz"
   },
   {
     "name": "Kornel",
     "lastName": "Ujejski",
     "id": 301,
-    "url": "https://pl.wikipedia.org/wiki/Kornel_Ujejski"
+    "url": "https://pl.wikipedia.org/wiki/Kornel_Ujejski",
+    "slug": "kornel-ujejski"
   },
   {
     "title": "ksiądz",
     "name": "Wojciech",
     "lastName": "Danielski",
     "id": 302,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Danielski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Danielski",
+    "slug": "wojciech-danielski"
   },
   {
     "title": "SJ",
     "name": "Joseph",
     "lastName": "Gelineau",
     "id": 303,
-    "url": "https://en.wikipedia.org/wiki/Joseph_Gelineau"
+    "url": "https://en.wikipedia.org/wiki/Joseph_Gelineau",
+    "slug": "joseph-gelineau"
   },
   {
     "name": "Marek",
     "lastName": "Jaskuła",
-    "id": 304
+    "id": 304,
+    "slug": "marek-jaskula"
   },
   {
     "name": "Franz",
     "lastName": "Gruber",
     "secondName": "Xaver",
+    "forceSecondName": true,
     "id": 305,
-    "url": "https://pl.wikipedia.org/wiki/Franz_Xaver_Gruber"
+    "url": "https://pl.wikipedia.org/wiki/Franz_Xaver_Gruber",
+    "slug": "franz-xaver-gruber"
   },
   {
     "title": "ksiądz",
     "name": "Joseph",
     "lastName": "Mohr",
     "id": 306,
-    "url": "https://pl.wikipedia.org/wiki/Joseph_Mohr"
+    "url": "https://pl.wikipedia.org/wiki/Joseph_Mohr",
+    "slug": "joseph-mohr"
   },
   {
     "name": "Piotr",
     "lastName": "Maszyński",
     "id": 307,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Maszy%C5%84ski"
-  },
-  {
-    "name": "Jerzy",
-    "lastName": "Filas",
-    "id": 308
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Maszy%C5%84ski",
+    "slug": "piotr-maszynski"
   },
   {
     "name": "Alfred",
     "secondName": "Longin",
     "lastName": "Schütz",
     "id": 309,
-    "url": "https://pl.wikipedia.org/wiki/Alfred_Sch%C3%BCtz_(kompozytor)"
+    "url": "https://pl.wikipedia.org/wiki/Alfred_Sch%C3%BCtz_(kompozytor)",
+    "slug": "alfred-schutz"
   },
   {
     "name": "Feliks",
@@ -1353,20 +1575,23 @@
     "lastName": "Konarski",
     "nickname": "Ref-Ren",
     "id": 310,
-    "url": "https://pl.wikipedia.org/wiki/Feliks_Konarski"
+    "url": "https://pl.wikipedia.org/wiki/Feliks_Konarski",
+    "slug": "feliks-konarski"
   },
   {
     "name": "Max",
     "lastName": "Janowski",
     "id": 311,
-    "url": "https://en.wikipedia.org/wiki/Max_Janowski"
+    "url": "https://en.wikipedia.org/wiki/Max_Janowski",
+    "slug": "max-janowski"
   },
   {
     "nickname": "Grabaż",
     "name": "Krzysztof",
     "lastName": "Grabowski",
     "id": 312,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Grabowski_(wokalista)"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Grabowski_(wokalista)",
+    "slug": "krzysztof-grabowski"
   },
   {
     "nickname": "Eugeniusz Bodo",
@@ -1374,48 +1599,56 @@
     "secondName": "Eugène",
     "lastName": "Junod",
     "id": 313,
-    "url": "https://pl.wikipedia.org/wiki/Eugeniusz_Bodo"
+    "url": "https://pl.wikipedia.org/wiki/Eugeniusz_Bodo",
+    "slug": "eugeniusz-bodo"
   },
   {
     "name": "Barbra",
     "secondName": "Joan",
     "lastName": "Streisand",
     "id": 314,
-    "url": "https://pl.wikipedia.org/wiki/Barbra_Streisand"
+    "url": "https://pl.wikipedia.org/wiki/Barbra_Streisand",
+    "slug": "barbra-streisand"
   },
   {
     "name": "Jacek",
     "lastName": "Sykulski",
     "id": 315,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Sykulski"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Sykulski",
+    "slug": "jacek-sykulski"
   },
   {
     "name": "Jan",
     "lastName": "II",
     "secondName": "Paweł",
+    "forceSecondName": true,
     "id": 316,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Pawe%C5%82_II"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Pawe%C5%82_II",
+    "slug": "jan-pawel-ii"
   },
   {
     "name": "Elvis",
     "secondName": "Aaron",
     "lastName": "Presley",
     "id": 317,
-    "url": "https://pl.wikipedia.org/wiki/Elvis_Presley"
+    "url": "https://pl.wikipedia.org/wiki/Elvis_Presley",
+    "slug": "elvis-presley"
   },
   {
     "nickname": "Han Hong",
     "name": "Yangjain",
     "lastName": "Zhoima",
     "id": 318,
-    "url": "https://en.wikipedia.org/wiki/Han_Hong_(singer)"
+    "url": "https://en.wikipedia.org/wiki/Han_Hong_(singer)",
+    "slug": "han-hong"
   },
   {
     "nickname": "Rysiek",
     "name": "Marian",
     "lastName": "Matuszkiewicz",
     "id": 319,
-    "url": "https://spiewajmypolske.pl/autor-slow/marian-matuszkiewicz/"
+    "url": "https://spiewajmypolske.pl/autor-slow/marian-matuszkiewicz/",
+    "slug": "marian-matuszkiewicz"
   },
   {
     "nickname": "Violetta Villas",
@@ -1423,25 +1656,29 @@
     "secondName": "Maria",
     "lastName": "Gospodarek",
     "id": 320,
-    "url": "https://pl.wikipedia.org/wiki/Violetta_Villas"
+    "url": "https://pl.wikipedia.org/wiki/Violetta_Villas",
+    "slug": "violetta-villas"
   },
   {
     "name": "Hugo",
     "lastName": "Blanco",
     "id": 321,
-    "url": "https://en.wikipedia.org/wiki/Hugo_Blanco_(musician)"
+    "url": "https://en.wikipedia.org/wiki/Hugo_Blanco_(musician)",
+    "slug": "hugo-blanco"
   },
   {
     "name": "Glen",
     "lastName": "Hansard",
     "id": 322,
-    "url": "https://pl.wikipedia.org/wiki/Glen_Hansard"
+    "url": "https://pl.wikipedia.org/wiki/Glen_Hansard",
+    "slug": "glen-hansard"
   },
   {
     "name": "Markéta",
     "lastName": "Irglová",
     "id": 323,
-    "url": "https://pl.wikipedia.org/wiki/Mark%C3%A9ta_Irglov%C3%A1"
+    "url": "https://pl.wikipedia.org/wiki/Mark%C3%A9ta_Irglov%C3%A1",
+    "slug": "marketa-irglove"
   },
   {
     "nickname": "Cat Stevens",
@@ -1449,33 +1686,38 @@
     "secondName": "Demetre",
     "lastName": "Georgiu",
     "id": 324,
-    "url": "https://pl.wikipedia.org/wiki/Cat_Stevens"
+    "url": "https://pl.wikipedia.org/wiki/Cat_Stevens",
+    "slug": "cat-stevens"
   },
   {
     "name": "Anna",
     "secondName": "Małgorzata",
     "lastName": "Szałapak",
     "id": 325,
-    "url": "https://pl.wikipedia.org/wiki/Anna_Sza%C5%82apak"
+    "url": "https://pl.wikipedia.org/wiki/Anna_Sza%C5%82apak",
+    "slug": "anna-szalapak"
   },
   {
     "nickname": "Danuta",
     "name": "Krystyna",
     "lastName": "Krahelska",
     "id": 326,
-    "url": "https://pl.wikipedia.org/wiki/Krystyna_Krahelska"
+    "url": "https://pl.wikipedia.org/wiki/Krystyna_Krahelska",
+    "slug": "krystyna-krahelska"
   },
   {
     "name": "Lech",
     "lastName": "Makowiecki",
     "id": 327,
-    "url": "https://pl.wikipedia.org/wiki/Lech_Makowiecki"
+    "url": "https://pl.wikipedia.org/wiki/Lech_Makowiecki",
+    "slug": "lech-makowiecki"
   },
   {
     "name": "Maciej",
     "lastName": "Kamieński",
     "id": 328,
-    "url": "https://pl.wikipedia.org/wiki/Maciej_Kamie%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Maciej_Kamie%C5%84ski",
+    "slug": "maciej-kamienski"
   },
   {
     "nickname": "Lionel Richie",
@@ -1483,43 +1725,43 @@
     "secondName": "Brockman",
     "lastName": "Richie Jr.",
     "id": 329,
-    "url": "https://pl.wikipedia.org/wiki/Lionel_Richie"
+    "url": "https://pl.wikipedia.org/wiki/Lionel_Richie",
+    "slug": "lionel-richie"
   },
   {
     "name": "Tomasz",
     "lastName": "Jaźwiński",
-    "id": 330
-  },
-  {
-    "name": "Michał",
-    "lastName": "Makoś",
-    "url": "https://www.mmakos.pl/",
-    "id": 1
+    "id": 330,
+    "slug": "tomasz-jazwinski"
   },
   {
     "nickname": "Stan Borys",
     "name": "Stanisław",
     "lastName": "Guzek",
     "id": 332,
-    "url": "https://pl.wikipedia.org/wiki/Stan_Borys"
+    "url": "https://pl.wikipedia.org/wiki/Stan_Borys",
+    "slug": "stan-borys"
   },
   {
     "name": "Yosef",
     "lastName": "Hadar",
     "id": 333,
-    "url": "https://www.discogs.com/artist/1961503-Yosef-Hadar"
+    "url": "https://www.discogs.com/artist/1961503-Yosef-Hadar",
+    "slug": "yosef-hadar"
   },
   {
     "name": "Andrzej",
     "secondName": "Krzysztof",
     "lastName": "Torbus",
     "id": 334,
-    "url": "https://zlp-krakow.pl/?page_id=276"
+    "url": "https://zlp-krakow.pl/?page_id=276",
+    "slug": "andrzej-torbus"
   },
   {
     "name": "Maria",
     "lastName": "Siciarz",
-    "id": 335
+    "id": 335,
+    "slug": "maria-siciarz"
   },
   {
     "nickname": "Joe Dassin",
@@ -1527,73 +1769,85 @@
     "secondName": "Ira",
     "lastName": "Dassin",
     "id": 336,
-    "url": "https://pl.wikipedia.org/wiki/Joe_Dassin"
+    "url": "https://pl.wikipedia.org/wiki/Joe_Dassin",
+    "slug": "joe-dassin"
   },
   {
     "name": "Naida",
     "secondName": "Anita O’Hara",
     "lastName": "Hearn",
     "id": 337,
-    "url": "https://hymnary.org/person/Hearn_N"
+    "url": "https://hymnary.org/person/Hearn_N",
+    "slug": "naida-hearn"
   },
   {
     "name": "Rafał",
     "secondName": "Tadeusz",
     "lastName": "Bryndal",
     "id": 338,
-    "url": "https://pl.wikipedia.org/wiki/Rafa%C5%82_Bryndal"
+    "url": "https://pl.wikipedia.org/wiki/Rafa%C5%82_Bryndal",
+    "slug": "rafal-bryndal"
   },
   {
     "name": "Andrzej",
     "lastName": "Korycki",
     "id": 339,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Korycki_(piosenkarz)"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Korycki_(piosenkarz)",
+    "slug": "andrzej-korycki"
   },
   {
     "name": "Anna",
     "lastName": "Pyć",
-    "id": 340
+    "id": 340,
+    "slug": "anna-pyc"
   },
   {
     "name": "Piotr",
     "secondName": "Jan",
     "lastName": "Bakal",
     "id": 341,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Bakal"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Bakal",
+    "slug": "piotr-bakal"
   },
   {
     "name": "Krzysztof",
     "lastName": "Jurkiewicz",
-    "id": 342
+    "id": 342,
+    "slug": "krzysztof-jurkiewicz"
   },
   {
     "name": "Czesław",
     "lastName": "Kroczek",
-    "id": 343
+    "id": 343,
+    "slug": "czeslaw-kroczek"
   },
   {
     "name": "Piotr",
     "lastName": "Cywiński",
-    "id": 344
+    "id": 344,
+    "slug": "piotr-cywinski"
   },
   {
     "name": "Dawid",
     "lastName": "Podsiadło",
     "id": 345,
-    "url": "https://pl.wikipedia.org/wiki/Dawid_Podsiad%C5%82o"
+    "url": "https://pl.wikipedia.org/wiki/Dawid_Podsiad%C5%82o",
+    "slug": "dawid-podsiadlo"
   },
   {
     "title": "kapitan",
     "name": "Andrzej",
     "lastName": "Brzuchal-Sikorski",
     "id": 346,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Brzuchal-Sikorski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Brzuchal-Sikorski",
+    "slug": "andrzej-brzuchal-sikorski"
   },
   {
     "name": "Władysław",
     "lastName": "Anczyc",
     "id": 347,
-    "url": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Anczyc"
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Anczyc",
+    "slug": "wladyslaw-anczyc"
   },
   {
     "nickname": "Kiko Argüello",
@@ -1601,40 +1855,38 @@
     "secondName": "José-Eduardo",
     "lastName": "Argüello Wirtz",
     "id": 348,
-    "url": "https://pl.wikipedia.org/wiki/Kiko_Arg%C3%BCello"
+    "url": "https://pl.wikipedia.org/wiki/Kiko_Arg%C3%BCello",
+    "slug": "kiko-arguello"
   },
   {
     "name": "Karel",
     "lastName": "Kryl",
     "id": 349,
-    "url": "https://pl.wikipedia.org/wiki/Karel_Kryl"
+    "url": "https://pl.wikipedia.org/wiki/Karel_Kryl",
+    "slug": "karel-kryl"
   },
   {
     "name": "Leszek",
     "secondName": "Krzysztof",
     "lastName": "Wójtowicz",
     "id": 350,
-    "url": "https://pl.wikipedia.org/wiki/Leszek_W%C3%B3jtowicz"
+    "url": "https://pl.wikipedia.org/wiki/Leszek_W%C3%B3jtowicz",
+    "slug": "leszek-wojtowicz"
   },
   {
     "name": "Michał",
     "lastName": "Bajor",
     "id": 351,
-    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Bajor"
-  },
-  {
-    "title": "kapitan",
-    "name": "Adam",
-    "lastName": "Kowalski",
-    "id": 352,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Kowalski_(%C5%BCo%C5%82nierz)"
+    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Bajor",
+    "slug": "michal-bajor"
   },
   {
     "name": "James",
     "secondName": "Roy",
     "lastName": "Horner",
     "id": 353,
-    "url": "https://pl.wikipedia.org/wiki/James_Horner"
+    "url": "https://pl.wikipedia.org/wiki/James_Horner",
+    "slug": "james-horner"
   },
   {
     "nickname": "Will Jennings",
@@ -1642,49 +1894,57 @@
     "secondName": "Herschel",
     "lastName": "Jennings",
     "id": 354,
-    "url": "https://en.wikipedia.org/wiki/Will_Jennings"
+    "url": "https://en.wikipedia.org/wiki/Will_Jennings",
+    "slug": "will-jennings"
   },
   {
     "name": "Céline",
     "secondName": "Marie Claudette",
     "lastName": "Dion",
     "id": 355,
-    "url": "https://pl.wikipedia.org/wiki/C%C3%A9line_Dion"
+    "url": "https://pl.wikipedia.org/wiki/C%C3%A9line_Dion",
+    "slug": "celine-dion"
   },
   {
     "title": "ksiądz",
     "name": "Zygmunt",
     "lastName": "Odelgiewicz",
-    "id": 356
+    "id": 356,
+    "slug": "zygmunt-odelgiewicz"
   },
   {
     "name": "Pete",
     "lastName": "Sanchez Jr.",
     "id": 357,
-    "url": "https://www.discogs.com/artist/2314084-Pete-Sanchez"
+    "url": "https://www.discogs.com/artist/2314084-Pete-Sanchez",
+    "slug": "pete-sanchez-jr"
   },
   {
     "name": "Charles",
     "lastName": "Hart",
     "id": 358,
-    "url": "https://en.wikipedia.org/wiki/Charles_Hart_(lyricist)"
+    "url": "https://en.wikipedia.org/wiki/Charles_Hart_(lyricist)",
+    "slug": "charles-hart"
   },
   {
     "name": "Iwona",
     "lastName": "Piastowska-Tomaszewska[",
     "id": 359,
-    "url": "https://pl.wikipedia.org/wiki/Iwona_Piastowska"
+    "url": "https://pl.wikipedia.org/wiki/Iwona_Piastowska",
+    "slug": "iwona-piastowska-tomaszewska"
   },
   {
     "name": "Krzysztof",
     "lastName": "Leśnik",
-    "id": 360
+    "id": 360,
+    "slug": "krzysztof-lesnik"
   },
   {
     "name": "Paweł",
     "lastName": "Orkisz",
     "id": 362,
-    "url": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Orkisz"
+    "url": "https://pl.wikipedia.org/wiki/Pawe%C5%82_Orkisz",
+    "slug": "pawel-orkisz"
   },
   {
     "nickname": "Anna Jantar",
@@ -1692,69 +1952,80 @@
     "secondName": "Maria",
     "lastName": "Kukulska",
     "id": 363,
-    "url": "https://pl.wikipedia.org/wiki/Anna_Jantar"
+    "url": "https://pl.wikipedia.org/wiki/Anna_Jantar",
+    "slug": "anna-jantar"
   },
   {
     "name": "Inga",
     "lastName": "Pozorska",
     "id": 364,
-    "url": "https://www.rekolekcje-jezuszyje.pl/prowadzacy/26-pages/prowadzacy-goscie-mowcy/392-inga-pozorska"
+    "url": "https://www.rekolekcje-jezuszyje.pl/prowadzacy/26-pages/prowadzacy-goscie-mowcy/392-inga-pozorska",
+    "slug": "inga-pozorska"
   },
   {
     "name": "Jerzy",
     "lastName": "Filar",
     "id": 365,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Filar"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Filar",
+    "slug": "jerzy-filar"
   },
   {
     "name": "Michał",
     "lastName": "Zieliński",
     "id": 366,
-    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Zieli%C5%84ski_(1905%E2%80%931972)"
+    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Zieli%C5%84ski_(1905%E2%80%931972)",
+    "slug": "michal-zielinski"
   },
   {
     "title": "siostra",
     "name": "Franciszka",
     "lastName": "Godlewska",
-    "id": 367
+    "id": 367,
+    "slug": "franciszka-godlewska"
   },
   {
     "title": "pułkownik",
     "name": "Leon",
     "lastName": "Łuskino",
     "id": 368,
-    "url": "https://pl.wikipedia.org/wiki/Leon_%C5%81uskino"
+    "url": "https://pl.wikipedia.org/wiki/Leon_%C5%81uskino",
+    "slug": "leon-luskino"
   },
   {
     "name": "Grzegorz",
     "secondName": "Jan",
     "lastName": "Tomczak",
     "id": 369,
-    "url": "https://pl.wikipedia.org/wiki/Grzegorz_Tomczak"
+    "url": "https://pl.wikipedia.org/wiki/Grzegorz_Tomczak",
+    "slug": "grzegorz-tomczak"
   },
   {
     "name": "Linda",
     "lastName": "Thompson",
     "id": 370,
-    "url": "https://pl.wikipedia.org/wiki/Linda_Thompson_(aktorka)"
+    "url": "https://pl.wikipedia.org/wiki/Linda_Thompson_(aktorka)",
+    "slug": "linda-thompson"
   },
   {
     "name": "Paul",
     "secondName": "Frederic",
     "lastName": "Simon",
     "id": 371,
-    "url": "https://pl.wikipedia.org/wiki/Paul_Simon"
+    "url": "https://pl.wikipedia.org/wiki/Paul_Simon",
+    "slug": "paul-simon"
   },
   {
     "name": "Krystyna",
     "lastName": "Żak-Rzucidło",
-    "id": 372
+    "id": 372,
+    "slug": "krystyna-zak-rzucidlo"
   },
   {
     "name": "Nina",
     "lastName": "Hopper",
     "secondName": "Lee",
-    "id": 373
+    "id": 373,
+    "slug": "nina-hopper"
   },
   {
     "nickname": "Miley Cyrus",
@@ -1762,13 +2033,15 @@
     "secondName": "Hope",
     "lastName": "Cyrus",
     "id": 375,
-    "url": "https://pl.wikipedia.org/wiki/Miley_Cyrus"
+    "url": "https://pl.wikipedia.org/wiki/Miley_Cyrus",
+    "slug": "miley-cyrus"
   },
   {
     "name": "Chris",
     "lastName": "Bowater",
     "id": 376,
-    "url": "https://www.praise.org.uk/hymnauthor/bowater-chris/"
+    "url": "https://www.praise.org.uk/hymnauthor/bowater-chris/",
+    "slug": "chris-bowater"
   },
   {
     "nickname": "Paul McCartney",
@@ -1776,13 +2049,15 @@
     "secondName": "Paul",
     "lastName": "McCartney",
     "id": 377,
-    "url": "https://pl.wikipedia.org/wiki/Paul_McCartney"
+    "url": "https://pl.wikipedia.org/wiki/Paul_McCartney",
+    "slug": "paul-mccartney"
   },
   {
     "title": "ksiądz",
     "name": "Mateusz",
     "lastName": "Jeż",
-    "id": 378
+    "id": 378,
+    "slug": "mateusz-jez"
   },
   {
     "title": "święty",
@@ -1791,7 +2066,8 @@
     "lastName": "Alvarez",
     "secondName": "de Yepes",
     "id": 379,
-    "url": "https://pl.wikipedia.org/wiki/Jan_od_Krzy%C5%BCa"
+    "url": "https://pl.wikipedia.org/wiki/Jan_od_Krzy%C5%BCa",
+    "slug": "jan-od-krzyza"
   },
   {
     "title": "ksiądz",
@@ -1800,35 +2076,42 @@
     "secondName": "Norman",
     "lastName": "Garrett",
     "id": 380,
-    "url": "https://www.praise.org.uk/hymnauthor/garrett-leslie-les-norman/"
+    "url": "https://www.praise.org.uk/hymnauthor/garrett-leslie-les-norman/",
+    "slug": "les-garrett"
   },
   {
     "nickname": "Kayah",
+    "forceNickname": true,
     "name": "Katarzyna",
     "lastName": "Rooijens",
     "secondName": "Magda",
     "id": 381,
-    "url": "https://pl.wikipedia.org/wiki/Kayah"
+    "url": "https://pl.wikipedia.org/wiki/Kayah",
+    "slug": "kayah"
   },
   {
     "title": "ksiądz",
     "name": "Marek",
     "lastName": "Łabuda",
     "id": 382,
-    "url": "https://katalog.bip.ipn.gov.pl/informacje/622637"
+    "url": "https://katalog.bip.ipn.gov.pl/informacje/622637",
+    "slug": "marek-labuda"
   },
   {
     "name": "Marcin",
     "lastName": "Molski",
-    "id": 383
+    "id": 383,
+    "slug": "marcin-molski"
   },
   {
     "nickname": "Sanah",
+    "forceNickname": true,
     "name": "Zuzanna",
     "lastName": "Grabowska",
     "secondName": "Irena",
     "id": 384,
-    "url": "https://pl.wikipedia.org/wiki/Sanah"
+    "url": "https://pl.wikipedia.org/wiki/Sanah",
+    "slug": "sanah"
   },
   {
     "title": "ksiądz",
@@ -1836,78 +2119,89 @@
     "secondName": "Jakub",
     "lastName": "Twardowski",
     "id": 386,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Twardowski"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Twardowski",
+    "slug": "jan-twardowski"
   },
   {
     "name": "Claude-Michel",
     "lastName": "Schönberg",
     "id": 387,
-    "url": "https://pl.wikipedia.org/wiki/Claude-Michel_Sch%C3%B6nberg"
+    "url": "https://pl.wikipedia.org/wiki/Claude-Michel_Sch%C3%B6nberg",
+    "slug": "claude-michel-schonberg"
   },
   {
-    "nickname": "Taffy",
+    "nickname": "Taffy Nivert",
     "name": "Mary",
     "lastName": "Nivert-Danoff",
     "secondName": "Catherine",
     "id": 388,
-    "url": "https://en.wikipedia.org/wiki/Taffy_Nivert"
+    "url": "https://en.wikipedia.org/wiki/Taffy_Nivert",
+    "slug": "taffy-nivert"
   },
   {
     "nickname": "Litza",
     "name": "Robert",
     "lastName": "Friedrich",
     "id": 390,
-    "url": "https://pl.wikipedia.org/wiki/Robert_Friedrich"
+    "url": "https://pl.wikipedia.org/wiki/Robert_Friedrich",
+    "slug": "robert-friedrich"
   },
   {
     "name": "Zbigniew",
     "lastName": "Preisner",
     "secondName": "Antoni",
     "id": 391,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Preisner"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Preisner",
+    "slug": "zbigniew-preisner"
   },
   {
     "name": "Glen",
     "lastName": "Weston",
-    "id": 392
+    "id": 392,
+    "slug": "glen-weston"
   },
   {
-    "name": "Jean",
+    "name": "Jean-Paul-Égide",
     "lastName": "Martini",
-    "secondName": "Paul-Égide",
     "id": 393,
-    "url": "https://en.wikipedia.org/wiki/Jean-Paul-%C3%89gide_Martini"
+    "url": "https://en.wikipedia.org/wiki/Jean-Paul-%C3%89gide_Martini",
+    "slug": "jean-paul-egide-martini"
   },
   {
     "name": "Ferenc",
     "lastName": "Sebő",
     "id": 394,
-    "url": "https://en.wikipedia.org/wiki/Ferenc_Seb%C5%91"
+    "url": "https://en.wikipedia.org/wiki/Ferenc_Seb%C5%91",
+    "slug": "ferenc-sebo"
   },
   {
     "name": "Andrzej",
     "lastName": "Mandalian",
     "id": 395,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mandalian"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mandalian",
+    "slug": "andrzej-mandalian"
   },
   {
     "name": "Alan",
     "lastName": "Menken",
     "id": 396,
-    "url": "https://pl.wikipedia.org/wiki/Alan_Menken"
+    "url": "https://pl.wikipedia.org/wiki/Alan_Menken",
+    "slug": "alan-menken"
   },
   {
     "name": "Howard",
     "secondName": "Elliott",
     "lastName": "Ashman",
     "id": 397,
-    "url": "https://en.wikipedia.org/wiki/Howard_Ashman"
+    "url": "https://en.wikipedia.org/wiki/Howard_Ashman",
+    "slug": "howard-ashman"
   },
   {
     "name": "Andrzej",
     "lastName": "Mendygrał",
     "id": 398,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mendygra%C5%82"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mendygra%C5%82",
+    "slug": "andrzej-mendygral"
   },
   {
     "nickname": "Gore Verbinski",
@@ -1915,252 +2209,293 @@
     "lastName": "Verbinski",
     "secondName": "Justin",
     "id": 399,
-    "url": "https://en.wikipedia.org/wiki/Gore_Verbinski"
+    "url": "https://en.wikipedia.org/wiki/Gore_Verbinski",
+    "slug": "gore-verbinski"
   },
   {
     "name": "Ted",
     "lastName": "Elliott",
     "id": 400,
-    "url": "https://en.wikipedia.org/wiki/Ted_Elliott_(screenwriter)"
+    "url": "https://en.wikipedia.org/wiki/Ted_Elliott_(screenwriter)",
+    "slug": "ted-elliott"
   },
   {
     "name": "Terry",
     "lastName": "Rossio",
     "id": 401,
-    "url": "https://en.wikipedia.org/wiki/Terry_Rossio"
+    "url": "https://en.wikipedia.org/wiki/Terry_Rossio",
+    "slug": "terry-rossio"
   },
   {
     "name": "Marian",
     "lastName": "Jonkajtys",
     "id": 402,
-    "url": "https://pl.wikipedia.org/wiki/Marian_Jonkajtys"
+    "url": "https://pl.wikipedia.org/wiki/Marian_Jonkajtys",
+    "slug": "marian-jonkajtys"
   },
   {
     "name": "Czesław",
     "secondName": "Jerzy",
     "lastName": "Majewski",
     "id": 403,
-    "url": "https://pl.wikipedia.org/wiki/Czes%C5%82aw_Majewski"
+    "url": "https://pl.wikipedia.org/wiki/Czes%C5%82aw_Majewski",
+    "slug": "czeslaw-majewski"
   },
   {
     "name": "Aleksander",
     "lastName": "Krzyżanowski",
-    "id": 404
+    "id": 404,
+    "slug": "aleksander-krzyzanowski"
   },
   {
     "name": "Daria",
     "lastName": "Zawiałow",
     "secondName": "Barbara",
     "id": 405,
-    "url": "https://pl.wikipedia.org/wiki/Daria_Zawia%C5%82ow"
+    "url": "https://pl.wikipedia.org/wiki/Daria_Zawia%C5%82ow",
+    "slug": "daria-zawialow"
   },
   {
     "name": "Piotr",
     "secondName": "Jakub",
     "lastName": "Banach",
     "id": 406,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Banach"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Banach",
+    "slug": "piotr-banach"
   },
   {
     "name": "Katarzyna",
     "lastName": "Nosowska",
     "id": 407,
-    "url": "https://pl.wikipedia.org/wiki/Katarzyna_Nosowska"
+    "url": "https://pl.wikipedia.org/wiki/Katarzyna_Nosowska",
+    "slug": "katarzyna-nosowska"
   },
   {
     "name": "Tomasz",
     "lastName": "Lewandowski",
     "id": 408,
-    "url": "https://pl.wikipedia.org/wiki/Tomasz_Lewandowski_(pie%C5%9Bniarz)"
+    "url": "https://pl.wikipedia.org/wiki/Tomasz_Lewandowski_(pie%C5%9Bniarz)",
+    "slug": "tomasz-lewandowski"
   },
   {
     "name": "Janusz",
     "lastName": "Kępski",
     "secondName": "Romuald",
     "id": 409,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_K%C4%99pski"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_K%C4%99pski",
+    "slug": "janusz-kepski"
   },
   {
     "name": "Kazimierz",
     "lastName": "Szemioth",
     "id": 410,
-    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Szemioth"
+    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Szemioth",
+    "slug": "kazimierz-szemioth"
   },
   {
     "title": "kapitan",
     "name": "Zygmunt",
     "lastName": "Pomarański",
     "id": 411,
-    "url": "https://pl.wikipedia.org/wiki/Zygmunt_Pomara%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Zygmunt_Pomara%C5%84ski",
+    "slug": "zygmunt-pomaranski"
   },
   {
     "name": "Wacław",
     "lastName": "Kostek-Biernacki",
     "id": 412,
-    "url": "https://pl.wikipedia.org/wiki/Wac%C5%82aw_Kostek-Biernacki"
+    "url": "https://pl.wikipedia.org/wiki/Wac%C5%82aw_Kostek-Biernacki",
+    "slug": "waclaw-kostek-biernacki"
   },
   {
     "name": "Andrzej",
     "lastName": "Mróz",
     "id": 413,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mr%C3%B3z"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mr%C3%B3z",
+    "slug": "andrzej-mroz"
   },
   {
     "nickname": "Toto Cutugno",
     "name": "Salvatore",
     "lastName": "Cutugno",
     "id": 414,
-    "url": "https://pl.wikipedia.org/wiki/Toto_Cutugno"
+    "url": "https://pl.wikipedia.org/wiki/Toto_Cutugno",
+    "slug": "toto-cutugno"
   },
   {
     "name": "Pasquale",
     "lastName": "Losito",
-    "id": 415
+    "id": 415,
+    "slug": "pasquale-losito"
   },
   {
     "name": "Vito",
     "lastName": "Pallavicini",
     "id": 416,
-    "url": "https://en.wikipedia.org/wiki/Vito_Pallavicini"
+    "url": "https://en.wikipedia.org/wiki/Vito_Pallavicini",
+    "slug": "vito-pallavicini"
   },
   {
     "name": "Ludwik",
     "lastName": "Pomian-Łubieński",
     "secondName": "Ksawery",
+    "forceSecondName": true,
     "id": 417,
-    "url": "https://pl.wikipedia.org/wiki/Ludwik_Ksawery_%C5%81ubie%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Ludwik_Ksawery_%C5%81ubie%C5%84ski",
+    "slug": "ludwik-ksawery-pomian-lubienski"
   },
   {
     "name": "Fabian",
     "lastName": "Tymolski",
     "id": 418,
-    "url": "https://bibliotekapiosenki.pl/osoby/Tymolski_Fabian"
+    "url": "https://bibliotekapiosenki.pl/osoby/Tymolski_Fabian",
+    "slug": "fabian-tymolski"
   },
   {
     "nickname": "Duduś",
     "name": "Jerzy",
     "lastName": "Matuszkiewicz",
     "id": 419,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Matuszkiewicz"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Matuszkiewicz",
+    "slug": "jerzy-matuszkiewicz"
   },
   {
     "name": "Jacques",
     "lastName": "Berthier",
     "id": 420,
-    "url": "https://pl.wikipedia.org/wiki/Jacques_Berthier"
+    "url": "https://pl.wikipedia.org/wiki/Jacques_Berthier",
+    "slug": "jacques-berthier"
   },
   {
     "name": "Romuald",
     "lastName": "Lipko",
     "secondName": "Ryszard",
     "id": 421,
-    "url": "https://pl.wikipedia.org/wiki/Romuald_Lipko"
+    "url": "https://pl.wikipedia.org/wiki/Romuald_Lipko",
+    "slug": "romuald-lipko"
   },
   {
     "name": "Zbigniew",
     "lastName": "Sieniawski",
-    "id": 422
+    "id": 422,
+    "slug": "zbigniew-sieniawski"
   },
   {
     "nickname": "Kaczor",
     "name": "Waldemar",
     "lastName": "Krasowski",
-    "id": 423
+    "id": 423,
+    "slug": "waldemar-krasowski"
   },
   {
     "name": "Tadeusz",
     "lastName": "Chyła",
     "secondName": "Roman",
     "id": 424,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Chy%C5%82a"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Chy%C5%82a",
+    "slug": "tadeusz-chyla"
   },
   {
     "name": "Sławomir",
     "lastName": "Mrożek",
-    "secondName": "Piotr-Paweł",
+    "secondName": "Piotr Paweł",
     "id": 425,
-    "url": "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mro%C5%BCek"
+    "url": "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mro%C5%BCek",
+    "slug": "slawomir-mrozek"
   },
   {
     "name": "Bogumił",
     "lastName": "Kobiela",
     "id": 426,
-    "url": "https://pl.wikipedia.org/wiki/Bogumi%C5%82_Kobiela"
+    "url": "https://pl.wikipedia.org/wiki/Bogumi%C5%82_Kobiela",
+    "slug": "bogumil-kobiela"
   },
   {
     "name": "Matwiej",
     "lastName": "Błanter",
     "secondName": "Isaakowicz",
     "id": 427,
-    "url": "https://pl.wikipedia.org/wiki/Matwiej_B%C5%82anter"
+    "url": "https://pl.wikipedia.org/wiki/Matwiej_B%C5%82anter",
+    "slug": "matwiej-blanter"
   },
   {
     "name": "Michaił",
     "secondName": "Wasiljewicz",
     "lastName": "Isakowski",
     "id": 428,
-    "url": "https://pl.wikipedia.org/wiki/Michai%C5%82_Isakowski"
+    "url": "https://pl.wikipedia.org/wiki/Michai%C5%82_Isakowski",
+    "slug": "michail-isakowski"
   },
   {
     "name": "Krzysztof",
     "lastName": "Zasada",
-    "id": 429
+    "id": 429,
+    "slug": "krzysztof-zasada"
   },
   {
     "name": "Stanisław",
     "lastName": "Moniuszko",
     "id": 430,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Moniuszko"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Moniuszko",
+    "slug": "stanislaw-moniuszko"
   },
   {
     "name": "Marek",
     "lastName": "Robaczewski",
     "id": 431,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Robaczewski"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Robaczewski",
+    "slug": "marek-robaczewski"
   },
   {
     "name": "Joel",
     "lastName": "McNeely",
     "id": 432,
-    "url": "https://en.wikipedia.org/wiki/Joel_McNeely"
+    "url": "https://en.wikipedia.org/wiki/Joel_McNeely",
+    "slug": "joel-mcneely"
   },
   {
     "name": "Jan",
     "lastName": "Benedek",
     "id": 433,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Benedek"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Benedek",
+    "slug": "jan-benedek"
   },
   {
     "name": "Andrzej",
     "secondName": "Marek",
     "lastName": "Michorzewski",
     "id": 434,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Michorzewski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Michorzewski",
+    "slug": "andrzej-michorzewski"
   },
   {
     "name": "Szymon",
     "lastName": "Mucha",
     "id": 435,
-    "url": "https://pl.wikipedia.org/wiki/Szymon_Mucha"
+    "url": "https://pl.wikipedia.org/wiki/Szymon_Mucha",
+    "slug": "szymon-mucha"
   },
   {
     "name": "Wojciech",
     "lastName": "Trzciński",
     "secondName": "Stanisław",
     "id": 436,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Trzci%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Trzci%C5%84ski",
+    "slug": "wojciech-trzcinski"
   },
   {
     "name": "Jan",
     "lastName": "Nowicki",
     "id": 437,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Nowicki"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Nowicki",
+    "slug": "jan-nowicki"
   },
   {
     "name": "Ryszard",
     "lastName": "Makowski",
     "id": 438,
-    "url": "https://pl.wikipedia.org/wiki/Ryszard_Makowski"
+    "url": "https://pl.wikipedia.org/wiki/Ryszard_Makowski",
+    "slug": "ryszard-makowski"
   },
   {
     "nickname": "Majka Jeżowska",
@@ -2168,50 +2503,58 @@
     "lastName": "Jeżowska-Logan",
     "secondName": "Zofia",
     "id": 439,
-    "url": "https://pl.wikipedia.org/wiki/Majka_Je%C5%BCowska"
+    "url": "https://pl.wikipedia.org/wiki/Majka_Je%C5%BCowska",
+    "slug": "majka-jezowska"
   },
   {
     "name": "Andrzej",
     "lastName": "Mogielnicki",
     "id": 440,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mogielnicki"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Mogielnicki",
+    "slug": "andrzej-mogielnicki"
   },
   {
     "name": "Jan",
     "secondName": "Józef",
     "lastName": "Borysewicz",
     "id": 441,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Borysewicz"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Borysewicz",
+    "slug": "jan-borysewicz"
   },
   {
     "name": "Zuzanna",
     "lastName": "Andrzejczak",
-    "id": 442
+    "id": 442,
+    "slug": "zuzanna-andrzejczak"
   },
   {
     "name": "Filip",
     "lastName": "Łobodziński",
     "id": 443,
-    "url": "https://pl.wikipedia.org/wiki/Filip_%C5%81obodzi%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Filip_%C5%81obodzi%C5%84ski",
+    "slug": "filip-lobodzinski"
   },
   {
     "name": "Stephen",
     "secondName": "Lawrence",
     "lastName": "Schwartz",
     "id": 444,
-    "url": "https://pl.wikipedia.org/wiki/Stephen_Schwartz"
+    "url": "https://pl.wikipedia.org/wiki/Stephen_Schwartz",
+    "slug": "stephen-schwartz"
   },
   {
     "name": "Kasia",
     "lastName": "Kessling",
     "id": 445,
-    "url": "https://www.instagram.com/kasia_kessling/"
+    "url": "https://www.instagram.com/kasia_kessling/",
+    "slug": "kasia-kessling"
   },
   {
     "name": "Natalia",
     "lastName": "Piotrowska-Paciorek",
     "id": 446,
-    "url": "https://pl.wikipedia.org/wiki/Natalia_Piotrowska-Paciorek"
+    "url": "https://pl.wikipedia.org/wiki/Natalia_Piotrowska-Paciorek",
+    "slug": "natalia-piotrowska-paciorek"
   },
   {
     "nickname": "Antoni Marianowicz",
@@ -2219,89 +2562,105 @@
     "secondName": "Jerzy",
     "lastName": "Berman",
     "id": 447,
-    "url": "https://pl.wikipedia.org/wiki/Antoni_Marianowicz"
+    "url": "https://pl.wikipedia.org/wiki/Antoni_Marianowicz",
+    "slug": "antoni-marianowicz"
   },
   {
     "name": "Franciszek",
     "lastName": "Urmański",
-    "id": 448
+    "id": 448,
+    "slug": "franciszek-urmanski"
   },
   {
     "nickname": "Yellow",
     "name": "Wojciech",
     "lastName": "Żółty",
     "id": 449,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BB%C3%B3%C5%82ty"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_%C5%BB%C3%B3%C5%82ty",
+    "slug": "wojciech-zolty"
   },
   {
     "name": "Jerzy",
     "lastName": "Litwiniuk",
     "id": 450,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Litwiniuk"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Litwiniuk",
+    "slug": "jerzy-litwiniuk"
   },
   {
     "name": "Siergiej",
     "secondName": "Aleksandrowicz",
     "lastName": "Jesienin",
     "id": 451,
-    "url": "https://pl.wikipedia.org/wiki/Siergiej_Jesienin"
+    "url": "https://pl.wikipedia.org/wiki/Siergiej_Jesienin",
+    "slug": "siergiej-jesienin"
   },
   {
     "name": "Andrzej",
     "lastName": "Wojda",
-    "id": 452
+    "id": 452,
+    "slug": "andrzej-wojda"
   },
   {
     "name": "John",
-    "secondName": "Winston-Ono",
+    "secondName": "Winston Ono",
     "lastName": "Lennon",
     "id": 453,
-    "url": "https://pl.wikipedia.org/wiki/John_Lennon"
+    "url": "https://pl.wikipedia.org/wiki/John_Lennon",
+    "slug": "john-lennon"
   },
   {
     "name": "James",
     "lastName": "Murphy",
     "secondName": "Ford",
+    "forceSecondName": true,
     "id": 454,
-    "url": "https://en.wikipedia.org/wiki/James_Ford_Murphy"
+    "url": "https://en.wikipedia.org/wiki/James_Ford_Murphy",
+    "slug": "james-ford-murphy"
   },
   {
     "name": "Franciszek",
     "lastName": "Piątkowski",
     "secondName": "Hipolit",
-    "id": 455
+    "id": 455,
+    "slug": "franciszek-piatkowski"
   },
   {
     "name": "Włodzimierz",
     "lastName": "Marczyk",
-    "id": 456
+    "id": 456,
+    "slug": "wlodzimierz-marczyk"
   },
   {
     "name": "Michael",
     "secondName": "Rolf",
     "lastName": "Kunze",
     "id": 457,
-    "url": "https://en.wikipedia.org/wiki/Michael_Kunze"
+    "url": "https://en.wikipedia.org/wiki/Michael_Kunze",
+    "slug": "michael-kunze"
   },
   {
     "name": "John",
     "lastName": "Tolkien",
-    "secondName": "Ronald-Reuel",
+    "secondName": "Ronald Reuel",
+    "forceSecondName": true,
     "id": 458,
-    "url": "https://pl.wikipedia.org/wiki/J.R.R._Tolkien"
+    "url": "https://pl.wikipedia.org/wiki/J.R.R._Tolkien",
+    "slug": "john-r-r-tolkien"
   },
   {
     "name": "Buddy",
     "lastName": "Greene",
     "id": 459,
-    "url": "https://en.wikipedia.org/wiki/Buddy_Greene"
+    "url": "https://en.wikipedia.org/wiki/Buddy_Greene",
+    "slug": "buddy-greene"
   },
   {
     "name": "Mark",
     "secondName": "Alan",
     "lastName": "Lowry",
     "id": 460,
-    "url": "https://en.wikipedia.org/wiki/Mark_Lowry"
+    "url": "https://en.wikipedia.org/wiki/Mark_Lowry",
+    "slug": "mark-lowry"
   },
   {
     "nickname": "Jim Steinman",
@@ -2309,58 +2668,67 @@
     "secondName": "Richard",
     "lastName": "Steinman",
     "id": 461,
-    "url": "https://pl.wikipedia.org/wiki/Jim_Steinman"
+    "url": "https://pl.wikipedia.org/wiki/Jim_Steinman",
+    "slug": "jim-steinman"
   },
   {
     "name": "Teofil",
     "secondName": "Aleksander",
     "lastName": "Lenartowicz",
     "id": 462,
-    "url": "https://pl.wikipedia.org/wiki/Teofil_Lenartowicz"
+    "url": "https://pl.wikipedia.org/wiki/Teofil_Lenartowicz",
+    "slug": "teofil-lenartowicz"
   },
   {
     "name": "Jan",
     "lastName": "Kasprowicz",
     "id": 463,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Kasprowicz"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Kasprowicz",
+    "slug": "jan-kasprowicz"
   },
   {
     "name": "Jan",
     "secondName": "Karol",
     "lastName": "Gall",
     "id": 464,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Gall"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Gall",
+    "slug": "jan-gall"
   },
   {
     "name": "David",
     "lastName": "Donaldson",
     "id": 465,
-    "url": "https://en.wikipedia.org/wiki/David_Donaldson_(composer)"
+    "url": "https://en.wikipedia.org/wiki/David_Donaldson_(composer)",
+    "slug": "david-donaldson"
   },
   {
     "name": "Adam",
     "lastName": "Asnyk",
     "secondName": "Prot",
     "id": 466,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Asnyk"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Asnyk",
+    "slug": "adam-asnyk"
   },
   {
     "name": "Stefan",
     "lastName": "Bortkiewicz",
-    "id": 467
+    "id": 467,
+    "slug": "stefan-bortkiewicz"
   },
   {
     "name": "Rajnold",
     "lastName": "Suchodolski",
     "id": 468,
-    "url": "https://pl.wikipedia.org/wiki/Rajnold_Suchodolski"
+    "url": "https://pl.wikipedia.org/wiki/Rajnold_Suchodolski",
+    "slug": "rajnold-suchodolski"
   },
   {
     "name": "Fryderyk",
     "secondName": "Franciszek",
     "lastName": "Chopin",
     "id": 469,
-    "url": "https://pl.wikipedia.org/wiki/Fryderyk_Chopin"
+    "url": "https://pl.wikipedia.org/wiki/Fryderyk_Chopin",
+    "slug": "fryderyk-chopin"
   },
   {
     "title": "podpułkownik",
@@ -2369,19 +2737,22 @@
     "secondName": "Tadeusz",
     "lastName": "Hałaciński",
     "id": 470,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Ha%C5%82aci%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Ha%C5%82aci%C5%84ski",
+    "slug": "andrzej-halacinski"
   },
   {
     "name": "Tadeusz",
     "lastName": "Biernacki",
     "id": 471,
-    "url": "https://spiewajmypolske.pl/autor-slow/tadeusz-biernacki/"
+    "url": "https://spiewajmypolske.pl/autor-slow/tadeusz-biernacki/",
+    "slug": "tadeusz-biernacki"
   },
   {
     "name": "Mirosław",
     "lastName": "Jezierski",
     "id": 472,
-    "url": "https://spiewajmypolske.pl/autor-slow/miroslaw-jezierski/"
+    "url": "https://spiewajmypolske.pl/autor-slow/miroslaw-jezierski/",
+    "slug": "miroslaw-jezierski"
   },
   {
     "nickname": "Krzysztof",
@@ -2389,107 +2760,126 @@
     "secondName": "Krzysztof",
     "lastName": "Markowski",
     "id": 473,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Markowski"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Markowski",
+    "slug": "jan-markowski"
   },
   {
     "name": "Piotr",
     "lastName": "Nazaruk",
-    "id": 474
+    "id": 474,
+    "slug": "piotr-nazaruk"
   },
   {
     "name": "Henryk",
     "lastName": "Kleyne",
-    "id": 475
+    "id": 475,
+    "slug": "henryk-kleyne"
   },
   {
     "name": "Roman",
     "lastName": "Sadowski",
     "id": 476,
-    "url": "https://pl.wikipedia.org/wiki/Roman_Sadowski"
+    "url": "https://pl.wikipedia.org/wiki/Roman_Sadowski",
+    "slug": "roman-sadowski"
   },
   {
     "nickname": "Bogdan Olewicz",
     "name": "Bogusław",
     "lastName": "Olewicz",
     "id": 477,
-    "url": "https://pl.wikipedia.org/wiki/Bogdan_Olewicz"
+    "url": "https://pl.wikipedia.org/wiki/Bogdan_Olewicz",
+    "slug": "bogdan-olewicz"
   },
   {
     "name": "Zbigniew",
     "lastName": "Hołdys",
     "id": 478,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Ho%C5%82dys"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Ho%C5%82dys",
+    "slug": "zbigniew-holdys"
   },
   {
     "name": "Piotr",
     "lastName": "Konca",
     "id": 479,
-    "url": "https://pl.wikipedia.org/wiki/Piotr_Konca"
+    "url": "https://pl.wikipedia.org/wiki/Piotr_Konca",
+    "slug": "piotr-konca"
   },
   {
     "name": "Wojciech",
     "lastName": "Byrski",
     "secondName": "Jaroslaw",
     "id": 480,
-    "url": "https://pl.wikipedia.org/wiki/Wojciech_Byrski"
+    "url": "https://pl.wikipedia.org/wiki/Wojciech_Byrski",
+    "slug": "wojciech-byrski"
   },
   {
     "name": "Dariusz",
     "lastName": "Rogalski",
-    "id": 481
+    "id": 481,
+    "slug": "dariusz-rogalski"
   },
   {
     "name": "Daniel",
     "secondName": "Stanisław",
     "lastName": "Wyszogrodzki",
     "id": 482,
-    "url": "https://pl.wikipedia.org/wiki/Daniel_Wyszogrodzki"
+    "url": "https://pl.wikipedia.org/wiki/Daniel_Wyszogrodzki",
+    "slug": "daniel-wyszogrodzki"
   },
   {
     "name": "Barbara",
     "lastName": "Kopcińska-Węgrzyn",
-    "id": 483
+    "id": 483,
+    "slug": "barbara-kopcinska-wegrzyn"
   },
   {
     "name": "Grzegorz",
     "lastName": "Porowski",
-    "id": 484
+    "id": 484,
+    "slug": "grzegorz-porowski"
   },
   {
     "name": "Radosław",
     "lastName": "Łuka",
     "id": 485,
-    "url": "https://pl.wikipedia.org/wiki/Rados%C5%82aw_%C5%81uka"
+    "url": "https://pl.wikipedia.org/wiki/Rados%C5%82aw_%C5%81uka",
+    "slug": "radoslaw-luka"
   },
   {
     "name": "Jarosław",
     "lastName": "Abramow-Newerly",
     "id": 486,
-    "url": "https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Abramow-Newerly"
+    "url": "https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Abramow-Newerly",
+    "slug": "jaroslaw-abramow-newerly"
   },
   {
     "name": "Tadeusz",
     "lastName": "Ostrowski",
     "id": 487,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Ostrowski"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Ostrowski",
+    "slug": "tadeusz-ostrowski"
   },
   {
     "nickname": "Dżałówa",
     "name": "Marek",
     "lastName": "Jałowiecki",
-    "id": 488
+    "id": 488,
+    "slug": "marek-jalowiecki"
   },
   {
     "name": "Andrew",
     "lastName": "Webber",
     "secondName": "Lloyd",
+    "forceSecondName": true,
     "id": 489,
-    "url": "https://pl.wikipedia.org/wiki/Andrew_Lloyd_Webber"
+    "url": "https://pl.wikipedia.org/wiki/Andrew_Lloyd_Webber",
+    "slug": "andrew-lloyd-webber"
   },
   {
     "name": "Aleksander",
     "lastName": "Karpowicz",
-    "id": 490
+    "id": 490,
+    "slug": "aleksander-karpowicz"
   },
   {
     "nickname": "Ziutek",
@@ -2497,18 +2887,21 @@
     "lastName": "Szczepański",
     "secondName": "Andrzej",
     "id": 491,
-    "url": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Szczepa%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/J%C3%B3zef_Szczepa%C5%84ski",
+    "slug": "jozef-szczepanski"
   },
   {
     "name": "Józef",
     "lastName": "Stiastny",
     "id": 492,
-    "url": "https://spiewajmypolske.pl/autor-muzyki/jozef-stiastny/"
+    "url": "https://spiewajmypolske.pl/autor-muzyki/jozef-stiastny/",
+    "slug": "jozef-stiastny"
   },
   {
     "name": "Tomasz",
     "lastName": "Kamiński",
-    "id": 493
+    "id": 493,
+    "slug": "tomasz-kaminski"
   },
   {
     "nickname": "Maciej Maleńczuk",
@@ -2516,20 +2909,23 @@
     "lastName": "Maleńczuk",
     "secondName": "Maciej",
     "id": 494,
-    "url": "https://pl.wikipedia.org/wiki/Maciej_Male%C5%84czuk"
+    "url": "https://pl.wikipedia.org/wiki/Maciej_Male%C5%84czuk",
+    "slug": "maciej-malenczuk"
   },
   {
     "name": "Michael",
     "lastName": "Jackson",
     "secondName": "Joseph",
     "id": 495,
-    "url": "https://pl.wikipedia.org/wiki/Michael_Jackson"
+    "url": "https://pl.wikipedia.org/wiki/Michael_Jackson",
+    "slug": "michael-jackson"
   },
   {
     "name": "Aleksander",
     "lastName": "Nowacki",
     "id": 496,
-    "url": "https://pl.wikipedia.org/wiki/Aleksander_Nowacki"
+    "url": "https://pl.wikipedia.org/wiki/Aleksander_Nowacki",
+    "slug": "aleksander-nowacki"
   },
   {
     "nickname": "Michel Berger",
@@ -2537,14 +2933,16 @@
     "secondName": "Jean",
     "lastName": "Hamburger",
     "id": 497,
-    "url": "https://en.wikipedia.org/wiki/Michel_Berger"
+    "url": "https://en.wikipedia.org/wiki/Michel_Berger",
+    "slug": "michel-berger"
   },
   {
     "nickname": "Andrzej Bianusz",
     "name": "Janusz",
     "lastName": "Bibik",
     "id": 498,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Bianusz"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Bianusz",
+    "slug": "andrzej-bianusz"
   },
   {
     "nickname": "Bob Dylan",
@@ -2552,39 +2950,45 @@
     "lastName": "Zimmerman",
     "secondName": "Allen",
     "id": 499,
-    "url": "https://pl.wikipedia.org/wiki/Bob_Dylan"
+    "url": "https://pl.wikipedia.org/wiki/Bob_Dylan",
+    "slug": "bob-dylan"
   },
   {
     "name": "Krzysztof",
     "lastName": "Trzciński",
     "nickname": "Krzysztof Komeda",
     "id": 500,
-    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Komeda"
+    "url": "https://pl.wikipedia.org/wiki/Krzysztof_Komeda",
+    "slug": "krzysztof-komeda"
   },
   {
     "name": "Marcin",
     "lastName": "Sosnowski",
     "id": 501,
-    "url": "https://pl.wikipedia.org/wiki/Marcin_Sosnowski"
+    "url": "https://pl.wikipedia.org/wiki/Marcin_Sosnowski",
+    "slug": "marcin-sosnowski"
   },
   {
     "name": "Waldemar",
     "lastName": "Kazanecki",
     "id": 502,
-    "url": "https://pl.wikipedia.org/wiki/Waldemar_Kazanecki"
+    "url": "https://pl.wikipedia.org/wiki/Waldemar_Kazanecki",
+    "slug": "waldemar-kazanecki"
   },
   {
     "nickname": "Bajaga",
     "name": "Momčilo",
     "lastName": "Bajagić",
     "id": 503,
-    "url": "https://pl.wikipedia.org/wiki/Mom%C4%8Dilo_Bajagi%C4%87"
+    "url": "https://pl.wikipedia.org/wiki/Mom%C4%8Dilo_Bajagi%C4%87",
+    "slug": "momcilo-bajagic"
   },
   {
     "name": "Goran",
     "lastName": "Bregović",
     "id": 504,
-    "url": "https://pl.wikipedia.org/wiki/Goran_Bregovi%C4%87"
+    "url": "https://pl.wikipedia.org/wiki/Goran_Bregovi%C4%87",
+    "slug": "goran-bregovic"
   },
   {
     "title": "kapitan",
@@ -2592,128 +2996,142 @@
     "name": "Feliks",
     "lastName": "Gwiżdż",
     "id": 505,
-    "url": "https://pl.wikipedia.org/wiki/Feliks_Gwi%C5%BCd%C5%BC"
+    "url": "https://pl.wikipedia.org/wiki/Feliks_Gwi%C5%BCd%C5%BC",
+    "slug": "feliks-gwizdz"
   },
   {
     "name": "Tadeusz",
     "lastName": "Lubelski",
     "id": 506,
-    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Lubelski"
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Lubelski",
+    "slug": "tadeusz-lubelski"
   },
   {
     "name": "Agata",
     "lastName": "Budzyńska",
     "id": 507,
-    "url": "https://pl.wikipedia.org/wiki/Agata_Budzy%C5%84ska"
+    "url": "https://pl.wikipedia.org/wiki/Agata_Budzy%C5%84ska",
+    "slug": "agata-budzynska"
   },
   {
     "name": "Seweryn",
     "lastName": "Goszczyński",
     "id": 508,
-    "url": "https://pl.wikipedia.org/wiki/Seweryn_Goszczy%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Seweryn_Goszczy%C5%84ski",
+    "slug": "seweryn-goszczynski"
   },
   {
     "name": "Krzysztof",
     "lastName": "Kuza",
-    "id": 509
+    "id": 509,
+    "slug": "krzysztof-kuza"
   },
   {
     "name": "Jerzy",
     "lastName": "Rogacki",
     "id": 510,
-    "url": "https://niechzabrzmipiesn.org.pl/index.php/pl/jerzyrogacki"
+    "url": "https://niechzabrzmipiesn.org.pl/index.php/pl/jerzyrogacki",
+    "slug": "jerzy-rogacki"
   },
   {
     "name": "Sławomir",
     "lastName": "Klupś",
     "id": 511,
-    "url": "http://atlantyda.gda.pl/slawek.html"
-  },
-  {
-    "name": "Marek",
-    "lastName": "Dutkiewicz",
-    "secondName": "Wojciech",
-    "id": 512,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Dutkiewicz"
+    "url": "http://atlantyda.gda.pl/slawek.html",
+    "slug": "slawomir-klups"
   },
   {
     "name": "Adam",
     "secondName": "Jerzy",
     "lastName": "Drąg",
     "id": 513,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Dr%C4%85g"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Dr%C4%85g",
+    "slug": "adam-drag"
   },
   {
     "name": "Małgorzata",
     "lastName": "Kamińska",
     "id": 514,
-    "url": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_Kami%C5%84ska"
+    "url": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_Kami%C5%84ska",
+    "slug": "malgorzata-kaminska"
   },
   {
     "nickname": "Szkot",
     "name": "Henryk",
     "lastName": "Czekała",
     "id": 515,
-    "url": "https://pl.wikipedia.org/wiki/Henryk_Czeka%C5%82a"
+    "url": "https://pl.wikipedia.org/wiki/Henryk_Czeka%C5%82a",
+    "slug": "henryk-czekala"
   },
   {
     "name": "Mariusz",
     "lastName": "Borowiec",
-    "id": 516
+    "id": 516,
+    "slug": "mariusz-borowiec"
   },
   {
     "nickname": "Frank Farian",
     "name": "Franz",
     "lastName": "Reuther",
     "id": 517,
-    "url": "https://pl.wikipedia.org/wiki/Frank_Farian"
+    "url": "https://pl.wikipedia.org/wiki/Frank_Farian",
+    "slug": "frank-farian"
   },
   {
     "name": "Wiesław",
     "lastName": "Jarosz",
-    "id": 518
+    "id": 518,
+    "slug": "wieslaw-jarosz"
   },
   {
     "name": "Jan",
     "lastName": "Wydra",
     "id": 519,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Wydra"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Wydra",
+    "slug": "jan-wydra"
   },
   {
     "name": "Waldemar",
     "lastName": "Chyliński",
     "id": 520,
-    "url": "https://pl.wikipedia.org/wiki/Waldemar_Chyli%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Waldemar_Chyli%C5%84ski",
+    "slug": "waldemar-chylinski"
   },
   {
     "name": "Juliusz",
     "lastName": "Słowacki",
     "id": 521,
-    "url": "https://pl.wikipedia.org/wiki/Juliusz_S%C5%82owacki"
+    "url": "https://pl.wikipedia.org/wiki/Juliusz_S%C5%82owacki",
+    "slug": "juliusz-slowacki"
   },
   {
     "name": "Andrzej",
     "secondName": "Roman",
     "lastName": "Kurylewicz",
     "id": 522,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Kurylewicz"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Kurylewicz",
+    "slug": "andrzej-kurylewicz"
   },
   {
     "name": "George",
     "lastName": "Martin",
-    "secondName": "Raymond-Richard",
+    "secondName": "Raymond Richard",
+    "forceSecondName": true,
     "id": 523,
-    "url": "https://pl.wikipedia.org/wiki/George_R.R._Martin"
+    "url": "https://pl.wikipedia.org/wiki/George_R.R._Martin",
+    "slug": "george-r-r-martin"
   },
   {
     "name": "Alicja",
     "lastName": "Trzeciak",
-    "id": 524
+    "id": 524,
+    "slug": "alicja-trzeciak"
   },
   {
     "name": "Jan",
     "lastName": "Rychner",
-    "id": 525
+    "id": 525,
+    "slug": "jan-rychner"
   },
   {
     "nickname": "Stan Jones",
@@ -2721,19 +3139,22 @@
     "secondName": "David",
     "lastName": "Jones",
     "id": 526,
-    "url": "https://en.wikipedia.org/wiki/Stan_Jones_(songwriter)"
+    "url": "https://en.wikipedia.org/wiki/Stan_Jones_(songwriter)",
+    "slug": "stan-jones"
   },
   {
     "name": "Jerzy",
     "lastName": "Michotek",
     "id": 527,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Michotek"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Michotek",
+    "slug": "jerzy-michotek"
   },
   {
     "name": "Stanisław",
     "lastName": "Syrewicz",
     "id": 528,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Syrewicz"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Syrewicz",
+    "slug": "stanislaw-syrewicz"
   },
   {
     "nickname": "Dan Wilson",
@@ -2741,106 +3162,124 @@
     "lastName": "Wilson",
     "secondName": "Dodd",
     "id": 529,
-    "url": "https://en.wikipedia.org/wiki/Daniel_Wilson"
+    "url": "https://en.wikipedia.org/wiki/Daniel_Wilson",
+    "slug": "dan-wilson"
   },
   {
     "nickname": "Mynio",
     "name": "Mirosław",
     "lastName": "Ortyński",
     "id": 530,
-    "url": "https://www.enej.pl/kornel-2/"
+    "url": "https://www.enej.pl/kornel-2/",
+    "slug": "miroslaw-ortynski"
   },
   {
     "nickname": "Lolek",
     "name": "Piotr",
     "lastName": "Sołoducha",
     "id": 531,
-    "url": "https://www.enej.pl/lolek/"
+    "url": "https://www.enej.pl/lolek/",
+    "slug": "piotr-soloducha"
   },
   {
     "name": "Ryszard",
     "lastName": "Soliński",
-    "id": 532
+    "id": 532,
+    "slug": "ryszard-solinski"
   },
   {
     "nickname": "Jerzy Miller",
     "name": "Jerzy",
     "lastName": "Miller-Műller",
     "id": 533,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Miller_(poeta)"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Miller_(poeta)",
+    "slug": "jerzy-miller"
   },
   {
     "name": "Wasilij",
     "secondName": "Iwanowicz",
     "lastName": "Agapkin",
     "id": 534,
-    "url": "https://pl.wikipedia.org/wiki/Wasilij_Agapkin"
+    "url": "https://pl.wikipedia.org/wiki/Wasilij_Agapkin",
+    "slug": "wasilij-agapkin"
   },
   {
     "name": "Roman",
     "secondName": "Walenty",
     "lastName": "Ślęzak",
     "id": 535,
-    "url": "https://pl.wikipedia.org/wiki/Roman_%C5%9Al%C4%99zak"
+    "url": "https://pl.wikipedia.org/wiki/Roman_%C5%9Al%C4%99zak",
+    "slug": "roman-slezak"
   },
   {
     "name": "Mieczysław",
     "lastName": "Kozar-Słobódzki",
     "id": 536,
-    "url": "https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Kozar-S%C5%82ob%C3%B3dzki"
+    "url": "https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Kozar-S%C5%82ob%C3%B3dzki",
+    "slug": "mieczyslaw-kozar-slobodzki"
   },
   {
     "name": "Kazimierz",
     "lastName": "Wroczyński",
     "id": 537,
-    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Wroczy%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Wroczy%C5%84ski",
+    "slug": "kazimierz-wroczynski"
   },
   {
     "name": "Jan",
     "secondName": "Emil",
     "lastName": "Lankau",
+    "forceSecondName": true,
     "id": 538,
-    "url": "https://spiewajmypolske.pl/autor-slow/jan-emil-lankau/"
+    "url": "https://spiewajmypolske.pl/autor-slow/jan-emil-lankau/",
+    "slug": "jan-emil-lankau"
   },
   {
     "name": "Paul",
     "lastName": "Epworth",
     "secondName": "Richard",
     "id": 539,
-    "url": "https://en.wikipedia.org/wiki/Paul_Epworth"
+    "url": "https://en.wikipedia.org/wiki/Paul_Epworth",
+    "slug": "paul-epworth"
   },
   {
     "name": "Rolf",
     "secondName": "Undsæt",
     "lastName": "Løvland",
     "id": 540,
-    "url": "https://en.wikipedia.org/wiki/Rolf_L%C3%B8vland"
+    "url": "https://en.wikipedia.org/wiki/Rolf_L%C3%B8vland",
+    "slug": "rolf-lvland"
   },
   {
     "name": "Jan",
     "secondName": "Stanisław",
     "lastName": "Ekier",
     "id": 541,
-    "url": "https://pl.wikipedia.org/wiki/Jan_Ekier"
+    "url": "https://pl.wikipedia.org/wiki/Jan_Ekier",
+    "slug": "jan-ekier"
   },
   {
     "name": "Stanisław",
     "lastName": "Dobrowolski",
     "secondName": "Ryszard",
+    "forceSecondName": true,
     "id": 542,
-    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Ryszard_Dobrowolski"
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Ryszard_Dobrowolski",
+    "slug": "stanislaw-ryszard-dobrowolski"
   },
   {
     "name": "Adam",
     "secondName": "Andrzej",
     "lastName": "Otręba",
     "id": 543,
-    "url": "https://pl.wikipedia.org/wiki/Adam_Otr%C4%99ba"
+    "url": "https://pl.wikipedia.org/wiki/Adam_Otr%C4%99ba",
+    "slug": "adam-otreba"
   },
   {
     "name": "Ludmiła",
     "lastName": "Rapanowicz",
-    "id": 544
+    "id": 544,
+    "slug": "ludmila-rapanowicz"
   },
   {
     "nickname": "Roger Waters",
@@ -2848,31 +3287,36 @@
     "secondName": "Roger",
     "lastName": "Waters",
     "id": 545,
-    "url": "https://pl.wikipedia.org/wiki/Roger_Waters"
+    "url": "https://pl.wikipedia.org/wiki/Roger_Waters",
+    "slug": "roger-waters"
   },
   {
     "name": "David",
     "secondName": "Jon",
     "lastName": "Gilmour",
     "id": 546,
-    "url": "https://pl.wikipedia.org/wiki/David_Gilmour"
+    "url": "https://pl.wikipedia.org/wiki/David_Gilmour",
+    "slug": "david-gilmour"
   },
   {
     "name": "Brendan",
     "lastName": "Graham",
     "id": 547,
-    "url": "https://en.wikipedia.org/wiki/Brendan_Graham"
+    "url": "https://en.wikipedia.org/wiki/Brendan_Graham",
+    "slug": "brendan-graham"
   },
   {
     "name": "Klaus",
     "lastName": "Meine",
     "id": 548,
-    "url": "https://pl.wikipedia.org/wiki/Klaus_Meine"
+    "url": "https://pl.wikipedia.org/wiki/Klaus_Meine",
+    "slug": "klaus-meine"
   },
   {
     "name": "Kazimierz",
     "lastName": "Gayer",
-    "id": 549
+    "id": 549,
+    "slug": "kazimierz-gayer"
   },
   {
     "nickname": "Beno Otręba",
@@ -2880,165 +3324,193 @@
     "secondName": "Jan",
     "lastName": "Otręba",
     "id": 550,
-    "url": "https://pl.wikipedia.org/wiki/Beno_Otr%C4%99ba"
+    "url": "https://pl.wikipedia.org/wiki/Beno_Otr%C4%99ba",
+    "slug": "beno-otreba"
   },
   {
     "name": "Ryszard",
     "secondName": "Henryk",
     "lastName": "Riedel",
     "id": 551,
-    "url": "https://pl.wikipedia.org/wiki/Ryszard_Riedel"
+    "url": "https://pl.wikipedia.org/wiki/Ryszard_Riedel",
+    "slug": "ryszard-riedel"
   },
   {
     "name": "Aleksandra",
     "lastName": "Motyka",
-    "id": 552
+    "id": 552,
+    "slug": "aleksandra-motyka"
   },
   {
     "name": "Marcin",
     "lastName": "Przybyłowicz",
     "id": 553,
-    "url": "https://pl.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz"
+    "url": "https://pl.wikipedia.org/wiki/Marcin_Przyby%C5%82owicz",
+    "slug": "marcin-przybylowicz"
   },
   {
     "name": "Agnieszka",
     "lastName": "Rumież",
-    "id": 554
+    "id": 554,
+    "slug": "agnieszka-rumiez"
   },
   {
     "name": "Eugene",
     "secondName": "Ferdinand",
     "lastName": "Walter Jr.",
     "id": 555,
-    "url": "https://en.wikipedia.org/wiki/Eugene_Walter"
+    "url": "https://en.wikipedia.org/wiki/Eugene_Walter",
+    "slug": "eugene-walter-jr"
   },
   {
     "name": "Robert",
     "lastName": "Mielcarek",
-    "id": 556
+    "id": 556,
+    "slug": "robert-mielcarek"
   },
   {
     "name": "Adam",
     "lastName": "Szarek",
-    "id": 557
+    "id": 557,
+    "slug": "adam-szarek"
   },
   {
     "name": "Alain",
     "lastName": "Boublil",
     "id": 558,
-    "url": "https://en.wikipedia.org/wiki/Alain_Boublil"
+    "url": "https://en.wikipedia.org/wiki/Alain_Boublil",
+    "slug": "alain-boublil"
   },
   {
     "name": "Aleksander",
     "lastName": "Grotowski",
     "id": 559,
-    "url": "https://pl.wikipedia.org/wiki/Aleksander_Grotowski"
+    "url": "https://pl.wikipedia.org/wiki/Aleksander_Grotowski",
+    "slug": "aleksander-grotowski"
   },
   {
     "nickname": "Andrzej Włast",
     "name": "Gustaw",
     "lastName": "Baumritter",
     "id": 560,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_W%C5%82ast"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_W%C5%82ast",
+    "slug": "andrzej-wlast"
   },
   {
     "name": "Kazimierz",
     "secondName": "Jerzy",
+    "forceSecondName": true,
     "lastName": "Oberfeld",
     "id": 561,
-    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Jerzy_Oberfeld"
+    "url": "https://pl.wikipedia.org/wiki/Kazimierz_Jerzy_Oberfeld",
+    "slug": "kazimierz-jerzy-oberfeld"
   },
   {
     "name": "Michał",
     "lastName": "Łangowski",
     "id": 562,
-    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_%C5%81angowski"
+    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_%C5%81angowski",
+    "slug": "michal-langowski"
   },
   {
     "name": "Rajmund",
     "lastName": "Scholz",
     "id": 563,
-    "url": "https://spiewajmypolske.pl/autor-slow/rajmund-scholz/"
+    "url": "https://spiewajmypolske.pl/autor-slow/rajmund-scholz/",
+    "slug": "rajmund-scholz"
   },
   {
     "name": "Jerzy",
     "secondName": "Tadeusz",
     "lastName": "Harasymowicz",
     "id": 564,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Harasymowicz"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Harasymowicz",
+    "slug": "jerzy-harasymowicz"
   },
   {
     "name": "Andrzej",
     "lastName": "Koczewski",
     "id": 565,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_Koczewski"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_Koczewski",
+    "slug": "andrzej-koczewski"
   },
   {
     "name": "Zbigniew",
     "lastName": "Bogdański",
     "id": 566,
-    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Bogda%C5%84ski"
+    "url": "https://pl.wikipedia.org/wiki/Zbigniew_Bogda%C5%84ski",
+    "slug": "zbigniew-bogdanski"
   },
   {
     "name": "Jeremi",
     "lastName": "Przybora",
     "secondName": "Stanisław",
     "id": 567,
-    "url": "https://pl.wikipedia.org/wiki/Jeremi_Przybora"
+    "url": "https://pl.wikipedia.org/wiki/Jeremi_Przybora",
+    "slug": "jeremi-przybora"
   },
   {
     "name": "Jerzy",
     "lastName": "Wasowski",
     "secondName": "Ryszard",
     "id": 568,
-    "url": "https://pl.wikipedia.org/wiki/Jerzy_Wasowski"
+    "url": "https://pl.wikipedia.org/wiki/Jerzy_Wasowski",
+    "slug": "jerzy-wasowski"
   },
   {
     "name": "Terry",
     "secondName": "Ernest",
     "lastName": "Britten",
     "id": 569,
-    "url": "https://en.wikipedia.org/wiki/Terry_Britten"
+    "url": "https://en.wikipedia.org/wiki/Terry_Britten",
+    "slug": "terry-britten"
   },
   {
     "name": "Michael",
     "lastName": "Brady",
     "id": 570,
-    "url": "https://en.wikipedia.org/wiki/Mike_Brady_(musician)"
+    "url": "https://en.wikipedia.org/wiki/Mike_Brady_(musician)",
+    "slug": "michael-brady"
   },
   {
     "name": "Giona",
     "lastName": "Ostinelli",
     "id": 571,
-    "url": "https://en.wikipedia.org/wiki/Giona_Ostinelli"
+    "url": "https://en.wikipedia.org/wiki/Giona_Ostinelli",
+    "slug": "giona-ostinelli"
   },
   {
     "name": "Sonya",
     "lastName": "Belousova",
     "id": 572,
-    "url": "https://en.wikipedia.org/wiki/Sonya_Belousova"
+    "url": "https://en.wikipedia.org/wiki/Sonya_Belousova",
+    "slug": "sonya-belousova"
   },
   {
     "name": "Jenny",
     "lastName": "Klein",
     "id": 573,
-    "url": "https://www.filmweb.pl/person/Jenny+Klein-1559234"
+    "url": "https://www.filmweb.pl/person/Jenny+Klein-1559234",
+    "slug": "jenny-klein"
   },
   {
     "name": "Artur",
     "lastName": "Szczęsny",
-    "id": 574
+    "id": 574,
+    "slug": "artur-szczesny"
   },
   {
     "name": "Wojciech",
     "lastName": "Dudziński",
-    "id": 575
+    "id": 575,
+    "slug": "wojciech-dudzinski"
   },
   {
     "name": "David",
     "lastName": "Foster",
     "id": 576,
-    "url": "https://pl.wikipedia.org/wiki/David_Foster"
+    "url": "https://pl.wikipedia.org/wiki/David_Foster",
+    "slug": "david-foster"
   },
   {
     "nickname": "Walter Afanasieff",
@@ -3046,20 +3518,16 @@
     "secondName": "Nikitich",
     "lastName": "Afanasyev",
     "id": 577,
-    "url": "https://en.wikipedia.org/wiki/Walter_Afanasieff"
-  },
-  {
-    "name": "Katarzyna",
-    "lastName": "Nosowska",
-    "id": 578,
-    "url": "https://pl.wikipedia.org/wiki/Katarzyna_Nosowska"
+    "url": "https://en.wikipedia.org/wiki/Walter_Afanasieff",
+    "slug": "walter-afanasieff"
   },
   {
     "name": "Marek",
     "secondName": "Antoni",
     "lastName": "Dagnan",
     "id": 579,
-    "url": "https://pl.wikipedia.org/wiki/Marek_Dagnan"
+    "url": "https://pl.wikipedia.org/wiki/Marek_Dagnan",
+    "slug": "marek-dagnan"
   },
   {
     "nickname": "Bill Danoff",
@@ -3067,7 +3535,8 @@
     "secondName": "Thomas",
     "lastName": "Danoff",
     "id": 580,
-    "url": "https://en.wikipedia.org/wiki/Bill_Danoff"
+    "url": "https://en.wikipedia.org/wiki/Bill_Danoff",
+    "slug": "bill-danoff"
   },
   {
     "nickname": "John Denver",
@@ -3075,71 +3544,83 @@
     "secondName": "John",
     "lastName": "Deutschendorf Jr.",
     "id": 581,
-    "url": "https://pl.wikipedia.org/wiki/John_Denver"
+    "url": "https://pl.wikipedia.org/wiki/John_Denver",
+    "slug": "john-denver"
   },
   {
     "name": "Zbigniew",
     "secondName": "Maria",
     "lastName": "Stefański",
-    "id": 582
+    "id": 582,
+    "slug": "zbigniew-stefanski"
   },
   {
     "name": "David",
     "secondName": "Joel",
     "lastName": "Zippel",
     "id": 583,
-    "url": "https://en.wikipedia.org/wiki/David_Zippel"
+    "url": "https://en.wikipedia.org/wiki/David_Zippel",
+    "slug": "david-zippel"
   },
   {
     "name": "Matthew",
     "lastName": "Wilder",
     "id": 584,
-    "url": "https://en.wikipedia.org/wiki/Matthew_Wilder"
+    "url": "https://en.wikipedia.org/wiki/Matthew_Wilder",
+    "slug": "matthew-wilder"
   },
   {
     "name": "Mato",
     "lastName": "Došen",
     "id": 585,
-    "url": "https://hr.wikipedia.org/wiki/Mato_Do%C5%A1en"
+    "url": "https://hr.wikipedia.org/wiki/Mato_Do%C5%A1en",
+    "slug": "mato-dosen"
   },
   {
     "name": "Đorđe",
     "lastName": "Novković",
     "id": 586,
-    "url": "https://pl.wikipedia.org/wiki/%C4%90or%C4%91e_Novkovi%C4%87"
+    "url": "https://pl.wikipedia.org/wiki/%C4%90or%C4%91e_Novkovi%C4%87",
+    "slug": "dorde-novkovic"
   },
   {
     "name": "Jacek",
     "secondName": "Jerzy",
     "lastName": "Skubikowski",
     "id": 587,
-    "url": "https://pl.wikipedia.org/wiki/Jacek_Skubikowski"
+    "url": "https://pl.wikipedia.org/wiki/Jacek_Skubikowski",
+    "slug": "jacek-skubikowski"
   },
   {
     "name": "Janusz",
     "lastName": "Terakowski",
     "id": 588,
-    "url": "https://pl.wikipedia.org/wiki/Janusz_Terakowski"
+    "url": "https://pl.wikipedia.org/wiki/Janusz_Terakowski",
+    "slug": "janusz-terakowski"
   },
   {
     "nickname": "Ludwik Starski",
     "name": "Ludwik",
     "lastName": "Kałuszyner",
     "id": 589,
-    "url": "https://pl.wikipedia.org/wiki/Ludwik_Starski"
+    "url": "https://pl.wikipedia.org/wiki/Ludwik_Starski",
+    "slug": "ludwik-starski"
   },
   {
     "name": "Alexander",
     "lastName": "Olshanetsky",
     "id": 590,
-    "url": "https://en.wikipedia.org/wiki/Alexander_Olshanetsky"
+    "url": "https://en.wikipedia.org/wiki/Alexander_Olshanetsky",
+    "slug": "alexander-olshanetsky"
   },
   {
     "nickname": "Sławomir",
+    "forceNickname": true,
     "name": "Sławomir",
     "lastName": "Zapała",
     "secondName": "Paweł",
     "id": 591,
-    "url": "https://pl.wikipedia.org/wiki/S%C5%82awomir_(piosenkarz)"
+    "url": "https://pl.wikipedia.org/wiki/S%C5%82awomir_(piosenkarz)",
+    "slug": "slawomir"
   }
 ]

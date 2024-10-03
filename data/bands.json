@@ -2,393 +2,472 @@
   {
     "name": "Koniec Świata",
     "id": 100,
-    "url": "https://pl.wikipedia.org/wiki/Koniec_%C5%9Awiata_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Koniec_%C5%9Awiata_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "koniec-swiata"
   },
   {
     "name": "Śpiewające Brzdące",
     "id": 101,
-    "url": "https://www.youtube.com/@SpiewajaceBrzdace"
+    "url": "https://www.youtube.com/@SpiewajaceBrzdace",
+    "slug": "spiewajace-brzdace"
   },
   {
     "name": "T.Love",
     "id": 102,
-    "url": "https://pl.wikipedia.org/wiki/T.Love"
+    "url": "https://pl.wikipedia.org/wiki/T.Love",
+    "slug": "tlove"
   },
   {
     "name": "Kult",
     "id": 103,
-    "url": "https://pl.wikipedia.org/wiki/Kult_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Kult_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "kult"
   },
   {
     "name": "Kabaret Dudek",
     "id": 104,
-    "url": "https://pl.wikipedia.org/wiki/Kabaret_Dudek"
+    "url": "https://pl.wikipedia.org/wiki/Kabaret_Dudek",
+    "slug": "kabaret-dudek"
   },
   {
     "name": "Imagine Dragons",
     "id": 105,
-    "url": "https://pl.wikipedia.org/wiki/Imagine_Dragons"
+    "url": "https://pl.wikipedia.org/wiki/Imagine_Dragons",
+    "slug": "imagine-dragons"
   },
   {
     "name": "Wolna Grupa Bukowina",
     "id": 106,
-    "url": "https://pl.wikipedia.org/wiki/Wolna_Grupa_Bukowina"
+    "url": "https://pl.wikipedia.org/wiki/Wolna_Grupa_Bukowina",
+    "slug": "wolna-grupa-bukowina"
   },
   {
     "name": "Czerwone Gitary",
     "id": 107,
-    "url": "https://pl.wikipedia.org/wiki/Czerwone_Gitary"
+    "url": "https://pl.wikipedia.org/wiki/Czerwone_Gitary",
+    "slug": "czerwone-gitary"
   },
   {
     "name": "SDM",
     "id": 108,
-    "url": "https://pl.wikipedia.org/wiki/Stare_Dobre_Ma%C5%82%C5%BCe%C5%84stwo"
+    "url": "https://pl.wikipedia.org/wiki/Stare_Dobre_Ma%C5%82%C5%BCe%C5%84stwo",
+    "slug": "sdm"
   },
   {
     "name": "Stare Dzwony",
     "id": 109,
-    "url": "https://pl.wikipedia.org/wiki/Stare_Dzwony"
+    "url": "https://pl.wikipedia.org/wiki/Stare_Dzwony",
+    "slug": "stare-dzwony"
   },
   {
     "name": "Taizé",
     "id": 110,
-    "url": "https://pl.wikipedia.org/wiki/Wsp%C3%B3lnota_Taiz%C3%A9"
+    "url": "https://pl.wikipedia.org/wiki/Wsp%C3%B3lnota_Taiz%C3%A9",
+    "slug": "taiz"
   },
   {
     "name": "Wały Jagiellońskie",
     "id": 111,
-    "url": "https://pl.wikipedia.org/wiki/Wa%C5%82y_Jagiello%C5%84skie_(kabaret)"
+    "url": "https://pl.wikipedia.org/wiki/Wa%C5%82y_Jagiello%C5%84skie_(kabaret)",
+    "slug": "waly-jagiellonskie"
   },
   {
     "name": "Zakopower",
     "id": 112,
-    "url": "https://pl.wikipedia.org/wiki/Zakopower"
+    "url": "https://pl.wikipedia.org/wiki/Zakopower",
+    "slug": "zakopower"
   },
   {
     "name": "Kwiat Jabłoni",
     "id": 113,
-    "url": "https://pl.wikipedia.org/wiki/Kwiat_Jab%C5%82oni"
+    "url": "https://pl.wikipedia.org/wiki/Kwiat_Jab%C5%82oni",
+    "slug": "kwiat-jabloni"
   },
   {
     "name": "Krążek",
     "id": 114,
-    "url": "https://pl.wikipedia.org/wiki/Kr%C4%85%C5%BCek_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Kr%C4%85%C5%BCek_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "krazek"
   },
   {
     "name": "Wspólnota Miłości Ukrzyżowanej",
     "id": 115,
-    "url": "https://pl.wikipedia.org/wiki/Wsp%C3%B3lnota_Mi%C5%82o%C5%9Bci_Ukrzy%C5%BCowanej"
+    "url": "https://pl.wikipedia.org/wiki/Wsp%C3%B3lnota_Mi%C5%82o%C5%9Bci_Ukrzy%C5%BCowanej",
+    "slug": "wspolnota-milosci-ukrzyzowanej"
   },
   {
     "name": "2 plus 1",
     "id": 116,
-    "url": "https://pl.wikipedia.org/wiki/2_plus_1"
+    "url": "https://pl.wikipedia.org/wiki/2_plus_1",
+    "slug": "2-plus-1"
   },
   {
     "name": "Blenders",
     "id": 117,
-    "url": "https://pl.wikipedia.org/wiki/Blenders"
+    "url": "https://pl.wikipedia.org/wiki/Blenders",
+    "slug": "blenders"
   },
   {
     "name": "Wyspy Dobrej Nadziei",
     "id": 118,
-    "url": "https://pl.wikipedia.org/wiki/Wyspy_Dobrej_Nadziei"
+    "url": "https://pl.wikipedia.org/wiki/Wyspy_Dobrej_Nadziei",
+    "slug": "wyspy-dobrej-nadziei"
   },
   {
     "name": "Maanam",
     "id": 119,
-    "url": "https://pl.wikipedia.org/wiki/Maanam"
+    "url": "https://pl.wikipedia.org/wiki/Maanam",
+    "slug": "maanam"
   },
   {
     "name": "Brathanki",
     "id": 120,
-    "url": "https://pl.wikipedia.org/wiki/Brathanki"
+    "url": "https://pl.wikipedia.org/wiki/Brathanki",
+    "slug": "brathanki"
   },
   {
     "name": "Elektryczne Gitary",
     "id": 121,
-    "url": "https://pl.wikipedia.org/wiki/Elektryczne_Gitary"
+    "url": "https://pl.wikipedia.org/wiki/Elektryczne_Gitary",
+    "slug": "elektryczne-gitary"
   },
   {
     "name": "Kolor",
     "id": 122,
-    "url": "https://pl.wikipedia.org/wiki/Kolor_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Kolor_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "kolor"
   },
   {
     "name": "Piwnica pod Baranami",
     "id": 123,
-    "url": "https://pl.wikipedia.org/wiki/Piwnica_pod_Baranami"
+    "url": "https://pl.wikipedia.org/wiki/Piwnica_pod_Baranami",
+    "slug": "piwnica-pod-baranami"
   },
   {
     "name": "Myslovitz",
     "id": 124,
-    "url": "https://pl.wikipedia.org/wiki/Myslovitz"
+    "url": "https://pl.wikipedia.org/wiki/Myslovitz",
+    "slug": "myslovitz"
   },
   {
     "name": "Gawęda",
     "id": 125,
-    "url": "https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_%E2%80%9EGaw%C4%99da%E2%80%9D"
+    "url": "https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_%E2%80%9EGaw%C4%99da%E2%80%9D",
+    "slug": "gaweda"
   },
   {
     "name": "Trzy Korony",
     "id": 126,
-    "url": "https://pl.wikipedia.org/wiki/Trzy_Korony_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Trzy_Korony_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "trzy-korony"
   },
   {
     "name": "The Police",
     "id": 127,
-    "url": "https://pl.wikipedia.org/wiki/The_Police"
+    "url": "https://pl.wikipedia.org/wiki/The_Police",
+    "slug": "the-police"
   },
   {
     "name": "Ryczące Dwudziestki",
     "id": 128,
-    "url": "https://pl.wikipedia.org/wiki/Rycz%C4%85ce_Dwudziestki"
+    "url": "https://pl.wikipedia.org/wiki/Rycz%C4%85ce_Dwudziestki",
+    "slug": "ryczace-dwudziestki"
   },
   {
     "name": "Mordewind",
     "id": 129,
-    "url": "https://pl.wikipedia.org/wiki/Mordewind_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Mordewind_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "mordewind"
   },
   {
     "name": "Siostry Comunicadoras Eucaristicas",
     "id": 130,
-    "url": "https://es.wikipedia.org/wiki/Comunicadoras_eucar%C3%ADsticas"
+    "url": "https://es.wikipedia.org/wiki/Comunicadoras_eucar%C3%ADsticas",
+    "slug": "siostry-comunicadoras-eucaristicas"
   },
   {
     "name": "KMT Turek",
-    "id": 131
+    "id": 131,
+    "slug": "kmt-turek"
   },
   {
     "name": "Zayazd",
     "id": 132,
-    "url": "https://pl.wikipedia.org/wiki/Zayazd"
+    "url": "https://pl.wikipedia.org/wiki/Zayazd",
+    "slug": "zayazd"
   },
   {
     "name": "HEY",
     "id": 133,
-    "url": "https://pl.wikipedia.org/wiki/Hey"
+    "url": "https://pl.wikipedia.org/wiki/Hey",
+    "slug": "hey"
   },
   {
     "name": "OT.TO",
     "id": 134,
-    "url": "https://en.wikipedia.org/wiki/Kabaret_OT.TO"
+    "url": "https://en.wikipedia.org/wiki/Kabaret_OT.TO",
+    "slug": "otto"
   },
   {
     "name": "Arka Noego",
     "id": 135,
-    "url": "https://pl.wikipedia.org/wiki/Arka_Noego_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Arka_Noego_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "arka-noego"
   },
   {
     "name": "Budka Suflera",
     "id": 136,
-    "url": "https://pl.wikipedia.org/wiki/Budka_Suflera"
+    "url": "https://pl.wikipedia.org/wiki/Budka_Suflera",
+    "slug": "budka-suflera"
   },
   {
     "name": "Contra Mundum",
-    "id": 137
+    "id": 137,
+    "slug": "contra-mundum"
   },
   {
     "name": "Poparzeni Kawą Trzy",
     "id": 138,
-    "url": "https://pl.wikipedia.org/wiki/Poparzeni_Kaw%C4%85_Trzy"
+    "url": "https://pl.wikipedia.org/wiki/Poparzeni_Kaw%C4%85_Trzy",
+    "slug": "poparzeni-kawa-trzy"
   },
   {
     "name": "Kobranocka",
     "id": 139,
-    "url": "https://pl.wikipedia.org/wiki/Kobranocka"
+    "url": "https://pl.wikipedia.org/wiki/Kobranocka",
+    "slug": "kobranocka"
   },
   {
     "name": "Centrum Edukacji Katechetycznej",
     "id": 140,
-    "url": "https://katechizmy.com.pl/"
+    "url": "https://katechizmy.com.pl/",
+    "slug": "centrum-edukacji-katechetycznej"
   },
   {
     "name": "Lady Pank",
     "id": 141,
-    "url": "https://pl.wikipedia.org/wiki/Lady_Pank"
+    "url": "https://pl.wikipedia.org/wiki/Lady_Pank",
+    "slug": "lady-pank"
   },
   {
     "name": "Skaldowie",
     "id": 142,
-    "url": "https://pl.wikipedia.org/wiki/Skaldowie"
+    "url": "https://pl.wikipedia.org/wiki/Skaldowie",
+    "slug": "skaldowie"
   },
   {
     "name": "Drake",
     "id": 143,
-    "url": "https://pl.wikipedia.org/wiki/Drake_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Drake_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "drake"
   },
   {
     "name": "The Beatles",
     "id": 144,
-    "url": "https://pl.wikipedia.org/wiki/The_Beatles"
+    "url": "https://pl.wikipedia.org/wiki/The_Beatles",
+    "slug": "the-beatles"
   },
   {
     "name": "Akurat",
     "id": 145,
-    "url": "https://pl.wikipedia.org/wiki/Akurat"
+    "url": "https://pl.wikipedia.org/wiki/Akurat",
+    "slug": "akurat"
   },
   {
     "name": "Accantus",
     "id": 146,
-    "url": "https://accantus.pl/"
+    "url": "https://accantus.pl/",
+    "slug": "accantus"
   },
   {
     "name": "Neokatechumenat",
     "id": 147,
-    "url": "https://pl.wikipedia.org/wiki/Droga_Neokatechumenalna"
+    "url": "https://pl.wikipedia.org/wiki/Droga_Neokatechumenalna",
+    "slug": "neokatechumenat"
   },
   {
     "name": "EKT Gdynia",
     "id": 148,
-    "url": "https://pl.wikipedia.org/wiki/EKT_Gdynia"
+    "url": "https://pl.wikipedia.org/wiki/EKT_Gdynia",
+    "slug": "ekt-gdynia"
   },
   {
     "name": "Rotary",
     "id": 149,
-    "url": "https://pl.wikipedia.org/wiki/Rotary"
+    "url": "https://pl.wikipedia.org/wiki/Rotary",
+    "slug": "rotary"
   },
   {
     "name": "El Dupa",
     "id": 150,
-    "url": "https://pl.wikipedia.org/wiki/El_Dupa"
+    "url": "https://pl.wikipedia.org/wiki/El_Dupa",
+    "slug": "el-dupa"
   },
   {
     "name": "IRA",
     "id": 151,
-    "url": "https://pl.wikipedia.org/wiki/Ira_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Ira_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "ira"
   },
   {
     "name": "Golec uOrkiestra",
     "id": 152,
-    "url": "https://pl.wikipedia.org/wiki/Golec_uOrkiestra"
+    "url": "https://pl.wikipedia.org/wiki/Golec_uOrkiestra",
+    "slug": "golec-uorkiestra"
   },
   {
     "name": "Perfect",
     "id": 153,
-    "url": "https://pl.wikipedia.org/wiki/Perfect_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Perfect_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "perfect"
   },
   {
     "name": "G. F. Darwin",
     "id": 154,
-    "url": "https://pl.wikipedia.org/wiki/Grupa_Filmowa_Darwin"
+    "url": "https://pl.wikipedia.org/wiki/Grupa_Filmowa_Darwin",
+    "slug": "g-f-darwin"
   },
   {
     "name": "Lube",
     "id": 155,
-    "url": "https://pl.wikipedia.org/wiki/Lube"
+    "url": "https://pl.wikipedia.org/wiki/Lube",
+    "slug": "lube"
   },
   {
     "name": "Strachy na Lachy",
     "id": 156,
-    "url": "https://pl.wikipedia.org/wiki/Strachy_na_Lachy"
+    "url": "https://pl.wikipedia.org/wiki/Strachy_na_Lachy",
+    "slug": "strachy-na-lachy"
   },
   {
     "name": "Cisza jak ta",
     "id": 157,
-    "url": "https://pl.wikipedia.org/wiki/Cisza_jak_ta"
+    "url": "https://pl.wikipedia.org/wiki/Cisza_jak_ta",
+    "slug": "cisza-jak-ta"
   },
   {
     "name": "Mechanicy Shanty",
     "id": 158,
-    "url": "https://pl.wikipedia.org/wiki/Mechanicy_Shanty"
+    "url": "https://pl.wikipedia.org/wiki/Mechanicy_Shanty",
+    "slug": "mechanicy-shanty"
   },
   {
     "name": "Akcent",
     "id": 159,
-    "url": "https://pl.wikipedia.org/wiki/Akcent_(polski_zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Akcent_(polski_zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "akcent"
   },
   {
     "name": "Zespół Reprezentacyjny",
     "id": 161,
-    "url": "https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Reprezentacyjny"
+    "url": "https://pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Reprezentacyjny",
+    "slug": "zespol-reprezentacyjny"
   },
   {
     "name": "Zajman & Garkumpel",
     "id": 162,
-    "url": "https://pl.wikipedia.org/wiki/Zejman_%26_Garkumpel"
+    "url": "https://pl.wikipedia.org/wiki/Zejman_%26_Garkumpel",
+    "slug": "zajman--garkumpel"
   },
   {
     "name": "Enej",
     "id": 163,
-    "url": "https://pl.wikipedia.org/wiki/Enej"
+    "url": "https://pl.wikipedia.org/wiki/Enej",
+    "slug": "enej"
   },
   {
     "name": "Simon & Garfunkel",
     "id": 164,
-    "url": "https://pl.wikipedia.org/wiki/Simon_%26_Garfunkel"
+    "url": "https://pl.wikipedia.org/wiki/Simon_%26_Garfunkel",
+    "slug": "simon--garfunkel"
   },
   {
     "name": "Na Bani",
-    "id": 165
+    "id": 165,
+    "slug": "na-bani"
   },
   {
     "name": "Skorpió",
     "id": 166,
-    "url": "https://pl.wikipedia.org/wiki/Skorpi%C3%B3"
+    "url": "https://pl.wikipedia.org/wiki/Skorpi%C3%B3",
+    "slug": "skorpio"
   },
   {
     "name": "Dżem",
     "id": 167,
-    "url": "https://pl.wikipedia.org/wiki/D%C5%BCem_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/D%C5%BCem_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "dzem"
   },
   {
     "name": "Kapela Hanki Wójciak",
     "id": 168,
-    "url": "https://pl.wikipedia.org/wiki/Kapela_Hanki_W%C3%B3jciak"
+    "url": "https://pl.wikipedia.org/wiki/Kapela_Hanki_W%C3%B3jciak",
+    "slug": "kapela-hanki-wojciak"
   },
   {
     "name": "Scorpions",
     "id": 169,
-    "url": "https://pl.wikipedia.org/wiki/Scorpions"
+    "url": "https://pl.wikipedia.org/wiki/Scorpions",
+    "slug": "scorpions"
   },
   {
     "name": "Pink Floyd",
     "id": 170,
-    "url": "https://pl.wikipedia.org/wiki/Pink_Floyd"
+    "url": "https://pl.wikipedia.org/wiki/Pink_Floyd",
+    "slug": "pink-floyd"
   },
   {
     "name": "Secret Garden",
     "id": 171,
-    "url": "https://pl.wikipedia.org/wiki/Secret_Garden"
+    "url": "https://pl.wikipedia.org/wiki/Secret_Garden",
+    "slug": "secret-garden"
   },
   {
     "name": "The Cranberries",
     "id": 172,
-    "url": "https://pl.wikipedia.org/wiki/The_Cranberries"
+    "url": "https://pl.wikipedia.org/wiki/The_Cranberries",
+    "slug": "the-cranberries"
   },
   {
     "name": "Masters",
     "id": 173,
-    "url": "https://pl.wikipedia.org/wiki/Masters"
+    "url": "https://pl.wikipedia.org/wiki/Masters",
+    "slug": "masters"
   },
   {
     "name": "Bez Jacka",
     "id": 174,
-    "url": "https://pl.wikipedia.org/wiki/Bez_Jacka"
+    "url": "https://pl.wikipedia.org/wiki/Bez_Jacka",
+    "slug": "bez-jacka"
   },
   {
     "name": "Andrzej i Eliza",
     "id": 175,
-    "url": "https://pl.wikipedia.org/wiki/Andrzej_i_Eliza"
+    "url": "https://pl.wikipedia.org/wiki/Andrzej_i_Eliza",
+    "slug": "andrzej-i-eliza"
   },
   {
     "name": "Grzmiąca Półlitrówa",
     "id": 176,
-    "url": "http://www.malolepszy.net/malolepszy_gp.html"
+    "url": "http://www.malolepszy.net/malolepszy_gp.html",
+    "slug": "grzmiaca-pollitrowa"
   },
   {
     "name": "Habakuk",
     "id": 177,
-    "url": "https://pl.wikipedia.org/wiki/Habakuk_(zesp%C3%B3%C5%82_muzyczny)"
+    "url": "https://pl.wikipedia.org/wiki/Habakuk_(zesp%C3%B3%C5%82_muzyczny)",
+    "slug": "habakuk"
   },
   {
     "name": "A Great Big World",
     "id": 178,
-    "url": "https://pl.wikipedia.org/wiki/A_Great_Big_World"
+    "url": "https://pl.wikipedia.org/wiki/A_Great_Big_World",
+    "slug": "a-great-big-world"
   },
   {
     "name": "Buzu Squat",
     "id": 179,
-    "url": "https://pl.wikipedia.org/wiki/Buzu_Squat"
+    "url": "https://pl.wikipedia.org/wiki/Buzu_Squat",
+    "slug": "buzu-squat"
   }
 ]

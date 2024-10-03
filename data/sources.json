@@ -4,145 +4,166 @@
     "type": "movie",
     "name": "Zabawka",
     "url": "https://pl.wikipedia.org/wiki/Zabawka_(film_1933)",
-    "year": 1933
+    "year": 1933,
+    "slug": "zabawka"
   },
   {
     "id": 101,
     "type": "movie",
     "name": "Romeo i Julia",
     "url": "https://pl.wikipedia.org/wiki/Romeo_i_Julia_(film_1968)",
-    "year": 1968
+    "year": 1968,
+    "slug": "romeo-i-julia"
   },
   {
     "id": 102,
     "type": "musical",
     "name": "Romeo i Julia",
     "url": "https://pl.wikipedia.org/wiki/Romeo_i_Julia_(musical)",
-    "year": 2004
+    "year": 2004,
+    "slug": "romeo-i-julia-musical"
   },
   {
     "id": 103,
     "type": "musical",
     "name": "Notre-Dame de Paris",
     "url": "https://pl.wikipedia.org/wiki/Django_(film_2012)",
-    "year": 1998
+    "year": 1998,
+    "slug": "notre-dame-de-paris"
   },
   {
     "id": 104,
     "type": "movie",
     "name": "Król Lew",
     "url": "https://pl.wikipedia.org/wiki/Kr%C3%B3l_Lew_(film_1994)",
-    "year": 1994
+    "year": 1994,
+    "slug": "krol-lew"
   },
   {
     "id": 105,
     "type": "movie",
     "name": "Ogniem i Mieczem",
     "url": "https://pl.wikipedia.org/wiki/Ogniem_i_mieczem_(film_1999)",
-    "year": 1999
+    "year": 1999,
+    "slug": "ogniem-i-mieczem"
   },
   {
     "id": 106,
     "type": "musical",
     "name": "Król Lew (Broadway)",
     "url": "https://pl.wikipedia.org/wiki/Kr%C3%B3l_Lew_(film_1994)",
-    "year": 1997
+    "year": 1997,
+    "slug": "krol-lew-broadway"
   },
   {
     "id": 107,
     "type": "movie",
     "name": "Django",
     "url": "https://pl.wikipedia.org/wiki/Django_(film_2012)",
-    "year": 2012
+    "year": 2012,
+    "slug": "django"
   },
   {
     "id": 108,
     "type": "movie",
     "name": "Igrzyska śmierci: Kosogłos. Część 1",
     "url": "https://pl.wikipedia.org/wiki/Igrzyska_%C5%9Bmierci:_Kosog%C5%82os._Cz%C4%99%C5%9B%C4%87_1",
-    "year": 2014
+    "year": 2014,
+    "slug": "igrzyska-smierci-kosoglos-czesc-1"
   },
   {
     "id": 109,
     "type": "movie",
     "name": "Król Lew II: Czas Simby",
     "url": "https://pl.wikipedia.org/wiki/Kr%C3%B3l_Lew_II:_Czas_Simby",
-    "year": 1999
+    "year": 1999,
+    "slug": "krol-lew-ii-czas-simby"
   },
   {
     "id": 110,
     "type": "soundtrack",
     "name": "Rhythm of the Pride Lands",
     "url": "https://en.wikipedia.org/wiki/Rhythm_of_the_Pride_Lands",
-    "year": 1995
+    "year": 1995,
+    "slug": "rhythm-of-the-pride-lands"
   },
   {
     "id": 111,
     "type": "movie",
     "name": "Piraci z Karaibów: Na krańcu świata",
     "url": "https://pl.wikipedia.org/wiki/Piraci_z_Karaib%C3%B3w:_Na_kra%C5%84cu_%C5%9Bwiata",
-    "year": 2007
+    "year": 2007,
+    "slug": "piraci-z-karaibow-na-krancu-swiata"
   },
   {
     "id": 112,
     "type": "movie",
     "name": "Wyklęty",
     "url": "https://pl.wikipedia.org/wiki/Wykl%C4%99ty_(film)",
-    "year": 2017
+    "year": 2017,
+    "slug": "wyklety"
   },
   {
     "id": 113,
     "type": "music-tale",
     "name": "Przygody Piotrusia Pana",
-    "year": 1978
+    "year": 1978,
+    "slug": "przygody-piotrusia-pana"
   },
   {
     "id": 114,
     "type": "movie",
     "name": "Pocahontas",
     "url": "https://pl.wikipedia.org/wiki/Pocahontas_(film_1995)",
-    "year": 1995
+    "year": 1995,
+    "slug": "pocahontas"
   },
   {
     "id": 115,
     "type": "movie",
     "name": "Lawa",
     "url": "https://www.filmweb.pl/film/Lawa-2014-719437",
-    "year": 2014
+    "year": 2014,
+    "slug": "lawa"
   },
   {
     "id": 116,
     "type": "musical",
     "name": "Taniec Wampirów",
     "url": "https://pl.wikipedia.org/wiki/Taniec_wampir%C3%B3w",
-    "year": 1997
+    "year": 1997,
+    "slug": "taniec-wampirow"
   },
   {
     "id": 117,
     "type": "musical",
     "name": "Miss Saigon",
     "url": "https://pl.wikipedia.org/wiki/Miss_Saigon",
-    "year": 1989
+    "year": 1989,
+    "slug": "miss-saigon"
   },
   {
     "id": 118,
     "type": "game",
     "name": "Wiedźmin 3: Dziki Gon",
     "url": "https://pl.wikipedia.org/wiki/Wied%C5%BAmin_3:_Dziki_Gon",
-    "year": 2015
+    "year": 2015,
+    "slug": "wiedzmin-3-dziki-gon"
   },
   {
     "id": 119,
     "type": "movie",
     "name": "Mulan",
     "url": "https://pl.wikipedia.org/wiki/Mulan_(film_1998)",
-    "year": 1998
+    "year": 1998,
+    "slug": "mulan"
   },
   {
     "id": 120,
     "type": "movie",
     "name": "Piraci z Karaibów: Skrzynia umarlaka",
     "url": "https://pl.wikipedia.org/wiki/Piraci_z_Karaib%C3%B3w:_Skrzynia_umarlaka",
-    "year": 2006
+    "year": 2006,
+    "slug": "piraci-z-karaibow-skrzynia-umarlaka"
   }
 ]
