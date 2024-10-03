@@ -13,24 +13,6 @@
                   {
                     "chord": {
                       "note": {
-                        "base": "C"
-                      },
-                      "minor": true
-                    }
-                  }
-                ],
-                "optional": true,
-                "silent": true
-              },
-              {
-                "chords": [],
-                "silent": true
-              },
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
                         "base": "A"
                       },
                       "minor": true
@@ -1030,6 +1012,18 @@
   ],
   "key": {
     "songbook": {
+      "note": {
+        "base": "A"
+      },
+      "minor": true
+    },
+    "original": {
+      "note": {
+        "base": "D"
+      },
+      "minor": true
+    },
+    "comfort": {
       "note": {
         "base": "C"
       },

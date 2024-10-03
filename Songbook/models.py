@@ -39,7 +39,7 @@ def replace_category(song: dict):
     category = song.get('category')
     if not category:
         return
-    song['category'] = categories[category]
+    song['category'] = categories[category]['slug']
 
 
 def replace_authors(song: dict, author: str):
@@ -67,11 +67,7 @@ def get_song(song_slug: str):
 
 
 def get_songs():
-    return [{'slug': slug, 'title': song["title"]} for slug, song in songs.items()]
-
-
-def get_songs_by_category(category: str):
-    return [{'slug': slug, 'title': song["title"]} for slug, song in songs.items() if song['category'] == category]
+    return [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for slug, song in songs.items()]
 
 
 def fast_search(key: str):
