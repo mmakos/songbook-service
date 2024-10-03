@@ -1,10 +1,7 @@
 {
-  "id": "rudy-gosc",
+  "id": 1384,
   "title": "Rudy gość",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -680,5 +677,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "rudy-gosc",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

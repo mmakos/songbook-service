@@ -1,10 +1,7 @@
 {
-  "id": "przyjaciele",
+  "id": 1375,
   "title": "Przyjaciele",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -683,5 +680,11 @@
   },
   "performer": [
     507
-  ]
+  ],
+  "slug": "przyjaciele",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

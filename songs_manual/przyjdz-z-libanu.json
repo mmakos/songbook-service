@@ -1,10 +1,7 @@
 {
-  "id": "przyjdz-z-libanu",
+  "id": 1376,
   "title": "Przyjdź z Libanu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1264,5 +1261,11 @@
       "minor": true
     }
   },
-  "band": 147
+  "band": 147,
+  "slug": "przyjdz-z-libanu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

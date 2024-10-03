@@ -1,10 +1,7 @@
 {
-  "id": "lawa",
+  "id": 1284,
   "title": "Lawa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -854,5 +851,11 @@
   ],
   "performer": [
     454
-  ]
+  ],
+  "slug": "lawa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

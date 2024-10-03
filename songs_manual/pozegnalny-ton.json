@@ -1,10 +1,7 @@
 {
-  "id": "pozegnalny-ton",
+  "id": 1367,
   "title": "Pożegnalny ton",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1090,5 +1087,11 @@
   ],
   "composer": [
     511
-  ]
+  ],
+  "slug": "pozegnalny-ton",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

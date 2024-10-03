@@ -1,10 +1,7 @@
 {
-  "id": "pila-tango",
+  "id": 1357,
   "title": "Piła Tango",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2562,5 +2559,11 @@
   "composer": [
     312
   ],
-  "band": 156
+  "band": 156,
+  "slug": "pila-tango",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "od-nocy-do-nocy",
+  "id": 1601,
   "title": "Od nocy do nocy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -472,5 +469,11 @@
   ],
   "composer": [
     502
-  ]
+  ],
+  "slug": "od-nocy-do-nocy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

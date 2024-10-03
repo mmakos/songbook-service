@@ -1,10 +1,7 @@
 {
-  "id": "let-it-be",
+  "id": 1286,
   "title": "Let it be",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1429,5 +1426,11 @@
     453,
     377
   ],
-  "band": 144
+  "band": 144,
+  "slug": "let-it-be",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

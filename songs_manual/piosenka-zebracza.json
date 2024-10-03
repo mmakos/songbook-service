@@ -1,10 +1,7 @@
 {
-  "id": "piosenka-zebracza",
+  "id": 1054,
   "title": "Piosenka żebracza",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2450,5 +2447,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "piosenka-zebracza",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "skrzydlate-rece",
+  "id": 1565,
   "title": "Skrzydlate Ręce",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -914,5 +911,11 @@
     530,
     531
   ],
-  "band": 163
+  "band": 163,
+  "slug": "skrzydlate-rece",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

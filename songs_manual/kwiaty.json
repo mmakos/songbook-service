@@ -1,10 +1,7 @@
 {
-  "id": "kwiaty",
+  "id": 1277,
   "title": "Kwiaty",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -704,5 +701,11 @@
         "base": "E"
       }
     }
+  },
+  "slug": "kwiaty",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "1980-ii",
+  "id": 1625,
   "title": "1980 II",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1461,5 +1458,11 @@
   "lyrics": [
     114
   ],
-  "band": 100
+  "band": 100,
+  "slug": "1980-ii",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

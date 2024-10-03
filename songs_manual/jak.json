@@ -1,10 +1,7 @@
 {
-  "id": "jak",
+  "id": 1246,
   "title": "Jak",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -835,5 +832,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "jak",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

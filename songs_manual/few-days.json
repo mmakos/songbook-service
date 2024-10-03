@@ -1,10 +1,7 @@
 {
-  "id": "few-days",
+  "id": 1214,
   "title": "Few days",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1177,5 +1174,11 @@
       }
     }
   },
-  "band": 128
+  "band": 128,
+  "slug": "few-days",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

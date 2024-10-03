@@ -1,10 +1,7 @@
 {
-  "id": "upadek-zwiazku-radzieckiego",
+  "id": 1077,
   "title": "Upadek Związku Radzieckiego",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1362,5 +1359,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "upadek-zwiazku-radzieckiego",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

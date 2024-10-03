@@ -1,10 +1,7 @@
 {
-  "id": "kiedy-ranne-wstaja-zorze",
+  "id": 1520,
   "title": "Kiedy ranne wstają zorze",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -754,5 +751,11 @@
   ],
   "composer": [
     430
-  ]
+  ],
+  "slug": "kiedy-ranne-wstaja-zorze",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

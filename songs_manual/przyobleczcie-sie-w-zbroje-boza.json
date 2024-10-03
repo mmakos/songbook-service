@@ -1,10 +1,7 @@
 {
-  "id": "przyobleczcie-sie-w-zbroje-boza",
+  "id": 1542,
   "title": "Przyobleczcie się w zbroję Bożą",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -674,5 +671,11 @@
   "composer": [
     348
   ],
-  "band": 147
+  "band": 147,
+  "slug": "przyobleczcie-sie-w-zbroje-boza",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

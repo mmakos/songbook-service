@@ -1,10 +1,7 @@
 {
-  "id": "litania",
+  "id": 1291,
   "title": "Litania",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -739,5 +736,11 @@
   ],
   "composer": [
     117
-  ]
+  ],
+  "slug": "litania",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

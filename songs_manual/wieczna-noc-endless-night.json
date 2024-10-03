@@ -1,10 +1,7 @@
 {
-  "id": "wieczna-noc-endless-night",
+  "id": 1438,
   "title": "Wieczna noc (Endless Night)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1126,5 +1123,11 @@
   ],
   "source": [
     106
-  ]
+  ],
+  "slug": "wieczna-noc-endless-night",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "stokrotka",
+  "id": 1399,
   "title": "Stokrotka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -531,5 +528,11 @@
   },
   "lyrics": [
     524
-  ]
+  ],
+  "slug": "stokrotka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

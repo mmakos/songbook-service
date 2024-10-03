@@ -1,10 +1,7 @@
 {
-  "id": "to-co-spelni-sie",
+  "id": 1573,
   "title": "To co spełni się",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -392,5 +389,11 @@
   ],
   "composer": [
     205
-  ]
+  ],
+  "slug": "to-co-spelni-sie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

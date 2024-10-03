@@ -1,10 +1,7 @@
 {
-  "id": "powrot-z-syberii",
+  "id": 1058,
   "title": "Powrót z Syberii",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2346,5 +2343,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "powrot-z-syberii",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

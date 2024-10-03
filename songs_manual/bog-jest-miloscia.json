@@ -1,10 +1,7 @@
 {
-  "id": "bog-jest-miloscia",
+  "id": 1505,
   "title": "Bóg jest miłością",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -183,5 +180,11 @@
   "lyrics": [
     316
   ],
-  "band": 110
+  "band": 110,
+  "slug": "bog-jest-miloscia",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

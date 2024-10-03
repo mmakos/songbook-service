@@ -1,10 +1,7 @@
 {
-  "id": "dalej-w-morze",
+  "id": 1188,
   "title": "Dalej w morze",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -751,5 +748,11 @@
   },
   "performer": [
     167
-  ]
+  ],
+  "slug": "dalej-w-morze",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

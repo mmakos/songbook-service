@@ -1,10 +1,7 @@
 {
-  "id": "oto-jest-dzien",
+  "id": 1534,
   "title": "Oto jest dzień",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -255,5 +252,11 @@
   ],
   "performer": [
     380
-  ]
+  ],
+  "slug": "oto-jest-dzien",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

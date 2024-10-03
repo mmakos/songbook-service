@@ -1,10 +1,7 @@
 {
-  "id": "wesoly-roger",
+  "id": 1435,
   "title": "Wesoły Roger",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -696,5 +693,11 @@
   ],
   "source": [
     113
-  ]
+  ],
+  "slug": "wesoly-roger",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

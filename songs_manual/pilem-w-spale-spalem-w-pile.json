@@ -1,10 +1,7 @@
 {
-  "id": "pilem-w-spale-spalem-w-pile",
+  "id": 1612,
   "title": "Piłem w Spale, spałem w Pile",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -961,5 +958,11 @@
   ],
   "composer": [
     292
-  ]
+  ],
+  "slug": "pilem-w-spale-spalem-w-pile",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

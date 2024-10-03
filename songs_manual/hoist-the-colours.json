@@ -1,10 +1,7 @@
 {
-  "id": "hoist-the-colours",
+  "id": 1240,
   "title": "Hoist the Colours",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -654,5 +651,11 @@
   ],
   "source": [
     111
-  ]
+  ],
+  "slug": "hoist-the-colours",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

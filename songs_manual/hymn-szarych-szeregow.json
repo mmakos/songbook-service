@@ -1,10 +1,7 @@
 {
-  "id": "hymn-szarych-szeregow",
+  "id": 1473,
   "title": "Hymn szarych szeregów",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -2154,5 +2151,11 @@
   },
   "performer": [
     330
-  ]
+  ],
+  "slug": "hymn-szarych-szeregow",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

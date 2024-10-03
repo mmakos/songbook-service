@@ -1,10 +1,7 @@
 {
-  "id": "powrot",
+  "id": 1059,
   "title": "Powrót",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1186,5 +1183,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "powrot",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

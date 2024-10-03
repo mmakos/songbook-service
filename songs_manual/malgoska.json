@@ -1,10 +1,7 @@
 {
-  "id": "malgoska",
+  "id": 1301,
   "title": "Małgośka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1271,5 +1268,11 @@
   ],
   "performer": [
     131
-  ]
+  ],
+  "slug": "malgoska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

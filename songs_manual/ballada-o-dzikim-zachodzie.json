@@ -1,10 +1,7 @@
 {
-  "id": "ballada-o-dzikim-zachodzie",
+  "id": 1143,
   "title": "Ballada o dzikim zachodzie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2645,5 +2642,11 @@
   "composer": [
     138
   ],
-  "band": 104
+  "band": 104,
+  "slug": "ballada-o-dzikim-zachodzie",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "kara-barabasza",
+  "id": 1029,
   "title": "Kara Barabasza",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1929,5 +1926,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "kara-barabasza",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

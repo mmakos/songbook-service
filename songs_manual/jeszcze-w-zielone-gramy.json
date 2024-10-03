@@ -1,10 +1,7 @@
 {
-  "id": "jeszcze-w-zielone-gramy",
+  "id": 1613,
   "title": "Jeszcze w zielone gramy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1400,5 +1397,11 @@
   ],
   "composer": [
     419
-  ]
+  ],
+  "slug": "jeszcze-w-zielone-gramy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

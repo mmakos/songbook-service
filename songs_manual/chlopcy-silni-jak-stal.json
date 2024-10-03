@@ -1,10 +1,7 @@
 {
-  "id": "chlopcy-silni-jak-stal",
+  "id": 1465,
   "title": "Chłopcy silni jak stal",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -890,5 +887,11 @@
   },
   "performer": [
     491
-  ]
+  ],
+  "slug": "chlopcy-silni-jak-stal",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

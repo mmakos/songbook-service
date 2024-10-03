@@ -1,10 +1,7 @@
 {
-  "id": "astrolog",
+  "id": 1005,
   "title": "Astrolog",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1262,5 +1259,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "astrolog",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

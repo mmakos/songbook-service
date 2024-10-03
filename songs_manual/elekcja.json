@@ -1,10 +1,7 @@
 {
-  "id": "elekcja",
+  "id": 1016,
   "title": "Elekcja",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2049,5 +2046,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "elekcja",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

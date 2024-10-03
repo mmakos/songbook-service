@@ -1,10 +1,7 @@
 {
-  "id": "plynmy-do-starej-maui",
+  "id": 1364,
   "title": "Płyńmy do Starej Maui",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2301,5 +2298,11 @@
   "lyrics": [
     515
   ],
-  "band": 158
+  "band": 158,
+  "slug": "plynmy-do-starej-maui",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

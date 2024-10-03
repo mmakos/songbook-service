@@ -1,10 +1,7 @@
 {
-  "id": "kapitan-hak",
+  "id": 1256,
   "title": "Kapitan Hak",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -362,5 +359,11 @@
   ],
   "source": [
     113
-  ]
+  ],
+  "slug": "kapitan-hak",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

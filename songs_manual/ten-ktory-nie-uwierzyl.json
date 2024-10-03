@@ -1,10 +1,7 @@
 {
-  "id": "ten-ktory-nie-uwierzyl",
+  "id": 1414,
   "title": "Ten, który nie uwierzył",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2262,5 +2259,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "ten-ktory-nie-uwierzyl",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "jaka-jestes",
+  "id": 1247,
   "title": "Jaka jesteś",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -814,5 +811,11 @@
   ],
   "composer": [
     408
-  ]
+  ],
+  "slug": "jaka-jestes",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

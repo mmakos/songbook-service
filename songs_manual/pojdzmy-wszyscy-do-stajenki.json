@@ -1,10 +1,7 @@
 {
-  "id": "pojdzmy-wszyscy-do-stajenki",
+  "id": 1115,
   "title": "Pójdźmy wszyscy do stajenki",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -542,5 +539,11 @@
         "base": "A"
       }
     }
+  },
+  "slug": "pojdzmy-wszyscy-do-stajenki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

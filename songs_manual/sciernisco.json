@@ -1,10 +1,7 @@
 {
-  "id": "sciernisco",
+  "id": 1390,
   "title": "Ściernisco",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -638,5 +635,11 @@
       "minor": true
     }
   },
-  "band": 152
+  "band": 152,
+  "slug": "sciernisco",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

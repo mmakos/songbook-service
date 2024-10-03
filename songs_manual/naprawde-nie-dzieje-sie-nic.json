@@ -1,10 +1,7 @@
 {
-  "id": "naprawde-nie-dzieje-sie-nic",
+  "id": 1330,
   "title": "Naprawdę nie dzieje się nic",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -729,5 +726,11 @@
   ],
   "composer": [
     265
-  ]
+  ],
+  "slug": "naprawde-nie-dzieje-sie-nic",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

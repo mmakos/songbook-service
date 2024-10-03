@@ -1,10 +1,7 @@
 {
-  "id": "santiana",
+  "id": 1388,
   "title": "Santiana",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -698,5 +695,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "santiana",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

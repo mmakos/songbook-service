@@ -1,10 +1,7 @@
 {
-  "id": "speak-softly-love",
+  "id": 1395,
   "title": "Speak Softly, Love",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -754,5 +751,11 @@
   ],
   "composer": [
     120
-  ]
+  ],
+  "slug": "speak-softly-love",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

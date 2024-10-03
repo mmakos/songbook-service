@@ -1,10 +1,7 @@
 {
-  "id": "damastes-z-przydomkiem-prokrustes-mowi",
+  "id": 1012,
   "title": "Damastes z przydomkiem Prokrustes mówi",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -657,5 +654,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "damastes-z-przydomkiem-prokrustes-mowi",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

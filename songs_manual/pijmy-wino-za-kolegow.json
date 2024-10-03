@@ -1,10 +1,7 @@
 {
-  "id": "pijmy-wino-za-kolegow",
+  "id": 1356,
   "title": "Pijmy wino za kolegów",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -498,5 +495,11 @@
   ],
   "composer": [
     210
-  ]
+  ],
+  "slug": "pijmy-wino-za-kolegow",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

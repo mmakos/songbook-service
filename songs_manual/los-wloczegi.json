@@ -1,10 +1,7 @@
 {
-  "id": "los-wloczegi",
+  "id": 1294,
   "title": "Los włóczęgi",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -673,5 +670,11 @@
   ],
   "composer": [
     452
-  ]
+  ],
+  "slug": "los-wloczegi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

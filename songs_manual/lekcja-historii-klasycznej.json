@@ -1,10 +1,7 @@
 {
-  "id": "lekcja-historii-klasycznej",
+  "id": 1039,
   "title": "Lekcja historii klasycznej",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -841,5 +838,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "lekcja-historii-klasycznej",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

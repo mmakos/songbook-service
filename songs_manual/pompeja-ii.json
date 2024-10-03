@@ -1,10 +1,7 @@
 {
-  "id": "pompeja-ii",
+  "id": 1575,
   "title": "Pompeja II",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1769,5 +1766,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "pompeja-ii",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

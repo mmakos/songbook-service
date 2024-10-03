@@ -1,10 +1,7 @@
 {
-  "id": "phantom-of-the-opera-wersja-polska",
+  "id": 1352,
   "title": "Phantom of the opera (wersja polska)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1284,5 +1281,11 @@
   ],
   "composer": [
     489
-  ]
+  ],
+  "slug": "phantom-of-the-opera-wersja-polska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

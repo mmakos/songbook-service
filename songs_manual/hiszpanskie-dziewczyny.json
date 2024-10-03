@@ -1,10 +1,7 @@
 {
-  "id": "hiszpanskie-dziewczyny",
+  "id": 1239,
   "title": "Hiszpańskie dziewczyny",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -916,5 +913,11 @@
   },
   "lyrics": [
     398
-  ]
+  ],
+  "slug": "hiszpanskie-dziewczyny",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

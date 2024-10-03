@@ -1,10 +1,7 @@
 {
-  "id": "niech-mowia-ze-to-nie-jest-milosc",
+  "id": 1338,
   "title": "Niech mówią, że to nie jest miłość",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1435,5 +1432,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "niech-mowia-ze-to-nie-jest-milosc",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

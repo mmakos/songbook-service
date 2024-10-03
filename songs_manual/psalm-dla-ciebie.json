@@ -1,10 +1,7 @@
 {
-  "id": "psalm-dla-ciebie",
+  "id": 1377,
   "title": "Psalm dla Ciebie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1419,5 +1416,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "psalm-dla-ciebie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

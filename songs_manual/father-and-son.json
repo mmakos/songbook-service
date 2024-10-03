@@ -1,10 +1,7 @@
 {
-  "id": "father-and-son",
+  "id": 1213,
   "title": "Father and Son",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1316,5 +1313,11 @@
   },
   "performer": [
     324
-  ]
+  ],
+  "slug": "father-and-son",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

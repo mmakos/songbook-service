@@ -1,10 +1,7 @@
 {
-  "id": "kanapka-z-czlowiekiem",
+  "id": 1027,
   "title": "Kanapka z człowiekiem",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -709,5 +706,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "kanapka-z-czlowiekiem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

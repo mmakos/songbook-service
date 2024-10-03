@@ -1,10 +1,7 @@
 {
-  "id": "rains-of-castamere",
+  "id": 1380,
   "title": "Rains of Castamere",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -455,5 +452,11 @@
   ],
   "composer": [
     287
-  ]
+  ],
+  "slug": "rains-of-castamere",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

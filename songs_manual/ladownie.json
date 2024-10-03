@@ -1,10 +1,7 @@
 {
-  "id": "ladownie",
+  "id": 1278,
   "title": "Ładownie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -522,5 +519,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "ladownie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

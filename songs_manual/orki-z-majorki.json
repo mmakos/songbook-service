@@ -1,10 +1,7 @@
 {
-  "id": "orki-z-majorki",
+  "id": 1346,
   "title": "Orki z majorki",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1396,5 +1393,11 @@
   "composer": [
     495
   ],
-  "band": 154
+  "band": 154,
+  "slug": "orki-z-majorki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

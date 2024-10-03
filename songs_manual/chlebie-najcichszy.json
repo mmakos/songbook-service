@@ -1,10 +1,7 @@
 {
-  "id": "chlebie-najcichszy",
+  "id": 1507,
   "title": "Chlebie najcichszy",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -498,5 +495,11 @@
   "composer": [
     299
   ],
-  "band": 115
+  "band": 115,
+  "slug": "chlebie-najcichszy",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

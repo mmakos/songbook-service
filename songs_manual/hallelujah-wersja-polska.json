@@ -1,10 +1,7 @@
 {
-  "id": "hallelujah-wersja-polska",
+  "id": 1227,
   "title": "Hallelujah (wersja polska)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1222,5 +1219,11 @@
   ],
   "translation": [
     241
-  ]
+  ],
+  "slug": "hallelujah-wersja-polska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

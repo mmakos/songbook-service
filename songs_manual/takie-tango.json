@@ -1,10 +1,7 @@
 {
-  "id": "takie-tango",
+  "id": 1408,
   "title": "Takie tango",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -950,5 +947,11 @@
   "composer": [
     421
   ],
-  "band": 136
+  "band": 136,
+  "slug": "takie-tango",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

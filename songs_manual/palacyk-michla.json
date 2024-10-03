@@ -1,10 +1,7 @@
 {
-  "id": "palacyk-michla",
+  "id": 1484,
   "title": "Pałacyk Michla",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -807,5 +804,11 @@
   ],
   "composer": [
     492
-  ]
+  ],
+  "slug": "palacyk-michla",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

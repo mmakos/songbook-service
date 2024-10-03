@@ -1,10 +1,7 @@
 {
-  "id": "tu-es-petrus",
+  "id": 1420,
   "title": "Tu Es Petrus",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1999,5 +1996,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "tu-es-petrus",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

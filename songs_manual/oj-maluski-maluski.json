@@ -1,10 +1,7 @@
 {
-  "id": "oj-maluski-maluski",
+  "id": 1114,
   "title": "Oj, maluśki, maluśki",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1037,5 +1034,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "oj-maluski-maluski",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "mario-czy-ty-wiesz",
+  "id": 1305,
   "title": "Mario, czy ty wiesz?",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1483,5 +1480,11 @@
   ],
   "composer": [
     459
-  ]
+  ],
+  "slug": "mario-czy-ty-wiesz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

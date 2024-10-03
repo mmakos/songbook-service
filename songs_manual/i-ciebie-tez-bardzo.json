@@ -1,10 +1,7 @@
 {
-  "id": "i-ciebie-tez-bardzo",
+  "id": 1582,
   "title": "I Ciebie też, bardzo",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -814,5 +811,11 @@
     345,
     405,
     256
-  ]
+  ],
+  "slug": "i-ciebie-tez-bardzo",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

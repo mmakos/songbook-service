@@ -1,10 +1,7 @@
 {
-  "id": "buka",
+  "id": 1596,
   "title": "Buka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1495,5 +1492,11 @@
   "composer": [
     168
   ],
-  "band": 113
+  "band": 113,
+  "slug": "buka",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

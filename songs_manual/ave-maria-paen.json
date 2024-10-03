@@ -1,10 +1,7 @@
 {
-  "id": "ave-maria-paen",
+  "id": 1141,
   "title": "Ave Maria Païen",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1647,5 +1644,11 @@
   ],
   "source": [
     103
-  ]
+  ],
+  "slug": "ave-maria-paen",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

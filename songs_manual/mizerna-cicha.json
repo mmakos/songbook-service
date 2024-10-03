@@ -1,10 +1,7 @@
 {
-  "id": "mizerna-cicha",
+  "id": 1111,
   "title": "Mizerna Cicha",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1222,5 +1219,11 @@
   ],
   "composer": [
     464
-  ]
+  ],
+  "slug": "mizerna-cicha",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

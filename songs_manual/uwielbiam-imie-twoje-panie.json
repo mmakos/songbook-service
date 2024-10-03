@@ -1,10 +1,7 @@
 {
-  "id": "uwielbiam-imie-twoje-panie",
+  "id": 1550,
   "title": "Uwielbiam Imię Twoje Panie",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -299,5 +296,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "uwielbiam-imie-twoje-panie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

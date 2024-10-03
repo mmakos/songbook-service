@@ -1,10 +1,7 @@
 {
-  "id": "list-do-malego-ksiecia",
+  "id": 1290,
   "title": "List do Małego Księcia",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -572,5 +569,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "list-do-malego-ksiecia",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

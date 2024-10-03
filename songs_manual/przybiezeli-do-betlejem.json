@@ -1,10 +1,7 @@
 {
-  "id": "przybiezeli-do-betlejem",
+  "id": 1118,
   "title": "Przybieżeli do Betlejem",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -869,5 +866,11 @@
         "base": "E"
       }
     }
+  },
+  "slug": "przybiezeli-do-betlejem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "to-juz-pora-na-wigilie",
+  "id": 1121,
   "title": "To już pora na Wigilię",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -566,5 +563,11 @@
   "lyrics": [
     274,
     391
-  ]
+  ],
+  "slug": "to-juz-pora-na-wigilie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

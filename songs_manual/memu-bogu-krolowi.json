@@ -1,10 +1,7 @@
 {
-  "id": "memu-bogu-krolowi",
+  "id": 1525,
   "title": "Memu Bogu, Królowi",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -186,5 +183,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "memu-bogu-krolowi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

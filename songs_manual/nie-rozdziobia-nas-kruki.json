@@ -1,10 +1,7 @@
 {
-  "id": "nie-rozdziobia-nas-kruki",
+  "id": 1336,
   "title": "Nie rozdziobią nas kruki",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -598,5 +595,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "nie-rozdziobia-nas-kruki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

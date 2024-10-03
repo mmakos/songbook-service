@@ -1,10 +1,7 @@
 {
-  "id": "jezus-malusienki",
+  "id": 1104,
   "title": "Jezus malusieńki",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1432,5 +1429,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "jezus-malusienki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

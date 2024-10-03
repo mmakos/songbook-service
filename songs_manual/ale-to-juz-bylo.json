@@ -1,10 +1,7 @@
 {
-  "id": "ale-to-juz-bylo",
+  "id": 1136,
   "title": "Ale to już było",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -782,5 +779,11 @@
   ],
   "performer": [
     131
-  ]
+  ],
+  "slug": "ale-to-juz-bylo",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

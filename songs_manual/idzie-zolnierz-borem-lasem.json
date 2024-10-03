@@ -1,10 +1,7 @@
 {
-  "id": "idzie-zolnierz-borem-lasem",
+  "id": 1474,
   "title": "Idzie żołnierz borem lasem",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -875,5 +872,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "idzie-zolnierz-borem-lasem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

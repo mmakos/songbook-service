@@ -1,10 +1,7 @@
 {
-  "id": "swiete-imie-jezus",
+  "id": 1545,
   "title": "Święte Imię Jezus",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -259,5 +256,11 @@
   },
   "performer": [
     367
-  ]
+  ],
+  "slug": "swiete-imie-jezus",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "cicha-noc",
+  "id": 1094,
   "title": "Cicha noc",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1038,5 +1035,11 @@
   ],
   "translation": [
     307
-  ]
+  ],
+  "slug": "cicha-noc",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

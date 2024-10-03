@@ -1,10 +1,7 @@
 {
-  "id": "every-breath",
+  "id": 1591,
   "title": "Every breath",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -574,5 +571,11 @@
   "composer": [
     224
   ],
-  "band": 127
+  "band": 127,
+  "slug": "every-breath",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

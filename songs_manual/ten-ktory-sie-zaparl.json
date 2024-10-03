@@ -1,10 +1,7 @@
 {
-  "id": "ten-ktory-sie-zaparl",
+  "id": 1415,
   "title": "Ten, który się zaparł",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1567,5 +1564,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "ten-ktory-sie-zaparl",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

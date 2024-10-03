@@ -1,10 +1,7 @@
 {
-  "id": "swieta-noc",
+  "id": 1120,
   "title": "Święta noc",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -745,5 +742,11 @@
   "lyrics": [
     525,
     383
-  ]
+  ],
+  "slug": "swieta-noc",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

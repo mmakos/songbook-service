@@ -1,10 +1,7 @@
 {
-  "id": "jesli-ty-nie-istnialbys",
+  "id": 1252,
   "title": "Jeśli ty nie istniałbyś",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -996,5 +993,11 @@
   ],
   "performer": [
     336
-  ]
+  ],
+  "slug": "jesli-ty-nie-istnialbys",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

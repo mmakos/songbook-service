@@ -1,10 +1,7 @@
 {
-  "id": "siedzielismy-jak-w-kinie",
+  "id": 1602,
   "title": "Siedzieliśmy jak w kinie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1307,5 +1304,11 @@
   },
   "lyrics": [
     133
-  ]
+  ],
+  "slug": "siedzielismy-jak-w-kinie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

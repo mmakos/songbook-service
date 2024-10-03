@@ -1,10 +1,7 @@
 {
-  "id": "bieszczady",
+  "id": 1158,
   "title": "Bieszczady",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -949,5 +946,11 @@
   },
   "performer": [
     155
-  ]
+  ],
+  "slug": "bieszczady",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

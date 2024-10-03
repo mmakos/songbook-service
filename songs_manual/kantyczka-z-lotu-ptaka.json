@@ -1,10 +1,7 @@
 {
-  "id": "kantyczka-z-lotu-ptaka",
+  "id": 1028,
   "title": "Kantyczka z lotu ptaka",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1696,5 +1693,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "kantyczka-z-lotu-ptaka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

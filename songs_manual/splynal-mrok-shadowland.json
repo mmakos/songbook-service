@@ -1,10 +1,7 @@
 {
-  "id": "splynal-mrok-shadowland",
+  "id": 1397,
   "title": "Spłynął mrok (Shadowland)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1262,5 +1259,11 @@
   "composer": [
     194,
     219
-  ]
+  ],
+  "slug": "splynal-mrok-shadowland",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

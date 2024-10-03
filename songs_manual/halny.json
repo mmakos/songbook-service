@@ -1,10 +1,7 @@
 {
-  "id": "halny",
+  "id": 1229,
   "title": "Halny",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1041,5 +1038,11 @@
   },
   "performer": [
     242
-  ]
+  ],
+  "slug": "halny",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

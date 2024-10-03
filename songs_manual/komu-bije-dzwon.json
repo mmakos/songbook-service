@@ -1,10 +1,7 @@
 {
-  "id": "komu-bije-dzwon",
+  "id": 1271,
   "title": "Komu bije dzwon",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1511,5 +1508,11 @@
       "minor": true
     }
   },
-  "band": 103
+  "band": 103,
+  "slug": "komu-bije-dzwon",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

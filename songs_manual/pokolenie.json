@@ -1,10 +1,7 @@
 {
-  "id": "pokolenie",
+  "id": 1056,
   "title": "Pokolenie",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -829,5 +826,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "pokolenie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

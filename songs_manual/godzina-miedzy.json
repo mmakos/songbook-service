@@ -1,10 +1,7 @@
 {
-  "id": "godzina-miedzy",
+  "id": 1219,
   "title": "Godzina między",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -463,5 +460,11 @@
   "composer": [
     232
   ],
-  "band": 131
+  "band": 131,
+  "slug": "godzina-miedzy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

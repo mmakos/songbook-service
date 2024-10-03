@@ -1,10 +1,7 @@
 {
-  "id": "niebieskooka",
+  "id": 1337,
   "title": "Niebieskooka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1041,5 +1038,11 @@
   "composer": [
     475
   ],
-  "band": 107
+  "band": 107,
+  "slug": "niebieskooka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

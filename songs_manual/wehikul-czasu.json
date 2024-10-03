@@ -1,10 +1,7 @@
 {
-  "id": "wehikul-czasu",
+  "id": 1433,
   "title": "Wehikuł czasu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -942,5 +939,11 @@
   "composer": [
     543
   ],
-  "band": 167
+  "band": 167,
+  "slug": "wehikul-czasu",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

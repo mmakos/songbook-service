@@ -1,10 +1,7 @@
 {
-  "id": "ulani-malowane-dzieci",
+  "id": 1497,
   "title": "Ułani, malowane dzieci",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -664,5 +661,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "ulani-malowane-dzieci",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "piosenki-bony-m",
+  "id": 1619,
   "title": "Piosenki Bony M",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2578,5 +2575,11 @@
   ],
   "composer": [
     517
-  ]
+  ],
+  "slug": "piosenki-bony-m",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

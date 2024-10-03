@@ -1,10 +1,7 @@
 {
-  "id": "w-moim-ogrodecku",
+  "id": 1603,
   "title": "W moim ogródecku",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1282,5 +1279,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "w-moim-ogrodecku",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

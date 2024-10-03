@@ -1,10 +1,7 @@
 {
-  "id": "zrobie-mezczyzn-z-was",
+  "id": 1462,
   "title": "Zrobię mężczyzn z was",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1354,5 +1351,11 @@
   ],
   "source": [
     119
-  ]
+  ],
+  "slug": "zrobie-mezczyzn-z-was",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "wilcza-zamiec-piesn-priscilli",
+  "id": 1441,
   "title": "Wilcza zamieć (Pieśń Priscilli)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -631,5 +628,11 @@
   ],
   "source": [
     118
-  ]
+  ],
+  "slug": "wilcza-zamiec-piesn-priscilli",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

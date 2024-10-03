@@ -1,10 +1,7 @@
 {
-  "id": "rudy-frank",
+  "id": 1383,
   "title": "Rudy Frank",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -623,5 +620,11 @@
   },
   "lyrics": [
     533
-  ]
+  ],
+  "slug": "rudy-frank",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

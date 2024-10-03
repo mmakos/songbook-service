@@ -1,10 +1,7 @@
 {
-  "id": "miejcie-nadzieje",
+  "id": 1309,
   "title": "Miejcie nadzieję",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1511,5 +1508,11 @@
   ],
   "composer": [
     391
-  ]
+  ],
+  "slug": "miejcie-nadzieje",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "rozmowa",
+  "id": 1065,
   "title": "Rozmowa",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1789,5 +1786,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "rozmowa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "hawran-i-muran",
+  "id": 1232,
   "title": "Hawrań i Murań",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -802,5 +799,11 @@
   ],
   "composer": [
     249
-  ]
+  ],
+  "slug": "hawran-i-muran",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

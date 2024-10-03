@@ -1,10 +1,7 @@
 {
-  "id": "droga-na-smolensk",
+  "id": 1200,
   "title": "Droga na Smoleńsk",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -651,5 +648,11 @@
   ],
   "translation": [
     214
-  ]
+  ],
+  "slug": "droga-na-smolensk",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

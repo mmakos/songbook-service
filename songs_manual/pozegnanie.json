@@ -1,10 +1,7 @@
 {
-  "id": "pozegnanie",
+  "id": 1369,
   "title": "Pożegnanie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1216,5 +1213,11 @@
   },
   "performer": [
     360
-  ]
+  ],
+  "slug": "pozegnanie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

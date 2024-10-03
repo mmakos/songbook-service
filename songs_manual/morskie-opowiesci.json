@@ -1,10 +1,7 @@
 {
-  "id": "morskie-opowiesci",
+  "id": 1321,
   "title": "Morskie opowieści",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1561,5 +1558,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "morskie-opowiesci",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

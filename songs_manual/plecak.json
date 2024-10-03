@@ -1,10 +1,7 @@
 {
-  "id": "plecak",
+  "id": 1362,
   "title": "Plecak",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -431,5 +428,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "plecak",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

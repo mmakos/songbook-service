@@ -1,10 +1,7 @@
 {
-  "id": "ten-ktory-nie-poznal",
+  "id": 1413,
   "title": "Ten, który nie poznał",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1934,5 +1931,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "ten-ktory-nie-poznal",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

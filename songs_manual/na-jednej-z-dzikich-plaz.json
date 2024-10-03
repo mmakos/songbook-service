@@ -1,10 +1,7 @@
 {
-  "id": "na-jednej-z-dzikich-plaz",
+  "id": 1326,
   "title": "Na jednej z dzikich plaż",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -482,5 +479,11 @@
   "composer": [
     485
   ],
-  "band": 149
+  "band": 149,
+  "slug": "na-jednej-z-dzikich-plaz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

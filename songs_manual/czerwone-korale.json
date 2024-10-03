@@ -1,10 +1,7 @@
 {
-  "id": "czerwone-korale",
+  "id": 1184,
   "title": "Czerwone korale",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -913,5 +910,11 @@
   "composer": [
     394
   ],
-  "band": 120
+  "band": 120,
+  "slug": "czerwone-korale",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

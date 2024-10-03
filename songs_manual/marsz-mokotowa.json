@@ -1,10 +1,7 @@
 {
-  "id": "marsz-mokotowa",
+  "id": 1477,
   "title": "Marsz Mokotowa",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -941,5 +938,11 @@
   ],
   "composer": [
     473
-  ]
+  ],
+  "slug": "marsz-mokotowa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "kolysanka",
+  "id": 1269,
   "title": "Kołysanka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -668,5 +665,11 @@
   },
   "performer": [
     339
-  ]
+  ],
+  "slug": "kolysanka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

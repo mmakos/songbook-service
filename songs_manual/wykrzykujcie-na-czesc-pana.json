@@ -1,10 +1,7 @@
 {
-  "id": "wykrzykujcie-na-czesc-pana",
+  "id": 1556,
   "title": "Wykrzykujcie na cześć Pana",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -650,5 +647,11 @@
   "composer": [
     304
   ],
-  "band": 115
+  "band": 115,
+  "slug": "wykrzykujcie-na-czesc-pana",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

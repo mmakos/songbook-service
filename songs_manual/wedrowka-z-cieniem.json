@@ -1,10 +1,7 @@
 {
-  "id": "wedrowka-z-cieniem",
+  "id": 1079,
   "title": "Wędrówka z cieniem",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1171,5 +1168,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "wedrowka-z-cieniem",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

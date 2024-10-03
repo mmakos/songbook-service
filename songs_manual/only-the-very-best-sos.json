@@ -1,10 +1,7 @@
 {
-  "id": "only-the-very-best-sos",
+  "id": 1344,
   "title": "Only the very best (S.O.S.)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1186,5 +1183,11 @@
   ],
   "composer": [
     497
-  ]
+  ],
+  "slug": "only-the-very-best-sos",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

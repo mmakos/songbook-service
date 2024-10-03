@@ -1,10 +1,7 @@
 {
-  "id": "plona-gory-plona-lasy",
+  "id": 1363,
   "title": "Płoną góry płoną lasy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -405,5 +402,11 @@
   "composer": [
     210
   ],
-  "band": 107
+  "band": 107,
+  "slug": "plona-gory-plona-lasy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

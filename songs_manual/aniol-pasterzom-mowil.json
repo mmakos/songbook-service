@@ -1,10 +1,7 @@
 {
-  "id": "aniol-pasterzom-mowil",
+  "id": 1091,
   "title": "Anioł pasterzom mówił",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1654,5 +1651,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "aniol-pasterzom-mowil",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

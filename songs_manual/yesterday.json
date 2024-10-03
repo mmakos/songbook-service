@@ -1,10 +1,7 @@
 {
-  "id": "yesterday",
+  "id": 1446,
   "title": "Yesterday",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -718,5 +715,11 @@
   "composer": [
     377
   ],
-  "band": 144
+  "band": 144,
+  "slug": "yesterday",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

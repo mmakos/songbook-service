@@ -1,10 +1,7 @@
 {
-  "id": "brzegi-nowej-szkocji",
+  "id": 1167,
   "title": "Brzegi Nowej Szkocji",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -584,5 +581,11 @@
   },
   "lyrics": [
     167
-  ]
+  ],
+  "slug": "brzegi-nowej-szkocji",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

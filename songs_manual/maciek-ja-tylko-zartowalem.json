@@ -1,10 +1,7 @@
 {
-  "id": "maciek-ja-tylko-zartowalem",
+  "id": 1297,
   "title": "Maciek, ja tylko żartowałem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -985,5 +982,11 @@
   },
   "performer": [
     135
-  ]
+  ],
+  "slug": "maciek-ja-tylko-zartowalem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

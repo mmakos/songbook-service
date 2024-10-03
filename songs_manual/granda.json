@@ -1,10 +1,7 @@
 {
-  "id": "granda",
+  "id": 1593,
   "title": "Granda",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -867,5 +864,11 @@
   "composer": [
     235,
     236
-  ]
+  ],
+  "slug": "granda",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

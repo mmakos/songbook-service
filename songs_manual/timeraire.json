@@ -1,10 +1,7 @@
 {
-  "id": "timeraire",
+  "id": 1418,
   "title": "Timeraire",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1267,5 +1264,11 @@
   "composer": [
     575
   ],
-  "band": 128
+  "band": 128,
+  "slug": "timeraire",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "obudz-sie",
+  "id": 1533,
   "title": "Obudź się",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -655,5 +652,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "obudz-sie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

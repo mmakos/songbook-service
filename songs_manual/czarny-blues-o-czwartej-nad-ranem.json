@@ -1,10 +1,7 @@
 {
-  "id": "czarny-blues-o-czwartej-nad-ranem",
+  "id": 1180,
   "title": "Czarny blues o czwartej nad ranem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -946,5 +943,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "czarny-blues-o-czwartej-nad-ranem",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

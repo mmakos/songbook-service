@@ -1,10 +1,7 @@
 {
-  "id": "wsrod-nocnej-ciszy",
+  "id": 1126,
   "title": "Wśród nocnej ciszy",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1820,5 +1817,11 @@
         "base": "A"
       }
     }
+  },
+  "slug": "wsrod-nocnej-ciszy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

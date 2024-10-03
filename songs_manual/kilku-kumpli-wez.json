@@ -1,10 +1,7 @@
 {
-  "id": "kilku-kumpli-wez",
+  "id": 1262,
   "title": "Kilku kumpli weź",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -378,5 +375,11 @@
   ],
   "composer": [
     432
-  ]
+  ],
+  "slug": "kilku-kumpli-wez",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

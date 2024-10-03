@@ -1,17 +1,14 @@
 {
-  "id": "los-peces-en-el-rio",
-  "title": "Los Peces en el Río",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "id": 1099,
+  "title": "El burrito de Belén",
+  "category": 5,
   "verses": [
     {
       "lines": [
         {
           "text": [
             {
-              "text": "La Virgen se está peinando"
+              "text": "Con mi burrito sabanero voy camino de Belén"
             }
           ],
           "chords": {
@@ -21,97 +18,14 @@
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Entre cortina y cortina"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
+                        "base": "G"
                       }
                     }
                   },
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Los cabellos son de oro"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Y el peine de plata fina."
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
+                        "base": "C"
                       }
                     }
                   },
@@ -119,23 +33,143 @@
                     "chord": {
                       "note": {
                         "base": "D"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
                       }
                     }
                   },
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
-                      },
-                      "minor": true
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Con mi burrito sabanero voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
                     }
                   }
                 ]
@@ -151,7 +185,7 @@
         {
           "text": [
             {
-              "text": "Pero mira cómo beben"
+              "text": "El lucerito mañanero ilumina mi sendero"
             }
           ],
           "chords": {
@@ -161,9 +195,29 @@
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
-                      },
-                      "minor": true
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
                     }
                   }
                 ]
@@ -174,7 +228,7 @@
         {
           "text": [
             {
-              "text": "Los peces en el río"
+              "text": "El lucerito mañanero ilumina mi sendero"
             }
           ],
           "chords": {
@@ -184,7 +238,325 @@
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Con mi cuatrico voy cantando, mi burrito va trotando"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Con mi cuatrico voy cantando, mi burrito va trotando"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Si me ven, si me ven voy camino de Belén"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "indent": 0
+    },
+    {
+      "lines": [
+        {
+          "text": [
+            {
+              "text": "Tuki tuki tuki tuki Tuki tuki tuki ta"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
                       },
                       "minor": true
                     }
@@ -192,60 +564,147 @@
                   {
                     "chord": {
                       "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Pero mira cómo beben"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Por ver al Dios nacido"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
+                        "base": "H"
                       }
                     }
                   },
                   {
                     "chord": {
                       "note": {
-                        "base": "A"
+                        "base": "E"
                       },
                       "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Apurate mi burrito que ya vamos a llegar"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Tuki tuki tuki tuki Tuki tuki tuki ta"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "H"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "E"
+                      },
+                      "minor": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "text": [
+            {
+              "text": "Apurate mi burrito vamos a ver a Jesús"
+            }
+          ],
+          "chords": {
+            "chords": [
+              {
+                "chords": [
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "C"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "D"
+                      }
+                    }
+                  },
+                  {
+                    "chord": {
+                      "note": {
+                        "base": "G"
+                      }
                     }
                   }
                 ]
@@ -255,400 +714,22 @@
         }
       ],
       "indent": 1
-    },
-    {
-      "lines": [
-        {
-          "text": [
-            {
-              "text": "Beben y Beben y"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Vuelven a Beber"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Los peces en el río"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Por ver a Dios nacer."
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "indent": 1
-    },
-    {
-      "lines": [
-        {
-          "text": [
-            {
-              "text": "La Virgen está lavando"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Y tendiendo en el romero"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Los angelitos cantando"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Y el romero floreciendo."
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "indent": 0
-    },
-    {
-      "lines": [
-        {
-          "text": [
-            {
-              "text": "Pero mira…"
-            }
-          ]
-        }
-      ],
-      "indent": 1,
-      "verseRef": 1
-    },
-    {
-      "lines": [
-        {
-          "text": [
-            {
-              "text": "La Virgen está lavando"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Con un poquito jabón,"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Se le picaron las manos"
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "text": [
-            {
-              "text": "Manos de mi corazón."
-            }
-          ],
-          "chords": {
-            "chords": [
-              {
-                "chords": [
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "E"
-                      }
-                    }
-                  },
-                  {
-                    "chord": {
-                      "note": {
-                        "base": "A"
-                      },
-                      "minor": true
-                    }
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "indent": 0
-    },
-    {
-      "lines": [
-        {
-          "text": [
-            {
-              "text": "Pero mira…"
-            }
-          ]
-        }
-      ],
-      "indent": 1,
-      "verseRef": 1
     }
   ],
   "key": {
     "songbook": {
       "note": {
-        "base": "A"
-      },
-      "minor": true
+        "base": "G"
+      }
     }
+  },
+  "performer": [
+    321
+  ],
+  "slug": "el-burrito-de-belen",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

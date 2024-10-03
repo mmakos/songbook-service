@@ -1,10 +1,7 @@
 {
-  "id": "nie-bylo-miejsca-dla-ciebie",
+  "id": 1112,
   "title": "Nie było miejsca dla Ciebie",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -890,5 +887,11 @@
   },
   "lyrics": [
     378
-  ]
+  ],
+  "slug": "nie-bylo-miejsca-dla-ciebie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "piosenka-bez-tytulu",
+  "id": 1358,
   "title": "Piosenka bez tytułu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -484,5 +481,11 @@
   ],
   "composer": [
     513
-  ]
+  ],
+  "slug": "piosenka-bez-tytulu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

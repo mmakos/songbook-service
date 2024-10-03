@@ -1,10 +1,7 @@
 {
-  "id": "piesn-wielorybnikow",
+  "id": 1355,
   "title": "Pieśń wielorybników",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -963,5 +960,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "piesn-wielorybnikow",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

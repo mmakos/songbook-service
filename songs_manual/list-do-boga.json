@@ -1,10 +1,7 @@
 {
-  "id": "list-do-boga",
+  "id": 1289,
   "title": "List do Boga",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -965,5 +962,11 @@
   },
   "performer": [
     343
-  ]
+  ],
+  "slug": "list-do-boga",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

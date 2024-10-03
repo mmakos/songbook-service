@@ -1,10 +1,7 @@
 {
-  "id": "rolling-in-the-deep",
+  "id": 1381,
   "title": "Rolling in the deep",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1705,5 +1702,11 @@
   "performer": [
     280,
     539
-  ]
+  ],
+  "slug": "rolling-in-the-deep",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

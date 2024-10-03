@@ -1,10 +1,7 @@
 {
-  "id": "za-siedmioma-marzeniami",
+  "id": 1449,
   "title": "Za siedmioma marzeniami",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -729,5 +726,11 @@
   ],
   "composer": [
     205
-  ]
+  ],
+  "slug": "za-siedmioma-marzeniami",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

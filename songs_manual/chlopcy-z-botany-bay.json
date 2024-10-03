@@ -1,10 +1,7 @@
 {
-  "id": "chlopcy-z-botany-bay",
+  "id": 1172,
   "title": "Chłopcy z Botany Bay",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1112,5 +1109,11 @@
   "composer": [
     176,
     177
-  ]
+  ],
+  "slug": "chlopcy-z-botany-bay",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

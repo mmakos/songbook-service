@@ -1,10 +1,7 @@
 {
-  "id": "someone-like-you",
+  "id": 1393,
   "title": "Someone like you",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1030,5 +1027,11 @@
   "composer": [
     280,
     529
-  ]
+  ],
+  "slug": "someone-like-you",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

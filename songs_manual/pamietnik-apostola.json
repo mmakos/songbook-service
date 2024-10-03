@@ -1,10 +1,7 @@
 {
-  "id": "pamietnik-apostola",
+  "id": 1347,
   "title": "Pamiętnik apostoła",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -876,5 +873,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "pamietnik-apostola",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "kawalek-do-tanca",
+  "id": 1564,
   "title": "Kawałek do Tańca",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1075,5 +1072,11 @@
   "composer": [
     429
   ],
-  "band": 138
+  "band": 138,
+  "slug": "kawalek-do-tanca",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "ty-przychodzisz-jak-noc-majowa",
+  "id": 1421,
   "title": "Ty przychodzisz jak noc majowa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -631,5 +628,11 @@
     158,
     248
   ],
-  "band": 165
+  "band": 165,
+  "slug": "ty-przychodzisz-jak-noc-majowa",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

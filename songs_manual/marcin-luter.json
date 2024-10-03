@@ -1,10 +1,7 @@
 {
-  "id": "marcin-luter",
+  "id": 1040,
   "title": "Marcin Luter",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1428,5 +1425,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "marcin-luter",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

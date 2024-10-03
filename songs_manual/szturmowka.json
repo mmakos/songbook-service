@@ -1,10 +1,7 @@
 {
-  "id": "szturmowka",
+  "id": 1496,
   "title": "Szturmówka",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -878,5 +875,11 @@
   ],
   "composer": [
     541
-  ]
+  ],
+  "slug": "szturmowka",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

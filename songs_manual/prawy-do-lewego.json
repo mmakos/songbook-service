@@ -1,10 +1,7 @@
 {
-  "id": "prawy-do-lewego",
+  "id": 1609,
   "title": "Prawy do lewego",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -832,5 +829,11 @@
   ],
   "composer": [
     504
-  ]
+  ],
+  "slug": "prawy-do-lewego",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

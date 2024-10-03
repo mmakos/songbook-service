@@ -1,10 +1,7 @@
 {
-  "id": "to-juz-lato",
+  "id": 1282,
   "title": "To już lato",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -895,5 +892,11 @@
   "composer": [
     438
   ],
-  "band": 134
+  "band": 134,
+  "slug": "to-juz-lato",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

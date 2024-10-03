@@ -1,10 +1,7 @@
 {
-  "id": "w-droge-z-nami",
+  "id": 1551,
   "title": "W drogę z nami",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -485,5 +482,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "w-droge-z-nami",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

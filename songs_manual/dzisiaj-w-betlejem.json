@@ -1,10 +1,7 @@
 {
-  "id": "dzisiaj-w-betlejem",
+  "id": 1098,
   "title": "Dzisiaj w Betlejem",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1041,5 +1038,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "dzisiaj-w-betlejem",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

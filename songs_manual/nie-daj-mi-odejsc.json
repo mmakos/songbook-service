@@ -1,10 +1,7 @@
 {
-  "id": "nie-daj-mi-odejsc",
+  "id": 1334,
   "title": "Nie daj mi odejść",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -852,5 +849,11 @@
   "composer": [
     479
   ],
-  "band": 151
+  "band": 151,
+  "slug": "nie-daj-mi-odejsc",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

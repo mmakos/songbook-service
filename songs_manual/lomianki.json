@@ -1,10 +1,7 @@
 {
-  "id": "lomianki",
+  "id": 1293,
   "title": "Łomianki",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -718,5 +715,11 @@
   },
   "performer": [
     344
-  ]
+  ],
+  "slug": "lomianki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

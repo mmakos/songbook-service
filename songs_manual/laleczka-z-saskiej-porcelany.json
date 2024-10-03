@@ -1,10 +1,7 @@
 {
-  "id": "laleczka-z-saskiej-porcelany",
+  "id": 1279,
   "title": "Laleczka z Saskiej Porcelany",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1275,5 +1272,11 @@
   ],
   "composer": [
     439
-  ]
+  ],
+  "slug": "laleczka-z-saskiej-porcelany",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

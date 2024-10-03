@@ -1,10 +1,7 @@
 {
-  "id": "laudato-sii",
+  "id": 1523,
   "title": "Laudato sii",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -434,5 +431,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "laudato-sii",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "piesn-konfederatow-barskich",
+  "id": 1486,
   "title": "Pieśń konfederatów barskich",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1516,5 +1513,11 @@
   ],
   "composer": [
     522
-  ]
+  ],
+  "slug": "piesn-konfederatow-barskich",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

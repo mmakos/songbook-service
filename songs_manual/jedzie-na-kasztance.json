@@ -1,10 +1,7 @@
 {
-  "id": "jedzie-na-kasztance",
+  "id": 1475,
   "title": "Jedzie na kasztance",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -621,5 +618,11 @@
   ],
   "composer": [
     411
-  ]
+  ],
+  "slug": "jedzie-na-kasztance",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

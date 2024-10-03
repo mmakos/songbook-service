@@ -1,10 +1,7 @@
 {
-  "id": "modlitwa-wedrownego-grajka",
+  "id": 1317,
   "title": "Modlitwa wędrownego grajka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -872,5 +869,11 @@
   ],
   "composer": [
     463
-  ]
+  ],
+  "slug": "modlitwa-wedrownego-grajka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

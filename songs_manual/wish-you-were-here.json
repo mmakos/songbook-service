@@ -1,10 +1,7 @@
 {
-  "id": "wish-you-were-here",
+  "id": 1589,
   "title": "Wish you were here",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -402,5 +399,11 @@
     546,
     545
   ],
-  "band": 170
+  "band": 170,
+  "slug": "wish-you-were-here",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

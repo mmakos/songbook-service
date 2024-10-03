@@ -1,10 +1,7 @@
 {
-  "id": "ktos-mnie-pokochal",
+  "id": 1276,
   "title": "Ktoś mnie pokochał",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -600,5 +597,11 @@
   "composer": [
     134
   ],
-  "band": 142
+  "band": 142,
+  "slug": "ktos-mnie-pokochal",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "zatruta-studnia",
+  "id": 1084,
   "title": "Zatruta studnia",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1199,5 +1196,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "zatruta-studnia",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

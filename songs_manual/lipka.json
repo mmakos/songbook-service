@@ -1,10 +1,7 @@
 {
-  "id": "lipka",
+  "id": 1605,
   "title": "Lipka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -843,5 +840,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "lipka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

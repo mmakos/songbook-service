@@ -1,10 +1,7 @@
 {
-  "id": "katedr-swiat-robert-janowski",
+  "id": 1259,
   "title": "Katedr świat (Robert Janowski)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1201,5 +1198,11 @@
   ],
   "sources": [
     103
-  ]
+  ],
+  "slug": "katedr-swiat-robert-janowski",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

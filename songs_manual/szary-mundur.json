@@ -1,10 +1,7 @@
 {
-  "id": "szary-mundur",
+  "id": 1495,
   "title": "Szary mundur",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -796,5 +793,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "szary-mundur",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "adagio",
+  "id": 1134,
   "title": "Adagio",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1288,5 +1285,11 @@
   "composer": [
     124,
     125
-  ]
+  ],
+  "slug": "adagio",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

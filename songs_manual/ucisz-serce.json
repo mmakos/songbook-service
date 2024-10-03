@@ -1,10 +1,7 @@
 {
-  "id": "ucisz-serce",
+  "id": 1423,
   "title": "Ucisz serce",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1370,5 +1367,11 @@
   ],
   "performer": [
     233
-  ]
+  ],
+  "slug": "ucisz-serce",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

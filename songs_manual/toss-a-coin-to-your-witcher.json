@@ -1,10 +1,7 @@
 {
-  "id": "toss-a-coin-to-your-witcher",
+  "id": 1419,
   "title": "Toss a Coin to Your Witcher",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1760,5 +1757,11 @@
   "composer": [
     572,
     571
-  ]
+  ],
+  "slug": "toss-a-coin-to-your-witcher",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "wigilia-na-syberii",
+  "id": 1080,
   "title": "Wigilia na Syberii",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2651,5 +2648,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "wigilia-na-syberii",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

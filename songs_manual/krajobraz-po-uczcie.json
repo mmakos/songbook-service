@@ -1,10 +1,7 @@
 {
-  "id": "krajobraz-po-uczcie",
+  "id": 1035,
   "title": "Krajobraz po uczcie",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2215,5 +2212,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "krajobraz-po-uczcie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

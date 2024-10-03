@@ -1,10 +1,7 @@
 {
-  "id": "wrecking-ball",
+  "id": 1445,
   "title": "Wrecking Ball",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1211,5 +1208,11 @@
   ],
   "performer": [
     375
-  ]
+  ],
+  "slug": "wrecking-ball",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

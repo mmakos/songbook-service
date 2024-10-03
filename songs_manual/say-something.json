@@ -1,10 +1,7 @@
 {
-  "id": "say-something",
+  "id": 1389,
   "title": "Say Something",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1116,5 +1113,11 @@
     283,
     281
   ],
-  "band": 178
+  "band": 178,
+  "slug": "say-something",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

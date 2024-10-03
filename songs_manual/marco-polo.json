@@ -1,10 +1,7 @@
 {
-  "id": "marco-polo",
+  "id": 1303,
   "title": "Marco Polo",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1204,5 +1201,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "marco-polo",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

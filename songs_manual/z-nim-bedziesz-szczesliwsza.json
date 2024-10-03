@@ -1,10 +1,7 @@
 {
-  "id": "z-nim-bedziesz-szczesliwsza",
+  "id": 1448,
   "title": "Z nim będziesz szczęśliwsza",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -689,5 +686,11 @@
   ],
   "composer": [
     159
-  ]
+  ],
+  "slug": "z-nim-bedziesz-szczesliwsza",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

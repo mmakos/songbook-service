@@ -1,10 +1,7 @@
 {
-  "id": "zdumienie",
+  "id": 1455,
   "title": "Zdumienie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1345,5 +1342,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "zdumienie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

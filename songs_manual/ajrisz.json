@@ -1,10 +1,7 @@
 {
-  "id": "ajrisz",
+  "id": 1581,
   "title": "Ajrisz",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -844,5 +841,11 @@
   "composer": [
     129
   ],
-  "band": 102
+  "band": 102,
+  "slug": "ajrisz",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "maria",
+  "id": 1304,
   "title": "Maria",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2265,5 +2262,11 @@
   "performer": [
     446
   ],
-  "band": 146
+  "band": 146,
+  "slug": "maria",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "swieta-milosci-kochanej-ojczyzny",
+  "id": 1493,
   "title": "Święta miłości kochanej Ojczyzny",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -943,5 +940,11 @@
   ],
   "composer": [
     279
-  ]
+  ],
+  "slug": "swieta-milosci-kochanej-ojczyzny",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

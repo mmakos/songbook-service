@@ -1,10 +1,7 @@
 {
-  "id": "odpowie-ci-wiatr",
+  "id": 1343,
   "title": "Odpowie ci wiatr",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1276,5 +1273,11 @@
   ],
   "lyrics": [
     499
-  ]
+  ],
+  "slug": "odpowie-ci-wiatr",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

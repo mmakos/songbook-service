@@ -1,10 +1,7 @@
 {
-  "id": "epitafium-dla-majora-ognia",
+  "id": 1210,
   "title": "Epitafium dla Majora „Ognia”",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -686,5 +683,11 @@
   },
   "performer": [
     223
-  ]
+  ],
+  "slug": "epitafium-dla-majora-ognia",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

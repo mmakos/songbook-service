@@ -1,10 +1,7 @@
 {
-  "id": "czas-powrotow",
+  "id": 1182,
   "title": "Czas powrotów",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -672,5 +669,11 @@
   },
   "performer": [
     189
-  ]
+  ],
+  "slug": "czas-powrotow",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

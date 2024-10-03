@@ -1,10 +1,7 @@
 {
-  "id": "o-gwiazdo-betlejemska",
+  "id": 1113,
   "title": "O gwiazdo Betlejemska",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1347,5 +1344,11 @@
   },
   "performer": [
     356
-  ]
+  ],
+  "slug": "o-gwiazdo-betlejemska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

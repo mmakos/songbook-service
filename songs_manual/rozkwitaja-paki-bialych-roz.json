@@ -1,10 +1,7 @@
 {
-  "id": "rozkwitaja-paki-bialych-roz",
+  "id": 1490,
   "title": "Rozkwitają pąki białych róż",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1455,5 +1452,11 @@
   ],
   "composer": [
     536
-  ]
+  ],
+  "slug": "rozkwitaja-paki-bialych-roz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "odpowiedz",
+  "id": 1048,
   "title": "Odpowiedź",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1347,5 +1344,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "odpowiedz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

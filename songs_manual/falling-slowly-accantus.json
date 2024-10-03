@@ -1,10 +1,7 @@
 {
-  "id": "falling-slowly-accantus",
+  "id": 1211,
   "title": "Falling Slowly (Accantus)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1011,7 +1008,24 @@
     }
   },
   "performer": [
+    592,
+    593
+  ],
+  "lyrics": [
     322,
     323
-  ]
+  ],
+  "composer": [
+    322,
+    323
+  ],
+  "translation": [
+    270
+  ],
+  "slug": "falling-slowly-accantus",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

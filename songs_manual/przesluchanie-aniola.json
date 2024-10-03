@@ -1,10 +1,7 @@
 {
-  "id": "przesluchanie-aniola",
+  "id": 1062,
   "title": "Przesłuchanie Anioła",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -828,5 +825,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "przesluchanie-aniola",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

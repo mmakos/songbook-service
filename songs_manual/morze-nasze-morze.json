@@ -1,10 +1,7 @@
 {
-  "id": "morze-nasze-morze",
+  "id": 1322,
   "title": "Morze, nasze morze",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -600,5 +597,11 @@
   },
   "performer": [
     193
-  ]
+  ],
+  "slug": "morze-nasze-morze",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

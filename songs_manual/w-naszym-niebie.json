@@ -1,10 +1,7 @@
 {
-  "id": "w-naszym-niebie",
+  "id": 1427,
   "title": "W naszym niebie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -842,5 +839,11 @@
   "composer": [
     562
   ],
-  "band": 157
+  "band": 157,
+  "slug": "w-naszym-niebie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

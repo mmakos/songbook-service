@@ -1,10 +1,7 @@
 {
-  "id": "biala-sukienka",
+  "id": 1154,
   "title": "Biała sukienka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1007,5 +1004,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "biala-sukienka",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

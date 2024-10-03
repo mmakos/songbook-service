@@ -1,10 +1,7 @@
 {
-  "id": "pejzaze-harasymowiczowskie",
+  "id": 1351,
   "title": "Pejzaże Harasymowiczowskie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -719,5 +716,11 @@
   "composer": [
     147
   ],
-  "band": 106
+  "band": 106,
+  "slug": "pejzaze-harasymowiczowskie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

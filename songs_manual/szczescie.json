@@ -1,10 +1,7 @@
 {
-  "id": "szczescie",
+  "id": 1402,
   "title": "Szczęście",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -477,5 +474,11 @@
   "composer": [
     276,
     277
-  ]
+  ],
+  "slug": "szczescie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

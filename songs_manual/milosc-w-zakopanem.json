@@ -1,10 +1,7 @@
 {
-  "id": "milosc-w-zakopanem",
+  "id": 1313,
   "title": "Miłość w Zakopanem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -811,5 +808,11 @@
   },
   "performer": [
     591
-  ]
+  ],
+  "slug": "milosc-w-zakopanem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

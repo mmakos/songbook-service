@@ -1,10 +1,7 @@
 {
-  "id": "glupole",
+  "id": 1218,
   "title": "Głupole",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -687,5 +684,11 @@
   "composer": [
     205
   ],
-  "band": 175
+  "band": 175,
+  "slug": "glupole",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

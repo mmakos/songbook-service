@@ -1,10 +1,7 @@
 {
-  "id": "niech-zabrzmi-panu",
+  "id": 1531,
   "title": "Niech zabrzmi Panu",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -1011,5 +1008,11 @@
   },
   "bible": [
     "Psalm 148"
-  ]
+  ],
+  "slug": "niech-zabrzmi-panu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

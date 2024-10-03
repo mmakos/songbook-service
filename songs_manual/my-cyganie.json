@@ -1,10 +1,7 @@
 {
-  "id": "my-cyganie",
+  "id": 1324,
   "title": "My cyganie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -612,5 +609,11 @@
         "base": "A"
       }
     }
+  },
+  "slug": "my-cyganie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

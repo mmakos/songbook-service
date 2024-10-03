@@ -1,10 +1,7 @@
 {
-  "id": "pan-jest-pasterzem-moim",
+  "id": 1538,
   "title": "Pan jest pasterzem moim",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -210,5 +207,11 @@
   },
   "bible": [
     "Psalm 23"
-  ]
+  ],
+  "slug": "pan-jest-pasterzem-moim",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

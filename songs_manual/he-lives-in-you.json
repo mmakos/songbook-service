@@ -1,10 +1,7 @@
 {
-  "id": "he-lives-in-you",
+  "id": 1233,
   "title": "He Lives in You",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -576,5 +573,11 @@
     106,
     109,
     110
-  ]
+  ],
+  "slug": "he-lives-in-you",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

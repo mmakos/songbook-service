@@ -1,10 +1,7 @@
 {
-  "id": "victory",
+  "id": 1424,
   "title": "Victory",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -949,5 +946,11 @@
   ],
   "composer": [
     570
-  ]
+  ],
+  "slug": "victory",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

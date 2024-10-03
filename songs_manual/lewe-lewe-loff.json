@@ -1,10 +1,7 @@
 {
-  "id": "lewe-lewe-loff",
+  "id": 1287,
   "title": "Lewe lewe loff",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -849,5 +846,11 @@
   "composer": [
     135
   ],
-  "band": 103
+  "band": 103,
+  "slug": "lewe-lewe-loff",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

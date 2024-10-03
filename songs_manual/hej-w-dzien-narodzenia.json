@@ -1,10 +1,7 @@
 {
-  "id": "hej-w-dzien-narodzenia",
+  "id": 1103,
   "title": "Hej, w dzień narodzenia",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -807,5 +804,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "hej-w-dzien-narodzenia",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

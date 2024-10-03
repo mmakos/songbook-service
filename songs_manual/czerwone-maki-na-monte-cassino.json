@@ -1,10 +1,7 @@
 {
-  "id": "czerwone-maki-na-monte-cassino",
+  "id": 1467,
   "title": "Czerwone maki na Monte Cassino",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1181,5 +1178,11 @@
   ],
   "composer": [
     309
-  ]
+  ],
+  "slug": "czerwone-maki-na-monte-cassino",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

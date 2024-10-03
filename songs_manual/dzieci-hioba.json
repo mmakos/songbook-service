@@ -1,10 +1,7 @@
 {
-  "id": "dzieci-hioba",
+  "id": 1014,
   "title": "Dzieci Hioba",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1506,5 +1503,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "dzieci-hioba",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

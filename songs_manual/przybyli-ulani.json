@@ -1,10 +1,7 @@
 {
-  "id": "przybyli-ulani",
+  "id": 1488,
   "title": "Przybyli ułani",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1191,5 +1188,11 @@
   },
   "lyrics": [
     505
-  ]
+  ],
+  "slug": "przybyli-ulani",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

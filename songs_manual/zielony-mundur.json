@@ -1,10 +1,7 @@
 {
-  "id": "zielony-mundur",
+  "id": 1459,
   "title": "Zielony mundur",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1219,5 +1216,11 @@
   },
   "performer": [
     149
-  ]
+  ],
+  "slug": "zielony-mundur",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

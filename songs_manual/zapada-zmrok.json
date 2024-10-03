@@ -1,10 +1,7 @@
 {
-  "id": "zapada-zmrok",
+  "id": 1558,
   "title": "Zapada zmrok",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -938,5 +935,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "zapada-zmrok",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

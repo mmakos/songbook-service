@@ -1,10 +1,7 @@
 {
-  "id": "kolorowy-wiatr",
+  "id": 1268,
   "title": "Kolorowy wiatr",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1262,5 +1259,11 @@
   ],
   "translation": [
     447
-  ]
+  ],
+  "slug": "kolorowy-wiatr",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "wywyzszony-badz",
+  "id": 1557,
   "title": "Wywyższony Bądź",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -375,5 +372,11 @@
   ],
   "performer": [
     376
-  ]
+  ],
+  "slug": "wywyzszony-badz",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

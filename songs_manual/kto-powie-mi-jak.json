@@ -1,10 +1,7 @@
 {
-  "id": "kto-powie-mi-jak",
+  "id": 1275,
   "title": "Kto powie mi jak",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -762,5 +759,11 @@
   "composer": [
     191
   ],
-  "band": 113
+  "band": 113,
+  "slug": "kto-powie-mi-jak",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

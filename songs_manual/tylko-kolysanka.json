@@ -1,10 +1,7 @@
 {
-  "id": "tylko-kolysanka",
+  "id": 1075,
   "title": "Tylko kołysanka",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -662,5 +659,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "tylko-kolysanka",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

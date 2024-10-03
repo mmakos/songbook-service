@@ -1,10 +1,7 @@
 {
-  "id": "moje-kolezanki",
+  "id": 1320,
   "title": "Moje koleżanki",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -923,5 +920,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "moje-kolezanki",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

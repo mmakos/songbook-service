@@ -1,10 +1,7 @@
 {
-  "id": "wloczedzy",
+  "id": 1082,
   "title": "Włóczędzy",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1346,5 +1343,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "wloczedzy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

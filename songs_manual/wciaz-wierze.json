@@ -1,10 +1,7 @@
 {
-  "id": "wciaz-wierze",
+  "id": 1430,
   "title": "Wciąż wierzę",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1642,5 +1639,11 @@
   ],
   "source": [
     117
-  ]
+  ],
+  "slug": "wciaz-wierze",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

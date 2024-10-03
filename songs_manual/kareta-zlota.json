@@ -1,10 +1,7 @@
 {
-  "id": "kareta-zlota",
+  "id": 1257,
   "title": "Kareta złota",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -751,5 +748,11 @@
   ],
   "composer": [
     424
-  ]
+  ],
+  "slug": "kareta-zlota",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

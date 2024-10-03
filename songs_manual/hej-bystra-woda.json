@@ -1,10 +1,7 @@
 {
-  "id": "hej-bystra-woda",
+  "id": 1234,
   "title": "Hej bystra woda",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -930,5 +927,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "hej-bystra-woda",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

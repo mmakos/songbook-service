@@ -1,10 +1,7 @@
 {
-  "id": "bialy-krzyz",
+  "id": 1600,
   "title": "Biały krzyż",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1607,5 +1604,11 @@
   "composer": [
     150
   ],
-  "band": 107
+  "band": 107,
+  "slug": "bialy-krzyz",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

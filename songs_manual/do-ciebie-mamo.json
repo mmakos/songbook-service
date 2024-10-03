@@ -1,10 +1,7 @@
 {
-  "id": "do-ciebie-mamo",
+  "id": 1195,
   "title": "Do Ciebie Mamo",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -767,5 +764,11 @@
   ],
   "performer": [
     320
-  ]
+  ],
+  "slug": "do-ciebie-mamo",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

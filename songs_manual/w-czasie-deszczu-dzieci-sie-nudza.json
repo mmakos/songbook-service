@@ -1,10 +1,7 @@
 {
-  "id": "w-czasie-deszczu-dzieci-sie-nudza",
+  "id": 1425,
   "title": "W czasie deszczu dzieci się nudzą",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -767,5 +764,11 @@
   ],
   "composer": [
     568
-  ]
+  ],
+  "slug": "w-czasie-deszczu-dzieci-sie-nudza",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

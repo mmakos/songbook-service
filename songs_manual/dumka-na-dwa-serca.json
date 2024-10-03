@@ -1,10 +1,7 @@
 {
-  "id": "dumka-na-dwa-serca",
+  "id": 1201,
   "title": "Dumka na dwa serca",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1949,5 +1946,11 @@
   ],
   "source": [
     105
-  ]
+  ],
+  "slug": "dumka-na-dwa-serca",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

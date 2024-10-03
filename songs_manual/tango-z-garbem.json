@@ -1,10 +1,7 @@
 {
-  "id": "tango-z-garbem",
+  "id": 1410,
   "title": "Tango z garbem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1583,5 +1580,11 @@
   ],
   "composer": [
     275
-  ]
+  ],
+  "slug": "tango-z-garbem",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

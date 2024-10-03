@@ -1,10 +1,7 @@
 {
-  "id": "hanging-tree-accantus",
+  "id": 1230,
   "title": "Hanging tree (Accantus)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1021,5 +1018,11 @@
   "source": [
     108
   ],
-  "band": 146
+  "band": 146,
+  "slug": "hanging-tree-accantus",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

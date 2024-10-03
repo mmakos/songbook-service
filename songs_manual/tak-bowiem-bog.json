@@ -1,10 +1,7 @@
 {
-  "id": "tak-bowiem-bog",
+  "id": 1405,
   "title": "Tak bowiem Bóg",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1041,5 +1038,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "tak-bowiem-bog",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

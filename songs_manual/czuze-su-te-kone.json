@@ -1,10 +1,7 @@
 {
-  "id": "czuze-su-te-kone",
+  "id": 1187,
   "title": "Czuże su te koné",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -419,5 +416,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "czuze-su-te-kone",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

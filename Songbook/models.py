@@ -1,12 +1,23 @@
 import json
+import os
 
-from Songbook.songs import songs, categories
-from Songbook.str_convert import normalize_for_search, title_to_unique_name
+from Songbook.str_convert import title_to_unique_name
 
+songs = {}
+
+for file in os.listdir('songs_manual'):
+    with open(f'songs_manual/{file}', encoding='utf-8') as song_file:
+        song: dict = json.load(song_file)
+    songs[song["slug"]] = {'category': song["category"], 'title': song["title"]}
+
+with open('data/users.json', encoding='utf-8') as file:
+    users: dict = {user["id"]: user for user in json.load(file)}
+with open('data/categories.json', encoding='utf-8') as file:
+    categories: dict = {category["id"]: category for category in json.load(file)}
 with open('data/bands.json', encoding='utf-8') as file:
-    bands = {band["id"]: band for band in json.load(file)}
+    bands: dict = {band["id"]: band for band in json.load(file)}
 with open('data/authors.json', encoding='utf-8') as file:
-    authors = {author["id"]: author for author in json.load(file)}
+    authors: dict = {author["id"]: author for author in json.load(file)}
 
 
 def replace_band(song: dict):
@@ -14,6 +25,21 @@ def replace_band(song: dict):
     if not band:
         return
     song['band'] = bands[band]
+
+
+def replace_creator(song: dict):
+    created = song['created']
+    creator_id = created.pop('id')
+    user = users[creator_id]
+    created['name'] = user['name']
+    created['type'] = user['type']
+
+
+def replace_category(song: dict):
+    category = song.get('category')
+    if not category:
+        return
+    song['category'] = categories[category]
 
 
 def replace_authors(song: dict, author: str):
@@ -29,30 +55,26 @@ def replace(song: dict):
     replace_authors(song, "translation")
     replace_authors(song, "performer")
     replace_band(song)
+    replace_category(song)
+    replace_creator(song)
 
 
-def get_song(song_id: str):
-    # time.sleep(2)
-    with open(f'songs_manual/{song_id}.json', encoding='utf-8') as file:
+def get_song(song_slug: str):
+    with open(f'songs_manual/{song_slug}.json', encoding='utf-8') as file:
         song = json.load(file)
         replace(song)
-        return json.dumps(song, ensure_ascii=False)
+        return song
 
 
 def get_songs():
-    return json.dumps(
-        [{'id': title_to_unique_name(song), 'title': song} for category in songs.values() for song in category])
+    return [{'slug': slug, 'title': song["title"]} for slug, song in songs.items()]
 
 
 def get_songs_by_category(category: str):
-    return json.dumps([{'id': title_to_unique_name(song), 'title': song} for song in songs[category]])
+    return [{'slug': slug, 'title': song["title"]} for slug, song in songs.items() if song['category'] == category]
 
 
 def fast_search(key: str):
-    # time.sleep(1)
-    key = normalize_for_search(key.casefold().replace(" ", ""))
-    return json.dumps(
-        [{'id': title_to_unique_name(song), 'title': song, 'category': {'id': category, 'name': categories[category]}}
-         for category, cat_songs in
-         songs.items()
-         for song in cat_songs if key in normalize_for_search(song.casefold().replace(" ", ""))])
+    key = title_to_unique_name(key)
+    return [{'slug': slug, 'title': song['title'], 'category': categories[song['category']]["slug"]} for slug, song in
+            songs.items() if key in slug]

@@ -1,10 +1,7 @@
 {
-  "id": "freedom",
+  "id": 1592,
   "title": "Freedom",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -806,5 +803,11 @@
   "performer": [
     226,
     227
-  ]
+  ],
+  "slug": "freedom",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

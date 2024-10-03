@@ -1,10 +1,7 @@
 {
-  "id": "wierze-w-ciebie-panie",
+  "id": 1555,
   "title": "Wierzę w Ciebie Panie",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -1106,5 +1103,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "wierze-w-ciebie-panie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

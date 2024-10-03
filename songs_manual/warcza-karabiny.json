@@ -1,10 +1,7 @@
 {
-  "id": "warcza-karabiny",
+  "id": 1498,
   "title": "Warczą karabiny",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -790,5 +787,11 @@
   },
   "lyrics": [
     563
-  ]
+  ],
+  "slug": "warcza-karabiny",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

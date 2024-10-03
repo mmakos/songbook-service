@@ -1,10 +1,7 @@
 {
-  "id": "dzwony",
+  "id": 1208,
   "title": "Dzwony",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2371,5 +2368,11 @@
   ],
   "source": [
     103
-  ]
+  ],
+  "slug": "dzwony",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "bedziesz-moja-pania",
+  "id": 1149,
   "title": "Będziesz moją panią",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1274,5 +1271,11 @@
   },
   "performer": [
     148
-  ]
+  ],
+  "slug": "bedziesz-moja-pania",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

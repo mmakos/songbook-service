@@ -1,10 +1,7 @@
 {
-  "id": "wind-of-change",
+  "id": 1442,
   "title": "Wind of change",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1552,5 +1549,11 @@
   "composer": [
     548
   ],
-  "band": 169
+  "band": 169,
+  "slug": "wind-of-change",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

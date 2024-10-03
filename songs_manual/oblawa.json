@@ -1,10 +1,7 @@
 {
-  "id": "oblawa",
+  "id": 1047,
   "title": "Obława",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1855,5 +1852,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "oblawa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

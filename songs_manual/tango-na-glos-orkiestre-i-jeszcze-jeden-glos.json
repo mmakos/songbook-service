@@ -1,10 +1,7 @@
 {
-  "id": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",
+  "id": 1409,
   "title": "Tango na głos, orkiestrę i jeszcze jeden głos",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1302,5 +1299,11 @@
   },
   "performer": [
     369
-  ]
+  ],
+  "slug": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

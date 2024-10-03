@@ -1,10 +1,7 @@
 {
-  "id": "stol-mordechaja-gebirtiga",
+  "id": 1563,
   "title": "Stół Mordechaja Gebirtiga",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -5993,5 +5990,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "stol-mordechaja-gebirtiga",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

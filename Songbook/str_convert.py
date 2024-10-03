@@ -33,10 +33,6 @@ def title_to_unique_name(title: str) -> str:
     return filename
 
 
-def normalize_for_search(string: str) -> str:
-    return replace(string.encode('ascii', 'ignore').decode())
-
-
 def replace(string):
     return ''.join(replacements.get(c, c) for c in string)
 

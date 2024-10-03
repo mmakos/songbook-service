@@ -1,10 +1,7 @@
 {
-  "id": "natalia-w-bruklinie",
+  "id": 1331,
   "title": "Natalia w Bruklinie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1177,5 +1174,11 @@
       }
     }
   },
-  "band": 150
+  "band": 150,
+  "slug": "natalia-w-bruklinie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

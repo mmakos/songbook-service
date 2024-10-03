@@ -1,10 +1,7 @@
 {
-  "id": "whisky",
+  "id": 1437,
   "title": "Whisky",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1044,5 +1041,11 @@
     550,
     551
   ],
-  "band": 167
+  "band": 167,
+  "slug": "whisky",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "belle-tl-jacek-cygan",
+  "id": 1152,
   "title": "Belle (tł. Jacek Cygan)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1698,5 +1695,11 @@
   ],
   "source": [
     103
-  ]
+  ],
+  "slug": "belle-tl-jacek-cygan",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

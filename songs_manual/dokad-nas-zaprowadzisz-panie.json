@@ -1,10 +1,7 @@
 {
-  "id": "dokad-nas-zaprowadzisz-panie",
+  "id": 1568,
   "title": "Dokąd nas zaprowadzisz, Panie",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -954,5 +951,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "dokad-nas-zaprowadzisz-panie",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

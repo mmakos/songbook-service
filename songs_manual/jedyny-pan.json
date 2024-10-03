@@ -1,10 +1,7 @@
 {
-  "id": "jedyny-pan",
+  "id": 1516,
   "title": "Jedyny Pan",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -194,5 +191,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "jedyny-pan",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

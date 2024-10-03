@@ -1,10 +1,7 @@
 {
-  "id": "falling-slowly",
+  "id": 1212,
   "title": "Falling Slowly",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1121,5 +1118,19 @@
   "performer": [
     322,
     323
-  ]
+  ],
+  "lyrics": [
+    322,
+    323
+  ],
+  "composer": [
+    322,
+    323
+  ],
+  "slug": "falling-slowly",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

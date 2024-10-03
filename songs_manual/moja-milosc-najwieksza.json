@@ -1,10 +1,7 @@
 {
-  "id": "moja-milosc-najwieksza",
+  "id": 1319,
   "title": "Moja miłość największa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1535,5 +1532,11 @@
   ],
   "performer": [
     351
-  ]
+  ],
+  "slug": "moja-milosc-najwieksza",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

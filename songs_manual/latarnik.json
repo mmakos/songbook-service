@@ -1,10 +1,7 @@
 {
-  "id": "latarnik",
+  "id": 1280,
   "title": "Latarnik",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1211,5 +1208,11 @@
       "minor": true
     }
   },
-  "band": 143
+  "band": 143,
+  "slug": "latarnik",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "na-zakrecie",
+  "id": 1329,
   "title": "Na zakręcie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1192,5 +1189,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "na-zakrecie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "koleda-zeglarska",
+  "id": 1267,
   "title": "Kolęda żeglarska",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -825,5 +822,11 @@
   },
   "performer": [
     339
-  ]
+  ],
+  "slug": "koleda-zeglarska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

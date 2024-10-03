@@ -1,10 +1,7 @@
 {
-  "id": "zono-moja",
+  "id": 1461,
   "title": "Żono moja",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -778,5 +775,11 @@
   "composer": [
     586
   ],
-  "band": 173
+  "band": 173,
+  "slug": "zono-moja",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

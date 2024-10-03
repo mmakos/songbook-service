@@ -1,10 +1,7 @@
 {
-  "id": "zeby-polska-byla-polska",
+  "id": 1503,
   "title": "Żeby Polska była Polską",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1085,5 +1082,11 @@
   ],
   "composer": [
     292
-  ]
+  ],
+  "slug": "zeby-polska-byla-polska",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

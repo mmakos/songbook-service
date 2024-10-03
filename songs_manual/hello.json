@@ -1,10 +1,7 @@
 {
-  "id": "hello",
+  "id": 1238,
   "title": "Hello",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1339,5 +1336,11 @@
   },
   "performer": [
     329
-  ]
+  ],
+  "slug": "hello",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

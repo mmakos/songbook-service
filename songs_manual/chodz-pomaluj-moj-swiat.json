@@ -1,10 +1,7 @@
 {
-  "id": "chodz-pomaluj-moj-swiat",
+  "id": 1173,
   "title": "Chodź pomaluj mój świat",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -683,5 +680,11 @@
   "composer": [
     179
   ],
-  "band": 116
+  "band": 116,
+  "slug": "chodz-pomaluj-moj-swiat",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

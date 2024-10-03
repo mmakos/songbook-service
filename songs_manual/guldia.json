@@ -1,10 +1,7 @@
 {
-  "id": "guldia",
+  "id": 1225,
   "title": "Guldia",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1142,5 +1139,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "guldia",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

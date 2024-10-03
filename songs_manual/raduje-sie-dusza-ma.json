@@ -1,10 +1,7 @@
 {
-  "id": "raduje-sie-dusza-ma",
+  "id": 1543,
   "title": "Raduje się dusza ma",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -241,5 +238,11 @@
   },
   "performer": [
     364
-  ]
+  ],
+  "slug": "raduje-sie-dusza-ma",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

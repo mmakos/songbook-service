@@ -1,10 +1,7 @@
 {
-  "id": "laudate-dominum",
+  "id": 1522,
   "title": "Laudate Dominum",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -174,5 +171,11 @@
   },
   "bible": [
     "Psalm 117"
-  ]
+  ],
+  "slug": "laudate-dominum",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

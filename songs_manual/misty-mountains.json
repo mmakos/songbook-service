@@ -1,10 +1,7 @@
 {
-  "id": "misty-mountains",
+  "id": 1314,
   "title": "Misty Mountains",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -372,5 +369,11 @@
   ],
   "composer": [
     465
-  ]
+  ],
+  "slug": "misty-mountains",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

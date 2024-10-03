@@ -1,10 +1,7 @@
 {
-  "id": "cykady-na-cykladach",
+  "id": 1597,
   "title": "Cykady na Cykladach",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -572,5 +569,11 @@
   "composer": [
     185
   ],
-  "band": 119
+  "band": 119,
+  "slug": "cykady-na-cykladach",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

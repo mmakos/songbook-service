@@ -1,10 +1,7 @@
 {
-  "id": "marsz-pierwszej-brygady",
+  "id": 1478,
   "title": "Marsz pierwszej brygady",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1010,5 +1007,11 @@
   ],
   "composer": [
     346
-  ]
+  ],
+  "slug": "marsz-pierwszej-brygady",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

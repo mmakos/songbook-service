@@ -1,10 +1,7 @@
 {
-  "id": "sprawozdanie-z-raju",
+  "id": 1070,
   "title": "Sprawozdanie z raju",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -973,5 +970,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "sprawozdanie-z-raju",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

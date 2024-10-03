@@ -1,10 +1,7 @@
 {
-  "id": "nie-ma-nic",
+  "id": 1335,
   "title": "Nie ma nic",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -750,5 +747,11 @@
       "minor": true
     }
   },
-  "band": 152
+  "band": 152,
+  "slug": "nie-ma-nic",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

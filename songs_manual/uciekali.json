@@ -1,10 +1,7 @@
 {
-  "id": "uciekali",
+  "id": 1123,
   "title": "Uciekali",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -2922,5 +2919,11 @@
   ],
   "composer": [
     117
-  ]
+  ],
+  "slug": "uciekali",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

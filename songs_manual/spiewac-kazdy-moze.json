@@ -1,10 +1,7 @@
 {
-  "id": "spiewac-kazdy-moze",
+  "id": 1396,
   "title": "Śpiewać każdy może",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -248,5 +245,11 @@
   ],
   "composer": [
     528
-  ]
+  ],
+  "slug": "spiewac-kazdy-moze",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

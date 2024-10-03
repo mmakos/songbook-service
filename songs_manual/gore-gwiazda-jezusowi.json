@@ -1,10 +1,7 @@
 {
-  "id": "gore-gwiazda-jezusowi",
+  "id": 1102,
   "title": "Gore gwiazda Jezusowi",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -762,5 +759,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "gore-gwiazda-jezusowi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

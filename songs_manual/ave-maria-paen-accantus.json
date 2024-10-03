@@ -1,10 +1,7 @@
 {
-  "id": "ave-maria-paen-accantus",
+  "id": 1140,
   "title": "Ave Maria Païen (Accantus)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1631,5 +1628,11 @@
   ],
   "sourc": [
     103
-  ]
+  ],
+  "slug": "ave-maria-paen-accantus",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

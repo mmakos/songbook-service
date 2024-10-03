@@ -1,10 +1,7 @@
 {
-  "id": "schowaj-mnie",
+  "id": 1544,
   "title": "Schowaj mnie",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -481,5 +478,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "schowaj-mnie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

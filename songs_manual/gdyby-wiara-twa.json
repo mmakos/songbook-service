@@ -1,10 +1,7 @@
 {
-  "id": "gdyby-wiara-twa",
+  "id": 1513,
   "title": "Gdyby wiara Twa",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -501,5 +498,11 @@
       "minor": true
     }
   },
-  "band": 130
+  "band": 130,
+  "slug": "gdyby-wiara-twa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

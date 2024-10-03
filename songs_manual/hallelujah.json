@@ -1,10 +1,7 @@
 {
-  "id": "hallelujah",
+  "id": 1228,
   "title": "Hallelujah",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2140,5 +2137,11 @@
   ],
   "composer": [
     240
-  ]
+  ],
+  "slug": "hallelujah",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

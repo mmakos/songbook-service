@@ -1,10 +1,7 @@
 {
-  "id": "jolly-roger",
+  "id": 1254,
   "title": "Jolly Roger",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -780,5 +777,11 @@
   "composer": [
     423,
     177
-  ]
+  ],
+  "slug": "jolly-roger",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

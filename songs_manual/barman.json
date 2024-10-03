@@ -1,10 +1,7 @@
 {
-  "id": "barman",
+  "id": 1147,
   "title": "Barman",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -816,5 +813,11 @@
   "performer": [
     146
   ],
-  "band": 176
+  "band": 176,
+  "slug": "barman",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

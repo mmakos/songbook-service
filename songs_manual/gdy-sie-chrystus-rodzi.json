@@ -1,10 +1,7 @@
 {
-  "id": "gdy-sie-chrystus-rodzi",
+  "id": 1100,
   "title": "Gdy się Chrystus rodzi",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1375,5 +1372,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "gdy-sie-chrystus-rodzi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

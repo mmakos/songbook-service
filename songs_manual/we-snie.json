@@ -1,10 +1,7 @@
 {
-  "id": "we-snie",
+  "id": 1431,
   "title": "We śnie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -505,5 +502,11 @@
   "composer": [
     184
   ],
-  "band": 118
+  "band": 118,
+  "slug": "we-snie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

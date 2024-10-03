@@ -1,10 +1,7 @@
 {
-  "id": "mowilam-zartem",
+  "id": 1323,
   "title": "Mówiłam żartem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1636,5 +1633,11 @@
   ],
   "composer": [
     486
-  ]
+  ],
+  "slug": "mowilam-zartem",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

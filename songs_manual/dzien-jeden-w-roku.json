@@ -1,10 +1,7 @@
 {
-  "id": "dzien-jeden-w-roku",
+  "id": 1097,
   "title": "Dzień jeden w roku",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -873,5 +870,11 @@
   ],
   "composer": [
     210
-  ]
+  ],
+  "slug": "dzien-jeden-w-roku",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

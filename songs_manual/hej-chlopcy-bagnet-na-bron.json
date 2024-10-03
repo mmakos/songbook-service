@@ -1,10 +1,7 @@
 {
-  "id": "hej-chlopcy-bagnet-na-bron",
+  "id": 1471,
   "title": "Hej chłopcy, bagnet na broń",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -924,5 +921,11 @@
   },
   "performer": [
     326
-  ]
+  ],
+  "slug": "hej-chlopcy-bagnet-na-bron",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

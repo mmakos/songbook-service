@@ -1,10 +1,7 @@
 {
-  "id": "dozwolone-od-lat-18",
+  "id": 1199,
   "title": "Dozwolone od lat 18",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1194,5 +1191,11 @@
   "composer": [
     210
   ],
-  "band": 107
+  "band": 107,
+  "slug": "dozwolone-od-lat-18",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

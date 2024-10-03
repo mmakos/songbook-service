@@ -1,10 +1,7 @@
 {
-  "id": "och-zycie-kocham-cie-nad-zycie",
+  "id": 1614,
   "title": "Och życie, kocham Cię nad życie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1412,5 +1409,11 @@
   ],
   "composer": [
     292
-  ]
+  ],
+  "slug": "och-zycie-kocham-cie-nad-zycie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

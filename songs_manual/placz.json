@@ -1,10 +1,7 @@
 {
-  "id": "placz",
+  "id": 1361,
   "title": "Płacz",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -560,5 +557,11 @@
   "composer": [
     516
   ],
-  "band": 157
+  "band": 157,
+  "slug": "placz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

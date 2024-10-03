@@ -1,10 +1,7 @@
 {
-  "id": "swiecie-nasz",
+  "id": 1401,
   "title": "Świecie nasz",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1243,5 +1240,11 @@
   ],
   "composer": [
     203
-  ]
+  ],
+  "slug": "swiecie-nasz",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

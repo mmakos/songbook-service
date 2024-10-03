@@ -1,10 +1,7 @@
 {
-  "id": "kombajn-bizon",
+  "id": 1270,
   "title": "Kombajn Bizon",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -868,5 +865,11 @@
   "composer": [
     162
   ],
-  "band": 111
+  "band": 111,
+  "slug": "kombajn-bizon",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

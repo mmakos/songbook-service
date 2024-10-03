@@ -1,10 +1,7 @@
 {
-  "id": "modlitwa-armii-krajowej",
+  "id": 1482,
   "title": "Modlitwa Armii Krajowej",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -527,5 +524,11 @@
   },
   "performer": [
     193
-  ]
+  ],
+  "slug": "modlitwa-armii-krajowej",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

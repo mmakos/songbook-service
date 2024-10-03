@@ -1,10 +1,7 @@
 {
-  "id": "bogurodzica",
+  "id": 1464,
   "title": "Bogurodzica",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -93,5 +90,11 @@
       ],
       "indent": 0
     }
-  ]
+  ],
+  "slug": "bogurodzica",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

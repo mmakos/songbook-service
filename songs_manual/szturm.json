@@ -1,10 +1,7 @@
 {
-  "id": "szturm",
+  "id": 1074,
   "title": "Szturm",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -880,5 +877,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "szturm",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

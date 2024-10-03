@@ -1,10 +1,7 @@
 {
-  "id": "autobusy-i-tramwaje",
+  "id": 1567,
   "title": "Autobusy i tramwaje",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -780,5 +777,11 @@
   "lyrics": [
     129
   ],
-  "band": 102
+  "band": 102,
+  "slug": "autobusy-i-tramwaje",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

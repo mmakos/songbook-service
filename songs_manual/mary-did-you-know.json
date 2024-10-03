@@ -1,10 +1,7 @@
 {
-  "id": "mary-did-you-know",
+  "id": 1306,
   "title": "Mary, did you know?",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1339,5 +1336,11 @@
   ],
   "composer": [
     459
-  ]
+  ],
+  "slug": "mary-did-you-know",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

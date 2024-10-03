@@ -1,10 +1,7 @@
 {
-  "id": "wejdzmy-do-jego-bram",
+  "id": 1553,
   "title": "Wejdźmy do Jego bram",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -288,5 +285,11 @@
   ],
   "performer": [
     373
-  ]
+  ],
+  "slug": "wejdzmy-do-jego-bram",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

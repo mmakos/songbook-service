@@ -1,10 +1,7 @@
 {
-  "id": "koleda-maryi",
+  "id": 1107,
   "title": "Kolęda Maryi",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -744,5 +741,11 @@
   ],
   "composer": [
     436
-  ]
+  ],
+  "slug": "koleda-maryi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

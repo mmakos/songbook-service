@@ -1,10 +1,7 @@
 {
-  "id": "samantha",
+  "id": 1386,
   "title": "Samantha",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -941,5 +938,11 @@
   "composer": [
     284
   ],
-  "band": 162
+  "band": 162,
+  "slug": "samantha",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

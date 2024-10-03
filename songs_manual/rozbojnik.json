@@ -1,10 +1,7 @@
 {
-  "id": "rozbojnik",
+  "id": 1382,
   "title": "Rozbójnik",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2015,5 +2012,11 @@
   "composer": [
     109
   ],
-  "band": 161
+  "band": 161,
+  "slug": "rozbojnik",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

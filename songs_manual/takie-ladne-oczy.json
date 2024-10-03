@@ -1,10 +1,7 @@
 {
-  "id": "takie-ladne-oczy",
+  "id": 1407,
   "title": "Takie ładne oczy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -945,5 +942,11 @@
   "composer": [
     210
   ],
-  "band": 107
+  "band": 107,
+  "slug": "takie-ladne-oczy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

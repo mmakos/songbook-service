@@ -1,10 +1,7 @@
 {
-  "id": "piesn-gruzinska",
+  "id": 1354,
   "title": "Pieśń gruzińska",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2330,5 +2327,11 @@
   ],
   "translation": [
     506
-  ]
+  ],
+  "slug": "piesn-gruzinska",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

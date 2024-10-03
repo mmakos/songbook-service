@@ -1,10 +1,7 @@
 {
-  "id": "w-lekkim-powiewie",
+  "id": 1552,
   "title": "W lekkim powiewie",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -234,5 +231,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "w-lekkim-powiewie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

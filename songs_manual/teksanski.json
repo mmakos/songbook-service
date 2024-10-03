@@ -1,10 +1,7 @@
 {
-  "id": "teksanski",
+  "id": 1588,
   "title": "Teksański",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -625,5 +622,11 @@
   "composer": [
     406
   ],
-  "band": 133
+  "band": 133,
+  "slug": "teksanski",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

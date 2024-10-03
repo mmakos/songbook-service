@@ -1,10 +1,7 @@
 {
-  "id": "peggy-brown",
+  "id": 1350,
   "title": "Peggy brown",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -711,5 +708,11 @@
   "composer": [
     488
   ],
-  "band": 124
+  "band": 124,
+  "slug": "peggy-brown",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

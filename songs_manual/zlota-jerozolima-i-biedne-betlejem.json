@@ -1,10 +1,7 @@
 {
-  "id": "zlota-jerozolima-i-biedne-betlejem",
+  "id": 1616,
   "title": "Złota Jerozolima i biedne Betlejem",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -727,5 +724,11 @@
       "minor": true
     }
   },
-  "band": 142
+  "band": 142,
+  "slug": "zlota-jerozolima-i-biedne-betlejem",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

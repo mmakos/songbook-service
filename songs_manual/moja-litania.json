@@ -1,10 +1,7 @@
 {
-  "id": "moja-litania",
+  "id": 1318,
   "title": "Moja litania",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1066,5 +1063,11 @@
   },
   "performer": [
     350
-  ]
+  ],
+  "slug": "moja-litania",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

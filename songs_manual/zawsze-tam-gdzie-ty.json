@@ -1,10 +1,7 @@
 {
-  "id": "zawsze-tam-gdzie-ty",
+  "id": 1454,
   "title": "Zawsze tam, gdzie Ty",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -680,5 +677,11 @@
   "composer": [
     441
   ],
-  "band": 141
+  "band": 141,
+  "slug": "zawsze-tam-gdzie-ty",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

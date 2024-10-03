@@ -1,10 +1,7 @@
 {
-  "id": "king",
+  "id": 1583,
   "title": "King",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -921,5 +918,11 @@
   "composer": [
     129
   ],
-  "band": 102
+  "band": 102,
+  "slug": "king",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

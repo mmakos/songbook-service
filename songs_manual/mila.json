@@ -1,10 +1,7 @@
 {
-  "id": "mila",
+  "id": 1574,
   "title": "Miła",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -763,5 +760,11 @@
   "translation": [
     116
   ],
-  "band": 148
+  "band": 148,
+  "slug": "mila",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

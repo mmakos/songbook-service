@@ -1,10 +1,7 @@
 {
-  "id": "warszawskie-dzieci",
+  "id": 1501,
   "title": "Warszawskie dzieci",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -589,5 +586,11 @@
   ],
   "composer": [
     272
-  ]
+  ],
+  "slug": "warszawskie-dzieci",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

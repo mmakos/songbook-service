@@ -1,10 +1,7 @@
 {
-  "id": "francis-villon-modlitwa",
+  "id": 1216,
   "title": "Francis Villon (modlitwa)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1159,5 +1156,11 @@
   ],
   "translation": [
     395
-  ]
+  ],
+  "slug": "francis-villon-modlitwa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

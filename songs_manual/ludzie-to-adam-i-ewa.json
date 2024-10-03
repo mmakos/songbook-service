@@ -1,10 +1,7 @@
 {
-  "id": "ludzie-to-adam-i-ewa",
+  "id": 1296,
   "title": "Ludzie to Adam i Ewa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1535,5 +1532,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "ludzie-to-adam-i-ewa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

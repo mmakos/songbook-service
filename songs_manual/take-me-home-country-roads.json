@@ -1,10 +1,7 @@
 {
-  "id": "take-me-home-country-roads",
+  "id": 1406,
   "title": "Take me home, country roads",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -666,5 +663,11 @@
   ],
   "composer": [
     581
-  ]
+  ],
+  "slug": "take-me-home-country-roads",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

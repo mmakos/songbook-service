@@ -1,10 +1,7 @@
 {
-  "id": "997-halo-panie-policjancie",
+  "id": 1129,
   "title": "997 (Halo panie policjancie)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -549,5 +546,11 @@
       }
     }
   },
-  "band": 101
+  "band": 101,
+  "slug": "997-halo-panie-policjancie",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

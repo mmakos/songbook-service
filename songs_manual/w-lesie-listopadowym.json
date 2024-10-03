@@ -1,10 +1,7 @@
 {
-  "id": "w-lesie-listopadowym",
+  "id": 1617,
   "title": "W lesie listopadowym",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -912,5 +909,11 @@
   "composer": [
     565,
     566
-  ]
+  ],
+  "slug": "w-lesie-listopadowym",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

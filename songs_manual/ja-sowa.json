@@ -1,10 +1,7 @@
 {
-  "id": "ja-sowa",
+  "id": 1244,
   "title": "Ja Sowa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -650,5 +647,11 @@
   "composer": [
     406
   ],
-  "band": 133
+  "band": 133,
+  "slug": "ja-sowa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

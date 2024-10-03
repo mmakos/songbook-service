@@ -1,10 +1,7 @@
 {
-  "id": "o-moj-rozmarynie",
+  "id": 1483,
   "title": "O mój rozmarynie",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1211,5 +1208,11 @@
   },
   "composer": [
     411
-  ]
+  ],
+  "slug": "o-moj-rozmarynie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "ballada-wrzesniowa",
+  "id": 1007,
   "title": "Ballada wrześniowa",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1352,5 +1349,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "ballada-wrzesniowa",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

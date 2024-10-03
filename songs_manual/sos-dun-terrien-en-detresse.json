@@ -1,10 +1,7 @@
 {
-  "id": "sos-dun-terrien-en-detresse",
+  "id": 1394,
   "title": "S.O.S. d'un Terrien en détresse",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1376,5 +1373,11 @@
   ],
   "composer": [
     497
-  ]
+  ],
+  "slug": "sos-dun-terrien-en-detresse",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "maryjo-maluczka-maryjo",
+  "id": 1524,
   "title": "Maryjo, maluczka Maryjo",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -770,5 +767,11 @@
   "band": 147,
   "performer": [
     348
-  ]
+  ],
+  "slug": "maryjo-maluczka-maryjo",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

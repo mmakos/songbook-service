@@ -1,10 +1,7 @@
 {
-  "id": "nie-lubie",
+  "id": 1045,
   "title": "Nie lubię",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1068,5 +1065,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "nie-lubie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

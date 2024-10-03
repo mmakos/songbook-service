@@ -1,10 +1,7 @@
 {
-  "id": "wieczory",
+  "id": 1439,
   "title": "Wieczory",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -645,5 +642,11 @@
   ],
   "composer": [
     554
-  ]
+  ],
+  "slug": "wieczory",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

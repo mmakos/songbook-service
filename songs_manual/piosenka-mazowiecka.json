@@ -1,10 +1,7 @@
 {
-  "id": "piosenka-mazowiecka",
+  "id": 1359,
   "title": "Piosenka Mazowiecka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -708,5 +705,11 @@
   },
   "performer": [
     359
-  ]
+  ],
+  "slug": "piosenka-mazowiecka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "bracia-patrzcie-jeno",
+  "id": 1093,
   "title": "Bracia, patrzcie jeno",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1590,5 +1587,11 @@
   },
   "lyrics": [
     298
-  ]
+  ],
+  "slug": "bracia-patrzcie-jeno",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

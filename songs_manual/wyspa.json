@@ -1,10 +1,7 @@
 {
-  "id": "wyspa",
+  "id": 1572,
   "title": "Wyspa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -919,5 +916,11 @@
   ],
   "composer": [
     268
-  ]
+  ],
+  "slug": "wyspa",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

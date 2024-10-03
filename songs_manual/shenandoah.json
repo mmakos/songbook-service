@@ -1,10 +1,7 @@
 {
-  "id": "shenandoah",
+  "id": 1392,
   "title": "Shenandoah",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1761,5 +1758,11 @@
   "lyrics": [
     398,
     532
-  ]
+  ],
+  "slug": "shenandoah",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

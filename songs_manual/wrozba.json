@@ -1,10 +1,7 @@
 {
-  "id": "wrozba",
+  "id": 1559,
   "title": "Wróżba",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -495,5 +492,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "wrozba",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

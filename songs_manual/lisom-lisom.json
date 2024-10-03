@@ -1,10 +1,7 @@
 {
-  "id": "lisom-lisom",
+  "id": 1288,
   "title": "Lisom lisom",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -548,5 +545,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "lisom-lisom",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "gronland",
+  "id": 1222,
   "title": "Grønland",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1003,5 +1000,11 @@
   },
   "lyrics": [
     237
-  ]
+  ],
+  "slug": "gronland",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

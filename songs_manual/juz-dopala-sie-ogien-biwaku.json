@@ -1,10 +1,7 @@
 {
-  "id": "juz-dopala-sie-ogien-biwaku",
+  "id": 1255,
   "title": "Już dopala się ogień biwaku",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -855,5 +852,11 @@
   "band": 137,
   "source": [
     112
-  ]
+  ],
+  "slug": "juz-dopala-sie-ogien-biwaku",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

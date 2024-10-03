@@ -1,10 +1,7 @@
 {
-  "id": "krag-zycia-accantus",
+  "id": 1272,
   "title": "Krąg życia (Accantus)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -993,5 +990,11 @@
   "source": [
     104,
     106
-  ]
+  ],
+  "slug": "krag-zycia-accantus",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "kim-wlasciwie-byla-ta-piekna-pani",
+  "id": 1263,
   "title": "Kim właściwie była ta piękna Pani",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1032,5 +1029,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "kim-wlasciwie-byla-ta-piekna-pani",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

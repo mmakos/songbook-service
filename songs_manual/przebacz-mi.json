@@ -1,10 +1,7 @@
 {
-  "id": "przebacz-mi",
+  "id": 1370,
   "title": "Przebacz mi",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1012,5 +1009,11 @@
   ],
   "source": [
     102
-  ]
+  ],
+  "slug": "przebacz-mi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

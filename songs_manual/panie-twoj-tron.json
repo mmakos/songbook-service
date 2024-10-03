@@ -1,10 +1,7 @@
 {
-  "id": "panie-twoj-tron",
+  "id": 1539,
   "title": "Panie, Twój tron",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -237,5 +234,11 @@
   ],
   "performer": [
     357
-  ]
+  ],
+  "slug": "panie-twoj-tron",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

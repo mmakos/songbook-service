@@ -1,10 +1,7 @@
 {
-  "id": "katyn-1940-ostatni-list",
+  "id": 1261,
   "title": "Katyń 1940 (Ostatni list)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -839,5 +836,11 @@
   },
   "performer": [
     327
-  ]
+  ],
+  "slug": "katyn-1940-ostatni-list",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

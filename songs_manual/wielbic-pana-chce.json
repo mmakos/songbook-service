@@ -1,10 +1,7 @@
 {
-  "id": "wielbic-pana-chce",
+  "id": 1554,
   "title": "Wielbić Pana chcę",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -148,5 +145,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "wielbic-pana-chce",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

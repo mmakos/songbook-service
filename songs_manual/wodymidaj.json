@@ -1,10 +1,7 @@
 {
-  "id": "wodymidaj",
+  "id": 1444,
   "title": "Wodymidaj",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -932,5 +929,11 @@
   "composer": [
     191
   ],
-  "band": 113
+  "band": 113,
+  "slug": "wodymidaj",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

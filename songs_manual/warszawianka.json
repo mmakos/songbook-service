@@ -1,10 +1,7 @@
 {
-  "id": "warszawianka",
+  "id": 1499,
   "title": "Warszawianka",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -2290,5 +2287,11 @@
   ],
   "composer": [
     271
-  ]
+  ],
+  "slug": "warszawianka",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

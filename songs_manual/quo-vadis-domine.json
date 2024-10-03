@@ -1,10 +1,7 @@
 {
-  "id": "quo-vadis-domine",
+  "id": 1378,
   "title": "Quo Vadis, Domine?",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1291,5 +1288,11 @@
   ],
   "performer": [
     351
-  ]
+  ],
+  "slug": "quo-vadis-domine",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

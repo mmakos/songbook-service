@@ -1,10 +1,7 @@
 {
-  "id": "milosc-to-wiernosc-wyborowi",
+  "id": 1312,
   "title": "Miłość to wierność wyborowi",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1009,5 +1006,11 @@
   ],
   "composer": [
     264
-  ]
+  ],
+  "slug": "milosc-to-wiernosc-wyborowi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

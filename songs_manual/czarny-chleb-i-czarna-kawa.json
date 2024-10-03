@@ -1,10 +1,7 @@
 {
-  "id": "czarny-chleb-i-czarna-kawa",
+  "id": 1181,
   "title": "Czarny chleb i czarna kawa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1085,5 +1082,11 @@
   },
   "performer": [
     188
-  ]
+  ],
+  "slug": "czarny-chleb-i-czarna-kawa",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

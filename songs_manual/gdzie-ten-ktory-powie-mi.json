@@ -1,10 +1,7 @@
 {
-  "id": "gdzie-ten-ktory-powie-mi",
+  "id": 1576,
   "title": "Gdzie ten, który powie mi",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1306,5 +1303,11 @@
   "lyrics": [
     230
   ],
-  "band": 120
+  "band": 120,
+  "slug": "gdzie-ten-ktory-powie-mi",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

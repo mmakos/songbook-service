@@ -1,10 +1,7 @@
 {
-  "id": "szary-swiat",
+  "id": 1587,
   "title": "Szary świat",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -583,5 +580,11 @@
   "performer": [
     384
   ],
-  "band": 113
+  "band": 113,
+  "slug": "szary-swiat",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

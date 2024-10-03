@@ -1,10 +1,7 @@
 {
-  "id": "wojna-postu-z-karnawalem",
+  "id": 1083,
   "title": "Wojna postu z karnawałem",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1995,5 +1992,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "wojna-postu-z-karnawalem",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

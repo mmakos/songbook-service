@@ -1,10 +1,7 @@
 {
-  "id": "jezus-najwyzsze-imie",
+  "id": 1518,
   "title": "Jezus, najwyższe Imię",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -476,5 +473,11 @@
   ],
   "composer": [
     337
-  ]
+  ],
+  "slug": "jezus-najwyzsze-imie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

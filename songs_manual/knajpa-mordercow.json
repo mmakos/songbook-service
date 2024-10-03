@@ -1,10 +1,7 @@
 {
-  "id": "knajpa-mordercow",
+  "id": 1265,
   "title": "Knajpa morderców",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1643,5 +1640,11 @@
   "composer": [
     144
   ],
-  "band": 103
+  "band": 103,
+  "slug": "knajpa-mordercow",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

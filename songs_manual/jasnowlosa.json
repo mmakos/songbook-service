@@ -1,10 +1,7 @@
 {
-  "id": "jasnowlosa",
+  "id": 1249,
   "title": "Jasnowłosa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -730,5 +727,11 @@
   },
   "lyrics": [
     167
-  ]
+  ],
+  "slug": "jasnowlosa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "smiech",
+  "id": 1069,
   "title": "Śmiech",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -877,5 +874,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "smiech",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

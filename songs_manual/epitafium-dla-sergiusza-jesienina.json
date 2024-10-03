@@ -1,10 +1,7 @@
 {
-  "id": "epitafium-dla-sergiusza-jesienina",
+  "id": 1017,
   "title": "Epitafium dla Sergiusza Jesienina",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -3099,5 +3096,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "epitafium-dla-sergiusza-jesienina",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

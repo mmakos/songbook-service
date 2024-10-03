@@ -1,10 +1,7 @@
 {
-  "id": "sandaly",
+  "id": 1387,
   "title": "Sandały",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -673,5 +670,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "sandaly",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

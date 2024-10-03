@@ -1,10 +1,7 @@
 {
-  "id": "pan-jest-moca-swojego-ludu",
+  "id": 1537,
   "title": "Pan jest mocą swojego ludu",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -319,5 +316,11 @@
   "performer": [
     420
   ],
-  "band": 110
+  "band": 110,
+  "slug": "pan-jest-moca-swojego-ludu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

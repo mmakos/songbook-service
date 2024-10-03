@@ -1,10 +1,7 @@
 {
-  "id": "piosenka-na-przetrwanie",
+  "id": 1360,
   "title": "Piosenka na przetrwanie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -602,5 +599,11 @@
   "composer": [
     519
   ],
-  "band": 148
+  "band": 148,
+  "slug": "piosenka-na-przetrwanie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

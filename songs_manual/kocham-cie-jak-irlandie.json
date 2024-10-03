@@ -1,10 +1,7 @@
 {
-  "id": "kocham-cie-jak-irlandie",
+  "id": 1266,
   "title": "Kocham Cię jak Irlandię",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1130,5 +1127,11 @@
   "lyrics": [
     434
   ],
-  "band": 139
+  "band": 139,
+  "slug": "kocham-cie-jak-irlandie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

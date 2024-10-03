@@ -1,10 +1,7 @@
 {
-  "id": "koleda-dla-piotra-skrzyneckiego",
+  "id": 1106,
   "title": "Kolęda dla Piotra Skrzyneckiego",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1088,5 +1085,11 @@
   ],
   "composer": [
     391
-  ]
+  ],
+  "slug": "koleda-dla-piotra-skrzyneckiego",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

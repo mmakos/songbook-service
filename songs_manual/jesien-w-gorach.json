@@ -1,10 +1,7 @@
 {
-  "id": "jesien-w-gorach",
+  "id": 1251,
   "title": "Jesień w górach",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -707,5 +704,11 @@
   ],
   "composer": [
     413
-  ]
+  ],
+  "slug": "jesien-w-gorach",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

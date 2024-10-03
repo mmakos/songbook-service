@@ -1,10 +1,7 @@
 {
-  "id": "stary-kowboj",
+  "id": 1398,
   "title": "Stary kowboj",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -669,5 +666,11 @@
   ],
   "composer": [
     526
-  ]
+  ],
+  "slug": "stary-kowboj",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

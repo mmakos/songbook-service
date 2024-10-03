@@ -1,10 +1,7 @@
 {
-  "id": "w-zlobie-lezy",
+  "id": 1124,
   "title": "W żłobie leży",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -2159,5 +2156,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "w-zlobie-lezy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "ubi-caritas",
+  "id": 1548,
   "title": "Ubi caritas",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -322,5 +319,11 @@
   "performer": [
     420
   ],
-  "band": 110
+  "band": 110,
+  "slug": "ubi-caritas",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

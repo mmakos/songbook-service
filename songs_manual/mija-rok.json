@@ -1,10 +1,7 @@
 {
-  "id": "mija-rok",
+  "id": 1310,
   "title": "Mija rok",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -903,5 +900,11 @@
   ],
   "composer": [
     210
-  ]
+  ],
+  "slug": "mija-rok",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

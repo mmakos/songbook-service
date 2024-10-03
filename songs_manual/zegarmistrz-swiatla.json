@@ -1,10 +1,7 @@
 {
-  "id": "zegarmistrz-swiatla",
+  "id": 1457,
   "title": "Zegarmistrz światła",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -268,5 +265,11 @@
   ],
   "composer": [
     205
-  ]
+  ],
+  "slug": "zegarmistrz-swiatla",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

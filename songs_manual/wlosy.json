@@ -1,10 +1,7 @@
 {
-  "id": "wlosy",
+  "id": 1443,
   "title": "Włosy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2091,5 +2088,11 @@
   "composer": [
     192
   ],
-  "band": 121
+  "band": 121,
+  "slug": "wlosy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

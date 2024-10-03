@@ -1,10 +1,7 @@
 {
-  "id": "ciagnik",
+  "id": 1176,
   "title": "Ciągnik",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -875,5 +872,11 @@
       }
     }
   },
-  "band": 117
+  "band": 117,
+  "slug": "ciagnik",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

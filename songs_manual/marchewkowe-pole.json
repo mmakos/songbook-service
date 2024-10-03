@@ -1,10 +1,7 @@
 {
-  "id": "marchewkowe-pole",
+  "id": 1302,
   "title": "Marchewkowe pole",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -479,5 +476,11 @@
   ],
   "composer": [
     441
-  ]
+  ],
+  "slug": "marchewkowe-pole",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

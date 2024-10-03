@@ -1,10 +1,7 @@
 {
-  "id": "wielka-woda",
+  "id": 1604,
   "title": "Wielka woda",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -901,5 +898,11 @@
   ],
   "composer": [
     190
-  ]
+  ],
+  "slug": "wielka-woda",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

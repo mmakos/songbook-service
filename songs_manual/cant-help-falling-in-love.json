@@ -1,10 +1,7 @@
 {
-  "id": "cant-help-falling-in-love",
+  "id": 1171,
   "title": "Can't help falling in love",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -966,5 +963,11 @@
   ],
   "performer": [
     317
-  ]
+  ],
+  "slug": "cant-help-falling-in-love",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

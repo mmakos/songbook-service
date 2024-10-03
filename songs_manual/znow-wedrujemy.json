@@ -1,10 +1,7 @@
 {
-  "id": "znow-wedrujemy",
+  "id": 1606,
   "title": "Znów wędrujemy",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1178,5 +1175,11 @@
   ],
   "composer": [
     265
-  ]
+  ],
+  "slug": "znow-wedrujemy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

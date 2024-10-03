@@ -1,10 +1,7 @@
 {
-  "id": "my-heart-will-go-on",
+  "id": 1325,
   "title": "My heart will go on",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1365,5 +1362,11 @@
   ],
   "performer": [
     355
-  ]
+  ],
+  "slug": "my-heart-will-go-on",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

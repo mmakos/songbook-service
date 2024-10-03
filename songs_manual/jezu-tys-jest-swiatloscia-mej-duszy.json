@@ -1,10 +1,7 @@
 {
-  "id": "jezu-tys-jest-swiatloscia-mej-duszy",
+  "id": 1517,
   "title": "Jezu, Tyś jest światłością mej duszy",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -210,5 +207,11 @@
   "composer": [
     420
   ],
-  "band": 110
+  "band": 110,
+  "slug": "jezu-tys-jest-swiatloscia-mej-duszy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

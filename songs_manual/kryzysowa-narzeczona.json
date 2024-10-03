@@ -1,10 +1,7 @@
 {
-  "id": "kryzysowa-narzeczona",
+  "id": 1598,
   "title": "Kryzysowa narzeczona",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -527,5 +524,11 @@
   "composer": [
     441
   ],
-  "band": 141
+  "band": 141,
+  "slug": "kryzysowa-narzeczona",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

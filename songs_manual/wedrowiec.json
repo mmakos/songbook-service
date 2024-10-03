@@ -1,10 +1,7 @@
 {
-  "id": "wedrowiec",
+  "id": 1432,
   "title": "Wędrowiec",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -540,5 +537,11 @@
   "lyrics": [
     557
   ],
-  "band": 166
+  "band": 166,
+  "slug": "wedrowiec",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

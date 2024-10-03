@@ -1,10 +1,7 @@
 {
-  "id": "w-gorach",
+  "id": 1426,
   "title": "W górach",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -785,5 +782,11 @@
   },
   "performer": [
     273
-  ]
+  ],
+  "slug": "w-gorach",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

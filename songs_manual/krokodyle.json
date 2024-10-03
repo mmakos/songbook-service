@@ -1,10 +1,7 @@
 {
-  "id": "krokodyle",
+  "id": 1274,
   "title": "Krokodyle",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -745,5 +742,11 @@
   "band": 140,
   "performer": [
     340
-  ]
+  ],
+  "slug": "krokodyle",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

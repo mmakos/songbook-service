@@ -1,10 +1,7 @@
 {
-  "id": "bitwa",
+  "id": 1162,
   "title": "Bitwa",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1166,5 +1163,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "bitwa",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

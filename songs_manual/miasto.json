@@ -1,10 +1,7 @@
 {
-  "id": "miasto",
+  "id": 1307,
   "title": "Miasto",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -693,5 +690,11 @@
       }
     }
   },
-  "band": 177
+  "band": 177,
+  "slug": "miasto",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "epitafium-dla-sowizdrzala",
+  "id": 1018,
   "title": "Epitafium dla Sowizdrzała",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -3304,5 +3301,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "epitafium-dla-sowizdrzala",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

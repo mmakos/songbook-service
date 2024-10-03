@@ -1,10 +1,7 @@
 {
-  "id": "wiesna",
+  "id": 1440,
   "title": "Wiesna",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1149,5 +1146,11 @@
       "minor": true
     }
   },
-  "band": 168
+  "band": 168,
+  "slug": "wiesna",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

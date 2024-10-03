@@ -1,10 +1,7 @@
 {
-  "id": "podanie-o",
+  "id": 1365,
   "title": "Podanie o…",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -575,5 +572,11 @@
   ],
   "composer": [
     514
-  ]
+  ],
+  "slug": "podanie-o",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

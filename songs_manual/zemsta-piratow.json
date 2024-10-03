@@ -1,10 +1,7 @@
 {
-  "id": "zemsta-piratow",
+  "id": 1458,
   "title": "Zemsta piratów",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -797,5 +794,11 @@
   ],
   "source": [
     113
-  ]
+  ],
+  "slug": "zemsta-piratow",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

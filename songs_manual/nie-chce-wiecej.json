@@ -1,10 +1,7 @@
 {
-  "id": "nie-chce-wiecej",
+  "id": 1333,
   "title": "Nie chcę więcej",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1417,5 +1414,11 @@
   ],
   "performer": [
     351
-  ]
+  ],
+  "slug": "nie-chce-wiecej",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

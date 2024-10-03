@@ -1,10 +1,7 @@
 {
-  "id": "i-wont-forget-you",
+  "id": 1243,
   "title": "I won't forget you",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -485,5 +482,11 @@
   },
   "performer": [
     331
-  ]
+  ],
+  "slug": "i-wont-forget-you",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "nie-ma-wiekszej-milosci",
+  "id": 1530,
   "title": "Nie ma większej miłości",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -218,5 +215,11 @@
   },
   "bible": [
     "J 15,13"
-  ]
+  ],
+  "slug": "nie-ma-wiekszej-milosci",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

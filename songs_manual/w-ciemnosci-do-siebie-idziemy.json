@@ -1,10 +1,7 @@
 {
-  "id": "w-ciemnosci-do-siebie-idziemy",
+  "id": 1569,
   "title": "W ciemności do siebie idziemy",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -969,5 +966,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "w-ciemnosci-do-siebie-idziemy",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

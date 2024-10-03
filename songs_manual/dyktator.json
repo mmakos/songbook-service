@@ -1,10 +1,7 @@
 {
-  "id": "dyktator",
+  "id": 1202,
   "title": "Dyktator",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -663,5 +660,11 @@
   },
   "performer": [
     217
-  ]
+  ],
+  "slug": "dyktator",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

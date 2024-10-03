@@ -1,10 +1,7 @@
 {
-  "id": "zwiewnosc",
+  "id": 1463,
   "title": "Zwiewność",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -487,5 +484,11 @@
   "composer": [
     582
   ],
-  "band": 174
+  "band": 174,
+  "slug": "zwiewnosc",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

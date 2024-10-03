@@ -1,10 +1,7 @@
 {
-  "id": "gloria",
+  "id": 1514,
   "title": "Gloria",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -724,5 +721,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "gloria",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

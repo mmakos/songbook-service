@@ -1,10 +1,7 @@
 {
-  "id": "hej-hanno",
+  "id": 1235,
   "title": "Hej Hanno",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1121,5 +1118,11 @@
   ],
   "performer": [
     205
-  ]
+  ],
+  "slug": "hej-hanno",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

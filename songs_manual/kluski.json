@@ -1,10 +1,7 @@
 {
-  "id": "kluski",
+  "id": 1264,
   "title": "Kluski",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -906,5 +903,11 @@
       }
     }
   },
-  "band": 154
+  "band": 154,
+  "slug": "kluski",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

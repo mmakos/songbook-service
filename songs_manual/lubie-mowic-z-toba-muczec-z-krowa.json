@@ -1,10 +1,7 @@
 {
-  "id": "lubie-mowic-z-toba-muczec-z-krowa",
+  "id": 1295,
   "title": "Lubię mówić z tobą (muczeć z krową)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -672,5 +669,11 @@
     449,
     448
   ],
-  "band": 145
+  "band": 145,
+  "slug": "lubie-mowic-z-toba-muczec-z-krowa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

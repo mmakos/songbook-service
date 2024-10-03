@@ -1,10 +1,7 @@
 {
-  "id": "zombie",
+  "id": 1460,
   "title": "Zombie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -948,5 +945,11 @@
   "composer": [
     294
   ],
-  "band": 172
+  "band": 172,
+  "slug": "zombie",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

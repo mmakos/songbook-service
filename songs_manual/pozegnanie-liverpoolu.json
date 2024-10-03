@@ -1,10 +1,7 @@
 {
-  "id": "pozegnanie-liverpoolu",
+  "id": 1368,
   "title": "Pożegnanie Liverpoolu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -942,5 +939,11 @@
   "lyrics": [
     509,
     510
-  ]
+  ],
+  "slug": "pozegnanie-liverpoolu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

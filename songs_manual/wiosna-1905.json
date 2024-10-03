@@ -1,10 +1,7 @@
 {
-  "id": "wiosna-1905",
+  "id": 1081,
   "title": "Wiosna 1905",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1296,5 +1293,11 @@
   ],
   "composer": [
     102
-  ]
+  ],
+  "slug": "wiosna-1905",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

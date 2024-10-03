@@ -1,10 +1,7 @@
 {
-  "id": "pedro",
+  "id": 1349,
   "title": "Pedro",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1030,5 +1027,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "pedro",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "house-of-the-rising-sun",
+  "id": 1241,
   "title": "House of the Rising Sun",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1412,5 +1409,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "house-of-the-rising-sun",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

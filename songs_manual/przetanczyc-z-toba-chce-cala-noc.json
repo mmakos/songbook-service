@@ -1,10 +1,7 @@
 {
-  "id": "przetanczyc-z-toba-chce-cala-noc",
+  "id": 1373,
   "title": "Przetańczyć z tobą chcę całą noc",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -986,5 +983,11 @@
   ],
   "performer": [
     363
-  ]
+  ],
+  "slug": "przetanczyc-z-toba-chce-cala-noc",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

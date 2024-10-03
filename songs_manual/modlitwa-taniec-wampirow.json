@@ -1,10 +1,7 @@
 {
-  "id": "modlitwa-taniec-wampirow",
+  "id": 1316,
   "title": "Modlitwa (Taniec Wampirów)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -793,5 +790,11 @@
   ],
   "source": [
     116
-  ]
+  ],
+  "slug": "modlitwa-taniec-wampirow",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

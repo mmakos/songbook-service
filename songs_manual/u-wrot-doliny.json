@@ -1,10 +1,7 @@
 {
-  "id": "u-wrot-doliny",
+  "id": 1076,
   "title": "U wrót doliny",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1848,5 +1845,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "u-wrot-doliny",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

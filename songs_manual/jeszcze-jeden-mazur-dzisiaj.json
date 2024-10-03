@@ -1,10 +1,7 @@
 {
-  "id": "jeszcze-jeden-mazur-dzisiaj",
+  "id": 1476,
   "title": "Jeszcze jeden mazur dzisiaj",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -893,5 +890,11 @@
   ],
   "composer": [
     417
-  ]
+  ],
+  "slug": "jeszcze-jeden-mazur-dzisiaj",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

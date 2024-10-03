@@ -1,10 +1,7 @@
 {
-  "id": "miedzy-nami-tyle-sniegu",
+  "id": 1308,
   "title": "Między nami tyle śniegu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -886,5 +883,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "miedzy-nami-tyle-sniegu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

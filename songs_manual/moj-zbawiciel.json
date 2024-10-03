@@ -1,10 +1,7 @@
 {
-  "id": "moj-zbawiciel",
+  "id": 1526,
   "title": "Mój Zbawiciel",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -235,5 +232,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "moj-zbawiciel",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

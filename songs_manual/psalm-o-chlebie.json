@@ -1,10 +1,7 @@
 {
-  "id": "psalm-o-chlebie",
+  "id": 1599,
   "title": "Psalm o chlebie",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -418,5 +415,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "psalm-o-chlebie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

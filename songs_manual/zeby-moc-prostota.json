@@ -1,10 +1,7 @@
 {
-  "id": "zeby-moc-prostota",
+  "id": 1456,
   "title": "Żeby móc (Prostota)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -488,5 +485,11 @@
   },
   "lyrics": [
     386
-  ]
+  ],
+  "slug": "zeby-moc-prostota",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

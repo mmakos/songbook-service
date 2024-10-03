@@ -1,10 +1,7 @@
 {
-  "id": "milosc-rosnie-wokol-nas",
+  "id": 1311,
   "title": "Miłość rośnie wokół nas",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1050,5 +1047,11 @@
   ],
   "composer": [
     182
-  ]
+  ],
+  "slug": "milosc-rosnie-wokol-nas",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

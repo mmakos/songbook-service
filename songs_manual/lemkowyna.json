@@ -1,10 +1,7 @@
 {
-  "id": "lemkowyna",
+  "id": 1285,
   "title": "Łemkowyna",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -702,5 +699,11 @@
   },
   "performer": [
     342
-  ]
+  ],
+  "slug": "lemkowyna",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

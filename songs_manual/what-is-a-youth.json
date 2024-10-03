@@ -1,10 +1,7 @@
 {
-  "id": "what-is-a-youth",
+  "id": 1436,
   "title": "What is a youth",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -770,5 +767,11 @@
   ],
   "performer": [
     392
-  ]
+  ],
+  "slug": "what-is-a-youth",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

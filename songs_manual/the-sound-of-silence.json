@@ -1,10 +1,7 @@
 {
-  "id": "the-sound-of-silence",
+  "id": 1417,
   "title": "The sound of silence",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -985,5 +982,11 @@
   "composer": [
     371
   ],
-  "band": 164
+  "band": 164,
+  "slug": "the-sound-of-silence",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

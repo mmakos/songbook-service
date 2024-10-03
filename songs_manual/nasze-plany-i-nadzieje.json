@@ -1,10 +1,7 @@
 {
-  "id": "nasze-plany-i-nadzieje",
+  "id": 1527,
   "title": "Nasze plany i nadzieje",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -1185,5 +1182,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "nasze-plany-i-nadzieje",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

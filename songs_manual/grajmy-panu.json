@@ -1,10 +1,7 @@
 {
-  "id": "grajmy-panu",
+  "id": 1221,
   "title": "Grajmy Panu",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -798,5 +795,11 @@
   ],
   "performer": [
     325
-  ]
+  ],
+  "slug": "grajmy-panu",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

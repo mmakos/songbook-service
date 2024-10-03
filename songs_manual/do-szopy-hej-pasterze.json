@@ -1,10 +1,7 @@
 {
-  "id": "do-szopy-hej-pasterze",
+  "id": 1095,
   "title": "Do szopy, hej pasterze",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1038,5 +1035,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "do-szopy-hej-pasterze",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

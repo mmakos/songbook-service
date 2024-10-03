@@ -1,10 +1,7 @@
 {
-  "id": "mury",
+  "id": 1043,
   "title": "Mury",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1461,5 +1458,11 @@
   ],
   "composer": [
     109
-  ]
+  ],
+  "slug": "mury",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

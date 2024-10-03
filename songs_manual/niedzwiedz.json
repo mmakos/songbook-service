@@ -1,10 +1,7 @@
 {
-  "id": "niedzwiedz",
+  "id": 1340,
   "title": "Niedźwiedź",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1026,5 +1023,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "niedzwiedz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

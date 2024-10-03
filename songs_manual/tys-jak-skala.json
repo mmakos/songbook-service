@@ -1,10 +1,7 @@
 {
-  "id": "tys-jak-skala",
+  "id": 1547,
   "title": "Tyś jak skała",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -311,5 +308,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "tys-jak-skala",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

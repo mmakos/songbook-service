@@ -1,10 +1,7 @@
 {
-  "id": "requiem-rozbiorowe",
+  "id": 1064,
   "title": "Requiem rozbiorowe",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -4681,5 +4678,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "requiem-rozbiorowe",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

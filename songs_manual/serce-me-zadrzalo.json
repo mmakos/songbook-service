@@ -1,10 +1,7 @@
 {
-  "id": "serce-me-zadrzalo",
+  "id": 1391,
   "title": "Serce me zadrżało",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -402,5 +399,11 @@
   },
   "performer": [
     365
-  ]
+  ],
+  "slug": "serce-me-zadrzalo",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

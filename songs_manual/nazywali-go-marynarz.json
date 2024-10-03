@@ -1,10 +1,7 @@
 {
-  "id": "nazywali-go-marynarz",
+  "id": 1332,
   "title": "Nazywali go Marynarz",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1267,5 +1264,11 @@
   ],
   "composer": [
     187
-  ]
+  ],
+  "slug": "nazywali-go-marynarz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "poloniny-niebieskie",
+  "id": 1366,
   "title": "Połoniny niebieskie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -989,5 +986,11 @@
   ],
   "composer": [
     513
-  ]
+  ],
+  "slug": "poloniny-niebieskie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

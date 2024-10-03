@@ -1,10 +1,7 @@
 {
-  "id": "you-raise-me-up",
+  "id": 1447,
   "title": "You raise me up",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -613,5 +610,11 @@
   "composer": [
     540
   ],
-  "band": 171
+  "band": 171,
+  "slug": "you-raise-me-up",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

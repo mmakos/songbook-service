@@ -1,10 +1,7 @@
 {
-  "id": "dym-jalowca",
+  "id": 1512,
   "title": "Dym jałowca",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -570,5 +567,11 @@
         "base": "D"
       }
     }
+  },
+  "slug": "dym-jalowca",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

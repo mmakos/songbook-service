@@ -1,10 +1,7 @@
 {
-  "id": "zasmazka",
+  "id": 1453,
   "title": "Zasmażka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1602,5 +1599,11 @@
   "composer": [
     293
   ],
-  "band": 134
+  "band": 134,
+  "slug": "zasmazka",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

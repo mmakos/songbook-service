@@ -1,10 +1,7 @@
 {
-  "id": "kiedy-stane-przed-toba",
+  "id": 1521,
   "title": "Kiedy stanę przed Tobą",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -813,5 +810,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "kiedy-stane-przed-toba",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "przy-sadzeniu-roz",
+  "id": 1487,
   "title": "Przy sadzeniu róż",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -547,5 +544,11 @@
   },
   "lyrics": [
     508
-  ]
+  ],
+  "slug": "przy-sadzeniu-roz",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

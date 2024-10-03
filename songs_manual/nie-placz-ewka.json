@@ -1,10 +1,7 @@
 {
-  "id": "nie-placz-ewka",
+  "id": 1585,
   "title": "Nie płacz Ewka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -560,5 +557,11 @@
   "composer": [
     478
   ],
-  "band": 153
+  "band": 153,
+  "slug": "nie-placz-ewka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

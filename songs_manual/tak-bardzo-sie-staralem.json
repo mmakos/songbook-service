@@ -1,10 +1,7 @@
 {
-  "id": "tak-bardzo-sie-staralem",
+  "id": 1404,
   "title": "Tak bardzo się starałem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -801,5 +798,11 @@
   "composer": [
     210
   ],
-  "band": 107
+  "band": 107,
+  "slug": "tak-bardzo-sie-staralem",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

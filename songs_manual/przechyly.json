@@ -1,10 +1,7 @@
 {
-  "id": "przechyly",
+  "id": 1372,
   "title": "Przechyły",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -949,5 +946,11 @@
   },
   "performer": [
     362
-  ]
+  ],
+  "slug": "przechyly",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

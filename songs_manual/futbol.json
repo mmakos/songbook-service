@@ -1,10 +1,7 @@
 {
-  "id": "futbol",
+  "id": 1217,
   "title": "Futbol",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -945,5 +942,11 @@
   ],
   "performer": [
     131
-  ]
+  ],
+  "slug": "futbol",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

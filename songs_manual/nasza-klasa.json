@@ -1,10 +1,7 @@
 {
-  "id": "nasza-klasa",
+  "id": 1044,
   "title": "Nasza klasa",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -3339,5 +3336,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "nasza-klasa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

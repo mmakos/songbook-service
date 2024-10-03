@@ -1,10 +1,7 @@
 {
-  "id": "na-kolejowym-szlaku",
+  "id": 1327,
   "title": "Na kolejowym szlaku",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -824,5 +821,11 @@
   },
   "lyrics": [
     483
-  ]
+  ],
+  "slug": "na-kolejowym-szlaku",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "grzeczny-jan",
+  "id": 1223,
   "title": "Grzeczny Jan",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1621,5 +1618,11 @@
   ],
   "composer": [
     220
-  ]
+  ],
+  "slug": "grzeczny-jan",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

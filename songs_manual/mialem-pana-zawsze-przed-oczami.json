@@ -1,10 +1,7 @@
 {
-  "id": "mialem-pana-zawsze-przed-oczami",
+  "id": 1618,
   "title": "Miałem Pana zawsze przed oczami",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -416,5 +413,11 @@
   "bible": [
     "Psalm 16",
     "Dz 2,25-28"
-  ]
+  ],
+  "slug": "mialem-pana-zawsze-przed-oczami",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "stworzenie-swiata",
+  "id": 1561,
   "title": "Stworzenie świata",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -2469,5 +2466,11 @@
   ],
   "lyrics": [
     100
-  ]
+  ],
+  "slug": "stworzenie-swiata",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

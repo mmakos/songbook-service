@@ -1,10 +1,7 @@
 {
-  "id": "rzez-niewiniatek",
+  "id": 1066,
   "title": "Rzeź niewiniątek",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -667,5 +664,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "rzez-niewiniatek",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

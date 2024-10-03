@@ -1,10 +1,7 @@
 {
-  "id": "mazurek-3-maja",
+  "id": 1481,
   "title": "Mazurek 3 maja",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -436,5 +433,11 @@
   ],
   "composer": [
     469
-  ]
+  ],
+  "slug": "mazurek-3-maja",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "polorum-regina",
+  "id": 1541,
   "title": "Polorum Regina",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -564,5 +561,11 @@
         "base": "C"
       }
     }
+  },
+  "slug": "polorum-regina",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "pazawi-mienia-cicha-pa-imieni",
+  "id": 1348,
   "title": "Pazawi mienia cicha pa imieni",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -806,5 +803,11 @@
       "minor": true
     }
   },
-  "band": 155
+  "band": 155,
+  "slug": "pazawi-mienia-cicha-pa-imieni",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

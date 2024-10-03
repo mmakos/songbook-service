@@ -1,10 +1,7 @@
 {
-  "id": "szara-piechota",
+  "id": 1494,
   "title": "Szara piechota",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -890,5 +887,11 @@
   },
   "performer": [
     368
-  ]
+  ],
+  "slug": "szara-piechota",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

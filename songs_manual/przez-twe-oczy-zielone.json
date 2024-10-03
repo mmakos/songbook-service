@@ -1,10 +1,7 @@
 {
-  "id": "przez-twe-oczy-zielone",
+  "id": 1374,
   "title": "Przez Twe oczy zielone",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -721,5 +718,11 @@
   "composer": [
     290
   ],
-  "band": 159
+  "band": 159,
+  "slug": "przez-twe-oczy-zielone",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

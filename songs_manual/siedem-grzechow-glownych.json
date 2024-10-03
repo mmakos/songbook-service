@@ -1,10 +1,7 @@
 {
-  "id": "siedem-grzechow-glownych",
+  "id": 1068,
   "title": "Siedem grzechów głównych",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1907,5 +1904,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "siedem-grzechow-glownych",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

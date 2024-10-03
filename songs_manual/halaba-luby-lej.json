@@ -1,10 +1,7 @@
 {
-  "id": "halaba-luby-lej",
+  "id": 1226,
   "title": "Halaba-luby-lej",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -870,5 +867,11 @@
   "lyrics": [
     160,
     239
-  ]
+  ],
+  "slug": "halaba-luby-lej",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

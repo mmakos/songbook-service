@@ -1,10 +1,7 @@
 {
-  "id": "opadly-mgly",
+  "id": 1345,
   "title": "Opadły mgły",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -780,5 +777,11 @@
   "composer": [
     496
   ],
-  "band": 108
+  "band": 108,
+  "slug": "opadly-mgly",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

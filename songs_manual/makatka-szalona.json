@@ -1,10 +1,7 @@
 {
-  "id": "makatka-szalona",
+  "id": 1299,
   "title": "Makatka szalona",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -807,5 +804,11 @@
   "composer": [
     159
   ],
-  "band": 108
+  "band": 108,
+  "slug": "makatka-szalona",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

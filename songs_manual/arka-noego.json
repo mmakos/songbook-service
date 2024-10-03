@@ -1,10 +1,7 @@
 {
-  "id": "arka-noego",
+  "id": 1004,
   "title": "Arka Noego",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1950,5 +1947,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "arka-noego",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

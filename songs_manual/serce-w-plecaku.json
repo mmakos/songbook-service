@@ -1,10 +1,7 @@
 {
-  "id": "serce-w-plecaku",
+  "id": 1492,
   "title": "Serce w plecaku",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -865,5 +862,11 @@
   },
   "performer": [
     366
-  ]
+  ],
+  "slug": "serce-w-plecaku",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

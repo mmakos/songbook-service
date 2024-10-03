@@ -1,10 +1,7 @@
 {
-  "id": "gdy-tak-siedzimy",
+  "id": 1020,
   "title": "Gdy tak siedzimy",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -398,5 +395,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "gdy-tak-siedzimy",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

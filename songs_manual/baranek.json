@@ -1,10 +1,7 @@
 {
-  "id": "baranek",
+  "id": 1146,
   "title": "Baranek",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1321,5 +1318,11 @@
   "performer": [
     144
   ],
-  "band": 103
+  "band": 103,
+  "slug": "baranek",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

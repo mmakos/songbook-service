@@ -1,10 +1,7 @@
 {
-  "id": "radosc-o-poranku",
+  "id": 1379,
   "title": "Radość o poranku",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1363,5 +1360,11 @@
   ],
   "composer": [
     288
-  ]
+  ],
+  "slug": "radosc-o-poranku",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

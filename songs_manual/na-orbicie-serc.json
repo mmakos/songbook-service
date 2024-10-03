@@ -1,10 +1,7 @@
 {
-  "id": "na-orbicie-serc",
+  "id": 1328,
   "title": "Na orbicie serc",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2027,5 +2024,11 @@
   ],
   "source": [
     113
-  ]
+  ],
+  "slug": "na-orbicie-serc",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

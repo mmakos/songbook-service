@@ -1,10 +1,7 @@
 {
-  "id": "hej-przyjaciele",
+  "id": 1236,
   "title": "Hej przyjaciele",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -757,5 +754,11 @@
   "band": 132,
   "performer": [
     327
-  ]
+  ],
+  "slug": "hej-przyjaciele",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

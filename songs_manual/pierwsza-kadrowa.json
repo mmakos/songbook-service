@@ -1,10 +1,7 @@
 {
-  "id": "pierwsza-kadrowa",
+  "id": 1485,
   "title": "Pierwsza kadrowa",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -522,5 +519,11 @@
   },
   "lyrics": [
     487
-  ]
+  ],
+  "slug": "pierwsza-kadrowa",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

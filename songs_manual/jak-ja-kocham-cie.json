@@ -1,10 +1,7 @@
 {
-  "id": "jak-ja-kocham-cie",
+  "id": 1245,
   "title": "Jak ja kocham Cię",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1153,5 +1150,11 @@
   "composer": [
     295
   ],
-  "band": 134
+  "band": 134,
+  "slug": "jak-ja-kocham-cie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

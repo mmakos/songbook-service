@@ -1,10 +1,7 @@
 {
-  "id": "z-narodzenia-pana",
+  "id": 1127,
   "title": "Z narodzenia Pana",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1853,5 +1850,11 @@
         "base": "F"
       }
     }
+  },
+  "slug": "z-narodzenia-pana",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

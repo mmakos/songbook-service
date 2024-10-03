@@ -1,10 +1,7 @@
 {
-  "id": "marsz-polonii",
+  "id": 1479,
   "title": "Marsz Polonii",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -1647,5 +1644,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "marsz-polonii",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

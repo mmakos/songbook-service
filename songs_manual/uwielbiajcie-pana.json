@@ -1,10 +1,7 @@
 {
-  "id": "uwielbiajcie-pana",
+  "id": 1549,
   "title": "Uwielbiajcie Pana",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -354,5 +351,11 @@
   },
   "performer": [
     372
-  ]
+  ],
+  "slug": "uwielbiajcie-pana",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

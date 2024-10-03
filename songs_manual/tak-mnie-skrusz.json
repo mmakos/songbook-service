@@ -1,10 +1,7 @@
 {
-  "id": "tak-mnie-skrusz",
+  "id": 1546,
   "title": "Tak mnie skrusz",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -153,5 +150,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "tak-mnie-skrusz",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

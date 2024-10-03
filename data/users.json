@@ -1,17 +1,21 @@
 [
   {
+    "id": 1,
     "name": "mmakos",
     "type": "owner"
   },
   {
+    "id": 2,
     "name": "spiewnik-mmakos",
     "type": "bot"
   },
   {
+    "id": 100,
     "name": "fiko",
     "type": "verified"
   },
   {
+    "id": 101,
     "name": "janek",
     "type": "user"
   }

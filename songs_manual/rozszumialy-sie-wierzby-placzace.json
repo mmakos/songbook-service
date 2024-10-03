@@ -1,10 +1,7 @@
 {
-  "id": "rozszumialy-sie-wierzby-placzace",
+  "id": 1491,
   "title": "Rozszumiały się wierzby płaczące",
-  "category": {
-    "id": "patriotic",
-    "name": "Patriotyczne"
-  },
+  "category": 3,
   "verses": [
     {
       "lines": [
@@ -760,5 +757,11 @@
   ],
   "composer": [
     534
-  ]
+  ],
+  "slug": "rozszumialy-sie-wierzby-placzace",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

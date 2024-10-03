@@ -1,10 +1,7 @@
 {
-  "id": "przebudzenie",
+  "id": 1371,
   "title": "Przebudzenie",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1172,5 +1169,11 @@
       }
     }
   },
-  "band": 179
+  "band": 179,
+  "slug": "przebudzenie",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

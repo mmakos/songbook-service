@@ -1,10 +1,7 @@
 {
-  "id": "fordewind",
+  "id": 1215,
   "title": "Fordewind",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1264,5 +1261,11 @@
   "lyrics": [
     225
   ],
-  "band": 129
+  "band": 129,
+  "slug": "fordewind",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

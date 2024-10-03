@@ -1,10 +1,7 @@
 {
-  "id": "jolka-jolka",
+  "id": 1253,
   "title": "Jolka Jolka",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1346,5 +1343,11 @@
   "composer": [
     421
   ],
-  "band": 136
+  "band": 136,
+  "slug": "jolka-jolka",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "cichy-zapada-zmrok",
+  "id": 1511,
   "title": "Cichy zapada zmrok",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -710,5 +707,11 @@
       },
       "minor": true
     }
+  },
+  "slug": "cichy-zapada-zmrok",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
   }
 }

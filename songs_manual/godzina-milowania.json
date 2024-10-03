@@ -1,10 +1,7 @@
 {
-  "id": "godzina-milowania",
+  "id": 1220,
   "title": "Godzina miłowania",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -510,5 +507,11 @@
   },
   "performer": [
     148
-  ]
+  ],
+  "slug": "godzina-milowania",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

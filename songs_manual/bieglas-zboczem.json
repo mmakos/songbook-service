@@ -1,10 +1,7 @@
 {
-  "id": "bieglas-zboczem",
+  "id": 1157,
   "title": "Biegłaś zboczem",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -416,5 +413,11 @@
   },
   "performer": [
     154
-  ]
+  ],
+  "slug": "bieglas-zboczem",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

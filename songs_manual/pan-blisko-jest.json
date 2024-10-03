@@ -1,10 +1,7 @@
 {
-  "id": "pan-blisko-jest",
+  "id": 1536,
   "title": "Pan blisko jest",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -155,5 +152,11 @@
   "performer": [
     420
   ],
-  "band": 110
+  "band": 110,
+  "slug": "pan-blisko-jest",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

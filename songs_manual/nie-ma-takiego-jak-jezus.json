@@ -1,10 +1,7 @@
 {
-  "id": "nie-ma-takiego-jak-jezus",
+  "id": 1529,
   "title": "Nie ma takiego jak Jezus",
-  "category": {
-    "id": "religious",
-    "name": "Religijne"
-  },
+  "category": 4,
   "verses": [
     {
       "lines": [
@@ -269,5 +266,11 @@
         "base": "G"
       }
     }
+  },
+  "slug": "nie-ma-takiego-jak-jezus",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
   }
 }

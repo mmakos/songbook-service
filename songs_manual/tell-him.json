@@ -1,10 +1,7 @@
 {
-  "id": "tell-him",
+  "id": 1412,
   "title": "Tell him",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1871,5 +1868,11 @@
   "composer": [
     577,
     576
-  ]
+  ],
+  "slug": "tell-him",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

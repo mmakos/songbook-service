@@ -1,10 +1,7 @@
 {
-  "id": "wieza-babel",
+  "id": 1620,
   "title": "Wieża Babel",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -2589,5 +2586,11 @@
   ],
   "composer": [
     117
-  ]
+  ],
+  "slug": "wieza-babel",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

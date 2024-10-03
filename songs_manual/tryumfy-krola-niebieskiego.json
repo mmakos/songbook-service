@@ -1,10 +1,7 @@
 {
-  "id": "tryumfy-krola-niebieskiego",
+  "id": 1122,
   "title": "Tryumfy Króla Niebieskiego",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1529,5 +1526,11 @@
         "base": "A"
       }
     }
+  },
+  "slug": "tryumfy-krola-niebieskiego",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
   }
 }

@@ -1,10 +1,7 @@
 {
-  "id": "lato-z-komarami",
+  "id": 1281,
   "title": "Lato z komarami",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -998,5 +995,11 @@
   },
   "performer": [
     341
-  ]
+  ],
+  "slug": "lato-z-komarami",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

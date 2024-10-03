@@ -1,10 +1,7 @@
 {
-  "id": "zacznij-od-bacha",
+  "id": 1451,
   "title": "Zacznij od Bacha",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -615,5 +612,11 @@
   ],
   "composer": [
     267
-  ]
+  ],
+  "slug": "zacznij-od-bacha",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }

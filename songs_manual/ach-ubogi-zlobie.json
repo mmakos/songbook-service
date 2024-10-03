@@ -1,10 +1,7 @@
 {
-  "id": "ach-ubogi-zlobie",
+  "id": 1089,
   "title": "Ach ubogi żłobie",
-  "category": {
-    "id": "carols",
-    "name": "Kolędy"
-  },
+  "category": 5,
   "verses": [
     {
       "lines": [
@@ -1405,5 +1402,11 @@
   },
   "composer": [
     253
-  ]
+  ],
+  "slug": "ach-ubogi-zlobie",
+  "created": {
+    "id": 2,
+    "time": 1727967602,
+    "verified": false
+  }
 }

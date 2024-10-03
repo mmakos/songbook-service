@@ -1,10 +1,7 @@
 {
-  "id": "iwan-grozny",
+  "id": 1023,
   "title": "Iwan Groźny",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -935,5 +932,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "iwan-grozny",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

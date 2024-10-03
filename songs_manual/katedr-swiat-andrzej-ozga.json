@@ -1,10 +1,7 @@
 {
-  "id": "katedr-swiat-andrzej-ozga",
+  "id": 1258,
   "title": "Katedr świat (Andrzej Ozga)",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1201,5 +1198,11 @@
   ],
   "sources": [
     103
-  ]
+  ],
+  "slug": "katedr-swiat-andrzej-ozga",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

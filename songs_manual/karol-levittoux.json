@@ -1,10 +1,7 @@
 {
-  "id": "karol-levittoux",
+  "id": 1031,
   "title": "Karol Levittoux",
-  "category": {
-    "id": "kaczmarski",
-    "name": "Kaczmarski & Gintrowski"
-  },
+  "category": 1,
   "verses": [
     {
       "lines": [
@@ -1829,5 +1826,11 @@
   ],
   "composer": [
     101
-  ]
+  ],
+  "slug": "karol-levittoux",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

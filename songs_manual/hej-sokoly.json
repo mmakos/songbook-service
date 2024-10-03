@@ -1,10 +1,7 @@
 {
-  "id": "hej-sokoly",
+  "id": 1237,
   "title": "Hej, sokoły",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -935,5 +932,11 @@
   },
   "composer": [
     328
-  ]
+  ],
+  "slug": "hej-sokoly",
+  "created": {
+    "id": 2,
+    "time": 1727967603,
+    "verified": false
+  }
 }

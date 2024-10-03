@@ -1,10 +1,7 @@
 {
-  "id": "szyba",
+  "id": 1403,
   "title": "Szyba",
-  "category": {
-    "id": "common",
-    "name": "Obozowe"
-  },
+  "category": 2,
   "verses": [
     {
       "lines": [
@@ -1036,5 +1033,11 @@
   ],
   "composer": [
     117
-  ]
+  ],
+  "slug": "szyba",
+  "created": {
+    "id": 2,
+    "time": 1727967604,
+    "verified": false
+  }
 }
