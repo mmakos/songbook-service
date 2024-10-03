@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -842,13 +836,5 @@
   },
   "performer": [
     121
-  ],
-  "next": {
-    "id": "ach-te-baby",
-    "title": "Ach te baby"
-  },
-  "previous": {
-    "id": "a-time-for-us",
-    "title": "A time for us"
-  }
+  ]
 }

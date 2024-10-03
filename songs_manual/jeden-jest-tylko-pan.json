@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -432,13 +426,5 @@
   },
   "composer": [
     333
-  ],
-  "next": {
-    "id": "jedyny-pan",
-    "title": "Jedyny Pan"
-  },
-  "previous": {
-    "id": "gloria",
-    "title": "Gloria"
-  }
+  ]
 }

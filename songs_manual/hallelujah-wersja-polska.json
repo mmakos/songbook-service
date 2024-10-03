@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1228,13 +1222,5 @@
   ],
   "translation": [
     241
-  ],
-  "next": {
-    "id": "halny",
-    "title": "Halny"
-  },
-  "previous": {
-    "id": "hallelujah",
-    "title": "Hallelujah"
-  }
+  ]
 }

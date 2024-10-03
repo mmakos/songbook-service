@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -874,13 +868,5 @@
   "composer": [
     162
   ],
-  "next": {
-    "id": "komu-bije-dzwon",
-    "title": "Komu bije dzwon"
-  },
-  "previous": {
-    "id": "koleda-zeglarska",
-    "title": "Kolęda żeglarska"
-  },
   "band": 111
 }

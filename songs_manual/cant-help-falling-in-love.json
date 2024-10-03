@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -972,13 +966,5 @@
   ],
   "performer": [
     317
-  ],
-  "next": {
-    "id": "chlopcy-z-botany-bay",
-    "title": "Chłopcy z Botany Bay"
-  },
-  "previous": {
-    "id": "camille-claudelle",
-    "title": "Camille Claudelle"
-  }
+  ]
 }

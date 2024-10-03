@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -680,13 +674,5 @@
   "composer": [
     348
   ],
-  "next": {
-    "id": "raduje-sie-dusza-ma",
-    "title": "Raduje się dusza ma"
-  },
-  "previous": {
-    "id": "polorum-regina",
-    "title": "Polorum Regina"
-  },
   "band": 147
 }

@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -99,13 +93,5 @@
       ],
       "indent": 0
     }
-  ],
-  "next": {
-    "id": "chlopcy-silni-jak-stal",
-    "title": "Chłopcy silni jak stal"
-  },
-  "previous": {
-    "id": "zeby-polska-byla-polska",
-    "title": "Żeby Polska była Polską"
-  }
+  ]
 }

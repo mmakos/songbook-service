@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -725,13 +719,5 @@
   "composer": [
     147
   ],
-  "next": {
-    "id": "phantom-of-the-opera",
-    "title": "Phantom of the opera"
-  },
-  "previous": {
-    "id": "peggy-brown",
-    "title": "Peggy brown"
-  },
   "band": 106
 }

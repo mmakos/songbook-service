@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -710,13 +704,5 @@
         "base": "E"
       }
     }
-  },
-  "next": {
-    "id": "laleczka-z-saskiej-porcelany",
-    "title": "Laleczka z Saskiej Porcelany"
-  },
-  "previous": {
-    "id": "ktos-mnie-pokochal",
-    "title": "Ktoś mnie pokochał"
   }
 }

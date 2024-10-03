@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1268,13 +1262,5 @@
   "composer": [
     194,
     219
-  ],
-  "next": {
-    "id": "stary-kowboj",
-    "title": "Stary kowboj"
-  },
-  "previous": {
-    "id": "speak-softly-love",
-    "title": "Speak Softly, Love"
-  }
+  ]
 }

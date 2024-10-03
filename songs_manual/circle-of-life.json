@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -994,13 +988,5 @@
   ],
   "source": [
     104
-  ],
-  "next": {
-    "id": "cozem-winien",
-    "title": "Cóżem winien"
-  },
-  "previous": {
-    "id": "ciagnik",
-    "title": "Ciągnik"
-  }
+  ]
 }

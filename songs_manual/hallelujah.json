@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2146,13 +2140,5 @@
   ],
   "composer": [
     240
-  ],
-  "next": {
-    "id": "hallelujah-wersja-polska",
-    "title": "Hallelujah (wersja polska)"
-  },
-  "previous": {
-    "id": "halaba-luby-lej",
-    "title": "Halaba-luby-lej"
-  }
+  ]
 }

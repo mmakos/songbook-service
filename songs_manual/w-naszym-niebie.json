@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -848,13 +842,5 @@
   "composer": [
     562
   ],
-  "next": {
-    "id": "warszawa",
-    "title": "Warszawa"
-  },
-  "previous": {
-    "id": "w-moim-ogrodecku",
-    "title": "W moim ogródecku"
-  },
   "band": 157
 }

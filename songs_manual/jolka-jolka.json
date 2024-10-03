@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1352,13 +1346,5 @@
   "composer": [
     421
   ],
-  "next": {
-    "id": "juz-dopala-sie-ogien-biwaku",
-    "title": "Już dopala się ogień biwaku"
-  },
-  "previous": {
-    "id": "jolly-roger",
-    "title": "Jolly Roger"
-  },
   "band": 136
 }

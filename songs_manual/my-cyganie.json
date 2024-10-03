@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -618,13 +612,5 @@
         "base": "A"
       }
     }
-  },
-  "next": {
-    "id": "my-heart-will-go-on",
-    "title": "My heart will go on"
-  },
-  "previous": {
-    "id": "mowilam-zartem",
-    "title": "Mówiłam żartem"
   }
 }

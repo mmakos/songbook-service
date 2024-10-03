@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -920,13 +914,5 @@
   },
   "performer": [
     209
-  ],
-  "next": {
-    "id": "dom-na-prerii",
-    "title": "Dom na prerii"
-  },
-  "previous": {
-    "id": "do-ciebie-mamo",
-    "title": "Do Ciebie Mamo"
-  }
+  ]
 }

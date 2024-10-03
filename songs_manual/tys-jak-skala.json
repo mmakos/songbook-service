@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -317,13 +311,5 @@
         "base": "D"
       }
     }
-  },
-  "next": {
-    "id": "ubi-caritas",
-    "title": "Ubi caritas"
-  },
-  "previous": {
-    "id": "tak-mnie-skrusz",
-    "title": "Tak mnie skrusz"
   }
 }

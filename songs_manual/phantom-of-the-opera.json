@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1254,13 +1248,5 @@
   ],
   "composer": [
     489
-  ],
-  "next": {
-    "id": "phantom-of-the-opera-wersja-polska",
-    "title": "Phantom of the opera (wersja polska)"
-  },
-  "previous": {
-    "id": "pejzaze-harasymowiczowskie",
-    "title": "Pejzaże Harasymowiczowskie"
-  }
+  ]
 }

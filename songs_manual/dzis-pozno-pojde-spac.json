@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -941,13 +935,5 @@
   "composer": [
     191
   ],
-  "next": {
-    "id": "dzis-prawdziwych-cyganow-juz-nie-ma",
-    "title": "Dziś prawdziwych Cyganów już nie ma"
-  },
-  "previous": {
-    "id": "dziewczyna-rumiankowa",
-    "title": "Dziewczyna rumiankowa"
-  },
   "band": 113
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -817,13 +811,5 @@
   },
   "performer": [
     591
-  ],
-  "next": {
-    "id": "misty-mountains",
-    "title": "Misty Mountains"
-  },
-  "previous": {
-    "id": "milosc-to-wiernosc-wyborowi",
-    "title": "Miłość to wierność wyborowi"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -786,13 +780,5 @@
   "composer": [
     423,
     177
-  ],
-  "next": {
-    "id": "jolka-jolka",
-    "title": "Jolka Jolka"
-  },
-  "previous": {
-    "id": "jesli-ty-nie-istnialbys",
-    "title": "Jeśli ty nie istniałbyś"
-  }
+  ]
 }

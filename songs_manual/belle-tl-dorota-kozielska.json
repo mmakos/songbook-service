@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1712,13 +1706,5 @@
   ],
   "source": [
     103
-  ],
-  "next": {
-    "id": "bez-slow",
-    "title": "Bez słów"
-  },
-  "previous": {
-    "id": "belle-tl-jacek-cygan",
-    "title": "Belle (tł. Jacek Cygan)"
-  }
+  ]
 }

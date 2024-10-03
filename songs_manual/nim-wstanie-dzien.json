@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1194,13 +1188,5 @@
   ],
   "composer": [
     500
-  ],
-  "next": {
-    "id": "och-zycie-kocham-cie-nad-zycie",
-    "title": "Och życie, kocham Cię nad życie"
-  },
-  "previous": {
-    "id": "niemozliwe",
-    "title": "Niemożliwe"
-  }
+  ]
 }

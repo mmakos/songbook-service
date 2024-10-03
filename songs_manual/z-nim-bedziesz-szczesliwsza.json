@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -695,13 +689,5 @@
   ],
   "composer": [
     159
-  ],
-  "next": {
-    "id": "za-siedmioma-marzeniami",
-    "title": "Za siedmioma marzeniami"
-  },
-  "previous": {
-    "id": "you-raise-me-up",
-    "title": "You raise me up"
-  }
+  ]
 }

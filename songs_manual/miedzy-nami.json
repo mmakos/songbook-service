@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1600,14 +1594,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "modlitwa-o-wschodzie-slonca",
-    "title": "Modlitwa o wschodzie słońca"
-  },
-  "previous": {
-    "id": "margrabia-wielopolski",
-    "title": "Margrabia Wielopolski"
-  },
   "composer": [
     100
   ],

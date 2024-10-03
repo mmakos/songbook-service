@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1042,13 +1036,5 @@
   ],
   "composer": [
     117
-  ],
-  "next": {
-    "id": "sciernisco",
-    "title": "Ściernisco"
-  },
-  "previous": {
-    "id": "szczescie",
-    "title": "Szczęście"
-  }
+  ]
 }

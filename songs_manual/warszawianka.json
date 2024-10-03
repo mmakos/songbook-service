@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2296,13 +2290,5 @@
   ],
   "composer": [
     271
-  ],
-  "next": {
-    "id": "warszawo-ma",
-    "title": "Warszawo ma"
-  },
-  "previous": {
-    "id": "warcza-karabiny",
-    "title": "Warczą karabiny"
-  }
+  ]
 }

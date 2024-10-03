@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1187,13 +1181,5 @@
   ],
   "composer": [
     309
-  ],
-  "next": {
-    "id": "deszcz-jesienny-deszcz",
-    "title": "Deszcz, jesienny deszcz"
-  },
-  "previous": {
-    "id": "choral",
-    "title": "Chorał"
-  }
+  ]
 }

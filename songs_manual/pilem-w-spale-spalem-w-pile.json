@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -967,13 +961,5 @@
   ],
   "composer": [
     292
-  ],
-  "next": {
-    "id": "piosenka-bez-tytulu",
-    "title": "Piosenka bez tytułu"
-  },
-  "previous": {
-    "id": "pila-tango",
-    "title": "Piła Tango"
-  }
+  ]
 }

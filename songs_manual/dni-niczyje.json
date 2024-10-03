@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -738,13 +732,5 @@
   "composer": [
     205
   ],
-  "band": 125,
-  "next": {
-    "id": "do-ciebie-mamo",
-    "title": "Do Ciebie Mamo"
-  },
-  "previous": {
-    "id": "dni-ktorych-nie-znamy",
-    "title": "Dni, których nie znamy"
-  }
+  "band": 125
 }

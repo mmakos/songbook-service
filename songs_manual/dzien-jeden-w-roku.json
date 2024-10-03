@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356281,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -879,13 +873,5 @@
   ],
   "composer": [
     210
-  ],
-  "next": {
-    "id": "dzisiaj-w-betlejem",
-    "title": "Dzisiaj w Betlejem"
-  },
-  "previous": {
-    "id": "dobryj-weczir-tobi",
-    "title": "Dobryj weczir tobi"
-  }
+  ]
 }

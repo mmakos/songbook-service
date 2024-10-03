@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1642,13 +1636,5 @@
   ],
   "composer": [
     486
-  ],
-  "next": {
-    "id": "my-cyganie",
-    "title": "My cyganie"
-  },
-  "previous": {
-    "id": "morze-nasze-morze",
-    "title": "Morze, nasze morze"
-  }
+  ]
 }

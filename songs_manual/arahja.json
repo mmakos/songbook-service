@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -636,13 +630,5 @@
   "lyrics": [
     135
   ],
-  "band": 103,
-  "next": {
-    "id": "atomowe-czarne-chmury",
-    "title": "Atomowe czarne chmury"
-  },
-  "previous": {
-    "id": "aniol-i-diabel",
-    "title": "Anioł i diabeł"
-  }
+  "band": 103
 }

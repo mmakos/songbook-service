@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -384,13 +378,5 @@
   ],
   "composer": [
     432
-  ],
-  "next": {
-    "id": "kim-wlasciwie-byla-ta-piekna-pani",
-    "title": "Kim właściwie była ta piękna Pani"
-  },
-  "previous": {
-    "id": "kawalek-do-tanca",
-    "title": "Kawałek do Tańca"
-  }
+  ]
 }

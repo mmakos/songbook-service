@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -715,13 +709,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "kantyczka-z-lotu-ptaka",
-    "title": "Kantyczka z lotu ptaka"
-  },
-  "previous": {
-    "id": "judyta",
-    "title": "Judyta"
-  }
+  ]
 }

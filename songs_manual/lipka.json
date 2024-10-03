@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -849,13 +843,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "lisom-lisom",
-    "title": "Lisom lisom"
-  },
-  "previous": {
-    "id": "lewe-lewe-loff",
-    "title": "Lewe lewe loff"
   }
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -651,13 +645,5 @@
   ],
   "composer": [
     554
-  ],
-  "next": {
-    "id": "wielka-woda",
-    "title": "Wielka woda"
-  },
-  "previous": {
-    "id": "wieczna-noc-endless-night",
-    "title": "Wieczna noc (Endless Night)"
-  }
+  ]
 }

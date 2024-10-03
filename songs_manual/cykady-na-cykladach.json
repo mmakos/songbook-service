@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -578,13 +572,5 @@
   "composer": [
     185
   ],
-  "band": 119,
-  "next": {
-    "id": "cyniczne-cory-zurychu",
-    "title": "Cyniczne córy Zurychu"
-  },
-  "previous": {
-    "id": "cozem-winien",
-    "title": "Cóżem winien"
-  }
+  "band": 119
 }

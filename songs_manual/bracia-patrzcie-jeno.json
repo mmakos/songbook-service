@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356281,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1596,13 +1590,5 @@
   },
   "lyrics": [
     298
-  ],
-  "next": {
-    "id": "cicha-noc",
-    "title": "Cicha noc"
-  },
-  "previous": {
-    "id": "bog-sie-rodzi",
-    "title": "Bóg się rodzi"
-  }
+  ]
 }

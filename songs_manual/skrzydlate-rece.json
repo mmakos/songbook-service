@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -920,13 +914,5 @@
     530,
     531
   ],
-  "next": {
-    "id": "someone-like-you",
-    "title": "Someone like you"
-  },
-  "previous": {
-    "id": "siedzielismy-jak-w-kinie",
-    "title": "Siedzieliśmy jak w kinie"
-  },
   "band": 163
 }

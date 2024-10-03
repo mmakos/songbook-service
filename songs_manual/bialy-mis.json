@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -624,13 +618,5 @@
   "composer": [
     152,
     153
-  ],
-  "next": {
-    "id": "bieglas-zboczem",
-    "title": "Biegłaś zboczem"
-  },
-  "previous": {
-    "id": "bialy-krzyz",
-    "title": "Biały krzyż"
-  }
+  ]
 }

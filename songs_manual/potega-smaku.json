@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1360,13 +1354,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "powrot",
-    "title": "Powrót"
-  },
-  "previous": {
-    "id": "poranek",
-    "title": "Poranek"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -878,13 +872,5 @@
   ],
   "composer": [
     463
-  ],
-  "next": {
-    "id": "moja-litania",
-    "title": "Moja litania"
-  },
-  "previous": {
-    "id": "modlitwa-konca-mojego-wieku",
-    "title": "Modlitwa końca mojego wieku"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1604,13 +1598,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "pojdzmy-wszyscy-do-stajenki",
-    "title": "Pójdźmy wszyscy do stajenki"
-  },
-  "previous": {
-    "id": "oj-maluski-maluski",
-    "title": "Oj, maluśki, maluśki"
   }
 }

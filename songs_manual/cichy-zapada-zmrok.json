@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -716,13 +710,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "chlebie-najcichszy",
-    "title": "Chlebie najcichszy"
-  },
-  "previous": {
-    "id": "bog-jest-miloscia",
-    "title": "Bóg jest miłością"
   }
 }

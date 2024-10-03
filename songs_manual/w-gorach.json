@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -791,13 +785,5 @@
   },
   "performer": [
     273
-  ],
-  "next": {
-    "id": "w-lesie-listopadowym",
-    "title": "W lesie listopadowym"
-  },
-  "previous": {
-    "id": "w-czasie-deszczu-dzieci-sie-nudza",
-    "title": "W czasie deszczu dzieci się nudzą"
-  }
+  ]
 }

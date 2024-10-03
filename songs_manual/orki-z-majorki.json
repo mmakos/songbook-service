@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1402,13 +1396,5 @@
   "composer": [
     495
   ],
-  "band": 154,
-  "next": {
-    "id": "ostatnia-nocka",
-    "title": "Ostatnia nocka"
-  },
-  "previous": {
-    "id": "opadly-mgly",
-    "title": "Opadły mgły"
-  }
+  "band": 154
 }

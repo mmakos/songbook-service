@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -692,13 +686,5 @@
   },
   "performer": [
     223
-  ],
-  "next": {
-    "id": "every-breath",
-    "title": "Every breath"
-  },
-  "previous": {
-    "id": "endless-night",
-    "title": "Endless Night"
-  }
+  ]
 }

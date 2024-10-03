@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1249,13 +1243,5 @@
   ],
   "composer": [
     203
-  ],
-  "next": {
-    "id": "tak-bardzo-sie-staralem",
-    "title": "Tak bardzo się starałem"
-  },
-  "previous": {
-    "id": "spiewac-kazdy-moze",
-    "title": "Śpiewać każdy może"
-  }
+  ]
 }

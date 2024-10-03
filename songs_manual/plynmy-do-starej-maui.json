@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2307,13 +2301,5 @@
   "lyrics": [
     515
   ],
-  "band": 158,
-  "next": {
-    "id": "podanie-o",
-    "title": "Podanie o…"
-  },
-  "previous": {
-    "id": "plona-gory-plona-lasy",
-    "title": "Płoną góry płoną lasy"
-  }
+  "band": 158
 }

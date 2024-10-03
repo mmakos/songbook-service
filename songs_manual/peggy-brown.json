@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -717,13 +711,5 @@
   "composer": [
     488
   ],
-  "next": {
-    "id": "pejzaze-harasymowiczowskie",
-    "title": "Pejzaże Harasymowiczowskie"
-  },
-  "previous": {
-    "id": "pedro",
-    "title": "Pedro"
-  },
   "band": 124
 }

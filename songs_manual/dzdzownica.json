@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -629,13 +623,5 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "endless-night",
-    "title": "Endless Night"
-  },
-  "previous": {
-    "id": "dzwony",
-    "title": "Dzwony"
   }
 }

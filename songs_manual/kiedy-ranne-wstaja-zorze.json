@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -760,13 +754,5 @@
   ],
   "composer": [
     430
-  ],
-  "next": {
-    "id": "kiedy-stane-przed-toba",
-    "title": "Kiedy stanę przed Tobą"
-  },
-  "previous": {
-    "id": "jezus-ratownik",
-    "title": "Jezus ratownik"
-  }
+  ]
 }

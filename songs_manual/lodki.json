@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -629,13 +623,5 @@
   },
   "performer": [
     339
-  ],
-  "next": {
-    "id": "maciek-ja-tylko-zartowalem",
-    "title": "Maciek, ja tylko żartowałem"
-  },
-  "previous": {
-    "id": "lomianki",
-    "title": "Łomianki"
-  }
+  ]
 }

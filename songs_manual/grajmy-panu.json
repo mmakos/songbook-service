@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -804,13 +798,5 @@
   ],
   "performer": [
     325
-  ],
-  "next": {
-    "id": "granda",
-    "title": "Granda"
-  },
-  "previous": {
-    "id": "godzina-milowania",
-    "title": "Godzina miłowania"
-  }
+  ]
 }

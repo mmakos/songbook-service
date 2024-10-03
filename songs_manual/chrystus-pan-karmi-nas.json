@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1167,13 +1161,5 @@
   ],
   "composer": [
     303
-  ],
-  "next": {
-    "id": "chwalcie-pana-narody",
-    "title": "Chwalcie Pana narody"
-  },
-  "previous": {
-    "id": "chlebie-najcichszy",
-    "title": "Chlebie najcichszy"
-  }
+  ]
 }

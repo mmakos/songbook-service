@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -952,13 +946,5 @@
   "composer": [
     159
   ],
-  "next": {
-    "id": "czarny-chleb-i-czarna-kawa",
-    "title": "Czarny chleb i czarna kawa"
-  },
-  "previous": {
-    "id": "cyrk",
-    "title": "Cyrk"
-  },
   "band": 108
 }

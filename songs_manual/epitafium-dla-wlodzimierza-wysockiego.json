@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -4708,14 +4702,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "gdy-tak-siedzimy",
-    "title": "Gdy tak siedzimy"
-  },
-  "previous": {
-    "id": "epitafium-dla-sowizdrzala",
-    "title": "Epitafium dla Sowizdrzała"
-  },
   "composer": [
     100
   ],

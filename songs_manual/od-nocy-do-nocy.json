@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -478,13 +472,5 @@
   ],
   "composer": [
     502
-  ],
-  "next": {
-    "id": "oddaj-mi-samotnosc",
-    "title": "Oddaj mi samotność"
-  },
-  "previous": {
-    "id": "och-zycie-kocham-cie-nad-zycie",
-    "title": "Och życie, kocham Cię nad życie"
-  }
+  ]
 }

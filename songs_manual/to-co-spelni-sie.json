@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -398,13 +392,5 @@
   ],
   "composer": [
     205
-  ],
-  "next": {
-    "id": "toss-a-coin-to-your-witcher",
-    "title": "Toss a Coin to Your Witcher"
-  },
-  "previous": {
-    "id": "the-sound-of-silence",
-    "title": "The sound of silence"
-  }
+  ]
 }

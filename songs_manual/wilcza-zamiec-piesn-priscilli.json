@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -637,13 +631,5 @@
   ],
   "source": [
     118
-  ],
-  "next": {
-    "id": "wind-of-change",
-    "title": "Wind of change"
-  },
-  "previous": {
-    "id": "wieza-babel",
-    "title": "Wieża Babel"
-  }
+  ]
 }

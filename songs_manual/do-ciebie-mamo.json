@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -773,13 +767,5 @@
   ],
   "performer": [
     320
-  ],
-  "next": {
-    "id": "do-neptuna",
-    "title": "Do Neptuna"
-  },
-  "previous": {
-    "id": "dni-niczyje",
-    "title": "Dni niczyje"
-  }
+  ]
 }

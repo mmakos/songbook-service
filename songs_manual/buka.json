@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1501,13 +1495,5 @@
   "composer": [
     168
   ],
-  "next": {
-    "id": "bukowina-ii",
-    "title": "Bukowina II"
-  },
-  "previous": {
-    "id": "brzegi-nowej-szkocji",
-    "title": "Brzegi Nowej Szkocji"
-  },
   "band": 113
 }

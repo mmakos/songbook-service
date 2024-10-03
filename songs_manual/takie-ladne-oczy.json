@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -951,13 +945,5 @@
   "composer": [
     210
   ],
-  "next": {
-    "id": "takie-tango",
-    "title": "Takie tango"
-  },
-  "previous": {
-    "id": "take-me-home-country-roads",
-    "title": "Take me home, country roads"
-  },
   "band": 107
 }

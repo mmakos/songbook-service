@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -189,13 +183,5 @@
   "lyrics": [
     316
   ],
-  "next": {
-    "id": "cichy-zapada-zmrok",
-    "title": "Cichy zapada zmrok"
-  },
-  "previous": {
-    "id": "braciszkowie-skrzydlaci",
-    "title": "Braciszkowie skrzydlaci"
-  },
   "band": 110
 }

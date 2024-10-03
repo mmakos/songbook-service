@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1327,13 +1321,5 @@
   "performer": [
     144
   ],
-  "next": {
-    "id": "barman",
-    "title": "Barman"
-  },
-  "previous": {
-    "id": "banderas-wersja-dla-srodowisk-zamknietych",
-    "title": "Banderas (wersja dla środowisk zamkniętych)"
-  },
   "band": 103
 }

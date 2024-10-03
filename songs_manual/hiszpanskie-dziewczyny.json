@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -922,13 +916,5 @@
   },
   "lyrics": [
     398
-  ],
-  "next": {
-    "id": "hoist-the-colours",
-    "title": "Hoist the Colours"
-  },
-  "previous": {
-    "id": "hello",
-    "title": "Hello"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -606,13 +600,5 @@
   "composer": [
     134
   ],
-  "band": 142,
-  "next": {
-    "id": "kwiaty",
-    "title": "Kwiaty"
-  },
-  "previous": {
-    "id": "kto-powie-mi-jak",
-    "title": "Kto powie mi jak"
-  }
+  "band": 142
 }

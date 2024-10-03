@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -846,13 +840,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "krag-zycia-accantus",
-    "title": "Krąg życia (Accantus)"
-  },
-  "previous": {
-    "id": "kolysanka",
-    "title": "Kołysanka"
   }
 }

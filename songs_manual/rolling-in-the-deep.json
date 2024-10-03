@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1711,13 +1705,5 @@
   "performer": [
     280,
     539
-  ],
-  "next": {
-    "id": "rozbojnik",
-    "title": "Rozbójnik"
-  },
-  "previous": {
-    "id": "rains-of-castamere",
-    "title": "Rains of Castamere"
-  }
+  ]
 }

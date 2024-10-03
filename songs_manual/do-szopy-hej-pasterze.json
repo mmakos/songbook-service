@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356281,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1044,13 +1038,5 @@
         "base": "F"
       }
     }
-  },
-  "next": {
-    "id": "dobryj-weczir-tobi",
-    "title": "Dobryj weczir tobi"
-  },
-  "previous": {
-    "id": "cicha-noc",
-    "title": "Cicha noc"
   }
 }

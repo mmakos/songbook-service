@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -224,13 +218,5 @@
   },
   "bible": [
     "J 15,13"
-  ],
-  "next": {
-    "id": "niech-zabrzmi-panu",
-    "title": "Niech zabrzmi Panu"
-  },
-  "previous": {
-    "id": "nie-ma-takiego-jak-jezus",
-    "title": "Nie ma takiego jak Jezus"
-  }
+  ]
 }

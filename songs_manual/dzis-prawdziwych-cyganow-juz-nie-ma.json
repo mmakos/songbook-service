@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1082,13 +1076,5 @@
   ],
   "performer": [
     131
-  ],
-  "next": {
-    "id": "dzwony",
-    "title": "Dzwony"
-  },
-  "previous": {
-    "id": "dzis-pozno-pojde-spac",
-    "title": "Dziś późno pójdę spać"
-  }
+  ]
 }

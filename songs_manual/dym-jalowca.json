@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -576,13 +570,5 @@
         "base": "D"
       }
     }
-  },
-  "next": {
-    "id": "gdyby-wiara-twa",
-    "title": "Gdyby wiara Twa"
-  },
-  "previous": {
-    "id": "chwale-ciebie-panie",
-    "title": "Chwalę Ciebie Panie"
   }
 }

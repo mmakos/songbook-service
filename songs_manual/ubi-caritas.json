@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -328,13 +322,5 @@
   "performer": [
     420
   ],
-  "next": {
-    "id": "uwielbiajcie-pana",
-    "title": "Uwielbiajcie Pana"
-  },
-  "previous": {
-    "id": "tys-jak-skala",
-    "title": "Tyś jak skała"
-  },
   "band": 110
 }

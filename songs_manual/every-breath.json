@@ -5,19 +5,13 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
         {
           "text": [
             {
-              "text": "Every breath you take and every move you make"
+              "text": "Every breath you take and every move you make"
             }
           ],
           "chords": {
@@ -47,7 +41,7 @@
         {
           "text": [
             {
-              "text": "Every bond you break every step you take"
+              "text": "Every bond you break every step you take"
             }
           ],
           "chords": {
@@ -104,7 +98,7 @@
         {
           "text": [
             {
-              "text": "Every single day and every word you say"
+              "text": "Every single day and every word you say"
             }
           ],
           "chords": {
@@ -190,7 +184,7 @@
         {
           "text": [
             {
-              "text": "Oh, can’t you see you belong to me"
+              "text": "Oh, can’t you see you belong to me"
             }
           ],
           "chords": {
@@ -276,7 +270,7 @@
         {
           "text": [
             {
-              "text": "Every move you make every vow you break"
+              "text": "Every move you make every vow you break"
             }
           ],
           "chords": {
@@ -580,13 +574,5 @@
   "composer": [
     224
   ],
-  "band": 127,
-  "next": {
-    "id": "falling-slowly",
-    "title": "Falling Slowly"
-  },
-  "previous": {
-    "id": "epitafium-dla-majora-ognia",
-    "title": "Epitafium dla Majora „Ognia”"
-  }
+  "band": 127
 }

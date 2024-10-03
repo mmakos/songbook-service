@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1256,13 +1250,5 @@
   },
   "composer": [
     149
-  ],
-  "next": {
-    "id": "bialy-krzyz",
-    "title": "Biały krzyż"
-  },
-  "previous": {
-    "id": "biala-sukienka",
-    "title": "Biała sukienka"
-  }
+  ]
 }

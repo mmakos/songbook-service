@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2216,13 +2210,5 @@
   ],
   "composer": [
     559
-  ],
-  "next": {
-    "id": "wciaz-wierze",
-    "title": "Wciąż wierzę"
-  },
-  "previous": {
-    "id": "warszawa",
-    "title": "Warszawa"
-  }
+  ]
 }

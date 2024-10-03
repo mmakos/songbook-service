@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -882,13 +876,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "pazawi-mienia-cicha-pa-imieni",
-    "title": "Pazawi mienia cicha pa imieni"
-  },
-  "previous": {
-    "id": "ostatnia-nocka",
-    "title": "Ostatnia nocka"
   }
 }

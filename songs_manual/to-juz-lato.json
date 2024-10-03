@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -901,13 +895,5 @@
   "composer": [
     438
   ],
-  "next": {
-    "id": "lawa",
-    "title": "Lawa"
-  },
-  "previous": {
-    "id": "lato-z-komarami",
-    "title": "Lato z komarami"
-  },
   "band": 134
 }

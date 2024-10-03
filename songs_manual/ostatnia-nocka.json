@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -857,13 +851,5 @@
   ],
   "composer": [
     503
-  ],
-  "next": {
-    "id": "pamietnik-apostola",
-    "title": "Pamiętnik apostoła"
-  },
-  "previous": {
-    "id": "orki-z-majorki",
-    "title": "Orki z majorki"
-  }
+  ]
 }

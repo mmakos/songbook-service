@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -693,13 +687,5 @@
   "composer": [
     205
   ],
-  "band": 175,
-  "next": {
-    "id": "godzina-miedzy",
-    "title": "Godzina między"
-  },
-  "previous": {
-    "id": "gdzie-ten-ktory-powie-mi",
-    "title": "Gdzie ten, który powie mi"
-  }
+  "band": 175
 }

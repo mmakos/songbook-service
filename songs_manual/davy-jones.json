@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -914,13 +908,5 @@
   ],
   "source": [
     120
-  ],
-  "next": {
-    "id": "daybreak",
-    "title": "Daybreak"
-  },
-  "previous": {
-    "id": "dalej-w-morze",
-    "title": "Dalej w morze"
-  }
+  ]
 }

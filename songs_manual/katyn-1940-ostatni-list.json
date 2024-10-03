@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -845,13 +839,5 @@
   },
   "performer": [
     327
-  ],
-  "next": {
-    "id": "kawalek-do-tanca",
-    "title": "Kawałek do Tańca"
-  },
-  "previous": {
-    "id": "katiusza",
-    "title": "Katiusza"
-  }
+  ]
 }

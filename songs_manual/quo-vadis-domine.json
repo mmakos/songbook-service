@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1297,13 +1291,5 @@
   ],
   "performer": [
     351
-  ],
-  "next": {
-    "id": "radioactive",
-    "title": "Radioactive"
-  },
-  "previous": {
-    "id": "psalm-dla-ciebie",
-    "title": "Psalm dla Ciebie"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -675,13 +669,5 @@
   ],
   "composer": [
     526
-  ],
-  "next": {
-    "id": "stokrotka",
-    "title": "Stokrotka"
-  },
-  "previous": {
-    "id": "splynal-mrok-shadowland",
-    "title": "Spłynął mrok (Shadowland)"
-  }
+  ]
 }

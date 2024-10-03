@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -488,13 +482,5 @@
   "composer": [
     485
   ],
-  "band": 149,
-  "next": {
-    "id": "na-kolejowym-szlaku",
-    "title": "Na kolejowym szlaku"
-  },
-  "previous": {
-    "id": "my-heart-will-go-on",
-    "title": "My heart will go on"
-  }
+  "band": 149
 }

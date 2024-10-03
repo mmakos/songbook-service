@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -718,13 +712,5 @@
   "composer": [
     169
   ],
-  "band": 114,
-  "next": {
-    "id": "camille-claudelle",
-    "title": "Camille Claudelle"
-  },
-  "previous": {
-    "id": "bukowina-ii",
-    "title": "Bukowina II"
-  }
+  "band": 114
 }

@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -776,13 +770,5 @@
   "band": 147,
   "performer": [
     348
-  ],
-  "next": {
-    "id": "memu-bogu-krolowi",
-    "title": "Memu Bogu, Królowi"
-  },
-  "previous": {
-    "id": "laudato-sii",
-    "title": "Laudato sii"
-  }
+  ]
 }

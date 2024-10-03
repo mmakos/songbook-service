@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -907,13 +901,5 @@
   ],
   "composer": [
     190
-  ],
-  "next": {
-    "id": "wiesna",
-    "title": "Wiesna"
-  },
-  "previous": {
-    "id": "wieczory",
-    "title": "Wieczory"
-  }
+  ]
 }

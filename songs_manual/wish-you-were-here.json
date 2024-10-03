@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -408,13 +402,5 @@
     546,
     545
   ],
-  "next": {
-    "id": "wlosy",
-    "title": "Włosy"
-  },
-  "previous": {
-    "id": "wind-of-change",
-    "title": "Wind of change"
-  },
   "band": 170
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -995,13 +989,5 @@
   ],
   "composer": [
     513
-  ],
-  "next": {
-    "id": "pozegnalny-ton",
-    "title": "Pożegnalny ton"
-  },
-  "previous": {
-    "id": "podanie-o",
-    "title": "Podanie o…"
-  }
+  ]
 }

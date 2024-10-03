@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -672,13 +666,5 @@
   ],
   "composer": [
     581
-  ],
-  "next": {
-    "id": "takie-ladne-oczy",
-    "title": "Takie ładne oczy"
-  },
-  "previous": {
-    "id": "tak-bowiem-bog",
-    "title": "Tak bowiem Bóg"
-  }
+  ]
 }

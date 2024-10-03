@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1270,13 +1264,5 @@
   "lyrics": [
     225
   ],
-  "band": 129,
-  "next": {
-    "id": "francis-villon-modlitwa",
-    "title": "Francis Villon (modlitwa)"
-  },
-  "previous": {
-    "id": "few-days",
-    "title": "Few days"
-  }
+  "band": 129
 }

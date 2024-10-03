@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -929,13 +923,5 @@
         "base": "C"
       }
     }
-  },
-  "next": {
-    "id": "morskie-opowiesci",
-    "title": "Morskie opowieści"
-  },
-  "previous": {
-    "id": "moja-milosc-najwieksza",
-    "title": "Moja miłość największa"
   }
 }

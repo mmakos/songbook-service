@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -435,13 +429,5 @@
   ],
   "composer": [
     304
-  ],
-  "next": {
-    "id": "chwale-ciebie-panie",
-    "title": "Chwalę Ciebie Panie"
-  },
-  "previous": {
-    "id": "chrystus-pan-karmi-nas",
-    "title": "Chrystus Pan karmi nas"
-  }
+  ]
 }

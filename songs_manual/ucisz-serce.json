@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1376,13 +1370,5 @@
   ],
   "performer": [
     233
-  ],
-  "next": {
-    "id": "victory",
-    "title": "Victory"
-  },
-  "previous": {
-    "id": "tyle-slonca-w-calym-miescie",
-    "title": "Tyle słońca w całym mieście"
-  }
+  ]
 }

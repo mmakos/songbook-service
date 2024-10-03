@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1091,13 +1085,5 @@
   },
   "performer": [
     188
-  ],
-  "next": {
-    "id": "czas-powrotow",
-    "title": "Czas powrotów"
-  },
-  "previous": {
-    "id": "czarny-blues-o-czwartej-nad-ranem",
-    "title": "Czarny blues o czwartej nad ranem"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1281,13 +1275,5 @@
   ],
   "composer": [
     439
-  ],
-  "next": {
-    "id": "latarnik",
-    "title": "Latarnik"
-  },
-  "previous": {
-    "id": "kwiaty",
-    "title": "Kwiaty"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1461,13 +1455,5 @@
   ],
   "composer": [
     536
-  ],
-  "next": {
-    "id": "rozszumialy-sie-wierzby-placzace",
-    "title": "Rozszumiały się wierzby płaczące"
-  },
-  "previous": {
-    "id": "rota",
-    "title": "Rota"
-  }
+  ]
 }

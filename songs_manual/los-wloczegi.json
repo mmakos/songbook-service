@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -679,13 +673,5 @@
   ],
   "composer": [
     452
-  ],
-  "next": {
-    "id": "lubie-mowic-z-toba-muczec-z-krowa",
-    "title": "Lubię mówić z tobą (muczeć z krową)"
-  },
-  "previous": {
-    "id": "litania",
-    "title": "Litania"
-  }
+  ]
 }

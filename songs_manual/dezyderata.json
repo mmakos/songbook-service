@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1532,13 +1526,5 @@
   "composer": [
     197
   ],
-  "band": 123,
-  "next": {
-    "id": "dla-ciebie",
-    "title": "Dla Ciebie"
-  },
-  "previous": {
-    "id": "deszczowe-lato",
-    "title": "Deszczowe lato"
-  }
+  "band": 123
 }

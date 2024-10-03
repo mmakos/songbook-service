@@ -1,15 +1,9 @@
 {
-  "id": "czuze-su-te-kon",
+  "id": "czuze-su-te-kone",
   "title": "Czuże su te koné",
   "category": {
     "id": "common",
     "name": "Obozowe"
-  },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
   },
   "verses": [
     {
@@ -425,13 +419,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "dalej-w-morze",
-    "title": "Dalej w morze"
-  },
-  "previous": {
-    "id": "cztery-cory-mial-tata",
-    "title": "Cztery córy miał tata"
   }
 }

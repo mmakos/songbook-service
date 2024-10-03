@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1192,13 +1186,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "powrot-z-syberii",
-    "title": "Powrót z Syberii"
-  },
-  "previous": {
-    "id": "potega-smaku",
-    "title": "Potęga smaku"
-  }
+  ]
 }

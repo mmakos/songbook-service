@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1184,13 +1178,5 @@
   ],
   "composer": [
     265
-  ],
-  "next": {
-    "id": "zombie",
-    "title": "Zombie"
-  },
-  "previous": {
-    "id": "zielony-mundur",
-    "title": "Zielony mundur"
-  }
+  ]
 }

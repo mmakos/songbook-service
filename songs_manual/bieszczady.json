@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -955,13 +949,5 @@
   },
   "performer": [
     155
-  ],
-  "next": {
-    "id": "bieszczadzki-trakt",
-    "title": "Bieszczadzki trakt"
-  },
-  "previous": {
-    "id": "bieglas-zboczem",
-    "title": "Biegłaś zboczem"
-  }
+  ]
 }

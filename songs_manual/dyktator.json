@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -669,13 +663,5 @@
   },
   "performer": [
     217
-  ],
-  "next": {
-    "id": "dziesiec-w-skali-beauforta",
-    "title": "Dziesięć w skali Beauforta"
-  },
-  "previous": {
-    "id": "dumka-na-dwa-serca",
-    "title": "Dumka na dwa serca"
-  }
+  ]
 }

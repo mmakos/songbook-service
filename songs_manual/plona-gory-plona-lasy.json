@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -411,13 +405,5 @@
   "composer": [
     210
   ],
-  "next": {
-    "id": "plynmy-do-starej-maui",
-    "title": "Płyńmy do Starej Maui"
-  },
-  "previous": {
-    "id": "placz",
-    "title": "Płacz"
-  },
   "band": 107
 }

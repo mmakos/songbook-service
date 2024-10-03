@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -760,13 +754,5 @@
   ],
   "composer": [
     120
-  ],
-  "next": {
-    "id": "splynal-mrok-shadowland",
-    "title": "Spłynął mrok (Shadowland)"
-  },
-  "previous": {
-    "id": "someone-like-you",
-    "title": "Someone like you"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -546,13 +540,5 @@
   "lyrics": [
     557
   ],
-  "band": 166,
-  "next": {
-    "id": "what-is-a-youth",
-    "title": "What is a youth"
-  },
-  "previous": {
-    "id": "wesoly-roger",
-    "title": "Wesoły Roger"
-  }
+  "band": 166
 }

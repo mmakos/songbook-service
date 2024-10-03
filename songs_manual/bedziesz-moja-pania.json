@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1280,13 +1274,5 @@
   },
   "performer": [
     148
-  ],
-  "next": {
-    "id": "biala-sukienka",
-    "title": "Biała sukienka"
-  },
-  "previous": {
-    "id": "bez-slow",
-    "title": "Bez słów"
-  }
+  ]
 }

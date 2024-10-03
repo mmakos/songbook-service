@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1156,13 +1150,5 @@
   },
   "performer": [
     193
-  ],
-  "next": {
-    "id": "czuze-su-te-kon",
-    "title": "Czuże su te koné"
-  },
-  "previous": {
-    "id": "czlowiek-z-lisciem-na-glowie",
-    "title": "Człowiek z liściem na głowie"
-  }
+  ]
 }

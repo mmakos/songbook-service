@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -724,13 +718,5 @@
   "composer": [
     377
   ],
-  "next": {
-    "id": "you-raise-me-up",
-    "title": "You raise me up"
-  },
-  "previous": {
-    "id": "wyspa",
-    "title": "Wyspa"
-  },
   "band": 144
 }

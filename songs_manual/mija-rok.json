@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -909,13 +903,5 @@
   ],
   "composer": [
     210
-  ],
-  "next": {
-    "id": "mila",
-    "title": "Miła"
-  },
-  "previous": {
-    "id": "miedzy-nami-tyle-sniegu",
-    "title": "Między nami tyle śniegu"
-  }
+  ]
 }

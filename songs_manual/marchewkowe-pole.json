@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -485,13 +479,5 @@
   ],
   "composer": [
     441
-  ],
-  "next": {
-    "id": "marco-polo",
-    "title": "Marco Polo"
-  },
-  "previous": {
-    "id": "malgoska",
-    "title": "Małgośka"
-  }
+  ]
 }

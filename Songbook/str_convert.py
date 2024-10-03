@@ -18,11 +18,11 @@ replacements = {
     u'ő': 'o',
     u'č': 'c',
     u'ű': 'u',
-    u'æ': 'ø',
+    u'æ': 'a',
+    u'ø': 'o',
     u'š': 's',
     u'đ': 'd',
 }
-
 
 def title_to_unique_name(title: str) -> str:
     filename = replace(

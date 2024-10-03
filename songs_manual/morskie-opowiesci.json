@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1567,13 +1561,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "morze-nasze-morze",
-    "title": "Morze, nasze morze"
-  },
-  "previous": {
-    "id": "moje-kolezanki",
-    "title": "Moje koleżanki"
   }
 }

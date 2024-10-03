@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1313,13 +1307,5 @@
   },
   "lyrics": [
     133
-  ],
-  "next": {
-    "id": "skrzydlate-rece",
-    "title": "Skrzydlate Ręce"
-  },
-  "previous": {
-    "id": "shenandoah",
-    "title": "Shenandoah"
-  }
+  ]
 }

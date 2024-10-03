@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1222,13 +1216,5 @@
   },
   "performer": [
     360
-  ],
-  "next": {
-    "id": "prawy-do-lewego",
-    "title": "Prawy do lewego"
-  },
-  "previous": {
-    "id": "pozegnanie-liverpoolu",
-    "title": "Pożegnanie Liverpoolu"
-  }
+  ]
 }

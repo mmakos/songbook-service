@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1047,13 +1041,5 @@
   ],
   "composer": [
     264
-  ],
-  "next": {
-    "id": "take-me-home-country-roads",
-    "title": "Take me home, country roads"
-  },
-  "previous": {
-    "id": "tak-bardzo-sie-staralem",
-    "title": "Tak bardzo się starałem"
-  }
+  ]
 }

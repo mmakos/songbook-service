@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -949,13 +943,5 @@
   ],
   "composer": [
     279
-  ],
-  "next": {
-    "id": "ulani-malowane-dzieci",
-    "title": "Ułani, malowane dzieci"
-  },
-  "previous": {
-    "id": "szturmowka",
-    "title": "Szturmówka"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -858,13 +852,5 @@
   "composer": [
     479
   ],
-  "band": 151,
-  "next": {
-    "id": "nie-ma-nic",
-    "title": "Nie ma nic"
-  },
-  "previous": {
-    "id": "nie-chce-wiecej",
-    "title": "Nie chcę więcej"
-  }
+  "band": 151
 }

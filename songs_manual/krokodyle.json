@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -751,13 +745,5 @@
   "band": 140,
   "performer": [
     340
-  ],
-  "next": {
-    "id": "kryzysowa-narzeczona",
-    "title": "Kryzysowa narzeczona"
-  },
-  "previous": {
-    "id": "krag-zycia-accantus",
-    "title": "Krąg życia (Accantus)"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -554,13 +548,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "list-do-boga",
-    "title": "List do Boga"
-  },
-  "previous": {
-    "id": "lipka",
-    "title": "Lipka"
   }
 }

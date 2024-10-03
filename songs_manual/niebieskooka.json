@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1047,13 +1041,5 @@
   "composer": [
     475
   ],
-  "next": {
-    "id": "niech-mowia-ze-to-nie-jest-milosc",
-    "title": "Niech mówią, że to nie jest miłość"
-  },
-  "previous": {
-    "id": "nie-rozdziobia-nas-kruki",
-    "title": "Nie rozdziobią nas kruki"
-  },
   "band": 107
 }

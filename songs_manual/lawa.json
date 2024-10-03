@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -860,13 +854,5 @@
   ],
   "performer": [
     454
-  ],
-  "next": {
-    "id": "let-it-be",
-    "title": "Let it be"
-  },
-  "previous": {
-    "id": "to-juz-lato",
-    "title": "To już lato"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -948,13 +942,5 @@
   "lyrics": [
     509,
     510
-  ],
-  "next": {
-    "id": "pozegnanie",
-    "title": "Pożegnanie"
-  },
-  "previous": {
-    "id": "pozegnalny-ton",
-    "title": "Pożegnalny ton"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1851,13 +1845,5 @@
   ],
   "composer": [
     171
-  ],
-  "next": {
-    "id": "cant-help-falling-in-love",
-    "title": "Can't help falling in love"
-  },
-  "previous": {
-    "id": "burza",
-    "title": "Burza"
-  }
+  ]
 }

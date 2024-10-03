@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -608,13 +602,5 @@
   "composer": [
     519
   ],
-  "next": {
-    "id": "piosenki-bony-m",
-    "title": "Piosenki Bony M"
-  },
-  "previous": {
-    "id": "piosenka-mazowiecka",
-    "title": "Piosenka Mazowiecka"
-  },
   "band": 148
 }

@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -247,13 +241,5 @@
   },
   "performer": [
     364
-  ],
-  "next": {
-    "id": "schowaj-mnie",
-    "title": "Schowaj mnie"
-  },
-  "previous": {
-    "id": "przyobleczcie-sie-w-zbroje-boza",
-    "title": "Przyobleczcie się w zbroję Bożą"
-  }
+  ]
 }

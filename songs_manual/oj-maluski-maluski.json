@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1043,13 +1037,5 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "pomalusku-jozefie",
-    "title": "Pomaluśku Józefie"
-  },
-  "previous": {
-    "id": "o-gwiazdo-betlejemska",
-    "title": "O gwiazdo Betlejemska"
   }
 }

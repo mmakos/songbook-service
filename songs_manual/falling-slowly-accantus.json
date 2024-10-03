@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1019,13 +1013,5 @@
   "performer": [
     322,
     323
-  ],
-  "next": {
-    "id": "father-and-son",
-    "title": "Father and Son"
-  },
-  "previous": {
-    "id": "falling-slowly",
-    "title": "Falling Slowly"
-  }
+  ]
 }

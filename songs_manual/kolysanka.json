@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -674,13 +668,5 @@
   },
   "performer": [
     339
-  ],
-  "next": {
-    "id": "krajka",
-    "title": "Krajka"
-  },
-  "previous": {
-    "id": "kolorowy-wiatr",
-    "title": "Kolorowy wiatr"
-  }
+  ]
 }

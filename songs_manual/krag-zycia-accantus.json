@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -999,13 +993,5 @@
   "source": [
     104,
     106
-  ],
-  "next": {
-    "id": "krokodyle",
-    "title": "Krokodyle"
-  },
-  "previous": {
-    "id": "krajka",
-    "title": "Krajka"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -252,13 +246,5 @@
       "minor": true
     }
   },
-  "bible": "Ap 3,20",
-  "next": {
-    "id": "pan-blisko-jest",
-    "title": "Pan blisko jest"
-  },
-  "previous": {
-    "id": "oto-jest-dzien",
-    "title": "Oto jest dzień"
-  }
+  "bible": "Ap 3,20"
 }

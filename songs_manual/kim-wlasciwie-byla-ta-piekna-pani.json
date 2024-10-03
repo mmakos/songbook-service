@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1038,13 +1032,5 @@
   "composer": [
     159
   ],
-  "next": {
-    "id": "king",
-    "title": "King"
-  },
-  "previous": {
-    "id": "kilku-kumpli-wez",
-    "title": "Kilku kumpli weź"
-  },
   "band": 108
 }

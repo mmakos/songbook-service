@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1036,13 +1030,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "peggy-brown",
-    "title": "Peggy brown"
-  },
-  "previous": {
-    "id": "pazawi-mienia-cicha-pa-imieni",
-    "title": "Pazawi mienia cicha pa imieni"
   }
 }

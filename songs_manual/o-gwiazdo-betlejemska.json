@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1353,13 +1347,5 @@
   },
   "performer": [
     356
-  ],
-  "next": {
-    "id": "oj-maluski-maluski",
-    "title": "Oj, maluśki, maluśki"
-  },
-  "previous": {
-    "id": "nie-bylo-miejsca-dla-ciebie",
-    "title": "Nie było miejsca dla Ciebie"
-  }
+  ]
 }

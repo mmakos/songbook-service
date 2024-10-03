@@ -1,15 +1,9 @@
 {
-  "id": "el-burrito-de-beln",
+  "id": "el-burrito-de-belen",
   "title": "El burrito de Belén",
   "category": {
     "id": "carols",
     "name": "Kolędy"
-  },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
   },
   "verses": [
     {
@@ -734,13 +728,5 @@
   },
   "performer": [
     321
-  ],
-  "next": {
-    "id": "gdy-sie-chrystus-rodzi",
-    "title": "Gdy się Chrystus rodzi"
-  },
-  "previous": {
-    "id": "dzisiaj-w-betlejem",
-    "title": "Dzisiaj w Betlejem"
-  }
+  ]
 }

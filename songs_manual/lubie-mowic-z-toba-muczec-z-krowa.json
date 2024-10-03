@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -678,13 +672,5 @@
     449,
     448
   ],
-  "band": 145,
-  "next": {
-    "id": "ludzie-to-adam-i-ewa",
-    "title": "Ludzie to Adam i Ewa"
-  },
-  "previous": {
-    "id": "los-wloczegi",
-    "title": "Los włóczęgi"
-  }
+  "band": 145
 }

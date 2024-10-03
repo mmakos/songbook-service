@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -887,13 +881,5 @@
         "base": "E"
       }
     }
-  },
-  "next": {
-    "id": "dom-wschodzacego-slonca",
-    "title": "Dom wschodzącego słońca"
-  },
-  "previous": {
-    "id": "do-neptuna",
-    "title": "Do Neptuna"
   }
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -768,13 +762,5 @@
   "composer": [
     191
   ],
-  "next": {
-    "id": "ktos-mnie-pokochal",
-    "title": "Ktoś mnie pokochał"
-  },
-  "previous": {
-    "id": "kryzysowa-narzeczona",
-    "title": "Kryzysowa narzeczona"
-  },
   "band": 113
 }

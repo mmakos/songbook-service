@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -566,13 +560,5 @@
   "composer": [
     478
   ],
-  "next": {
-    "id": "nie-rozdziobia-nas-kruki",
-    "title": "Nie rozdziobią nas kruki"
-  },
-  "previous": {
-    "id": "nie-ma-nic",
-    "title": "Nie ma nic"
-  },
   "band": 153
 }

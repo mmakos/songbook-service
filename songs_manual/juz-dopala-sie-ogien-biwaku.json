@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -861,13 +855,5 @@
   "band": 137,
   "source": [
     112
-  ],
-  "next": {
-    "id": "kapitan-hak",
-    "title": "Kapitan Hak"
-  },
-  "previous": {
-    "id": "jolka-jolka",
-    "title": "Jolka Jolka"
-  }
+  ]
 }

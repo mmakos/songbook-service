@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -381,13 +375,5 @@
   ],
   "performer": [
     376
-  ],
-  "next": {
-    "id": "zapada-zmrok",
-    "title": "Zapada zmrok"
-  },
-  "previous": {
-    "id": "wykrzykujcie-na-czesc-pana",
-    "title": "Wykrzykujcie na cześć Pana"
-  }
+  ]
 }

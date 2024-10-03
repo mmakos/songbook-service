@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1352,13 +1346,5 @@
   ],
   "performer": [
     314
-  ],
-  "next": {
-    "id": "ballada-o-dzikim-zachodzie",
-    "title": "Ballada o dzikim zachodzie"
-  },
-  "previous": {
-    "id": "ave-maria-paen-accantus",
-    "title": "Ave Maria Païen (Accantus)"
-  }
+  ]
 }

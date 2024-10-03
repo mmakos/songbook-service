@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355577,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -798,13 +792,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "warchol",
-    "title": "Warchoł"
-  },
-  "previous": {
-    "id": "w-ciemnosci-do-siebie-idziemy",
-    "title": "W ciemności do siebie idziemy"
-  }
+  ]
 }

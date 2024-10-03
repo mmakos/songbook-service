@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -689,13 +683,5 @@
   },
   "performer": [
     507
-  ],
-  "next": {
-    "id": "przyjdz-z-libanu",
-    "title": "Przyjdź z Libanu"
-  },
-  "previous": {
-    "id": "przez-twe-oczy-zielone",
-    "title": "Przez Twe oczy zielone"
-  }
+  ]
 }

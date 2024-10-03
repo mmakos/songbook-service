@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1200,13 +1194,5 @@
   "composer": [
     210
   ],
-  "next": {
-    "id": "droga-na-smolensk",
-    "title": "Droga na Smoleńsk"
-  },
-  "previous": {
-    "id": "dom-wschodzacego-slonca",
-    "title": "Dom wschodzącego słońca"
-  },
   "band": 107
 }

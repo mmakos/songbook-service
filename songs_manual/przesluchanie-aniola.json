@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -834,13 +828,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "przybycie-tytanow",
-    "title": "Przybycie tytanów"
-  },
-  "previous": {
-    "id": "przejscie-polakow-przez-morze-czerwone",
-    "title": "Przejście Polaków przez morze czerwone"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355577,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1399,14 +1393,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "a1788",
-    "title": "1788"
-  },
-  "previous": {
-    "id": "zmartwychwstanie-mandelsztama",
-    "title": "Zmartwychwstanie Mandelsztama"
-  },
   "composer": [
     100
   ],

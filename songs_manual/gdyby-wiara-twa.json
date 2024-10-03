@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -507,13 +501,5 @@
       "minor": true
     }
   },
-  "band": 130,
-  "next": {
-    "id": "gloria",
-    "title": "Gloria"
-  },
-  "previous": {
-    "id": "dym-jalowca",
-    "title": "Dym jałowca"
-  }
+  "band": 130
 }

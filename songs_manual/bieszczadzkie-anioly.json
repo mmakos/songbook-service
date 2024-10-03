@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -854,13 +848,5 @@
   "composer": [
     159
   ],
-  "next": {
-    "id": "bijatyka",
-    "title": "Bijatyka"
-  },
-  "previous": {
-    "id": "bieszczadzki-trakt",
-    "title": "Bieszczadzki trakt"
-  },
   "band": 108
 }

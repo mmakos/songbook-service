@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -516,13 +510,5 @@
   },
   "performer": [
     148
-  ],
-  "next": {
-    "id": "grajmy-panu",
-    "title": "Grajmy Panu"
-  },
-  "previous": {
-    "id": "godzina-miedzy",
-    "title": "Godzina między"
-  }
+  ]
 }

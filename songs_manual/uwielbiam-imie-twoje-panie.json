@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -305,13 +299,5 @@
         "base": "F"
       }
     }
-  },
-  "next": {
-    "id": "w-droge-z-nami",
-    "title": "W drogę z nami"
-  },
-  "previous": {
-    "id": "uwielbiajcie-pana",
-    "title": "Uwielbiajcie Pana"
   }
 }

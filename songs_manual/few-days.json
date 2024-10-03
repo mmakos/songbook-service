@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1182,14 +1176,6 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "fordewind",
-    "title": "Fordewind"
-  },
-  "previous": {
-    "id": "father-and-son",
-    "title": "Father and Son"
   },
   "band": 128
 }

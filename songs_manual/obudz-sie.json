@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -661,13 +655,5 @@
         "base": "D"
       }
     }
-  },
-  "next": {
-    "id": "o-moj-najslodszy-jezu",
-    "title": "O mój najsłodszy Jezu"
-  },
-  "previous": {
-    "id": "niech-zabrzmi-panu",
-    "title": "Niech zabrzmi Panu"
   }
 }

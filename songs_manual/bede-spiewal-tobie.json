@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -182,13 +176,5 @@
   },
   "performer": [
     315
-  ],
-  "next": {
-    "id": "braciszkowie-skrzydlaci",
-    "title": "Braciszkowie skrzydlaci"
-  },
-  "previous": {
-    "id": "zapada-zmrok",
-    "title": "Zapada zmrok"
-  }
+  ]
 }

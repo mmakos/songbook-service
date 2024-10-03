@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -812,13 +806,5 @@
   "performer": [
     226,
     227
-  ],
-  "next": {
-    "id": "futbol",
-    "title": "Futbol"
-  },
-  "previous": {
-    "id": "francis-villon-modlitwa",
-    "title": "Francis Villon (modlitwa)"
-  }
+  ]
 }

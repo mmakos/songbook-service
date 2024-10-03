@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1127,13 +1121,5 @@
   "performer": [
     322,
     323
-  ],
-  "next": {
-    "id": "falling-slowly-accantus",
-    "title": "Falling Slowly (Accantus)"
-  },
-  "previous": {
-    "id": "every-breath",
-    "title": "Every breath"
-  }
+  ]
 }

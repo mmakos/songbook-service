@@ -1,15 +1,9 @@
 {
-  "id": "los-peces-en-el-ro",
+  "id": "los-peces-en-el-rio",
   "title": "Los Peces en el Río",
   "category": {
     "id": "carols",
     "name": "Kolędy"
-  },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
   },
   "verses": [
     {
@@ -656,13 +650,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "lulajze-jezuniu",
-    "title": "Lulajże Jezuniu"
-  },
-  "previous": {
-    "id": "koleda-maryi",
-    "title": "Kolęda Maryi"
   }
 }

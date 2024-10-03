@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1047,13 +1041,5 @@
   },
   "performer": [
     242
-  ],
-  "next": {
-    "id": "hanging-tree",
-    "title": "Hanging tree"
-  },
-  "previous": {
-    "id": "hallelujah-wersja-polska",
-    "title": "Hallelujah (wersja polska)"
-  }
+  ]
 }

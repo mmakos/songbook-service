@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1294,14 +1288,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "elekcja",
-    "title": "Elekcja"
-  },
-  "previous": {
-    "id": "dzieci-hioba",
-    "title": "Dzieci Hioba"
-  },
   "composer": [
     100
   ],

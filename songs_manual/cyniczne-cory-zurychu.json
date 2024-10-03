@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1551,13 +1545,5 @@
   ],
   "composer": [
     187
-  ],
-  "next": {
-    "id": "cyrk",
-    "title": "Cyrk"
-  },
-  "previous": {
-    "id": "cykady-na-cykladach",
-    "title": "Cykady na Cykladach"
-  }
+  ]
 }

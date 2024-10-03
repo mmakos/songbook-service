@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1081,13 +1075,5 @@
   "composer": [
     429
   ],
-  "band": 138,
-  "next": {
-    "id": "kilku-kumpli-wez",
-    "title": "Kilku kumpli weź"
-  },
-  "previous": {
-    "id": "katyn-1940-ostatni-list",
-    "title": "Katyń 1940 (Ostatni list)"
-  }
+  "band": 138
 }

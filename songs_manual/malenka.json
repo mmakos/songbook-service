@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -946,13 +940,5 @@
   ],
   "composer": [
     240
-  ],
-  "next": {
-    "id": "malomiasteczkowy",
-    "title": "Małomiasteczkowy"
-  },
-  "previous": {
-    "id": "makatka-szalona",
-    "title": "Makatka szalona"
-  }
+  ]
 }

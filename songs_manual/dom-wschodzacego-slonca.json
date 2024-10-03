@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1418,13 +1412,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "dozwolone-od-lat-18",
-    "title": "Dozwolone od lat 18"
-  },
-  "previous": {
-    "id": "dom-na-prerii",
-    "title": "Dom na prerii"
   }
 }

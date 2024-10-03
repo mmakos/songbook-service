@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -971,13 +965,5 @@
   },
   "performer": [
     343
-  ],
-  "next": {
-    "id": "list-do-malego-ksiecia",
-    "title": "List do Małego Księcia"
-  },
-  "previous": {
-    "id": "lisom-lisom",
-    "title": "Lisom lisom"
-  }
+  ]
 }

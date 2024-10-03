@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -243,13 +237,5 @@
   ],
   "performer": [
     357
-  ],
-  "next": {
-    "id": "panu-naszemu-piesni-grajcie",
-    "title": "Panu naszemu pieśni grajcie"
-  },
-  "previous": {
-    "id": "pan-jest-pasterzem-moim",
-    "title": "Pan jest pasterzem moim"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -872,13 +866,5 @@
   "composer": [
     433
   ],
-  "next": {
-    "id": "warnenczyk",
-    "title": "Warneńczyk"
-  },
-  "previous": {
-    "id": "w-naszym-niebie",
-    "title": "W naszym niebie"
-  },
   "band": 102
 }

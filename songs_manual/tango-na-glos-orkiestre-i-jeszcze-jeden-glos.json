@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1308,13 +1302,5 @@
   },
   "performer": [
     369
-  ],
-  "next": {
-    "id": "tango-z-garbem",
-    "title": "Tango z garbem"
-  },
-  "previous": {
-    "id": "takie-tango",
-    "title": "Takie tango"
-  }
+  ]
 }

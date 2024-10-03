@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -775,13 +769,5 @@
   ],
   "performer": [
     363
-  ],
-  "next": {
-    "id": "ucisz-serce",
-    "title": "Ucisz serce"
-  },
-  "previous": {
-    "id": "ty-przychodzisz-jak-noc-majowa",
-    "title": "Ty przychodzisz jak noc majowa"
-  }
+  ]
 }

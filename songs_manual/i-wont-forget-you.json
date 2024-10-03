@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -491,13 +485,5 @@
   },
   "performer": [
     331
-  ],
-  "next": {
-    "id": "i-wont-forget-you-wersja-polska",
-    "title": "I won't forget you (wersja polska)"
-  },
-  "previous": {
-    "id": "i-ciebie-tez-bardzo",
-    "title": "I Ciebie też, bardzo"
-  }
+  ]
 }

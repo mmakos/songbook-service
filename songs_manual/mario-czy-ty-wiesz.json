@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1489,13 +1483,5 @@
   ],
   "composer": [
     459
-  ],
-  "next": {
-    "id": "mary-did-you-know",
-    "title": "Mary, did you know?"
-  },
-  "previous": {
-    "id": "maria",
-    "title": "Maria"
-  }
+  ]
 }

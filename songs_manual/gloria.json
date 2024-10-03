@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -730,13 +724,5 @@
         "base": "C"
       }
     }
-  },
-  "next": {
-    "id": "jeden-jest-tylko-pan",
-    "title": "Jeden jest tylko Pan"
-  },
-  "previous": {
-    "id": "gdyby-wiara-twa",
-    "title": "Gdyby wiara Twa"
   }
 }

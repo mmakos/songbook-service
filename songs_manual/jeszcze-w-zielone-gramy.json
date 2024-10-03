@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1406,13 +1400,5 @@
   ],
   "composer": [
     419
-  ],
-  "next": {
-    "id": "jesli-ty-nie-istnialbys",
-    "title": "Jeśli ty nie istniałbyś"
-  },
-  "previous": {
-    "id": "jesien-w-gorach",
-    "title": "Jesień w górach"
-  }
+  ]
 }

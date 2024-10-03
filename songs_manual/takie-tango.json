@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -956,13 +950,5 @@
   "composer": [
     421
   ],
-  "next": {
-    "id": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",
-    "title": "Tango na głos, orkiestrę i jeszcze jeden głos"
-  },
-  "previous": {
-    "id": "takie-ladne-oczy",
-    "title": "Takie ładne oczy"
-  },
   "band": 136
 }

@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1429,14 +1423,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "margrabia-wielopolski",
-    "title": "Margrabia Wielopolski"
-  },
-  "previous": {
-    "id": "lekcja-historii-klasycznej",
-    "title": "Lekcja historii klasycznej"
-  },
   "composer": [
     100
   ],

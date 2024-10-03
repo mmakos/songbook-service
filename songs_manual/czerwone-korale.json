@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -919,13 +913,5 @@
   "composer": [
     394
   ],
-  "next": {
-    "id": "czlowiek-z-lisciem-na-glowie",
-    "title": "Człowiek z liściem na głowie"
-  },
-  "previous": {
-    "id": "czekalem-na-ciebie",
-    "title": "Czekałem na Ciebie"
-  },
   "band": 120
 }

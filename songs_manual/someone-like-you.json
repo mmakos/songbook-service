@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1036,13 +1030,5 @@
   "composer": [
     280,
     529
-  ],
-  "next": {
-    "id": "speak-softly-love",
-    "title": "Speak Softly, Love"
-  },
-  "previous": {
-    "id": "skrzydlate-rece",
-    "title": "Skrzydlate Ręce"
-  }
+  ]
 }

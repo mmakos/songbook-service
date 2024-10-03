@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1425,13 +1419,5 @@
   ],
   "composer": [
     264
-  ],
-  "next": {
-    "id": "quo-vadis-domine",
-    "title": "Quo Vadis, Domine?"
-  },
-  "previous": {
-    "id": "przyjdz-z-libanu",
-    "title": "Przyjdź z Libanu"
-  }
+  ]
 }

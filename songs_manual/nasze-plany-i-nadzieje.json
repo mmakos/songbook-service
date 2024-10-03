@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1191,13 +1185,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "nie-boj-sie-nie-lekaj-sie",
-    "title": "Nie bój się, nie lękaj się"
-  },
-  "previous": {
-    "id": "moj-zbawiciel",
-    "title": "Mój Zbawiciel"
   }
 }

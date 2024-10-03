@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -440,13 +434,5 @@
         "base": "C"
       }
     }
-  },
-  "next": {
-    "id": "maryjo-maluczka-maryjo",
-    "title": "Maryjo, maluczka Maryjo"
-  },
-  "previous": {
-    "id": "laudate-dominum",
-    "title": "Laudate Dominum"
   }
 }

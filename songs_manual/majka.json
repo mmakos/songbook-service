@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -552,14 +546,6 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "makatka-szalona",
-    "title": "Makatka szalona"
-  },
-  "previous": {
-    "id": "maciek-ja-tylko-zartowalem",
-    "title": "Maciek, ja tylko żartowałem"
   },
   "band": 108
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -829,14 +823,6 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "radosc-o-poranku",
-    "title": "Radość o poranku"
-  },
-  "previous": {
-    "id": "quo-vadis-domine",
-    "title": "Quo Vadis, Domine?"
   },
   "band": 105
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1192,13 +1186,5 @@
   ],
   "composer": [
     497
-  ],
-  "next": {
-    "id": "opadly-mgly",
-    "title": "Opadły mgły"
-  },
-  "previous": {
-    "id": "odpowie-ci-wiatr",
-    "title": "Odpowie ci wiatr"
-  }
+  ]
 }

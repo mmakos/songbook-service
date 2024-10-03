@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2271,13 +2265,5 @@
   "performer": [
     446
   ],
-  "next": {
-    "id": "mario-czy-ty-wiesz",
-    "title": "Mario, czy ty wiesz?"
-  },
-  "previous": {
-    "id": "marco-polo",
-    "title": "Marco Polo"
-  },
   "band": 146
 }

@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -241,13 +235,5 @@
         "base": "D"
       }
     }
-  },
-  "next": {
-    "id": "nasze-plany-i-nadzieje",
-    "title": "Nasze plany i nadzieje"
-  },
-  "previous": {
-    "id": "mialem-pana-zawsze-przed-oczami",
-    "title": "Miałem Pana zawsze przed oczami"
   }
 }

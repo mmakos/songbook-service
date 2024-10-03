@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1002,13 +996,5 @@
   ],
   "performer": [
     336
-  ],
-  "next": {
-    "id": "jolly-roger",
-    "title": "Jolly Roger"
-  },
-  "previous": {
-    "id": "jeszcze-w-zielone-gramy",
-    "title": "Jeszcze w zielone gramy"
-  }
+  ]
 }

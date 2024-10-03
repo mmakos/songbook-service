@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2268,13 +2262,5 @@
   ],
   "composer": [
     264
-  ],
-  "next": {
-    "id": "ten-ktory-sie-zaparl",
-    "title": "Ten, który się zaparł"
-  },
-  "previous": {
-    "id": "ten-ktory-nie-poznal",
-    "title": "Ten, który nie poznał"
-  }
+  ]
 }

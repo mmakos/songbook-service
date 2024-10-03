@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1098,13 +1092,5 @@
       "minor": true
     }
   },
-  "band": 105,
-  "next": {
-    "id": "belle-tl-andrzej-ozga",
-    "title": "Belle (tł. Andrzej Ozga)"
-  },
-  "previous": {
-    "id": "bawitko",
-    "title": "Bawitko"
-  }
+  "band": 105
 }

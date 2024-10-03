@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -820,13 +814,5 @@
   ],
   "composer": [
     408
-  ],
-  "next": {
-    "id": "jaskolka-uwieziona",
-    "title": "Jaskółka uwięziona"
-  },
-  "previous": {
-    "id": "jak-ja-kocham-cie",
-    "title": "Jak ja kocham Cię"
-  }
+  ]
 }

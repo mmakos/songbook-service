@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1013,13 +1007,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "bialy-kaftanik",
-    "title": "Biały kaftanik"
-  },
-  "previous": {
-    "id": "bedziesz-moja-pania",
-    "title": "Będziesz moją panią"
   }
 }

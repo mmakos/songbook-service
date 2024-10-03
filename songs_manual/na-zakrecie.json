@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1198,13 +1192,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "naprawde-nie-dzieje-sie-nic",
-    "title": "Naprawdę nie dzieje się nic"
-  },
-  "previous": {
-    "id": "na-orbicie-serc",
-    "title": "Na orbicie serc"
-  }
+  ]
 }

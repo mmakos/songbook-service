@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1608,13 +1602,5 @@
   "composer": [
     293
   ],
-  "next": {
-    "id": "zawsze-tam-gdzie-ty",
-    "title": "Zawsze tam, gdzie Ty"
-  },
-  "previous": {
-    "id": "zadumanie",
-    "title": "Zadumanie"
-  },
   "band": 134
 }

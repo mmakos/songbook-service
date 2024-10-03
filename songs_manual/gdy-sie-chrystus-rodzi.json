@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1381,13 +1375,5 @@
         "base": "D"
       }
     }
-  },
-  "next": {
-    "id": "gdy-sliczna-panna",
-    "title": "Gdy śliczna Panna"
-  },
-  "previous": {
-    "id": "el-burrito-de-beln",
-    "title": "El burrito de Belén"
   }
 }

@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1016,13 +1010,5 @@
   ],
   "composer": [
     346
-  ],
-  "next": {
-    "id": "marsz-polonii",
-    "title": "Marsz Polonii"
-  },
-  "previous": {
-    "id": "marsz-mokotowa",
-    "title": "Marsz Mokotowa"
-  }
+  ]
 }

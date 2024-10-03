@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1653,13 +1647,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "marsz-strzelcow",
-    "title": "Marsz strzelców"
-  },
-  "previous": {
-    "id": "marsz-pierwszej-brygady",
-    "title": "Marsz pierwszej brygady"
   }
 }

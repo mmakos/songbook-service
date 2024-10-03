@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -954,13 +948,5 @@
   "composer": [
     294
   ],
-  "next": {
-    "id": "zrobie-mezczyzn-z-was",
-    "title": "Zrobię mężczyzn z was"
-  },
-  "previous": {
-    "id": "znow-wedrujemy",
-    "title": "Znów wędrujemy"
-  },
   "band": 172
 }

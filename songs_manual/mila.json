@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -769,13 +763,5 @@
   "translation": [
     116
   ],
-  "next": {
-    "id": "milosc-rosnie-wokol-nas",
-    "title": "Miłość rośnie wokół nas"
-  },
-  "previous": {
-    "id": "mija-rok",
-    "title": "Mija rok"
-  },
   "band": 148
 }

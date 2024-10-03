@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -881,13 +875,5 @@
       }
     }
   },
-  "band": 117,
-  "next": {
-    "id": "circle-of-life",
-    "title": "Circle of Life"
-  },
-  "previous": {
-    "id": "ciagle-za-cienko",
-    "title": "Ciągle za cienko"
-  }
+  "band": 117
 }

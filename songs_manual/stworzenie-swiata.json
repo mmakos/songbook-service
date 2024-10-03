@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355577,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2470,14 +2464,6 @@
   "performer": [
     100
   ],
-  "next": {
-    "id": "syn-marnotrawny",
-    "title": "Syn marnotrawny"
-  },
-  "previous": {
-    "id": "stracanie-aniolow",
-    "title": "Strącanie aniołów"
-  },
   "composer": [
     100
   ],

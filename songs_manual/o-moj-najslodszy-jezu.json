@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -182,13 +176,5 @@
   "lyrics": [
     379
   ],
-  "next": {
-    "id": "oto-jest-dzien",
-    "title": "Oto jest dzień"
-  },
-  "previous": {
-    "id": "obudz-sie",
-    "title": "Obudź się"
-  },
   "band": 115
 }

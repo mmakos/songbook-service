@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -754,13 +748,5 @@
   ],
   "composer": [
     296
-  ],
-  "next": {
-    "id": "zlota-jerozolima-i-biedne-betlejem",
-    "title": "Złota Jerozolima i biedne Betlejem"
-  },
-  "previous": {
-    "id": "z-narodzenia-pana",
-    "title": "Z narodzenia Pana"
-  }
+  ]
 }

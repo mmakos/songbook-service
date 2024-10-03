@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -615,13 +609,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "bomba",
-    "title": "Bomba"
-  },
-  "previous": {
-    "id": "boje-sie",
-    "title": "Boję się"
   }
 }

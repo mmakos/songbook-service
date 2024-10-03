@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1183,13 +1177,5 @@
       }
     }
   },
-  "band": 150,
-  "next": {
-    "id": "nazywali-go-marynarz",
-    "title": "Nazywali go Marynarz"
-  },
-  "previous": {
-    "id": "naprawde-nie-dzieje-sie-nic",
-    "title": "Naprawdę nie dzieje się nic"
-  }
+  "band": 150
 }

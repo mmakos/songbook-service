@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -841,13 +835,5 @@
   "composer": [
     159
   ],
-  "next": {
-    "id": "jak-ja-kocham-cie",
-    "title": "Jak ja kocham Cię"
-  },
-  "previous": {
-    "id": "ja-sowa",
-    "title": "Ja Sowa"
-  },
   "band": 108
 }

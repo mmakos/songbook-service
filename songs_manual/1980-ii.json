@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1467,13 +1461,5 @@
   "lyrics": [
     114
   ],
-  "band": 100,
-  "next": {
-    "id": "997-halo-panie-policjancie",
-    "title": "997 (Halo panie policjancie)"
-  },
-  "previous": {
-    "id": "zono-moja",
-    "title": "Żono moja"
-  }
+  "band": 100
 }

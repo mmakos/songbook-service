@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1955,13 +1949,5 @@
   ],
   "source": [
     105
-  ],
-  "next": {
-    "id": "dyktator",
-    "title": "Dyktator"
-  },
-  "previous": {
-    "id": "droga-na-smolensk",
-    "title": "Droga na Smoleńsk"
-  }
+  ]
 }

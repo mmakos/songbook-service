@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -581,13 +575,5 @@
   ],
   "composer": [
     514
-  ],
-  "next": {
-    "id": "poloniny-niebieskie",
-    "title": "Połoniny niebieskie"
-  },
-  "previous": {
-    "id": "plynmy-do-starej-maui",
-    "title": "Płyńmy do Starej Maui"
-  }
+  ]
 }

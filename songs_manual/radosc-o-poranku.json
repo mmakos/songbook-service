@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1369,13 +1363,5 @@
   ],
   "composer": [
     288
-  ],
-  "next": {
-    "id": "rains-of-castamere",
-    "title": "Rains of Castamere"
-  },
-  "previous": {
-    "id": "radioactive",
-    "title": "Radioactive"
-  }
+  ]
 }

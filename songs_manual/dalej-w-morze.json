@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -757,13 +751,5 @@
   },
   "performer": [
     167
-  ],
-  "next": {
-    "id": "davy-jones",
-    "title": "Davy Jones"
-  },
-  "previous": {
-    "id": "czuze-su-te-kon",
-    "title": "Czuże su te koné"
-  }
+  ]
 }

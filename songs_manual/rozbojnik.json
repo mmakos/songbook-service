@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2021,13 +2015,5 @@
   "composer": [
     109
   ],
-  "band": 161,
-  "next": {
-    "id": "rudy-frank",
-    "title": "Rudy Frank"
-  },
-  "previous": {
-    "id": "rolling-in-the-deep",
-    "title": "Rolling in the deep"
-  }
+  "band": 161
 }

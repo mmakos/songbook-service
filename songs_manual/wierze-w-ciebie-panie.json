@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1112,13 +1106,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "wykrzykujcie-na-czesc-pana",
-    "title": "Wykrzykujcie na cześć Pana"
-  },
-  "previous": {
-    "id": "wielbic-pana-chce",
-    "title": "Wielbić Pana chcę"
   }
 }

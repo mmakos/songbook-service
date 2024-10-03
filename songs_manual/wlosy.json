@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2097,13 +2091,5 @@
   "composer": [
     192
   ],
-  "next": {
-    "id": "wodymidaj",
-    "title": "Wodymidaj"
-  },
-  "previous": {
-    "id": "wish-you-were-here",
-    "title": "Wish you were here"
-  },
   "band": 121
 }

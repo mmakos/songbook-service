@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -727,13 +721,5 @@
   "composer": [
     290
   ],
-  "band": 159,
-  "next": {
-    "id": "przyjaciele",
-    "title": "Przyjaciele"
-  },
-  "previous": {
-    "id": "przetanczyc-z-toba-chce-cala-noc",
-    "title": "Przetańczyć z tobą chcę całą noc"
-  }
+  "band": 159
 }

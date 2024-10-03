@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -657,13 +651,5 @@
   ],
   "translation": [
     214
-  ],
-  "next": {
-    "id": "dumka-na-dwa-serca",
-    "title": "Dumka na dwa serca"
-  },
-  "previous": {
-    "id": "dozwolone-od-lat-18",
-    "title": "Dozwolone od lat 18"
-  }
+  ]
 }

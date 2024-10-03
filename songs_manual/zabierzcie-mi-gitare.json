@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1356,13 +1350,5 @@
   ],
   "composer": [
     414
-  ],
-  "next": {
-    "id": "zacznij-od-bacha",
-    "title": "Zacznij od Bacha"
-  },
-  "previous": {
-    "id": "za-siedmioma-marzeniami",
-    "title": "Za siedmioma marzeniami"
-  }
+  ]
 }

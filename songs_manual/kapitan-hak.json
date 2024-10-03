@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -368,13 +362,5 @@
   ],
   "source": [
     113
-  ],
-  "next": {
-    "id": "kareta-zlota",
-    "title": "Kareta złota"
-  },
-  "previous": {
-    "id": "juz-dopala-sie-ogien-biwaku",
-    "title": "Już dopala się ogień biwaku"
-  }
+  ]
 }

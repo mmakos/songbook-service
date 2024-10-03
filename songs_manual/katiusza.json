@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1111,13 +1105,5 @@
   ],
   "composer": [
     427
-  ],
-  "next": {
-    "id": "katyn-1940-ostatni-list",
-    "title": "Katyń 1940 (Ostatni list)"
-  },
-  "previous": {
-    "id": "katedr-swiat-andrzej-ozga",
-    "title": "Katedr świat (Andrzej Ozga)"
-  }
+  ]
 }

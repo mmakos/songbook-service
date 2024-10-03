@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -788,13 +782,5 @@
   ],
   "performer": [
     131
-  ],
-  "next": {
-    "id": "aniol-i-diabel",
-    "title": "Anioł i diabeł"
-  },
-  "previous": {
-    "id": "ajrisz",
-    "title": "Ajrisz"
-  }
+  ]
 }

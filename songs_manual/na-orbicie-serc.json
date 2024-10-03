@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2033,13 +2027,5 @@
   ],
   "source": [
     113
-  ],
-  "next": {
-    "id": "na-zakrecie",
-    "title": "Na zakręcie"
-  },
-  "previous": {
-    "id": "na-kolejowym-szlaku",
-    "title": "Na kolejowym szlaku"
-  }
+  ]
 }

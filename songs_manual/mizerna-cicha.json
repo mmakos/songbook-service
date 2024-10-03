@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1228,13 +1222,5 @@
   ],
   "composer": [
     464
-  ],
-  "next": {
-    "id": "nie-bylo-miejsca-dla-ciebie",
-    "title": "Nie było miejsca dla Ciebie"
-  },
-  "previous": {
-    "id": "medrcy-swiata",
-    "title": "Mędrcy świata"
-  }
+  ]
 }

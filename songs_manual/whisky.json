@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1050,13 +1044,5 @@
     550,
     551
   ],
-  "next": {
-    "id": "wieczna-noc-endless-night",
-    "title": "Wieczna noc (Endless Night)"
-  },
-  "previous": {
-    "id": "what-is-a-youth",
-    "title": "What is a youth"
-  },
   "band": 167
 }

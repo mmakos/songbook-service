@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2210,13 +2204,5 @@
   ],
   "composer": [
     300
-  ],
-  "next": {
-    "id": "czerwone-maki-na-monte-cassino",
-    "title": "Czerwone maki na Monte Cassino"
-  },
-  "previous": {
-    "id": "chlopcy-silni-jak-stal",
-    "title": "Chłopcy silni jak stal"
-  }
+  ]
 }

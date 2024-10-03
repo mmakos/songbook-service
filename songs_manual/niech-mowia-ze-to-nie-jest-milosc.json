@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1441,13 +1435,5 @@
   ],
   "composer": [
     264
-  ],
-  "next": {
-    "id": "niech-zyje-bal",
-    "title": "Niech żyje bal"
-  },
-  "previous": {
-    "id": "niebieskooka",
-    "title": "Niebieskooka"
-  }
+  ]
 }

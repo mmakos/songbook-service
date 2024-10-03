@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -808,13 +802,5 @@
   ],
   "composer": [
     249
-  ],
-  "next": {
-    "id": "he-lives-in-you",
-    "title": "He Lives in You"
-  },
-  "previous": {
-    "id": "hanging-tree-accantus",
-    "title": "Hanging tree (Accantus)"
-  }
+  ]
 }

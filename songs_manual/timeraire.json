@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1075,7 +1069,7 @@
         {
           "text": [
             {
-              "text": "Nie odszedł |w morskie głębie"
+              "text": "Nie odszedł w morskie głębie"
             }
           ],
           "chords": {
@@ -1273,13 +1267,5 @@
   "composer": [
     575
   ],
-  "next": {
-    "id": "the-sound-of-silence",
-    "title": "The sound of silence"
-  },
-  "previous": {
-    "id": "ten-ktory-zdradzil",
-    "title": "Ten, który zdradził"
-  },
   "band": 128
 }

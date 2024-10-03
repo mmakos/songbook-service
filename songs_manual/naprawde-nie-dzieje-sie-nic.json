@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -735,13 +729,5 @@
   ],
   "composer": [
     265
-  ],
-  "next": {
-    "id": "natalia-w-bruklinie",
-    "title": "Natalia w Bruklinie"
-  },
-  "previous": {
-    "id": "na-zakrecie",
-    "title": "Na zakręcie"
-  }
+  ]
 }

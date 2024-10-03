@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1322,13 +1316,5 @@
   ],
   "composer": [
     102
-  ],
-  "next": {
-    "id": "pejzaz-zimowy",
-    "title": "Pejzaż zimowy"
-  },
-  "previous": {
-    "id": "pan-wolodyjowski",
-    "title": "Pan Wołodyjowski"
-  }
+  ]
 }

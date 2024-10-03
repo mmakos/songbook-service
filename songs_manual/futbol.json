@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -951,13 +945,5 @@
   ],
   "performer": [
     131
-  ],
-  "next": {
-    "id": "gdzie-ten-ktory-powie-mi",
-    "title": "Gdzie ten, który powie mi"
-  },
-  "previous": {
-    "id": "freedom",
-    "title": "Freedom"
-  }
+  ]
 }

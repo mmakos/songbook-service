@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1516,14 +1510,6 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "kolorowy-wiatr",
-    "title": "Kolorowy wiatr"
-  },
-  "previous": {
-    "id": "kombajn-bizon",
-    "title": "Kombajn Bizon"
   },
   "band": 103
 }

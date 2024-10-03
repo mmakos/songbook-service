@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -838,13 +832,5 @@
   ],
   "composer": [
     504
-  ],
-  "next": {
-    "id": "przebacz-mi",
-    "title": "Przebacz mi"
-  },
-  "previous": {
-    "id": "pozegnanie",
-    "title": "Pożegnanie"
-  }
+  ]
 }

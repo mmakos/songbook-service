@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -878,13 +872,5 @@
   },
   "performer": [
     345
-  ],
-  "next": {
-    "id": "malgoska",
-    "title": "Małgośka"
-  },
-  "previous": {
-    "id": "malenka",
-    "title": "Maleńka"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355576,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -835,13 +829,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "pompeja-ii",
-    "title": "Pompeja II"
-  },
-  "previous": {
-    "id": "poczekalnia",
-    "title": "Poczekalnia"
-  }
+  ]
 }

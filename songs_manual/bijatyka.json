@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -642,13 +636,5 @@
   "lyrics": [
     160
   ],
-  "band": 109,
-  "next": {
-    "id": "bitwa",
-    "title": "Bitwa"
-  },
-  "previous": {
-    "id": "bieszczadzkie-anioly",
-    "title": "Bieszczadzkie anioły"
-  }
+  "band": 109
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -992,13 +986,5 @@
   ],
   "performer": [
     363
-  ],
-  "next": {
-    "id": "przez-twe-oczy-zielone",
-    "title": "Przez Twe oczy zielone"
-  },
-  "previous": {
-    "id": "przechyly",
-    "title": "Przechyły"
-  }
+  ]
 }

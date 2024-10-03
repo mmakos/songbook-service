@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -735,13 +729,5 @@
   ],
   "composer": [
     205
-  ],
-  "next": {
-    "id": "zabierzcie-mi-gitare",
-    "title": "Zabierzcie mi gitarę"
-  },
-  "previous": {
-    "id": "z-nim-bedziesz-szczesliwsza",
-    "title": "Z nim będziesz szczęśliwsza"
-  }
+  ]
 }

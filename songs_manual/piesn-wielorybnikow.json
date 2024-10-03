@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -969,13 +963,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "pijmy-wino-za-kolegow",
-    "title": "Pijmy wino za kolegów"
-  },
-  "previous": {
-    "id": "piesn-gruzinska",
-    "title": "Pieśń gruzińska"
   }
 }

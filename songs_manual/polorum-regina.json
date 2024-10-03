@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -570,13 +564,5 @@
         "base": "C"
       }
     }
-  },
-  "next": {
-    "id": "przyobleczcie-sie-w-zbroje-boza",
-    "title": "Przyobleczcie się w zbroję Bożą"
-  },
-  "previous": {
-    "id": "panu-naszemu-piesni-grajcie",
-    "title": "Panu naszemu pieśni grajcie"
   }
 }

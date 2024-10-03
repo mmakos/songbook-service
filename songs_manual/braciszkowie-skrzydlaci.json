@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -779,13 +773,5 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "bog-jest-miloscia",
-    "title": "Bóg jest miłością"
-  },
-  "previous": {
-    "id": "bede-spiewal-tobie",
-    "title": "Będę śpiewał Tobie"
   }
 }

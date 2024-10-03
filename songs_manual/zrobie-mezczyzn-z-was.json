@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1360,13 +1354,5 @@
   ],
   "source": [
     119
-  ],
-  "next": {
-    "id": "zwiewnosc",
-    "title": "Zwiewność"
-  },
-  "previous": {
-    "id": "zombie",
-    "title": "Zombie"
-  }
+  ]
 }

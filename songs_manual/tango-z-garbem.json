@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1589,13 +1583,5 @@
   ],
   "composer": [
     275
-  ],
-  "next": {
-    "id": "tarnawatka",
-    "title": "Tarnawatka"
-  },
-  "previous": {
-    "id": "tango-na-glos-orkiestre-i-jeszcze-jeden-glos",
-    "title": "Tango na głos, orkiestrę i jeszcze jeden głos"
-  }
+  ]
 }

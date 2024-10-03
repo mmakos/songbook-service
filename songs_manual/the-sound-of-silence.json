@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -991,13 +985,5 @@
   "composer": [
     371
   ],
-  "band": 164,
-  "next": {
-    "id": "to-co-spelni-sie",
-    "title": "To co spełni się"
-  },
-  "previous": {
-    "id": "timeraire",
-    "title": "Timeraire"
-  }
+  "band": 164
 }

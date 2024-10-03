@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -360,13 +354,5 @@
   },
   "performer": [
     372
-  ],
-  "next": {
-    "id": "uwielbiam-imie-twoje-panie",
-    "title": "Uwielbiam Imię Twoje Panie"
-  },
-  "previous": {
-    "id": "ubi-caritas",
-    "title": "Ubi caritas"
-  }
+  ]
 }

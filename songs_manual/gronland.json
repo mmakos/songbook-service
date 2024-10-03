@@ -1,15 +1,9 @@
 {
-  "id": "grnland",
+  "id": "gronland",
   "title": "Grønland",
   "category": {
     "id": "common",
     "name": "Obozowe"
-  },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
   },
   "verses": [
     {
@@ -1009,13 +1003,5 @@
   },
   "lyrics": [
     237
-  ],
-  "next": {
-    "id": "grzeczny-jan",
-    "title": "Grzeczny Jan"
-  },
-  "previous": {
-    "id": "granda",
-    "title": "Granda"
-  }
+  ]
 }

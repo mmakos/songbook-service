@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -171,7 +165,7 @@
         {
           "text": [
             {
-              "text": "From when the White Wolf fought"
+              "text": "From when the White Wolf fought"
             }
           ],
           "chords": {
@@ -217,7 +211,7 @@
         {
           "text": [
             {
-              "text": "A silver-tongued devil"
+              "text": "A silver-tongued devil"
             }
           ],
           "chords": {
@@ -310,7 +304,7 @@
         {
           "text": [
             {
-              "text": "At his hooves did they revel"
+              "text": "At his hooves did they revel"
             }
           ],
           "chords": {
@@ -1766,13 +1760,5 @@
   "composer": [
     572,
     571
-  ],
-  "next": {
-    "id": "tu-es-petrus",
-    "title": "Tu Es Petrus"
-  },
-  "previous": {
-    "id": "to-co-spelni-sie",
-    "title": "To co spełni się"
-  }
+  ]
 }

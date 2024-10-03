@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -493,13 +487,5 @@
   "composer": [
     582
   ],
-  "band": 174,
-  "next": {
-    "id": "zeby-moc-prostota",
-    "title": "Żeby móc (Prostota)"
-  },
-  "previous": {
-    "id": "zrobie-mezczyzn-z-was",
-    "title": "Zrobię mężczyzn z was"
-  }
+  "band": 174
 }

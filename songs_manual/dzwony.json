@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2377,13 +2371,5 @@
   ],
   "source": [
     103
-  ],
-  "next": {
-    "id": "dzdzownica",
-    "title": "Dżdżownica"
-  },
-  "previous": {
-    "id": "dzis-prawdziwych-cyganow-juz-nie-ma",
-    "title": "Dziś prawdziwych Cyganów już nie ma"
-  }
+  ]
 }

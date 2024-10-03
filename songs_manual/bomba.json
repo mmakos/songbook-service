@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1169,13 +1163,5 @@
   "composer": [
     163
   ],
-  "next": {
-    "id": "boso",
-    "title": "Boso"
-  },
-  "previous": {
-    "id": "bolero",
-    "title": "Bolero"
-  },
   "band": 111
 }

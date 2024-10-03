@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1118,13 +1112,5 @@
   "composer": [
     176,
     177
-  ],
-  "next": {
-    "id": "chodz-pomaluj-moj-swiat",
-    "title": "Chodź pomaluj mój świat"
-  },
-  "previous": {
-    "id": "cant-help-falling-in-love",
-    "title": "Can't help falling in love"
-  }
+  ]
 }

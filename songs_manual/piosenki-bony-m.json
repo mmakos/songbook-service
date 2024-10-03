@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2584,13 +2578,5 @@
   ],
   "composer": [
     517
-  ],
-  "next": {
-    "id": "plecak",
-    "title": "Plecak"
-  },
-  "previous": {
-    "id": "piosenka-na-przetrwanie",
-    "title": "Piosenka na przetrwanie"
-  }
+  ]
 }

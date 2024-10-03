@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -325,13 +319,5 @@
   "performer": [
     420
   ],
-  "next": {
-    "id": "pan-jest-pasterzem-moim",
-    "title": "Pan jest pasterzem moim"
-  },
-  "previous": {
-    "id": "pan-blisko-jest",
-    "title": "Pan blisko jest"
-  },
   "band": 110
 }

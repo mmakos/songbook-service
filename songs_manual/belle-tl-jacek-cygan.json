@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1704,13 +1698,5 @@
   ],
   "source": [
     103
-  ],
-  "next": {
-    "id": "belle-tl-dorota-kozielska",
-    "title": "Belle (tł. Dorota Kozielska)"
-  },
-  "previous": {
-    "id": "belle-tl-andrzej-ozga",
-    "title": "Belle (tł. Andrzej Ozga)"
-  }
+  ]
 }

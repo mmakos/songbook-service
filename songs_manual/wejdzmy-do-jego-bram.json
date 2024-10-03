@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -294,13 +288,5 @@
   ],
   "performer": [
     373
-  ],
-  "next": {
-    "id": "wielbic-pana-chce",
-    "title": "Wielbić Pana chcę"
-  },
-  "previous": {
-    "id": "w-lekkim-powiewie",
-    "title": "W lekkim powiewie"
-  }
+  ]
 }

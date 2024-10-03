@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -678,13 +672,5 @@
   },
   "performer": [
     189
-  ],
-  "next": {
-    "id": "czekalem-na-ciebie",
-    "title": "Czekałem na Ciebie"
-  },
-  "previous": {
-    "id": "czarny-chleb-i-czarna-kawa",
-    "title": "Czarny chleb i czarna kawa"
-  }
+  ]
 }

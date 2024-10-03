@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -736,13 +730,5 @@
   },
   "lyrics": [
     167
-  ],
-  "next": {
-    "id": "jedenaste",
-    "title": "Jedenaste"
-  },
-  "previous": {
-    "id": "jaskolka-uwieziona",
-    "title": "Jaskółka uwięziona"
-  }
+  ]
 }

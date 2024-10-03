@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -180,13 +174,5 @@
   },
   "bible": [
     "Psalm 117"
-  ],
-  "next": {
-    "id": "laudato-sii",
-    "title": "Laudato sii"
-  },
-  "previous": {
-    "id": "kiedy-stane-przed-toba",
-    "title": "Kiedy stanę przed Tobą"
-  }
+  ]
 }

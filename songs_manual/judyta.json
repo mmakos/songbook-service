@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1349,13 +1343,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "kanapka-z-czlowiekiem",
-    "title": "Kanapka z człowiekiem"
-  },
-  "previous": {
-    "id": "jalta",
-    "title": "Jałta"
-  }
+  ]
 }

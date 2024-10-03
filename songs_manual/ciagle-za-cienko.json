@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -686,13 +680,5 @@
   ],
   "composer": [
     180
-  ],
-  "next": {
-    "id": "ciagnik",
-    "title": "Ciągnik"
-  },
-  "previous": {
-    "id": "chryzantemy-zlociste",
-    "title": "Chryzantemy złociste"
-  }
+  ]
 }

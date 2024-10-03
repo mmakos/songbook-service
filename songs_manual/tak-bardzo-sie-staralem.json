@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -807,13 +801,5 @@
   "composer": [
     210
   ],
-  "next": {
-    "id": "tak-bowiem-bog",
-    "title": "Tak bowiem Bóg"
-  },
-  "previous": {
-    "id": "swiecie-nasz",
-    "title": "Świecie nasz"
-  },
   "band": 107
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -925,13 +919,5 @@
   ],
   "composer": [
     268
-  ],
-  "next": {
-    "id": "yesterday",
-    "title": "Yesterday"
-  },
-  "previous": {
-    "id": "wrecking-ball",
-    "title": "Wrecking Ball"
-  }
+  ]
 }

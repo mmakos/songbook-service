@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -689,13 +683,5 @@
   "composer": [
     179
   ],
-  "band": 116,
-  "next": {
-    "id": "chryzantemy-zlociste",
-    "title": "Chryzantemy złociste"
-  },
-  "previous": {
-    "id": "chlopcy-z-botany-bay",
-    "title": "Chłopcy z Botany Bay"
-  }
+  "band": 116
 }

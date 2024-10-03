@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -974,13 +968,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "ifigenia",
-    "title": "Ifigenia"
-  },
-  "previous": {
-    "id": "hiob",
-    "title": "Hiob"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -519,13 +513,5 @@
   "composer": [
     184
   ],
-  "next": {
-    "id": "cykady-na-cykladach",
-    "title": "Cykady na Cykladach"
-  },
-  "previous": {
-    "id": "circle-of-life",
-    "title": "Circle of Life"
-  },
   "band": 118
 }

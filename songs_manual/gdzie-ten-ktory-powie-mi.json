@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1312,13 +1306,5 @@
   "lyrics": [
     230
   ],
-  "next": {
-    "id": "glupole",
-    "title": "Głupole"
-  },
-  "previous": {
-    "id": "futbol",
-    "title": "Futbol"
-  },
   "band": 120
 }

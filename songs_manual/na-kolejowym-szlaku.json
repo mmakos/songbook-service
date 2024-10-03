@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -830,13 +824,5 @@
   },
   "lyrics": [
     483
-  ],
-  "next": {
-    "id": "na-orbicie-serc",
-    "title": "Na orbicie serc"
-  },
-  "previous": {
-    "id": "na-jednej-z-dzikich-plaz",
-    "title": "Na jednej z dzikich plaż"
-  }
+  ]
 }

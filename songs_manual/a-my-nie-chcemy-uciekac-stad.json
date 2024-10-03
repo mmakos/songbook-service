@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355575,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1297,13 +1291,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "ambasadorowie",
-    "title": "Ambasadorowie"
-  },
-  "previous": {
-    "id": "a1788",
-    "title": "1788"
-  }
+  ]
 }

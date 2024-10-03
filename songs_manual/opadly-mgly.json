@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -786,13 +780,5 @@
   "composer": [
     496
   ],
-  "next": {
-    "id": "orki-z-majorki",
-    "title": "Orki z majorki"
-  },
-  "previous": {
-    "id": "only-the-very-best-sos",
-    "title": "Only the very best (S.O.S.)"
-  },
   "band": 108
 }

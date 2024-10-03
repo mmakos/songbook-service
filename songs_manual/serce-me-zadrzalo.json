@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -408,13 +402,5 @@
   },
   "performer": [
     365
-  ],
-  "next": {
-    "id": "shenandoah",
-    "title": "Shenandoah"
-  },
-  "previous": {
-    "id": "say-something",
-    "title": "Say Something"
-  }
+  ]
 }

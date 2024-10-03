@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -161,13 +155,5 @@
   "performer": [
     420
   ],
-  "next": {
-    "id": "pan-jest-moca-swojego-ludu",
-    "title": "Pan jest mocą swojego ludu"
-  },
-  "previous": {
-    "id": "oto-stoje-u-drzwi",
-    "title": "Oto stoję u drzwi"
-  },
   "band": 110
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355584,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -2001,13 +1995,5 @@
   ],
   "composer": [
     264
-  ],
-  "next": {
-    "id": "szary-swiat",
-    "title": "Szary świat"
-  },
-  "previous": {
-    "id": "stokrotka",
-    "title": "Stokrotka"
-  }
+  ]
 }

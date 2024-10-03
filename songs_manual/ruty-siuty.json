@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -666,13 +660,5 @@
   },
   "performer": [
     382
-  ],
-  "next": {
-    "id": "sos-dun-terrien-en-dtresse",
-    "title": "S.O.S. d'un Terrien en détresse"
-  },
-  "previous": {
-    "id": "rudy-gosc",
-    "title": "Rudy gość"
-  }
+  ]
 }

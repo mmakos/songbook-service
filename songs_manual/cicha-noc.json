@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356281,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1044,13 +1038,5 @@
   ],
   "translation": [
     307
-  ],
-  "next": {
-    "id": "do-szopy-hej-pasterze",
-    "title": "Do szopy, hej pasterze"
-  },
-  "previous": {
-    "id": "bracia-patrzcie-jeno",
-    "title": "Bracia, patrzcie jeno"
-  }
+  ]
 }

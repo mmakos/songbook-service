@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1294,13 +1288,5 @@
   "composer": [
     124,
     125
-  ],
-  "next": {
-    "id": "ai-se-eu-te-pego",
-    "title": "Ai Se Eu Te Pego"
-  },
-  "previous": {
-    "id": "ach-te-baby",
-    "title": "Ach te baby"
-  }
+  ]
 }

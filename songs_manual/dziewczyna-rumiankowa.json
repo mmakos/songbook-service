@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -710,13 +704,5 @@
   },
   "performer": [
     218
-  ],
-  "next": {
-    "id": "dzis-pozno-pojde-spac",
-    "title": "Dziś późno pójdę spać"
-  },
-  "previous": {
-    "id": "dziesiec-w-skali-beauforta",
-    "title": "Dziesięć w skali Beauforta"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1122,13 +1116,5 @@
     283,
     281
   ],
-  "next": {
-    "id": "serce-me-zadrzalo",
-    "title": "Serce me zadrżało"
-  },
-  "previous": {
-    "id": "santiana",
-    "title": "Santiana"
-  },
   "band": 178
 }

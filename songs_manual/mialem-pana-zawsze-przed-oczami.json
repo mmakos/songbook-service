@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -422,13 +416,5 @@
   "bible": [
     "Psalm 16",
     "Dz 2,25-28"
-  ],
-  "next": {
-    "id": "moj-zbawiciel",
-    "title": "Mój Zbawiciel"
-  },
-  "previous": {
-    "id": "memu-bogu-krolowi",
-    "title": "Memu Bogu, Królowi"
-  }
+  ]
 }

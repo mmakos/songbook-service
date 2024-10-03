@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -192,7 +186,7 @@
         {
           "text": [
             {
-              "text": "The Pines were﻿ Roaring on The Heights,"
+              "text": "The Pines were Roaring on The Heights,"
             }
           ],
           "chords": {
@@ -378,13 +372,5 @@
   ],
   "composer": [
     465
-  ],
-  "next": {
-    "id": "mniej-niz-zero",
-    "title": "Mniej niż zero"
-  },
-  "previous": {
-    "id": "milosc-w-zakopanem",
-    "title": "Miłość w Zakopanem"
-  }
+  ]
 }

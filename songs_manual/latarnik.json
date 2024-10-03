@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1217,13 +1211,5 @@
       "minor": true
     }
   },
-  "band": 143,
-  "next": {
-    "id": "lato",
-    "title": "Lato"
-  },
-  "previous": {
-    "id": "laleczka-z-saskiej-porcelany",
-    "title": "Laleczka z Saskiej Porcelany"
-  }
+  "band": 143
 }

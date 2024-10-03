@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -844,13 +838,5 @@
   "lyrics": [
     238
   ],
-  "next": {
-    "id": "guldia",
-    "title": "Guldia"
-  },
-  "previous": {
-    "id": "grzeczny-jan",
-    "title": "Grzeczny Jan"
-  },
   "band": 108
 }

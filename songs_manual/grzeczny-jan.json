@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1627,13 +1621,5 @@
   ],
   "composer": [
     220
-  ],
-  "next": {
-    "id": "grzywa",
-    "title": "Grzywa"
-  },
-  "previous": {
-    "id": "grnland",
-    "title": "Grønland"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -820,13 +814,5 @@
     345,
     405,
     256
-  ],
-  "next": {
-    "id": "i-wont-forget-you",
-    "title": "I won't forget you"
-  },
-  "previous": {
-    "id": "house-of-the-rising-sun",
-    "title": "House of the Rising Sun"
-  }
+  ]
 }

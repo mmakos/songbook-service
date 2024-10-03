@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -504,13 +498,5 @@
   ],
   "composer": [
     210
-  ],
-  "next": {
-    "id": "pila-tango",
-    "title": "Piła Tango"
-  },
-  "previous": {
-    "id": "piesn-wielorybnikow",
-    "title": "Pieśń wielorybników"
-  }
+  ]
 }

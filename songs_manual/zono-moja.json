@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -784,13 +778,5 @@
   "composer": [
     586
   ],
-  "band": 173,
-  "next": {
-    "id": "1980-ii",
-    "title": "1980 II"
-  },
-  "previous": {
-    "id": "zeby-moc-prostota",
-    "title": "Żeby móc (Prostota)"
-  }
+  "band": 173
 }

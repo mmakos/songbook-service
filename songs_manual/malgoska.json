@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1277,13 +1271,5 @@
   ],
   "performer": [
     131
-  ],
-  "next": {
-    "id": "marchewkowe-pole",
-    "title": "Marchewkowe pole"
-  },
-  "previous": {
-    "id": "malomiasteczkowy",
-    "title": "Małomiasteczkowy"
-  }
+  ]
 }

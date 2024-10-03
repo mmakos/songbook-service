@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1418,13 +1412,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "i-ciebie-tez-bardzo",
-    "title": "I Ciebie też, bardzo"
-  },
-  "previous": {
-    "id": "hoist-the-colours",
-    "title": "Hoist the Colours"
   }
 }

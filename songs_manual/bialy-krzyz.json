@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1613,13 +1607,5 @@
   "composer": [
     150
   ],
-  "band": 107,
-  "next": {
-    "id": "bialy-mis",
-    "title": "Biały miś"
-  },
-  "previous": {
-    "id": "bialy-kaftanik",
-    "title": "Biały kaftanik"
-  }
+  "band": 107
 }

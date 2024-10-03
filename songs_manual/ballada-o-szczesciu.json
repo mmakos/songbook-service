@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355579,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -310,13 +304,5 @@
   },
   "performer": [
     141
-  ],
-  "next": {
-    "id": "banderas",
-    "title": "Banderas"
-  },
-  "previous": {
-    "id": "ballada-o-krzyzowcu",
-    "title": "Ballada o krzyżowcu"
-  }
+  ]
 }

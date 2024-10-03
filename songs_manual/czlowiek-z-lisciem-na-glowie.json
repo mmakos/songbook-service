@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -752,13 +746,5 @@
   "composer": [
     192
   ],
-  "next": {
-    "id": "cztery-cory-mial-tata",
-    "title": "Cztery córy miał tata"
-  },
-  "previous": {
-    "id": "czerwone-korale",
-    "title": "Czerwone korale"
-  },
   "band": 121
 }

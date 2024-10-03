@@ -5,12 +5,6 @@
     "id": "kaczmarski",
     "name": "Kaczmarski & Gintrowski"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355577,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -5999,13 +5993,5 @@
   ],
   "composer": [
     101
-  ],
-  "next": {
-    "id": "stracanie-aniolow",
-    "title": "Strącanie aniołów"
-  },
-  "previous": {
-    "id": "stanczyk",
-    "title": "Stańczyk"
-  }
+  ]
 }

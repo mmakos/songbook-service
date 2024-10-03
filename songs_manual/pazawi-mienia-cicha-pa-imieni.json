@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -812,13 +806,5 @@
       "minor": true
     }
   },
-  "band": 155,
-  "next": {
-    "id": "pedro",
-    "title": "Pedro"
-  },
-  "previous": {
-    "id": "pamietnik-apostola",
-    "title": "Pamiętnik apostoła"
-  }
+  "band": 155
 }

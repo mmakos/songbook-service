@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -783,13 +777,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "ej-dziewczyno-ej-niebogo",
-    "title": "Ej, dziewczyno, ej, niebogo"
-  },
-  "previous": {
-    "id": "deszcz-jesienny-deszcz",
-    "title": "Deszcz, jesienny deszcz"
   }
 }

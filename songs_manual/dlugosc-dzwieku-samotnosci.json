@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -811,13 +805,5 @@
   "performer": [
     199,
     201
-  ],
-  "next": {
-    "id": "dni-ktorych-nie-znamy",
-    "title": "Dni, których nie znamy"
-  },
-  "previous": {
-    "id": "dla-ciebie",
-    "title": "Dla Ciebie"
-  }
+  ]
 }

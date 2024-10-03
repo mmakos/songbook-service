@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356282,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -768,13 +762,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "hej-w-dzien-narodzenia",
-    "title": "Hej, w dzień narodzenia"
-  },
-  "previous": {
-    "id": "gdy-sliczna-panna",
-    "title": "Gdy śliczna Panna"
   }
 }

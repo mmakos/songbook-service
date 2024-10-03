@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -582,13 +576,5 @@
     106,
     109,
     110
-  ],
-  "next": {
-    "id": "hej-bystra-woda",
-    "title": "Hej bystra woda"
-  },
-  "previous": {
-    "id": "hawran-i-muran",
-    "title": "Hawrań i Murań"
-  }
+  ]
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1225,13 +1219,5 @@
   },
   "performer": [
     149
-  ],
-  "next": {
-    "id": "znow-wedrujemy",
-    "title": "Znów wędrujemy"
-  },
-  "previous": {
-    "id": "zdumienie",
-    "title": "Zdumienie"
-  }
+  ]
 }

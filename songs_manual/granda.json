@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -873,13 +867,5 @@
   "composer": [
     235,
     236
-  ],
-  "next": {
-    "id": "grnland",
-    "title": "Grønland"
-  },
-  "previous": {
-    "id": "grajmy-panu",
-    "title": "Grajmy Panu"
-  }
+  ]
 }

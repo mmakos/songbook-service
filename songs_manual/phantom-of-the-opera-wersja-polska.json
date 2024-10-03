@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1290,13 +1284,5 @@
   ],
   "composer": [
     489
-  ],
-  "next": {
-    "id": "piesn-gruzinska",
-    "title": "Pieśń gruzińska"
-  },
-  "previous": {
-    "id": "phantom-of-the-opera",
-    "title": "Phantom of the opera"
-  }
+  ]
 }

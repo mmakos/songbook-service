@@ -1,15 +1,9 @@
 {
-  "id": "sos-dun-terrien-en-dtresse",
+  "id": "sos-dun-terrien-en-detresse",
   "title": "S.O.S. d'un Terrien en détresse",
   "category": {
     "id": "common",
     "name": "Obozowe"
-  },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
   },
   "verses": [
     {
@@ -1382,13 +1376,5 @@
   ],
   "composer": [
     497
-  ],
-  "next": {
-    "id": "samantha",
-    "title": "Samantha"
-  },
-  "previous": {
-    "id": "ruty-siuty",
-    "title": "Ruty Siuty"
-  }
+  ]
 }

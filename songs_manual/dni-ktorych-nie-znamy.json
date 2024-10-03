@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1102,13 +1096,5 @@
   ],
   "composer": [
     203
-  ],
-  "next": {
-    "id": "dni-niczyje",
-    "title": "Dni niczyje"
-  },
-  "previous": {
-    "id": "dlugosc-dzwieku-samotnosci",
-    "title": "Długość dźwięku samotności"
-  }
+  ]
 }

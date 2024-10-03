@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -724,13 +718,5 @@
   },
   "performer": [
     344
-  ],
-  "next": {
-    "id": "lodki",
-    "title": "Łódki"
-  },
-  "previous": {
-    "id": "lemkowyna",
-    "title": "Łemkowyna"
-  }
+  ]
 }

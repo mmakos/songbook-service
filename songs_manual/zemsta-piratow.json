@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355585,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -803,13 +797,5 @@
   ],
   "source": [
     113
-  ],
-  "next": {
-    "id": "zdumienie",
-    "title": "Zdumienie"
-  },
-  "previous": {
-    "id": "zegarmistrz-swiatla",
-    "title": "Zegarmistrz światła"
-  }
+  ]
 }

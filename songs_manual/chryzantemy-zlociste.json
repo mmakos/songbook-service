@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -688,13 +682,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "ciagle-za-cienko",
-    "title": "Ciągle za cienko"
-  },
-  "previous": {
-    "id": "chodz-pomaluj-moj-swiat",
-    "title": "Chodź pomaluj mój świat"
   }
 }

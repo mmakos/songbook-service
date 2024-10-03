@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1269,14 +1263,6 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "psalm-dla-ciebie",
-    "title": "Psalm dla Ciebie"
-  },
-  "previous": {
-    "id": "przyjaciele",
-    "title": "Przyjaciele"
   },
   "band": 147
 }

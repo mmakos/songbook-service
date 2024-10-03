@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -281,13 +275,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "nie-ma-takiego-jak-jezus",
-    "title": "Nie ma takiego jak Jezus"
-  },
-  "previous": {
-    "id": "nasze-plany-i-nadzieje",
-    "title": "Nasze plany i nadzieje"
   }
 }

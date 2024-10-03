@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -437,13 +431,5 @@
         "base": "G"
       }
     }
-  },
-  "next": {
-    "id": "placz",
-    "title": "Płacz"
-  },
-  "previous": {
-    "id": "piosenki-bony-m",
-    "title": "Piosenki Bony M"
   }
 }

@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355583,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1096,13 +1090,5 @@
   ],
   "composer": [
     511
-  ],
-  "next": {
-    "id": "pozegnanie-liverpoolu",
-    "title": "Pożegnanie Liverpoolu"
-  },
-  "previous": {
-    "id": "poloniny-niebieskie",
-    "title": "Połoniny niebieskie"
-  }
+  ]
 }

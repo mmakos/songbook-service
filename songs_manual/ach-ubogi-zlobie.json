@@ -5,12 +5,6 @@
     "id": "carols",
     "name": "Kolędy"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727356281,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1411,13 +1405,5 @@
   },
   "composer": [
     253
-  ],
-  "next": {
-    "id": "adeste-fideles",
-    "title": "Adeste Fideles"
-  },
-  "previous": {
-    "id": "zlota-jerozolima-i-biedne-betlejem",
-    "title": "Złota Jerozolima i biedne Betlejem"
-  }
+  ]
 }

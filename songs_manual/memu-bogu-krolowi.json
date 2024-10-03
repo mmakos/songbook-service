@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355587,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -192,13 +186,5 @@
       },
       "minor": true
     }
-  },
-  "next": {
-    "id": "mialem-pana-zawsze-przed-oczami",
-    "title": "Miałem Pana zawsze przed oczami"
-  },
-  "previous": {
-    "id": "maryjo-maluczka-maryjo",
-    "title": "Maryjo, maluczka Maryjo"
   }
 }

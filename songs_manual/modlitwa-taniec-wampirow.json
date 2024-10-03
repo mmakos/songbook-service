@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355582,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -799,13 +793,5 @@
   ],
   "source": [
     116
-  ],
-  "next": {
-    "id": "modlitwa-konca-mojego-wieku",
-    "title": "Modlitwa końca mojego wieku"
-  },
-  "previous": {
-    "id": "mniej-niz-zero",
-    "title": "Mniej niż zero"
-  }
+  ]
 }

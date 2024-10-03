@@ -5,12 +5,6 @@
     "id": "patriotic",
     "name": "Patriotyczne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -899,13 +893,5 @@
   ],
   "composer": [
     417
-  ],
-  "next": {
-    "id": "marsz-mokotowa",
-    "title": "Marsz Mokotowa"
-  },
-  "previous": {
-    "id": "jedzie-na-kasztance",
-    "title": "Jedzie na kasztance"
-  }
+  ]
 }

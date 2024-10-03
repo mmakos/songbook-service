@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355580,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1085,13 +1079,5 @@
   "composer": [
     147
   ],
-  "next": {
-    "id": "burza",
-    "title": "Burza"
-  },
-  "previous": {
-    "id": "buka",
-    "title": "Buka"
-  },
   "band": 106
 }

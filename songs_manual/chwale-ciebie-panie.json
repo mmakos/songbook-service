@@ -5,12 +5,6 @@
     "id": "religious",
     "name": "Religijne"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355586,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -471,13 +465,5 @@
         "base": "A"
       }
     }
-  },
-  "next": {
-    "id": "dym-jalowca",
-    "title": "Dym jałowca"
-  },
-  "previous": {
-    "id": "chwalcie-pana-narody",
-    "title": "Chwalcie Pana narody"
   }
 }

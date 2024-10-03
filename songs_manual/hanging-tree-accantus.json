@@ -5,12 +5,6 @@
     "id": "common",
     "name": "Obozowe"
   },
-  "created": {
-    "name": "spiewnik-mmakos",
-    "time": 1727355581,
-    "userVerified": true,
-    "verified": false
-  },
   "verses": [
     {
       "lines": [
@@ -1027,13 +1021,5 @@
   "source": [
     108
   ],
-  "band": 146,
-  "next": {
-    "id": "hawran-i-muran",
-    "title": "Hawrań i Murań"
-  },
-  "previous": {
-    "id": "hanging-tree",
-    "title": "Hanging tree"
-  }
+  "band": 146
 }
