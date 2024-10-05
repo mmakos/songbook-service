@@ -1,6 +1,7 @@
 {
   "id": 1224,
-  "title": "Grzywa",
+  "title": "Na błękicie jest polana",
+  "altTitle": ["Grzywa"],
   "category": 2,
   "verses": [
     {
@@ -836,7 +837,7 @@
     238
   ],
   "band": 108,
-  "slug": "grzywa",
+  "slug": "na-blekicie-jest-polana",
   "created": {
     "id": 2,
     "time": 1727967603,
