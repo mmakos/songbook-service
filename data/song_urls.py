@@ -4,7 +4,8 @@ from typing import Optional
 
 from googleapiclient.discovery import build
 
-YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
+# YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY")
+YOUTUBE_API_KEY = 'AIzaSyD7ruF8fC7fhBoMPH3pN1-e6-qUbkvOCLI'
 youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
 
 with open('bands.json', encoding='utf-8') as file:
