@@ -2,7 +2,7 @@ import json
 
 from django.http import HttpResponse, HttpResponseNotFound, HttpResponseBadRequest
 
-from Songbook.models import get_song, get_songs, fast_search
+from Songbook.models import get_song, get_songs, fast_search, get_songs_by_person
 
 
 def __dump(obj):
@@ -18,6 +18,10 @@ def song(request, song_slug: str):
 
 def songs(request):
     return HttpResponse(__dump(get_songs()), content_type='application/json')
+
+
+def songs_by_person(request, person: str):
+    return HttpResponse(__dump(get_songs_by_person(person)), content_type='application/json')
 
 
 def autocomplete(request):

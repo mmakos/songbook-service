@@ -5,11 +5,6 @@ from Songbook.str_convert import title_to_unique_name
 
 songs = {}
 
-for file in os.listdir('songs_manual'):
-    with open(f'songs_manual/{file}', encoding='utf-8') as song_file:
-        song: dict = json.load(song_file)
-    songs[song["slug"]] = {'category': song["category"], 'title': song["title"]}
-
 with open('data/users.json', encoding='utf-8') as file:
     users: dict = {user["id"]: user for user in json.load(file)}
 with open('data/categories.json', encoding='utf-8') as file:
@@ -18,6 +13,25 @@ with open('data/bands.json', encoding='utf-8') as file:
     bands: dict = {band["id"]: band for band in json.load(file)}
 with open('data/authors.json', encoding='utf-8') as file:
     authors: dict = {author["id"]: author for author in json.load(file)}
+
+
+def extend_song_with_author(song_out: dict, song: dict, author: str):
+    author_ids = song.get(author)
+    if author_ids is not None:
+        current = song_out.get('authors', [])
+        current.extend(authors[author_id]['slug'] for author_id in author_ids)
+        song_out['authors'] = current
+
+
+for file in os.listdir('songs_manual'):
+    with open(f'songs_manual/{file}', encoding='utf-8') as song_file:
+        song: dict = json.load(song_file)
+    song_out = {'category': song["category"], 'title': song["title"]}
+    extend_song_with_author(song_out, song, 'performer')
+    extend_song_with_author(song_out, song, 'lyrics')
+    extend_song_with_author(song_out, song, 'translation')
+    extend_song_with_author(song_out, song, 'composer')
+    songs[song["slug"]] = song_out
 
 
 def replace_band(song: dict):
@@ -67,7 +81,17 @@ def get_song(song_slug: str):
 
 
 def get_songs():
-    return [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for slug, song in songs.items()]
+    return [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for slug, song in
+            songs.items()]
+
+
+def get_songs_by_person(author):
+    person_songs = [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for
+                    slug, song in songs.items() if author in song.get('authors', ())]
+    return {
+        "person": next(a for a in authors.values() if a['slug'] == author),
+        "songs": person_songs,
+    }
 
 
 def fast_search(key: str):

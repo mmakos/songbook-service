@@ -106,6 +106,7 @@
   },
   {
     "name": "Ernest",
+    "secondName": "Włodzimierz",
     "lastName": "Bryll",
     "id": 113,
     "url": "https://pl.wikipedia.org/wiki/Ernest_Bryll",
@@ -1562,6 +1563,14 @@
     "slug": "piotr-maszynski"
   },
   {
+    "name": "Karol",
+    "secondName": "Kazimierz",
+    "lastName": "Sienkiewicz",
+    "id": 308,
+    "url": "https://pl.wikipedia.org/wiki/Karol_Sienkiewicz",
+    "slug": "karol-sienkiewicz"
+  },
+  {
     "name": "Alfred",
     "secondName": "Longin",
     "lastName": "Schütz",
@@ -1733,6 +1742,13 @@
     "lastName": "Jaźwiński",
     "id": 330,
     "slug": "tomasz-jazwinski"
+  },
+  {
+    "name": "Turlough",
+    "lastName": "O’Carolan",
+    "id": 331,
+    "url": "https://pl.wikipedia.org/wiki/Turlough_O%E2%80%99Carolan",
+    "slug": "turlough-ocarolan"
   },
   {
     "nickname": "Stan Borys",
@@ -1938,6 +1954,15 @@
     "lastName": "Leśnik",
     "id": 360,
     "slug": "krzysztof-lesnik"
+  },
+  {
+    "nickname": "Casimir Delavigne",
+    "name": "Jean",
+    "secondName": "François Casimir",
+    "lastName": "Delavigne",
+    "id": 361,
+    "slug": "casimir-delavigne",
+    "url": "https://pl.wikipedia.org/wiki/Casimir_Delavigne"
   },
   {
     "name": "Paweł",
@@ -2543,7 +2568,7 @@
     "slug": "stephen-schwartz"
   },
   {
-    "name": "Kasia",
+    "name": "Katarzyna",
     "lastName": "Kessling",
     "id": 445,
     "url": "https://www.instagram.com/kasia_kessling/",
