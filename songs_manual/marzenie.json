@@ -1,6 +1,7 @@
 {
   "id": 1369,
-  "title": "Pożegnanie",
+  "title": "Marzenie",
+  "altTitle": ["Pożegnanie"],
   "category": 2,
   "verses": [
     {
@@ -1214,7 +1215,7 @@
   "performer": [
     360
   ],
-  "slug": "pozegnanie",
+  "slug": "marzenie",
   "created": {
     "id": 2,
     "time": 1727967603,
