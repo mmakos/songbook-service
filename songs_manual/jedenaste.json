@@ -30,8 +30,7 @@
                       }
                     }
                   }
-                ],
-                "silent": true
+                ]
               }
             ]
           }
@@ -1930,5 +1929,8 @@
     "id": 2,
     "time": 1727967603,
     "verified": false
-  }
+  },
+  "ytVideo": [
+    "DF5J5BG-d7Q"
+  ]
 }
