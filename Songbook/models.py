@@ -13,6 +13,8 @@ with open('data/bands.json', encoding='utf-8') as file:
     bands: dict = {band["id"]: band for band in json.load(file)}
 with open('data/authors.json', encoding='utf-8') as file:
     authors: dict = {author["id"]: author for author in json.load(file)}
+with open('data/sources.json', encoding='utf-8') as file:
+    sources: dict = {source["id"]: source for source in json.load(file)}
 
 
 def extend_song_with_author(song_out: dict, song: dict, author: str):
@@ -23,6 +25,14 @@ def extend_song_with_author(song_out: dict, song: dict, author: str):
         song_out['authors'] = current
 
 
+def extend_song_with_source(song_out: dict, song: dict):
+    source_ids = song.get('source')
+    if source_ids is not None:
+        current = song_out.get('source', [])
+        current.extend(sources[source_id]['slug'] for source_id in source_ids)
+        song_out['source'] = current
+
+
 for file in os.listdir('songs_manual'):
     with open(f'songs_manual/{file}', encoding='utf-8') as song_file:
         song: dict = json.load(song_file)
@@ -31,6 +41,10 @@ for file in os.listdir('songs_manual'):
     extend_song_with_author(song_out, song, 'lyrics')
     extend_song_with_author(song_out, song, 'translation')
     extend_song_with_author(song_out, song, 'composer')
+    extend_song_with_source(song_out, song)
+    band = song.get("band")
+    if band:
+        song_out["band"] = bands[band]['slug']
     songs[song["slug"]] = song_out
 
 
@@ -63,6 +77,13 @@ def replace_authors(song: dict, author: str):
     song[author] = [authors[a] for a in auth]
 
 
+def replace_source(song: dict):
+    src = song.get('source')
+    if not src:
+        return
+    song['source'] = [sources[s] for s in src]
+
+
 def replace(song: dict):
     replace_authors(song, "composer")
     replace_authors(song, "lyrics")
@@ -71,6 +92,7 @@ def replace(song: dict):
     replace_band(song)
     replace_category(song)
     replace_creator(song)
+    replace_source(song)
 
 
 def get_song(song_slug: str):
@@ -91,6 +113,24 @@ def get_songs_by_person(author):
     return {
         "person": next(a for a in authors.values() if a['slug'] == author),
         "songs": person_songs,
+    }
+
+
+def get_songs_by_band(band):
+    band_songs = [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for
+                    slug, song in songs.items() if band in song.get('band', ())]
+    return {
+        "band": next(b for b in bands.values() if b['slug'] == band),
+        "songs": band_songs,
+    }
+
+
+def get_songs_by_source(source):
+    source_songs = [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for
+                    slug, song in songs.items() if source in song.get('source', ())]
+    return {
+        "source": next(s for s in sources.values() if s['slug'] == source),
+        "songs": source_songs,
     }
 
 
