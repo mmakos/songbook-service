@@ -1,2 +1,5 @@
 /songs
 /songs_old/
+/Songbook/migrations/*.py
+!/Songbook/migrations/__init__.py
+/venv

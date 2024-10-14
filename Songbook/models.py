@@ -1,7 +1,74 @@
 import json
 import os
 
+from django.contrib.auth.models import User
+from django.core.validators import MinValueValidator, MaxValueValidator
+from django.db import models
+
 from Songbook.str_convert import title_to_unique_name
+
+
+class Category(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField(max_length=20)
+
+
+class Band(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField()
+    name = models.CharField(max_length=50)
+    url = models.URLField(null=True)
+
+
+class SourceType(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField(max_length=20)
+
+    class Meta:
+        db_table = "songbook_source_type"
+
+
+class Source(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField()
+    name = models.CharField(max_length=50)
+    src_type = models.ForeignKey(SourceType, on_delete=models.RESTRICT, name="type")
+    url = models.URLField(null=True)
+    year = models.IntegerField(null=True, validators=[MinValueValidator(1000), MaxValueValidator(2100)])
+
+
+class Person(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField(max_length=50)
+    name = models.CharField(max_length=30)
+    last_name = models.CharField(max_length=50)
+    second_name = models.CharField(null=True, max_length=30)
+    nickname = models.CharField(null=True, max_length=100)
+    url = models.URLField(null=True)
+
+
+class Song(models.Model):
+    id = models.IntegerField(primary_key=True)
+    slug = models.SlugField(max_length=50)
+    category = models.ForeignKey(Category, null=True, on_delete=models.RESTRICT)
+
+    creator = models.ForeignKey(User, null=True, on_delete=models.SET_NULL, related_name="songbook_song_creator")
+    create_time = models.DateTimeField()
+    editor = models.ForeignKey(User, null=True, on_delete=models.SET_NULL, related_name="songbook_song_editor")
+    edit_time = models.DateTimeField(null=True)
+
+    band = models.ForeignKey(Band, null=True, on_delete=models.SET_NULL)
+    source = models.ManyToManyField(Source, blank=True)
+    lyrics = models.ManyToManyField(Person, blank=True, related_name="songbook_song_lyrics")
+    composer = models.ManyToManyField(Person, blank=True, related_name="songbook_song_composer")
+    translation = models.ManyToManyField(Person, blank=True, related_name="songbook_song_translation")
+    performer = models.ManyToManyField(Person, blank=True, related_name="songbook_song_performer")
+
+    video = models.JSONField(null=True)
+    key = models.JSONField(null=True)
+
+    verses = models.JSONField()
+
 
 songs = {}
 
@@ -118,7 +185,7 @@ def get_songs_by_person(author):
 
 def get_songs_by_band(band):
     band_songs = [{'slug': slug, 'title': song["title"], 'category': categories[song['category']]["slug"]} for
-                    slug, song in songs.items() if band in song.get('band', ())]
+                  slug, song in songs.items() if band in song.get('band', ())]
     return {
         "band": next(b for b in bands.values() if b['slug'] == band),
         "songs": band_songs,
