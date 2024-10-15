@@ -1,6 +1,6 @@
 import json
 
-from django.http import HttpResponse, HttpResponseNotFound, HttpResponseBadRequest
+from django.http import HttpResponse, HttpResponseNotFound, HttpResponseBadRequest, JsonResponse
 
 from Songbook.models import get_song, get_songs, fast_search, get_songs_by_person, get_songs_by_band, \
     get_songs_by_source
@@ -12,8 +12,8 @@ def __dump(obj):
 
 def song(request, song_slug: str):
     try:
-        return HttpResponse(__dump(get_song(song_slug)), content_type='application/json')
-    except Exception:
+        return JsonResponse(get_song(song_slug))
+    except Exception as e:
         return HttpResponseNotFound()
 
 

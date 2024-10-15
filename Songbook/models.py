@@ -10,19 +10,19 @@ from Songbook.str_convert import title_to_unique_name
 
 class Category(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField(max_length=20)
+    slug = models.SlugField(max_length=20, unique=True)
 
 
 class Band(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField()
+    slug = models.SlugField(unique=True)
     name = models.CharField(max_length=50)
     url = models.URLField(null=True)
 
 
 class SourceType(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField(max_length=20)
+    slug = models.SlugField(max_length=20, unique=True)
 
     class Meta:
         db_table = "songbook_source_type"
@@ -30,7 +30,7 @@ class SourceType(models.Model):
 
 class Source(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField()
+    slug = models.SlugField(unique=True)
     name = models.CharField(max_length=50)
     src_type = models.ForeignKey(SourceType, on_delete=models.RESTRICT, name="type")
     url = models.URLField(null=True)
@@ -39,23 +39,30 @@ class Source(models.Model):
 
 class Person(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField(max_length=50)
+    slug = models.SlugField(max_length=50, unique=True)
     name = models.CharField(max_length=30)
     last_name = models.CharField(max_length=50)
     second_name = models.CharField(null=True, max_length=30)
     nickname = models.CharField(null=True, max_length=100)
     url = models.URLField(null=True)
 
+    force_second_name = models.BooleanField(default=False)
+    force_nickname = models.BooleanField(default=False)
+
 
 class Song(models.Model):
     id = models.IntegerField(primary_key=True)
-    slug = models.SlugField(max_length=50)
+    slug = models.SlugField(max_length=50, unique=True)
+    title = models.CharField(max_length=50, db_index=True, unique=True)
     category = models.ForeignKey(Category, null=True, on_delete=models.RESTRICT)
 
     creator = models.ForeignKey(User, null=True, on_delete=models.SET_NULL, related_name="songbook_song_creator")
     create_time = models.DateTimeField()
+    create_verified = models.BooleanField(default=False)
+
     editor = models.ForeignKey(User, null=True, on_delete=models.SET_NULL, related_name="songbook_song_editor")
     edit_time = models.DateTimeField(null=True)
+    edit_verified = models.BooleanField(default=False)
 
     band = models.ForeignKey(Band, null=True, on_delete=models.SET_NULL)
     source = models.ManyToManyField(Source, blank=True)
@@ -162,11 +169,67 @@ def replace(song: dict):
     replace_source(song)
 
 
+def map_source(source: Source):
+    return {
+        'slug': source.slug,
+        'name': source.name,
+        'type': source.src_type.slug
+    }
+
+
+def map_person(person: Person):
+    p = {'slug': person.slug, 'name': person.name, 'lastName': person.last_name}
+    if person.second_name:
+        p['secondName'] = person.second_name
+    if person.nickname:
+        p['nickname'] = person.nickname
+    # if person.url:    // TODO niepotrzebne do piosenki
+    #     p['url'] = person.url
+    if person.force_nickname:
+        p['forceNickname'] = person.force_nickname
+    if person.force_second_name:
+        p['forceSecondName'] = person.force_second_name
+
+    return p
+
+
 def get_song(song_slug: str):
-    with open(f'songs_manual/{song_slug}.json', encoding='utf-8') as file:
-        song = json.load(file)
-        replace(song)
-        return song
+    song = Song.objects.get(slug=song_slug)
+    s = {
+        'slug': song.slug,
+        'title': song.title,
+        'category': song.category.slug,
+        'created': {
+            'name': 'TODO',
+            'type': 'bot',
+            'verified': song.create_verified,
+            'time': int(song.create_time.timestamp())
+        },
+        'verses': song.verses
+    }
+    if song.band:
+        s['band'] = {
+            'slug': song.band.slug,
+            'name': song.band.name,
+        }
+    lyrics = [map_person(person) for person in song.lyrics.all()]
+    if lyrics:
+        s['lyrics'] = lyrics
+    performer = [map_person(person) for person in song.performer.all()]
+    if performer:
+        s['performer'] = performer
+    translation = [map_person(person) for person in song.translation.all()]
+    if translation:
+        s['translation'] = translation
+    composer = [map_person(person) for person in song.composer.all()]
+    if composer:
+        s['composer'] = composer
+    if song.video:
+        s['ytVideo'] = song.video
+    if song.key:
+        s['key'] = song.key
+
+    return s
 
 
 def get_songs():
